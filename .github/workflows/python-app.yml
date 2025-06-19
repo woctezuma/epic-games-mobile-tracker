@@ -1,0 +1,41 @@
+name: Update
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '15 16 * * *'
+    - cron: '35 18-23 * * 3'
+    - cron: '35 0-15 * * 4'
+    - cron: '40 0-15,18-23 11-31 12 *'
+    - cron: '40 0-15,18-23 1-6 1 *'
+
+jobs:
+  scheduled:
+
+    runs-on: ubuntu-latest
+
+    steps:
+
+    - name: Checkout
+      uses: actions/checkout@v4
+      with:
+        ref: "data"
+
+    - name: Set up Python
+      uses: actions/setup-python@v5
+      with:
+        python-version: "3.13"
+
+    - name: Install dependencies
+      run: |
+        if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
+
+    - name: Git Config
+      run: |
+        git config user.name woctezuma && git config user.email woctezuma@users.noreply.github.com
+
+    - name: Run Updater
+      run: |
+        ./update.sh
+      env:
+        DISCORD_MOBILE: ${{ secrets.DISCORD_MOBILE }}
