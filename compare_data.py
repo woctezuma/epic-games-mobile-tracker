@@ -45,10 +45,12 @@ def format_content(content: dict) -> dict:
         elif e["requirementType"] == "InstallSize":
             install_size = e["minimum"]
 
+    age_rating = content.get("ageRating", {}).get("ageRating", {})
+
     return {
-        "ageRating": content.get("ageRating", {})
-        .get("ageRating", {})
-        .get("ageControl"),
+        "ageRating": age_rating.get("ageControl"),
+        "contentDescriptors": age_rating.get("contentDescriptors"),
+        "interactiveElements": age_rating.get("interactiveElements"),
         "inAppPurchases": content.get("attention", {}).get("inAppPurchases"),
         "catalogItemId": content.get("catalogItemId"),
         "slug": slug,
