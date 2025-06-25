@@ -8,6 +8,7 @@ ENDPOINT = "/api/v2/public/discover/home"
 BASE_URL = f"{HOST}{ENDPOINT}"
 
 PLATFORMS = ["android", "ios"]
+ALL_PLATFORMS = "all_platforms"
 START_INDEX = 0
 
 
@@ -93,7 +94,7 @@ def fetch_data_for_every_platform(*, save_to_disk: bool = True) -> list:
 
     if save_to_disk:
         print("Saving all data to disk. Total items:", len(all_data))
-        save_data_to_disk(all_data, get_save_name("all_platforms"))
+        save_data_to_disk(all_data, get_save_name(ALL_PLATFORMS))
 
     return all_data
 
