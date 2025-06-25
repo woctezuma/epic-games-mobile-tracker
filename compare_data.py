@@ -48,7 +48,7 @@ def format_content(content: dict) -> dict:
     age_rating = content.get("ageRating", {}).get("ageRating", {})
 
     return {
-        "age_rating": age_rating.get("ageControl"),
+        "age_control": age_rating.get("ageControl"),
         "content_descriptors": age_rating.get("contentDescriptors"),
         "interactive_elements": age_rating.get("interactiveElements"),
         "in_app_purchases": content.get("attention", {}).get("inAppPurchases"),
@@ -63,7 +63,7 @@ def format_content(content: dict) -> dict:
         "end_date": purchase.get("discount", {}).get("discountEndDate"),
         "discount": purchase.get("discount", {}).get("discountAmountDisplay"),
         "original_price": purchase.get("discount", {}).get("originalPriceDisplay"),
-        "price": purchase.get("price", {}).get("decimalPrice"),
+        "current_price": purchase.get("price", {}).get("decimalPrice"),
         "download_size": download_size,
         "install_size": install_size,
     }
