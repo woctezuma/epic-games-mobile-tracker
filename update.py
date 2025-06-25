@@ -22,8 +22,12 @@ def get_default_params(platform: str, start_index: int = START_INDEX) -> dict[st
     }
 
 
-def save_data_for_platform(data: list, platform: str) -> None:
-    with Path(f"data/{platform}.json").open("w", encoding="utf-8") as file:
+def get_save_name(platform: str) -> str:
+    return f"data/{platform}.json"
+
+
+def save_data_to_disk(data: list, fname: str) -> None:
+    with Path(fname).open("w", encoding="utf-8") as file:
         json.dump(data, file, indent=4)
 
 
@@ -75,7 +79,7 @@ def fetch_data_for_platform(
 
     if save_to_disk:
         print(f"Saving data for {platform} to disk. Total items: {len(data)}")
-        save_data_for_platform(data, platform)
+        save_data_to_disk(data, get_save_name(platform))
 
     return data
 
@@ -89,7 +93,7 @@ def fetch_data_for_every_platform(*, save_to_disk: bool = True) -> list:
 
     if save_to_disk:
         print("Saving all data to disk. Total items:", len(all_data))
-        save_data_for_platform(all_data, "all_platforms")
+        save_data_to_disk(all_data, get_save_name("all_platforms"))
 
     return all_data
 
