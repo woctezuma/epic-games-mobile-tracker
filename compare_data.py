@@ -48,17 +48,12 @@ def format_content(content: dict) -> dict:
     age_rating = content.get("ageRating", {}).get("ageRating", {})
 
     return {
-        "age_control": age_rating.get("ageControl"),
-        "content_descriptors": age_rating.get("contentDescriptors"),
-        "interactive_elements": age_rating.get("interactiveElements"),
-        "in_app_purchases": content.get("attention", {}).get("inAppPurchases"),
-        "catalog_item_id": content.get("catalogItemId"),
-        "slug": slug,
         "title": content.get("title"),
-        "platform": content.get("platform"),
-        "media": {e.get("imageType"): e.get("imageSrc") for e in media.values()},
-        "offer_id": purchase.get("purchasePayload", {}).get("offerId"),
+        "slug": slug,
         "sandbox_id": purchase.get("purchasePayload", {}).get("sandboxId"),
+        "offer_id": purchase.get("purchasePayload", {}).get("offerId"),
+        "catalog_item_id": content.get("catalogItemId"),
+        "platform": content.get("platform"),
         "start_date": purchase.get("purchaseStateEffectiveDate"),
         "end_date": purchase.get("discount", {}).get("discountEndDate"),
         "discount": purchase.get("discount", {}).get("discountAmountDisplay"),
@@ -66,6 +61,11 @@ def format_content(content: dict) -> dict:
         "current_price": purchase.get("price", {}).get("decimalPrice"),
         "download_size": download_size,
         "install_size": install_size,
+        "age_control": age_rating.get("ageControl"),
+        "in_app_purchases": content.get("attention", {}).get("inAppPurchases"),
+        "content_descriptors": age_rating.get("contentDescriptors"),
+        "interactive_elements": age_rating.get("interactiveElements"),
+        "media": {e.get("imageType"): e.get("imageSrc") for e in media.values()},
     }
 
 
