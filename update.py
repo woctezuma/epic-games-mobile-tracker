@@ -9,6 +9,7 @@ BASE_URL = f"{HOST}{ENDPOINT}"
 
 PLATFORMS = ["android", "ios"]
 ALL_PLATFORMS = "all_platforms"
+FORMATTED_DATA_FNAME = "mobile_data"
 START_INDEX = 0
 
 
