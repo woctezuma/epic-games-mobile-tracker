@@ -27,7 +27,7 @@ def get_save_name(platform: str) -> str:
     return f"data/{platform}.json"
 
 
-def save_data_to_disk(data: list, fname: str) -> None:
+def save_data_to_disk(data: list | dict, fname: str) -> None:
     with Path(fname).open("w", encoding="utf-8") as file:
         json.dump(data, file, indent=4)
 
