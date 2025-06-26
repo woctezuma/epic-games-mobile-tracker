@@ -53,7 +53,7 @@ def format_content(content: dict) -> dict:
         "sandbox_id": purchase.get("purchasePayload", {}).get("sandboxId"),
         "offer_id": purchase.get("purchasePayload", {}).get("offerId"),
         "catalog_item_id": content.get("catalogItemId"),
-        "platform": content.get("platform"),
+        "platform": content.get("systemSpecs").get("platform"),
         "start_date": purchase.get("purchaseStateEffectiveDate"),
         "end_date": purchase.get("discount", {}).get("discountEndDate"),
         "discount": purchase.get("discount", {}).get("discountAmountDisplay"),
