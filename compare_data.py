@@ -1,7 +1,7 @@
 import json
 from pathlib import Path
 
-from update import ALL_PLATFORMS, get_save_name
+from update import ALL_PLATFORMS, FORMATTED_DATA_FNAME, get_save_name, save_data_to_disk
 
 QUANTITY = 1
 TARGET_CATEGORY = "freegames"
@@ -69,10 +69,7 @@ def format_content(content: dict) -> dict:
     }
 
 
-def main() -> None:
-    data = load_data_from_disk(get_save_name(ALL_PLATFORMS))
-    print(f"Loaded {len(data)} items from {get_save_name(ALL_PLATFORMS)}")
-
+def format_all_content(data: list, *, save_to_disk: bool = True) -> dict:
     d = {}
     for collection in data:
         for offer in collection.get("offers", []):
@@ -89,6 +86,19 @@ def main() -> None:
                     d[k] = v
 
     print(f"Found {len(d)} items in category '{TARGET_CATEGORY}'")
+
+    if save_to_disk:
+        print("Saving formatted data to disk. Total items:", len(d))
+        save_data_to_disk(d, get_save_name(FORMATTED_DATA_FNAME))
+
+    return d
+
+
+def main() -> None:
+    data = load_data_from_disk(get_save_name(ALL_PLATFORMS))
+    print(f"Loaded {len(data)} items from {get_save_name(ALL_PLATFORMS)}")
+
+    format_all_content(data)
 
 
 if __name__ == "__main__":
