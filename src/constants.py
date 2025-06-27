@@ -11,4 +11,5 @@ TARGET_CATEGORY = "freegames"
 SEPARATOR = ", "
 
 TARGET_PREFIX = "DISCORD_"
-WEBHOOK_FNAME = "data/discord_webhook.json"
+DATA_FOLDER = "data"
+WEBHOOK_FNAME = f"{DATA_FOLDER}/discord_webhook.json"

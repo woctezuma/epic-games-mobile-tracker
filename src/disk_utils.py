@@ -1,11 +1,11 @@
 import json
 from pathlib import Path
 
-from src.constants import PLATFORMS
+from src.constants import DATA_FOLDER, PLATFORMS
 
 
 def get_save_name(platform: str) -> str:
-    return f"data/{platform}.json"
+    return f"{DATA_FOLDER}/{platform}.json"
 
 
 def save_data_to_disk(data: list | dict, fname: str) -> None:
