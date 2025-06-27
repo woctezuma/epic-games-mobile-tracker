@@ -72,20 +72,26 @@ def format_content(content: dict) -> dict:
 
 
 def format_all_content(data: list, *, save_to_disk: bool = True) -> dict:
-    d = {}
+    offers = []
     for collection in data:
-        for offer in collection.get("offers", []):
-            sandbox_id = offer["sandboxId"]
-            offer_id = offer["offerId"]
-            content = offer.get("content", {})
+        offers += collection.get("offers", [])
 
-            if TARGET_CATEGORY in content.get("categories", []):
-                k = build_id(sandbox_id, offer_id)
-                v = format_content(content)
+    d = {}
+    for offer in sorted(
+        offers,
+        key=lambda x: x.get("content", {}).get("mapping", {}).get("slug", ""),
+    ):
+        sandbox_id = offer["sandboxId"]
+        offer_id = offer["offerId"]
+        content = offer.get("content", {})
 
-                if v:
-                    print(f"+ Adding {v['slug']}")
-                    d[k] = v
+        if TARGET_CATEGORY in content.get("categories", []):
+            k = build_id(sandbox_id, offer_id)
+            v = format_content(content)
+
+            if v:
+                print(f"+ Adding {v['slug']}")
+                d[k] = v
 
     print(f"Found {len(d)} items in category '{TARGET_CATEGORY}'")
 
