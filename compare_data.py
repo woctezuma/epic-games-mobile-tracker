@@ -1,4 +1,5 @@
 import json
+from decimal import Decimal
 from pathlib import Path
 
 from update import FORMATTED_DATA_FNAME, PLATFORMS, get_save_name, save_data_to_disk
@@ -57,7 +58,7 @@ def format_content(content: dict) -> dict:
         "offer_id": purchase.get("purchasePayload", {}).get("offerId"),
         "discount": purchase.get("discount", {}).get("discountAmountDisplay"),
         "original_price": purchase.get("discount", {}).get("originalPriceDisplay", 0),
-        "current_price": purchase.get("price", {}).get("decimalPrice"),
+        "current_price": str(Decimal(purchase.get("price", {}).get("decimalPrice"))),
         "start_date": purchase.get("purchaseStateEffectiveDate"),
         "end_date": purchase.get("discount", {}).get("discountEndDate"),
         "download_size": download_size,
