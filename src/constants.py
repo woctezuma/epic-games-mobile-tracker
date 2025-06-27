@@ -9,3 +9,6 @@ START_INDEX = 0
 QUANTITY = 1
 TARGET_CATEGORY = "freegames"
 SEPARATOR = ", "
+
+TARGET_PREFIX = "DISCORD_"
+WEBHOOK_FNAME = "data/discord_webhook.json"
