@@ -1,7 +1,12 @@
 import json
 from pathlib import Path
 
-from src.constants import DATA_FOLDER, PLATFORMS
+from src.constants import DATA_FOLDER, PLATFORMS, WEBHOOK_FNAME
+from src.json_utils import load_json_failsafe
+
+
+def load_discord_webhook() -> dict:
+    return load_json_failsafe(WEBHOOK_FNAME)
 
 
 def get_save_name(platform: str) -> str:
