@@ -57,9 +57,13 @@ def format_content(content: dict) -> dict:
         "sandbox_id": purchase.get("purchasePayload", {}).get("sandboxId"),
         "offer_id": purchase.get("purchasePayload", {}).get("offerId"),
         "discount": purchase.get("discount", {}).get("discountAmountDisplay"),
-        "original_price": purchase.get("discount", {})
-        .get("originalPriceDisplay", "€0")
-        .replace("€", ""),
+        "original_price": str(
+            Decimal(
+                purchase.get("discount", {})
+                .get("originalPriceDisplay", "€0")
+                .replace("€", ""),
+            ),
+        ),
         "current_price": str(Decimal(purchase.get("price", {}).get("decimalPrice"))),
         "start_date": purchase.get("purchaseStateEffectiveDate"),
         "end_date": purchase.get("discount", {}).get("discountEndDate"),
