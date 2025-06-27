@@ -63,7 +63,8 @@ def format_content(content: dict) -> dict:
         "download_size": download_size,
         "install_size": install_size,
         "age_control": age_rating.get("ageControl"),
-        "in_app_purchases": content.get("attention", {}).get("inAppPurchases"),
+        "in_app_purchases": content.get("attention", {}).get("inAppPurchases")
+        != "None",
         "content_descriptors": age_rating.get("contentDescriptors"),
         "interactive_elements": age_rating.get("interactiveElements"),
         "media": {e.get("imageType"): e.get("imageSrc") for e in media.values()},
