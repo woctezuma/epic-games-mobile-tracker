@@ -1,10 +1,11 @@
 import json
 from pathlib import Path
 
-from update import ALL_PLATFORMS, FORMATTED_DATA_FNAME, get_save_name, save_data_to_disk
+from update import FORMATTED_DATA_FNAME, PLATFORMS, get_save_name, save_data_to_disk
 
 QUANTITY = 1
 TARGET_CATEGORY = "freegames"
+SEPARATOR = ", "
 
 
 def load_data_from_disk(fname: str) -> list:
@@ -94,9 +95,18 @@ def format_all_content(data: list, *, save_to_disk: bool = True) -> dict:
     return d
 
 
+def load_data_for_every_platform() -> list:
+    all_data = []
+    for platform in PLATFORMS:
+        new_data = load_data_from_disk(get_save_name(platform))
+        all_data.extend(new_data)
+
+    return all_data
+
+
 def main() -> None:
-    data = load_data_from_disk(get_save_name(ALL_PLATFORMS))
-    print(f"Loaded {len(data)} items from {get_save_name(ALL_PLATFORMS)}")
+    data = load_data_for_every_platform()
+    print(f"Loaded {len(data)} items for {SEPARATOR.join(PLATFORMS)}")
 
     format_all_content(data)
 
