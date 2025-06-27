@@ -8,7 +8,6 @@ ENDPOINT = "/api/v2/public/discover/home"
 BASE_URL = f"{HOST}{ENDPOINT}"
 
 PLATFORMS = ["android", "ios"]
-ALL_PLATFORMS = "all_platforms"
 FORMATTED_DATA_FNAME = "mobile_data"
 START_INDEX = 0
 
@@ -86,16 +85,12 @@ def fetch_data_for_platform(
     return data
 
 
-def fetch_data_for_every_platform(*, save_to_disk: bool = True) -> list:
+def fetch_data_for_every_platform() -> list:
     scraper = cloudscraper.create_scraper()
     all_data = []
     for platform in PLATFORMS:
         new_data = fetch_data_for_platform(platform, scraper)
         all_data.extend(new_data)
-
-    if save_to_disk:
-        print("Saving all data to disk. Total items:", len(all_data))
-        save_data_to_disk(all_data, get_save_name(ALL_PLATFORMS))
 
     return all_data
 
