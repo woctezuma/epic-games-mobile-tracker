@@ -1,0 +1,116 @@
+{
+    "1-0fd4edf223e64b249082e86bfd49483d-29b150b77053448eb30e210edfcdc062": {
+        "age_control": 3,
+        "catalog_item_id": "7a0e1b20481e428896582d6a52f40871",
+        "checkout_url": "<https://store.epicgames.com/purchase?offers=1-0fd4edf223e64b249082e86bfd49483d-29b150b77053448eb30e210edfcdc062>",
+        "content_descriptors": [],
+        "current_price": "0",
+        "discount": "-100%",
+        "download_size": "100",
+        "end_date": "2025-06-26T15:00:00.000Z",
+        "in_app_purchases": false,
+        "install_size": "100",
+        "interactive_elements": [],
+        "media": {
+            "OfferImageTall": "https://cdn1.epicgames.com/spt-assets/2221b636e7a540efabe9719bc46750f8/doodle-god-infinite-alchemy-merge-17cxt.png",
+            "OfferImageWide": "https://cdn1.epicgames.com/spt-assets/2221b636e7a540efabe9719bc46750f8/doodle-god-infinite-alchemy-merge-wp991.jpg",
+            "ProductIcon": "https://cdn1.epicgames.com/spt-assets/2221b636e7a540efabe9719bc46750f8/doodle-god-infinite-alchemy-merge-icon-1c296.png",
+            "coverImage": "https://cdn1.epicgames.com/spt-assets/2221b636e7a540efabe9719bc46750f8/doodle-god-infinite-alchemy-merge-195ea.jpg"
+        },
+        "offer_id": "29b150b77053448eb30e210edfcdc062",
+        "original_price": "2.19",
+        "platform": "ios",
+        "sandbox_id": "0fd4edf223e64b249082e86bfd49483d",
+        "slug": "doodle-god-infinite-alchemy-merge-ios-78f019",
+        "store_url": "<https://store.epicgames.com/product/doodle-god-infinite-alchemy-merge-ios-78f019>",
+        "title": "Doodle God: Infinite Alchemy Merge"
+    },
+    "1-0fd4edf223e64b249082e86bfd49483d-fe86df2c140d4ba1a3ad42aaab6f9ae7": {
+        "age_control": 3,
+        "catalog_item_id": "20f69142ea0f4690b50e49b3594b4ef6",
+        "checkout_url": "<https://store.epicgames.com/purchase?offers=1-0fd4edf223e64b249082e86bfd49483d-fe86df2c140d4ba1a3ad42aaab6f9ae7>",
+        "content_descriptors": [],
+        "current_price": "0",
+        "discount": "-100%",
+        "download_size": "147.94 MB",
+        "end_date": "2025-06-26T15:00:00.000Z",
+        "in_app_purchases": false,
+        "install_size": "100",
+        "interactive_elements": [],
+        "media": {
+            "OfferImageTall": "https://cdn1.epicgames.com/spt-assets/2221b636e7a540efabe9719bc46750f8/doodle-god-infinite-alchemy-merge-81z9t.png",
+            "OfferImageWide": "https://cdn1.epicgames.com/spt-assets/2221b636e7a540efabe9719bc46750f8/doodle-god-infinite-alchemy-merge-2ohpj.jpg",
+            "ProductIcon": "https://cdn1.epicgames.com/spt-assets/2221b636e7a540efabe9719bc46750f8/doodle-god-infinite-alchemy-merge-icon-1c296.png",
+            "coverImage": "https://cdn1.epicgames.com/spt-assets/2221b636e7a540efabe9719bc46750f8/doodle-god-infinite-alchemy-merge-195ea.jpg"
+        },
+        "offer_id": "fe86df2c140d4ba1a3ad42aaab6f9ae7",
+        "original_price": "2.19",
+        "platform": "android",
+        "sandbox_id": "0fd4edf223e64b249082e86bfd49483d",
+        "slug": "doodle-god-infinite-alchemy-merge-android-dd11fe",
+        "store_url": "<https://store.epicgames.com/product/doodle-god-infinite-alchemy-merge-android-dd11fe>",
+        "title": "Doodle God: Infinite Alchemy Merge"
+    },
+    "1-5118b091950743c2bf33185cbd9cd35f-06e80adf547443e1b0161f3c16e57883": {
+        "age_control": 12,
+        "catalog_item_id": "492f4236452245d7830bf5fe869817a6",
+        "checkout_url": "<https://store.epicgames.com/purchase?offers=1-5118b091950743c2bf33185cbd9cd35f-06e80adf547443e1b0161f3c16e57883>",
+        "content_descriptors": [
+            "Moderate Violence"
+        ],
+        "current_price": "0",
+        "discount": null,
+        "download_size": "135.2 MB",
+        "end_date": null,
+        "in_app_purchases": true,
+        "install_size": "135.2 MB",
+        "interactive_elements": [
+            "Users Interact",
+            "In-Game Purchases"
+        ],
+        "media": {
+            "OfferImageTall": "https://cdn1.epicgames.com/spt-assets/6befcef760e94452937464dc57dc6c6a/dc-heroes-united-8kh8f.jpg",
+            "OfferImageWide": "https://cdn1.epicgames.com/spt-assets/6befcef760e94452937464dc57dc6c6a/dc-heroes-united-1ahu2.jpg",
+            "ProductIcon": "https://cdn1.epicgames.com/spt-assets/6befcef760e94452937464dc57dc6c6a/dc-heroes-united-icon-1pb34.png",
+            "coverImage": "https://cdn1.epicgames.com/spt-assets/6befcef760e94452937464dc57dc6c6a/dc-heroes-united-1b5sn.png"
+        },
+        "offer_id": "06e80adf547443e1b0161f3c16e57883",
+        "original_price": "0",
+        "platform": "ios",
+        "sandbox_id": "5118b091950743c2bf33185cbd9cd35f",
+        "slug": "dc-heroes-united-ios-e2aad6",
+        "store_url": "<https://store.epicgames.com/product/dc-heroes-united-ios-e2aad6>",
+        "title": "DC Heroes United"
+    },
+    "1-5118b091950743c2bf33185cbd9cd35f-48046fb4348647488e67fbb2d8f30c85": {
+        "age_control": 12,
+        "catalog_item_id": "2c62b6cacecf44bd94aa0489bfe39e39",
+        "checkout_url": "<https://store.epicgames.com/purchase?offers=1-5118b091950743c2bf33185cbd9cd35f-48046fb4348647488e67fbb2d8f30c85>",
+        "content_descriptors": [
+            "Moderate Violence"
+        ],
+        "current_price": "0",
+        "discount": null,
+        "download_size": "209.80 MB",
+        "end_date": null,
+        "in_app_purchases": true,
+        "install_size": "135.2 MB",
+        "interactive_elements": [
+            "Users Interact",
+            "In-Game Purchases"
+        ],
+        "media": {
+            "OfferImageTall": "https://cdn1.epicgames.com/spt-assets/6befcef760e94452937464dc57dc6c6a/dc-heroes-united-1guve.jpg",
+            "OfferImageWide": "https://cdn1.epicgames.com/spt-assets/6befcef760e94452937464dc57dc6c6a/dc-heroes-united-fhgs0.jpg",
+            "ProductIcon": "https://cdn1.epicgames.com/spt-assets/6befcef760e94452937464dc57dc6c6a/dc-heroes-united-icon-1pb34.png",
+            "coverImage": "https://cdn1.epicgames.com/spt-assets/6befcef760e94452937464dc57dc6c6a/dc-heroes-united-1b5sn.png"
+        },
+        "offer_id": "48046fb4348647488e67fbb2d8f30c85",
+        "original_price": "0",
+        "platform": "android",
+        "sandbox_id": "5118b091950743c2bf33185cbd9cd35f",
+        "slug": "dc-heroes-united-android-de4bc2",
+        "store_url": "<https://store.epicgames.com/product/dc-heroes-united-android-de4bc2>",
+        "title": "DC Heroes United"
+    }
+}
