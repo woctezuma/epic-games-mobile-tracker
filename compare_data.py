@@ -21,6 +21,8 @@ FIELDS_OF_INTEREST = [
     "media",
 ]
 
+TIME_SEPARATOR = "T"
+
 
 def main() -> None:
     data = load_data_for_every_platform()
@@ -53,7 +55,7 @@ def main() -> None:
                 if "price" in k:
                     line += f" {CURRENCY_SYMBOL}"
                 elif "date" in k:
-                    line = line.rsplit("T")[0]
+                    line = line.rsplit(TIME_SEPARATOR)[0]
                 message += line
 
         print(message)
