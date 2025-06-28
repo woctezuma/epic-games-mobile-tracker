@@ -3,9 +3,15 @@ from decimal import Decimal
 from src.constants import FORMATTED_DATA_FNAME, QUANTITY, TARGET_CATEGORY
 from src.disk_utils import get_save_name, save_data_to_disk
 
+CHECKOUT_BASE_URL = "https://store.epicgames.com/purchase?offers="
+
 
 def build_id(sandbox_id: str, offer_id: str) -> str:
     return f"{QUANTITY}-{sandbox_id}-{offer_id}"
+
+
+def get_checkout_url(sandbox_id: str, offer_id: str) -> str:
+    return f"{CHECKOUT_BASE_URL}{build_id(sandbox_id, offer_id)}"
 
 
 def format_content(content: dict) -> dict:
@@ -41,13 +47,17 @@ def format_content(content: dict) -> dict:
     discount = purchase.get("discount", {})
     age_rating = content.get("ageRating", {}).get("ageRating", {})
 
+    sandbox_id = purchase.get("purchasePayload", {}).get("sandboxId")
+    offer_id = purchase.get("purchasePayload", {}).get("offerId")
+
     return {
         "title": content.get("title"),
         "slug": slug,
         "platform": system_specs.get("platform"),
         "catalog_item_id": content.get("catalogItemId"),
-        "sandbox_id": purchase.get("purchasePayload", {}).get("sandboxId"),
-        "offer_id": purchase.get("purchasePayload", {}).get("offerId"),
+        "sandbox_id": sandbox_id,
+        "offer_id": offer_id,
+        "checkout_url": get_checkout_url(sandbox_id, offer_id),
         "original_price": str(
             Decimal(
                 discount.get("originalPriceDisplay", "€0").replace("€", ""),
