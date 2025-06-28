@@ -1,6 +1,11 @@
 from decimal import Decimal
 
-from src.constants import FORMATTED_DATA_FNAME, QUANTITY, TARGET_CATEGORY
+from src.constants import (
+    CURRENCY_SYMBOL,
+    FORMATTED_DATA_FNAME,
+    QUANTITY,
+    TARGET_CATEGORY,
+)
 from src.disk_utils import get_save_name, save_data_to_disk
 
 STORE_BASE_URL = "https://store.epicgames.com/product/"
@@ -66,7 +71,10 @@ def format_content(content: dict) -> dict:
         "checkout_url": get_checkout_url(sandbox_id, offer_id),
         "original_price": str(
             Decimal(
-                discount.get("originalPriceDisplay", "€0").replace("€", ""),
+                discount.get("originalPriceDisplay", f"{CURRENCY_SYMBOL}0").replace(
+                    CURRENCY_SYMBOL,
+                    "",
+                ),
             ),
         ),
         "current_price": str(Decimal(purchase.get("price", {}).get("decimalPrice"))),
