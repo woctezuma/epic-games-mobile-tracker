@@ -79,7 +79,6 @@ def format_content(content: dict) -> dict:
         ),
         "current_price": str(Decimal(purchase.get("price", {}).get("decimalPrice"))),
         "discount": discount.get("discountAmountDisplay"),
-        "start_date": purchase.get("purchaseStateEffectiveDate"),
         "end_date": discount.get("discountEndDate"),
         "download_size": download_size,
         "install_size": install_size,
