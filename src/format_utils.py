@@ -13,7 +13,7 @@ CHECKOUT_BASE_URL = "https://store.epicgames.com/purchase?offers="
 
 
 def get_store_url(slug: str) -> str:
-    return f"{STORE_BASE_URL}{slug}"
+    return f"<{STORE_BASE_URL}{slug}>"
 
 
 def build_id(sandbox_id: str, offer_id: str) -> str:
@@ -21,7 +21,7 @@ def build_id(sandbox_id: str, offer_id: str) -> str:
 
 
 def get_checkout_url(sandbox_id: str, offer_id: str) -> str:
-    return f"{CHECKOUT_BASE_URL}{build_id(sandbox_id, offer_id)}"
+    return f"<{CHECKOUT_BASE_URL}{build_id(sandbox_id, offer_id)}>"
 
 
 def format_content(content: dict) -> dict:
