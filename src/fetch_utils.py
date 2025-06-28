@@ -4,6 +4,7 @@ import cloudscraper
 
 from src.constants import BASE_URL, PLATFORMS, START_INDEX
 from src.disk_utils import get_save_name, save_data_to_disk
+from src.trim_utils import remove_noisy_values
 
 
 def get_default_params(platform: str, start_index: int = START_INDEX) -> dict[str, str]:
@@ -64,6 +65,7 @@ def fetch_data_for_platform(
         data.extend(new_data)
 
     if save_to_disk:
+        data = remove_noisy_values(data)
         print(f"Saving data for {platform} to disk. Total items: {len(data)}")
         save_data_to_disk(data, get_save_name(platform))
 
