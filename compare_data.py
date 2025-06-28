@@ -10,6 +10,16 @@ from src.discord_utils import post_message_to_discord_using_keyword
 from src.disk_utils import load_data_for_every_platform
 from src.format_utils import format_all_content
 
+FIELDS_OF_INTEREST = [
+    "title",
+    "store_url",
+    "checkout_url",
+    "original_price",
+    "discount",
+    "end_date",
+    "media",
+]
+
 
 def main() -> None:
     data = load_data_for_every_platform()
@@ -37,8 +47,9 @@ def main() -> None:
         for k, v in e.items():
             if k == "media":
                 message += media_message
-            elif v and v != "0":
-                message += f"{LINEBREAK} `{k}`: {v}"
+            elif k in FIELDS_OF_INTEREST and v and v != "0":
+                line = f"{LINEBREAK} `{k}`: {v}"
+                message += line
 
         print(message)
         post_message_to_discord_using_keyword(
