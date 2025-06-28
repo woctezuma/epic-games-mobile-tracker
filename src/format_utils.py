@@ -95,7 +95,7 @@ def format_content(content: dict) -> dict:
     }
 
 
-def format_all_content(data: list, *, save_to_disk: bool = True) -> dict:
+def format_all_content(data: list) -> dict:
     offers = []
     for collection in data:
         offers += collection.get("offers", [])
@@ -119,8 +119,9 @@ def format_all_content(data: list, *, save_to_disk: bool = True) -> dict:
 
     print(f"Found {len(d)} items in category '{TARGET_CATEGORY}'")
 
-    if save_to_disk:
-        print("Saving formatted data to disk. Total items:", len(d))
-        save_data_to_disk(d, get_save_name(FORMATTED_DATA_FNAME))
-
     return d
+
+
+def save_formatted_data(d: dict) -> None:
+    print("Saving formatted data to disk. Total items:", len(d))
+    save_data_to_disk(d, get_save_name(FORMATTED_DATA_FNAME))
