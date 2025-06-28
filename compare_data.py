@@ -28,6 +28,10 @@ def is_key_relevant(key: str) -> bool:
     return not FIELDS_OF_INTEREST or key in FIELDS_OF_INTEREST
 
 
+def is_value_relevant(value: str) -> bool:
+    return value and value != "0"
+
+
 def main() -> None:
     data = load_data_for_every_platform()
     print(f"Loaded {len(data)} items for {SEPARATOR.join(PLATFORMS)}")
@@ -54,7 +58,7 @@ def main() -> None:
         for k, v in e.items():
             if k == "media":
                 message += media_message
-            elif is_key_relevant(k) and v and v != "0":
+            elif is_key_relevant(k) and is_value_relevant(v):
                 line = f"{LINEBREAK} `{k}`: {v}"
                 if "price" in k:
                     line += f" {CURRENCY_SYMBOL}"
