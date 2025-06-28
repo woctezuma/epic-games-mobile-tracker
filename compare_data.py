@@ -52,6 +52,8 @@ def main() -> None:
                 line = f"{LINEBREAK} `{k}`: {v}"
                 if "price" in k:
                     line += f" {CURRENCY_SYMBOL}"
+                elif "date" in k:
+                    line = line.rsplit("T")[0]
                 message += line
 
         print(message)
