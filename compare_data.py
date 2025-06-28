@@ -11,7 +11,7 @@ from src.constants import (
     WEBHOOK_KEYWORD_MOBILE,
 )
 from src.discord_utils import post_message_to_discord_using_keyword
-from src.disk_utils import load_data_for_every_platform
+from src.disk_utils import load_data_for_every_platform, load_old_formatted_data
 from src.format_utils import format_all_content
 
 
@@ -76,12 +76,18 @@ def run_workflow(formatted_data: dict) -> None:
 
 
 def main() -> None:
+    formatted_old_data = load_old_formatted_data()
+
     data = load_data_for_every_platform()
     print(f"Loaded {len(data)} items for {SEPARATOR.join(PLATFORMS)}")
 
     formatted_data = format_all_content(data)
 
-    run_workflow(formatted_data)
+    formatted_diff_data = {
+        k: v for k, v in formatted_data.items() if k not in formatted_old_data
+    }
+
+    run_workflow(formatted_diff_data)
 
 
 if __name__ == "__main__":
