@@ -2,28 +2,17 @@ from src.constants import (
     CURRENCY_SYMBOL,
     DISCORD_ANDROID_HEADER,
     DISCORD_IOS_HEADER,
+    FIELDS_OF_INTEREST,
+    INDENT_SPACE,
     LINEBREAK,
     PLATFORMS,
     SEPARATOR,
+    TIME_SEPARATOR,
     WEBHOOK_KEYWORD_MOBILE,
 )
 from src.discord_utils import post_message_to_discord_using_keyword
 from src.disk_utils import load_data_for_every_platform
 from src.format_utils import format_all_content
-
-FIELDS_OF_INTEREST = [
-    "title",
-    "store_url",
-    "checkout_url",
-    "original_price",
-    "discount",
-    "end_date",
-    "media",
-]
-
-TIME_SEPARATOR = "T"
-NUM_SPACES = 3
-INDENT_SPACE = " " * NUM_SPACES
 
 
 def is_key_relevant(key: str) -> bool:

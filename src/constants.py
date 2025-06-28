@@ -19,3 +19,17 @@ TARGET_PREFIX = "DISCORD_"
 DATA_FOLDER = "data"
 WEBHOOK_FNAME = f"{DATA_FOLDER}/discord_webhook.json"
 WEBHOOK_KEYWORD_MOBILE = "MOBILE"
+
+FIELDS_OF_INTEREST = [
+    "title",
+    "store_url",
+    "checkout_url",
+    "original_price",
+    "discount",
+    "end_date",
+    "media",
+]
+
+TIME_SEPARATOR = "T"
+NUM_SPACES = 3
+INDENT_SPACE = " " * NUM_SPACES
