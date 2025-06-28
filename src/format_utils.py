@@ -3,7 +3,12 @@ from decimal import Decimal
 from src.constants import FORMATTED_DATA_FNAME, QUANTITY, TARGET_CATEGORY
 from src.disk_utils import get_save_name, save_data_to_disk
 
+STORE_BASE_URL = "https://store.epicgames.com/product/"
 CHECKOUT_BASE_URL = "https://store.epicgames.com/purchase?offers="
+
+
+def get_store_url(slug: str) -> str:
+    return f"{STORE_BASE_URL}{slug}"
 
 
 def build_id(sandbox_id: str, offer_id: str) -> str:
@@ -57,6 +62,7 @@ def format_content(content: dict) -> dict:
         "catalog_item_id": content.get("catalogItemId"),
         "sandbox_id": sandbox_id,
         "offer_id": offer_id,
+        "store_url": get_store_url(slug),
         "checkout_url": get_checkout_url(sandbox_id, offer_id),
         "original_price": str(
             Decimal(
