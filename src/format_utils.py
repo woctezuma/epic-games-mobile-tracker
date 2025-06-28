@@ -38,6 +38,7 @@ def format_content(content: dict) -> dict:
         elif e["requirementType"] == "InstallSize":
             install_size = e["minimum"]
 
+    discount = purchase.get("discount", {})
     age_rating = content.get("ageRating", {}).get("ageRating", {})
 
     return {
@@ -49,15 +50,13 @@ def format_content(content: dict) -> dict:
         "offer_id": purchase.get("purchasePayload", {}).get("offerId"),
         "original_price": str(
             Decimal(
-                purchase.get("discount", {})
-                .get("originalPriceDisplay", "€0")
-                .replace("€", ""),
+                discount.get("originalPriceDisplay", "€0").replace("€", ""),
             ),
         ),
         "current_price": str(Decimal(purchase.get("price", {}).get("decimalPrice"))),
-        "discount": purchase.get("discount", {}).get("discountAmountDisplay"),
+        "discount": discount.get("discountAmountDisplay"),
         "start_date": purchase.get("purchaseStateEffectiveDate"),
-        "end_date": purchase.get("discount", {}).get("discountEndDate"),
+        "end_date": discount.get("discountEndDate"),
         "download_size": download_size,
         "install_size": install_size,
         "age_control": age_rating.get("ageControl"),
