@@ -23,45 +23,65 @@ def is_value_relevant(value: str) -> bool:
     return value is not None
 
 
-def main() -> None:
-    data = load_data_for_every_platform()
-    print(f"Loaded {len(data)} items for {SEPARATOR.join(PLATFORMS)}")
+def get_message_for_discord(
+    element: dict,
+    urls: set | None = None,
+    *,
+    verbose: bool = True,
+) -> str:
+    if urls is None:
+        urls = set()
 
-    d = format_all_content(data)
+    if element.get("platform") == "android":
+        message = DISCORD_ANDROID_HEADER
+    else:
+        message = DISCORD_IOS_HEADER
 
+    media = element.get("media", {})
+
+    media_message = f"{LINEBREAK} `media`:"
+    for k in sorted(media):
+        url = media[k]
+        if url not in urls:
+            urls.add(url)
+            media_message += f"\n{INDENT_SPACE}- `{k}`: {media[k]}"
+
+    for k, v in element.items():
+        if k == "media":
+            message += media_message
+        elif is_key_relevant(k) and is_value_relevant(v):
+            line = f"{LINEBREAK} `{k}`: {v}"
+            if "price" in k:
+                line += f" {CURRENCY_SYMBOL}"
+            elif "date" in k:
+                line = line.rsplit(TIME_SEPARATOR)[0]
+            message += line
+
+    if verbose:
+        print(message)
+
+    return message, urls
+
+
+def run_workflow(formatted_data: dict) -> None:
     urls = set()
 
-    for e in d.values():
-        if e.get("platform") == "android":
-            message = DISCORD_ANDROID_HEADER
-        else:
-            message = DISCORD_IOS_HEADER
+    for e in formatted_data.values():
+        message, urls = get_message_for_discord(e, urls)
 
-        media = e.get("media", {})
-
-        media_message = f"{LINEBREAK} `media`:"
-        for k in sorted(media):
-            url = media[k]
-            if url not in urls:
-                urls.add(url)
-                media_message += f"\n{INDENT_SPACE}- `{k}`: {media[k]}"
-
-        for k, v in e.items():
-            if k == "media":
-                message += media_message
-            elif is_key_relevant(k) and is_value_relevant(v):
-                line = f"{LINEBREAK} `{k}`: {v}"
-                if "price" in k:
-                    line += f" {CURRENCY_SYMBOL}"
-                elif "date" in k:
-                    line = line.rsplit(TIME_SEPARATOR)[0]
-                message += line
-
-        print(message)
         post_message_to_discord_using_keyword(
             message,
             webhook_keyword=WEBHOOK_KEYWORD_MOBILE,
         )
+
+
+def main() -> None:
+    data = load_data_for_every_platform()
+    print(f"Loaded {len(data)} items for {SEPARATOR.join(PLATFORMS)}")
+
+    formatted_data = format_all_content(data)
+
+    run_workflow(formatted_data)
 
 
 if __name__ == "__main__":
