@@ -88,7 +88,10 @@ def format_content(content: dict) -> dict:
         != "None",
         "content_descriptors": age_rating.get("contentDescriptors"),
         "interactive_elements": age_rating.get("interactiveElements"),
-        "media": {e.get("imageType"): e.get("imageSrc") for e in media.values()},
+        "media": {
+            e.get("imageType"): e.get("imageSrc")
+            for e in sorted(media.values(), key=lambda x: x.get("imageType", ""))
+        },
     }
 
 
