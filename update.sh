@@ -2,6 +2,8 @@ python prepare_webhooks.py
 
 python update.py
 
+python compare_data.py
+
 git add data/android.json
 git commit -m "🤖 Update JSON data for Android"
 
