@@ -28,7 +28,8 @@ def format_content(content: dict) -> dict:
             msg,
         )
 
-    system_requirements = content.get("systemSpecs", {}).get("systemRequirements", [])
+    system_specs = content.get("systemSpecs", {})
+    system_requirements = system_specs.get("systemRequirements", [])
     download_size = None
     install_size = None
     for e in system_requirements:
@@ -42,7 +43,7 @@ def format_content(content: dict) -> dict:
     return {
         "title": content.get("title"),
         "slug": slug,
-        "platform": content.get("systemSpecs").get("platform"),
+        "platform": system_specs.get("platform"),
         "catalog_item_id": content.get("catalogItemId"),
         "sandbox_id": purchase.get("purchasePayload", {}).get("sandboxId"),
         "offer_id": purchase.get("purchasePayload", {}).get("offerId"),
