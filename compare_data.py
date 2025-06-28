@@ -29,7 +29,7 @@ def is_key_relevant(key: str) -> bool:
 
 
 def is_value_relevant(value: str) -> bool:
-    return value and value != "0"
+    return value is not None
 
 
 def main() -> None:
