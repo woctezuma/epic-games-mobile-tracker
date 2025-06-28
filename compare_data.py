@@ -87,7 +87,7 @@ def main() -> None:
         k: v for k, v in formatted_data.items() if k not in formatted_old_data
     }
 
-    formatted_old_data.update(formatted_data)
+    formatted_old_data.update(formatted_diff_data)
     save_formatted_data(formatted_old_data)
 
     run_workflow(formatted_diff_data)
