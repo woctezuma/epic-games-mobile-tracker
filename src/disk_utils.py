@@ -1,7 +1,7 @@
 import json
 from pathlib import Path
 
-from src.constants import DATA_FOLDER, PLATFORMS, WEBHOOK_FNAME
+from src.constants import DATA_FOLDER, FORMATTED_DATA_FNAME, PLATFORMS, WEBHOOK_FNAME
 from src.json_utils import load_json_failsafe
 
 
@@ -30,3 +30,7 @@ def load_data_for_every_platform() -> list:
         all_data.extend(new_data)
 
     return all_data
+
+
+def load_old_formatted_data() -> dict:
+    return load_json_failsafe(get_save_name(FORMATTED_DATA_FNAME))
