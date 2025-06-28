@@ -22,6 +22,8 @@ FIELDS_OF_INTEREST = [
 ]
 
 TIME_SEPARATOR = "T"
+NUM_SPACES = 3
+INDENT_SPACE = " " * NUM_SPACES
 
 
 def is_key_relevant(key: str) -> bool:
@@ -48,12 +50,12 @@ def main() -> None:
 
         media = e.get("media", {})
 
-        media_message = ""
+        media_message = f"{LINEBREAK} `media`:"
         for k in sorted(media):
             url = media[k]
             if url not in urls:
                 urls.add(url)
-                media_message += f"{LINEBREAK} `{k}`: {media[k]}"
+                media_message += f"\n{INDENT_SPACE}- `{k}`: {media[k]}"
 
         for k, v in e.items():
             if k == "media":
