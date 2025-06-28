@@ -1,4 +1,5 @@
 from src.constants import (
+    CURRENCY_SYMBOL,
     DISCORD_ANDROID_HEADER,
     DISCORD_IOS_HEADER,
     LINEBREAK,
@@ -49,6 +50,8 @@ def main() -> None:
                 message += media_message
             elif k in FIELDS_OF_INTEREST and v and v != "0":
                 line = f"{LINEBREAK} `{k}`: {v}"
+                if "price" in k:
+                    line += f" {CURRENCY_SYMBOL}"
                 message += line
 
         print(message)
