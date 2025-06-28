@@ -12,7 +12,7 @@ from src.constants import (
 )
 from src.discord_utils import post_message_to_discord_using_keyword
 from src.disk_utils import load_data_for_every_platform, load_old_formatted_data
-from src.format_utils import format_all_content
+from src.format_utils import format_all_content, save_formatted_data
 
 
 def is_key_relevant(key: str) -> bool:
@@ -86,6 +86,9 @@ def main() -> None:
     formatted_diff_data = {
         k: v for k, v in formatted_data.items() if k not in formatted_old_data
     }
+
+    formatted_old_data.update(formatted_data)
+    save_formatted_data(formatted_old_data)
 
     run_workflow(formatted_diff_data)
 
