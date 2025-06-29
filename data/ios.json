@@ -1809,19 +1809,19 @@
                         },
                         "card16x9": {
                             "height": 1440,
-                            "imageSrc": "https://cdn1.epicgames.com/offer/fn/EN_FNBR_34-30_Dashberry_EGS_PDP_2560x1440_2560x1440-46b790f02a36c13a0c5c4d70f70ab6b4",
+                            "imageSrc": "https://cdn1.epicgames.com/offer/fn/EN_FNBR_36-10_TimberStake_EGS_Blade_2560x1440_2560x1440-1a3cec0599d5f1de50a3308f8ef13502",
                             "imageType": "OfferImageWide",
                             "width": 2560
                         },
                         "card3x4": {
                             "height": 1600,
-                            "imageSrc": "https://cdn1.epicgames.com/offer/fn/EN_FNBR_34-30_Dashberry_EGS_MobileCarouselThumbnail_1200x1600_1200x1600-65be19bc62af387f22d259c01bf75514",
+                            "imageSrc": "https://cdn1.epicgames.com/offer/fn/EN_FNBR_36-10_TimberStake_EGS_Blade_1200x1600_1200x1600-a8af5840aedbe3d327c5c8444c2bb5c8",
                             "imageType": "OfferImageTall",
                             "width": 1200
                         },
                         "coverImage": {
                             "height": 1440,
-                            "imageSrc": "https://cdn1.epicgames.com/offer/fn/EN_FNBR_34-30_Dashberry_EGS_PDP_2560x1440_2560x1440-46b790f02a36c13a0c5c4d70f70ab6b4",
+                            "imageSrc": "https://cdn1.epicgames.com/offer/fn/EN_FNBR_36-10_TimberStake_EGS_Blade_2560x1440_2560x1440-1a3cec0599d5f1de50a3308f8ef13502",
                             "imageType": "OfferImageWide",
                             "width": 2560
                         }
@@ -2409,20 +2409,23 @@
                             "gate": "no-gate"
                         },
                         "ageRating": {
-                            "ageControl": 3,
-                            "contentDescriptors": [],
+                            "ageControl": 12,
+                            "contentDescriptors": [
+                                "Horror",
+                                "Sexual Innuendo"
+                            ],
                             "interactiveElements": [],
-                            "ratingImage": "https://cdn1.epicgames.com/gameRating/gameRating/PEGI_3_192_192x192-490b93ddf59fb4ac1148d1eb9083626a",
+                            "ratingImage": "https://cdn1.epicgames.com/gameRating/gameRating/PEGI_12_192_192x192-afa4df43f131bc83eb380ccf22f8d904",
                             "ratingSystem": "PEGI",
-                            "rectangularRatingImage": "https://cdn1.epicgames.com/salesEvent/salesEvent/PEGI-3_435x530-c931ab5bb4eb190f6e8e542081c49dc4",
-                            "title": "PEGI 3"
+                            "rectangularRatingImage": "https://cdn1.epicgames.com/salesEvent/salesEvent/PEGI-12_436x530-0cd1f06607086f3cc1bc2b8643f21b0a",
+                            "title": "PEGI 12"
                         },
                         "ratingType": "AgeRating"
                     },
                     "attention": {
                         "inAppPurchases": "None"
                     },
-                    "catalogItemId": "7a0e1b20481e428896582d6a52f40871",
+                    "catalogItemId": "0239a754e11a473881f0dcd45a7f97a0",
                     "categories": [
                         "freegames",
                         "games",
@@ -2430,34 +2433,34 @@
                         "games/edition/base"
                     ],
                     "mapping": {
-                        "slug": "doodle-god-infinite-alchemy-merge-ios-78f019"
+                        "slug": "cultist-simulator-ios-8eba4c"
                     },
                     "media": {
                         "appIcon": {
                             "altText": "-",
                             "height": 512,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/2221b636e7a540efabe9719bc46750f8/doodle-god-infinite-alchemy-merge-icon-1c296.png",
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/02ff04eaf61e4fa8b9869b50b64bff94/cultist-simulator-icon-1gtw8.png",
                             "imageType": "ProductIcon",
                             "width": 512
                         },
                         "card16x9": {
-                            "altText": "Doodle God: Infinite Alchemy Merge Offer",
+                            "altText": "Cultist Simulator Offer",
                             "height": 1440,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/2221b636e7a540efabe9719bc46750f8/doodle-god-infinite-alchemy-merge-wp991.jpg",
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/02ff04eaf61e4fa8b9869b50b64bff94/cultist-simulator-1ufl7.png",
                             "imageType": "OfferImageWide",
                             "width": 2560
                         },
                         "card3x4": {
-                            "altText": "Download Doodle God: Infinite Alchemy Merge Offer",
+                            "altText": "Download Cultist Simulator Offer",
                             "height": 1600,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/2221b636e7a540efabe9719bc46750f8/doodle-god-infinite-alchemy-merge-17cxt.png",
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/02ff04eaf61e4fa8b9869b50b64bff94/cultist-simulator-q8zyn.png",
                             "imageType": "OfferImageTall",
                             "width": 1200
                         },
                         "coverImage": {
                             "altText": "-",
                             "height": 1440,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/2221b636e7a540efabe9719bc46750f8/doodle-god-infinite-alchemy-merge-195ea.jpg",
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/02ff04eaf61e4fa8b9869b50b64bff94/cultist-simulator-1xund.png",
                             "imageType": "coverImage",
                             "width": 2560
                         }
@@ -2466,8 +2469,8 @@
                         {
                             "discount": {
                                 "discountAmountDisplay": "-100%",
-                                "discountEndDate": "2025-06-26T15:00:00.000Z",
-                                "originalPriceDisplay": "€2.19"
+                                "discountEndDate": "2025-07-03T15:00:00.000Z",
+                                "originalPriceDisplay": "€6.29"
                             },
                             "offerLifecycleState": "Release",
                             "price": {
@@ -2475,8 +2478,8 @@
                                 "decimalPrice": 0
                             },
                             "purchasePayload": {
-                                "offerId": "29b150b77053448eb30e210edfcdc062",
-                                "sandboxId": "0fd4edf223e64b249082e86bfd49483d"
+                                "offerId": "383fd6e2b6ed42e08973301540ba188b",
+                                "sandboxId": "d55b1ce868af425e9631c2d46c074ab9"
                             },
                             "purchaseType": "Claim"
                         },
@@ -2484,27 +2487,27 @@
                             "offerLifecycleState": "Release",
                             "price": {
                                 "currencyCode": "EUR",
-                                "decimalPrice": 2.19
+                                "decimalPrice": 6.29
                             },
-                            "priceDisplay": "€2.19",
+                            "priceDisplay": "€6.29",
                             "purchasePayload": {
-                                "offerId": "29b150b77053448eb30e210edfcdc062",
-                                "sandboxId": "0fd4edf223e64b249082e86bfd49483d"
+                                "offerId": "383fd6e2b6ed42e08973301540ba188b",
+                                "sandboxId": "d55b1ce868af425e9631c2d46c074ab9"
                             },
                             "purchaseType": "Purchase"
                         }
                     ],
                     "systemSpecs": {
-                        "applicationVersion": "4.2.66",
+                        "applicationVersion": "3.6.3",
                         "platform": "ios",
                         "systemRequirements": [
                             {
-                                "minimum": "100",
+                                "minimum": "359 Mo",
                                 "requirementType": "InstallSize",
                                 "title": "Installation size"
                             },
                             {
-                                "minimum": "100",
+                                "minimum": "403 Mo",
                                 "requirementType": "DownloadSize",
                                 "title": "Download size"
                             },
@@ -2515,10 +2518,10 @@
                             }
                         ]
                     },
-                    "title": "Doodle God: Infinite Alchemy Merge"
+                    "title": "Cultist Simulator"
                 },
-                "offerId": "29b150b77053448eb30e210edfcdc062",
-                "sandboxId": "0fd4edf223e64b249082e86bfd49483d"
+                "offerId": "383fd6e2b6ed42e08973301540ba188b",
+                "sandboxId": "d55b1ce868af425e9631c2d46c074ab9"
             }
         ],
         "size": "large",
@@ -4620,57 +4623,54 @@
                             "gate": "no-gate"
                         },
                         "ageRating": {
-                            "ageControl": 12,
-                            "contentDescriptors": [
-                                "Horror",
-                                "Sexual Innuendo"
-                            ],
+                            "ageControl": 3,
+                            "contentDescriptors": [],
                             "interactiveElements": [],
-                            "ratingImage": "https://cdn1.epicgames.com/gameRating/gameRating/PEGI_12_192_192x192-afa4df43f131bc83eb380ccf22f8d904",
+                            "ratingImage": "https://cdn1.epicgames.com/gameRating/gameRating/PEGI_3_192_192x192-490b93ddf59fb4ac1148d1eb9083626a",
                             "ratingSystem": "PEGI",
-                            "rectangularRatingImage": "https://cdn1.epicgames.com/salesEvent/salesEvent/PEGI-12_436x530-0cd1f06607086f3cc1bc2b8643f21b0a",
-                            "title": "PEGI 12"
+                            "rectangularRatingImage": "https://cdn1.epicgames.com/salesEvent/salesEvent/PEGI-3_435x530-c931ab5bb4eb190f6e8e542081c49dc4",
+                            "title": "PEGI 3"
                         },
                         "ratingType": "AgeRating"
                     },
                     "attention": {
                         "inAppPurchases": "None"
                     },
-                    "catalogItemId": "0239a754e11a473881f0dcd45a7f97a0",
+                    "catalogItemId": "7a0e1b20481e428896582d6a52f40871",
                     "categories": [
                         "games",
                         "games/edition",
                         "games/edition/base"
                     ],
                     "mapping": {
-                        "slug": "cultist-simulator-ios-8eba4c"
+                        "slug": "doodle-god-infinite-alchemy-merge-ios-78f019"
                     },
                     "media": {
                         "appIcon": {
                             "altText": "-",
                             "height": 512,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/02ff04eaf61e4fa8b9869b50b64bff94/cultist-simulator-icon-1gtw8.png",
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/2221b636e7a540efabe9719bc46750f8/doodle-god-infinite-alchemy-merge-icon-1c296.png",
                             "imageType": "ProductIcon",
                             "width": 512
                         },
                         "card16x9": {
-                            "altText": "Cultist Simulator Offer",
+                            "altText": "Doodle God: Infinite Alchemy Merge Offer",
                             "height": 1440,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/02ff04eaf61e4fa8b9869b50b64bff94/cultist-simulator-1ufl7.png",
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/2221b636e7a540efabe9719bc46750f8/doodle-god-infinite-alchemy-merge-wp991.jpg",
                             "imageType": "OfferImageWide",
                             "width": 2560
                         },
                         "card3x4": {
-                            "altText": "Download Cultist Simulator Offer",
+                            "altText": "Download Doodle God: Infinite Alchemy Merge Offer",
                             "height": 1600,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/02ff04eaf61e4fa8b9869b50b64bff94/cultist-simulator-q8zyn.png",
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/2221b636e7a540efabe9719bc46750f8/doodle-god-infinite-alchemy-merge-17cxt.png",
                             "imageType": "OfferImageTall",
                             "width": 1200
                         },
                         "coverImage": {
                             "altText": "-",
                             "height": 1440,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/02ff04eaf61e4fa8b9869b50b64bff94/cultist-simulator-1xund.png",
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/2221b636e7a540efabe9719bc46750f8/doodle-god-infinite-alchemy-merge-195ea.jpg",
                             "imageType": "coverImage",
                             "width": 2560
                         }
@@ -4680,27 +4680,27 @@
                             "offerLifecycleState": "Release",
                             "price": {
                                 "currencyCode": "EUR",
-                                "decimalPrice": 6.29
+                                "decimalPrice": 2.19
                             },
-                            "priceDisplay": "€6.29",
+                            "priceDisplay": "€2.19",
                             "purchasePayload": {
-                                "offerId": "383fd6e2b6ed42e08973301540ba188b",
-                                "sandboxId": "d55b1ce868af425e9631c2d46c074ab9"
+                                "offerId": "29b150b77053448eb30e210edfcdc062",
+                                "sandboxId": "0fd4edf223e64b249082e86bfd49483d"
                             },
                             "purchaseType": "Purchase"
                         }
                     ],
                     "systemSpecs": {
-                        "applicationVersion": "3.6.3",
+                        "applicationVersion": "4.2.66",
                         "platform": "ios",
                         "systemRequirements": [
                             {
-                                "minimum": "359 Mo",
+                                "minimum": "100",
                                 "requirementType": "InstallSize",
                                 "title": "Installation size"
                             },
                             {
-                                "minimum": "403 Mo",
+                                "minimum": "100",
                                 "requirementType": "DownloadSize",
                                 "title": "Download size"
                             },
@@ -4711,10 +4711,10 @@
                             }
                         ]
                     },
-                    "title": "Cultist Simulator"
+                    "title": "Doodle God: Infinite Alchemy Merge"
                 },
-                "offerId": "383fd6e2b6ed42e08973301540ba188b",
-                "sandboxId": "d55b1ce868af425e9631c2d46c074ab9"
+                "offerId": "29b150b77053448eb30e210edfcdc062",
+                "sandboxId": "0fd4edf223e64b249082e86bfd49483d"
             },
             {
                 "content": {
@@ -5085,6 +5085,37 @@
                         }
                     },
                     "purchase": [
+                        {
+                            "offerLifecycleState": "Release",
+                            "price": {
+                                "currencyCode": "EUR",
+                                "decimalPrice": 0.99
+                            },
+                            "priceDisplay": "€0.99",
+                            "purchasePayload": {
+                                "offerId": "339352faf7db4a3bbb262362fd0041c3",
+                                "sandboxId": "09f00180b25347bdb65ac0b7378756b7"
+                            },
+                            "purchaseType": "Purchase"
+                        },
+                        {
+                            "discount": {
+                                "discountAmountDisplay": "-20%",
+                                "discountEndDate": "2025-07-31T15:00:00.000Z",
+                                "originalPriceDisplay": "€0.99"
+                            },
+                            "offerLifecycleState": "Release",
+                            "price": {
+                                "currencyCode": "EUR",
+                                "decimalPrice": 0.79
+                            },
+                            "priceDisplay": "€0.79",
+                            "purchasePayload": {
+                                "offerId": "339352faf7db4a3bbb262362fd0041c3",
+                                "sandboxId": "09f00180b25347bdb65ac0b7378756b7"
+                            },
+                            "purchaseType": "Purchase"
+                        },
                         {
                             "offerLifecycleState": "Release",
                             "price": {
