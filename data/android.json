@@ -9,6 +9,99 @@
                 "content": {
                     "ageRating": {
                         "ageGate": {
+                            "gate": "unrated-gate"
+                        },
+                        "ageRating": {
+                            "ratingSystem": "PEGI"
+                        },
+                        "ratingType": "UnratedRating"
+                    },
+                    "attention": {
+                        "inAppPurchases": "MaybeIncludesInAppPurchases"
+                    },
+                    "catalogItemId": "fb80a6dfeaec4e84bad3833fe1adf4ea",
+                    "categories": [
+                        "games",
+                        "games/edition",
+                        "games/edition/base"
+                    ],
+                    "mapping": {
+                        "slug": "tanks-arena-android-18b75f"
+                    },
+                    "media": {
+                        "appIcon": {
+                            "altText": "-",
+                            "height": 512,
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/b4c63bded85b4a6483f36b6a6a6acac5/tanks-arena-icon-12fmi.png",
+                            "imageType": "ProductIcon",
+                            "width": 512
+                        },
+                        "card16x9": {
+                            "altText": "Tanks Arena Offer",
+                            "height": 1440,
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/b4c63bded85b4a6483f36b6a6a6acac5/tanks-arena-1yh9f.png",
+                            "imageType": "OfferImageWide",
+                            "width": 2560
+                        },
+                        "card3x4": {
+                            "altText": "Download Tanks Arena Offer",
+                            "height": 1600,
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/b4c63bded85b4a6483f36b6a6a6acac5/tanks-arena-1y2ck.png",
+                            "imageType": "OfferImageTall",
+                            "width": 1200
+                        },
+                        "coverImage": {
+                            "altText": "-",
+                            "height": 1440,
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/b4c63bded85b4a6483f36b6a6a6acac5/tanks-arena-eed94.png",
+                            "imageType": "coverImage",
+                            "width": 2560
+                        }
+                    },
+                    "purchase": [
+                        {
+                            "offerLifecycleState": "Release",
+                            "price": {
+                                "currencyCode": "EUR",
+                                "decimalPrice": 0
+                            },
+                            "purchasePayload": {
+                                "offerId": "318fa702573941fbaaf697b75b525142",
+                                "sandboxId": "a7727adfd6fd4bc1aa39468bb24795fd"
+                            },
+                            "purchaseType": "Claim"
+                        }
+                    ],
+                    "systemSpecs": {
+                        "applicationVersion": "3.06.01",
+                        "platform": "android",
+                        "systemRequirements": [
+                            {
+                                "minimum": "221.70 MB",
+                                "requirementType": "InstallSize",
+                                "title": "Installation size"
+                            },
+                            {
+                                "minimum": "219.84 MB",
+                                "requirementType": "DownloadSize",
+                                "title": "Download size"
+                            },
+                            {
+                                "minimum": "6.0",
+                                "requirementType": "OS",
+                                "title": "OS version"
+                            }
+                        ]
+                    },
+                    "title": "Tanks Arena"
+                },
+                "offerId": "318fa702573941fbaaf697b75b525142",
+                "sandboxId": "a7727adfd6fd4bc1aa39468bb24795fd"
+            },
+            {
+                "content": {
+                    "ageRating": {
+                        "ageGate": {
                             "gate": "no-gate"
                         },
                         "ageRating": {
@@ -285,7 +378,7 @@
                         }
                     ],
                     "systemSpecs": {
-                        "applicationVersion": "1.1.1",
+                        "applicationVersion": "1.1.2",
                         "platform": "android",
                         "systemRequirements": [
                             {
@@ -294,7 +387,7 @@
                                 "title": "Installation size"
                             },
                             {
-                                "minimum": "134.38 MB",
+                                "minimum": "137.99 MB",
                                 "requirementType": "DownloadSize",
                                 "title": "Download size"
                             },
@@ -516,108 +609,6 @@
                 },
                 "offerId": "084fffc9e5f84ecd95081999114a8292",
                 "sandboxId": "03b2f198c0ec447db7ceff375b4bfe6b"
-            },
-            {
-                "content": {
-                    "ageRating": {
-                        "ageGate": {
-                            "gate": "no-gate"
-                        },
-                        "ageRating": {
-                            "ageControl": 7,
-                            "contentDescriptors": [
-                                "Implied Violence"
-                            ],
-                            "interactiveElements": [],
-                            "ratingImage": "https://cdn1.epicgames.com/gameRating/gameRating/PEGI_7_192_192x192-30e2e712d0682dad01add90a6ccbed5b",
-                            "ratingSystem": "PEGI",
-                            "rectangularRatingImage": "https://cdn1.epicgames.com/salesEvent/salesEvent/PEGI-7_435x530-9439a136999d3dd762c7a61c3b8c7683",
-                            "title": "PEGI 7"
-                        },
-                        "ratingType": "AgeRating"
-                    },
-                    "attention": {
-                        "inAppPurchases": "None"
-                    },
-                    "catalogItemId": "b8b1209117bb441f9aca77176b142d12",
-                    "categories": [
-                        "games",
-                        "games/edition",
-                        "games/edition/base"
-                    ],
-                    "mapping": {
-                        "slug": "doodle-mafia-epic-alchemy-android-f2683e"
-                    },
-                    "media": {
-                        "appIcon": {
-                            "altText": "-",
-                            "height": 512,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/c4e2177224b94cee92bab3ae0cdc3b6d/doodle-mafia-epic-alchemy-icon-stw7l.png",
-                            "imageType": "ProductIcon",
-                            "width": 512
-                        },
-                        "card16x9": {
-                            "altText": "Doodle Mafia: Epic Alchemy Offer",
-                            "height": 1440,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/c4e2177224b94cee92bab3ae0cdc3b6d/doodle-mafia-epic-alchemy-393vi.jpg",
-                            "imageType": "OfferImageWide",
-                            "width": 2560
-                        },
-                        "card3x4": {
-                            "altText": "Download Doodle Mafia: Epic Alchemy Offer",
-                            "height": 1600,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/c4e2177224b94cee92bab3ae0cdc3b6d/doodle-mafia-epic-alchemy-eo2n3.png",
-                            "imageType": "OfferImageTall",
-                            "width": 1200
-                        },
-                        "coverImage": {
-                            "altText": "-",
-                            "height": 1440,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/c4e2177224b94cee92bab3ae0cdc3b6d/doodle-mafia-epic-alchemy-7yaqa.jpg",
-                            "imageType": "coverImage",
-                            "width": 2560
-                        }
-                    },
-                    "purchase": [
-                        {
-                            "offerLifecycleState": "Release",
-                            "price": {
-                                "currencyCode": "EUR",
-                                "decimalPrice": 2.19
-                            },
-                            "priceDisplay": "€2.19",
-                            "purchasePayload": {
-                                "offerId": "3a10cce696ef4d79ba908d383b3ce954",
-                                "sandboxId": "07feb5c4405041818a1f13d6816da51b"
-                            },
-                            "purchaseType": "Purchase"
-                        }
-                    ],
-                    "systemSpecs": {
-                        "applicationVersion": "1.0.21",
-                        "platform": "android",
-                        "systemRequirements": [
-                            {
-                                "minimum": "110",
-                                "requirementType": "InstallSize",
-                                "title": "Installation size"
-                            },
-                            {
-                                "minimum": "106.60 MB",
-                                "requirementType": "DownloadSize",
-                                "title": "Download size"
-                            },
-                            {
-                                "minimum": "7.0",
-                                "requirementType": "OS",
-                                "title": "OS version"
-                            }
-                        ]
-                    },
-                    "title": "Doodle Mafia: Epic Alchemy"
-                },
-                "offerId": "3a10cce696ef4d79ba908d383b3ce954",
-                "sandboxId": "07feb5c4405041818a1f13d6816da51b"
             }
         ],
         "size": "xLarge",
@@ -711,7 +702,7 @@
                         }
                     ],
                     "systemSpecs": {
-                        "applicationVersion": "1.0.118",
+                        "applicationVersion": "1.0.122",
                         "platform": "android",
                         "systemRequirements": [
                             {
@@ -720,7 +711,7 @@
                                 "title": "Installation size"
                             },
                             {
-                                "minimum": "209.80 MB",
+                                "minimum": "210.68 MB",
                                 "requirementType": "DownloadSize",
                                 "title": "Download size"
                             },
@@ -1827,19 +1818,19 @@
                         },
                         "card16x9": {
                             "height": 1440,
-                            "imageSrc": "https://cdn1.epicgames.com/offer/fn/EN_FNBR_34-30_Dashberry_EGS_PDP_2560x1440_2560x1440-46b790f02a36c13a0c5c4d70f70ab6b4",
+                            "imageSrc": "https://cdn1.epicgames.com/offer/fn/EN_FNBR_36-10_TimberStake_EGS_Blade_2560x1440_2560x1440-1a3cec0599d5f1de50a3308f8ef13502",
                             "imageType": "OfferImageWide",
                             "width": 2560
                         },
                         "card3x4": {
                             "height": 1600,
-                            "imageSrc": "https://cdn1.epicgames.com/offer/fn/EN_FNBR_34-30_Dashberry_EGS_MobileCarouselThumbnail_1200x1600_1200x1600-65be19bc62af387f22d259c01bf75514",
+                            "imageSrc": "https://cdn1.epicgames.com/offer/fn/EN_FNBR_36-10_TimberStake_EGS_Blade_1200x1600_1200x1600-a8af5840aedbe3d327c5c8444c2bb5c8",
                             "imageType": "OfferImageTall",
                             "width": 1200
                         },
                         "coverImage": {
                             "height": 1440,
-                            "imageSrc": "https://cdn1.epicgames.com/offer/fn/EN_FNBR_34-30_Dashberry_EGS_PDP_2560x1440_2560x1440-46b790f02a36c13a0c5c4d70f70ab6b4",
+                            "imageSrc": "https://cdn1.epicgames.com/offer/fn/EN_FNBR_36-10_TimberStake_EGS_Blade_2560x1440_2560x1440-1a3cec0599d5f1de50a3308f8ef13502",
                             "imageType": "OfferImageWide",
                             "width": 2560
                         }
@@ -2427,20 +2418,23 @@
                             "gate": "no-gate"
                         },
                         "ageRating": {
-                            "ageControl": 3,
-                            "contentDescriptors": [],
+                            "ageControl": 12,
+                            "contentDescriptors": [
+                                "Horror",
+                                "Sexual Innuendo"
+                            ],
                             "interactiveElements": [],
-                            "ratingImage": "https://cdn1.epicgames.com/gameRating/gameRating/PEGI_3_192_192x192-490b93ddf59fb4ac1148d1eb9083626a",
+                            "ratingImage": "https://cdn1.epicgames.com/gameRating/gameRating/PEGI_12_192_192x192-afa4df43f131bc83eb380ccf22f8d904",
                             "ratingSystem": "PEGI",
-                            "rectangularRatingImage": "https://cdn1.epicgames.com/salesEvent/salesEvent/PEGI-3_435x530-c931ab5bb4eb190f6e8e542081c49dc4",
-                            "title": "PEGI 3"
+                            "rectangularRatingImage": "https://cdn1.epicgames.com/salesEvent/salesEvent/PEGI-12_436x530-0cd1f06607086f3cc1bc2b8643f21b0a",
+                            "title": "PEGI 12"
                         },
                         "ratingType": "AgeRating"
                     },
                     "attention": {
                         "inAppPurchases": "None"
                     },
-                    "catalogItemId": "20f69142ea0f4690b50e49b3594b4ef6",
+                    "catalogItemId": "a11fabf3ba12446d831ac703e5a878ce",
                     "categories": [
                         "freegames",
                         "games",
@@ -2448,34 +2442,34 @@
                         "games/edition/base"
                     ],
                     "mapping": {
-                        "slug": "doodle-god-infinite-alchemy-merge-android-dd11fe"
+                        "slug": "cultist-simulator-android-8c5386"
                     },
                     "media": {
                         "appIcon": {
                             "altText": "-",
                             "height": 512,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/2221b636e7a540efabe9719bc46750f8/doodle-god-infinite-alchemy-merge-icon-1c296.png",
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/02ff04eaf61e4fa8b9869b50b64bff94/cultist-simulator-icon-1gtw8.png",
                             "imageType": "ProductIcon",
                             "width": 512
                         },
                         "card16x9": {
-                            "altText": "Doodle God: Infinite Alchemy Merge Offer",
+                            "altText": "Cultist Simulator Offer",
                             "height": 1440,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/2221b636e7a540efabe9719bc46750f8/doodle-god-infinite-alchemy-merge-2ohpj.jpg",
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/02ff04eaf61e4fa8b9869b50b64bff94/cultist-simulator-1mcff.png",
                             "imageType": "OfferImageWide",
                             "width": 2560
                         },
                         "card3x4": {
-                            "altText": "Download Doodle God: Infinite Alchemy Merge Offer",
+                            "altText": "Download Cultist Simulator Offer",
                             "height": 1600,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/2221b636e7a540efabe9719bc46750f8/doodle-god-infinite-alchemy-merge-81z9t.png",
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/02ff04eaf61e4fa8b9869b50b64bff94/cultist-simulator-1ly2e.png",
                             "imageType": "OfferImageTall",
                             "width": 1200
                         },
                         "coverImage": {
                             "altText": "-",
                             "height": 1440,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/2221b636e7a540efabe9719bc46750f8/doodle-god-infinite-alchemy-merge-195ea.jpg",
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/02ff04eaf61e4fa8b9869b50b64bff94/cultist-simulator-1xund.png",
                             "imageType": "coverImage",
                             "width": 2560
                         }
@@ -2484,8 +2478,8 @@
                         {
                             "discount": {
                                 "discountAmountDisplay": "-100%",
-                                "discountEndDate": "2025-06-26T15:00:00.000Z",
-                                "originalPriceDisplay": "€2.19"
+                                "discountEndDate": "2025-07-03T15:00:00.000Z",
+                                "originalPriceDisplay": "€6.29"
                             },
                             "offerLifecycleState": "Release",
                             "price": {
@@ -2493,8 +2487,8 @@
                                 "decimalPrice": 0
                             },
                             "purchasePayload": {
-                                "offerId": "fe86df2c140d4ba1a3ad42aaab6f9ae7",
-                                "sandboxId": "0fd4edf223e64b249082e86bfd49483d"
+                                "offerId": "1228d7af0cd34ceb8579a0c5d4802e54",
+                                "sandboxId": "d55b1ce868af425e9631c2d46c074ab9"
                             },
                             "purchaseType": "Claim"
                         },
@@ -2502,41 +2496,41 @@
                             "offerLifecycleState": "Release",
                             "price": {
                                 "currencyCode": "EUR",
-                                "decimalPrice": 2.19
+                                "decimalPrice": 6.29
                             },
-                            "priceDisplay": "€2.19",
+                            "priceDisplay": "€6.29",
                             "purchasePayload": {
-                                "offerId": "fe86df2c140d4ba1a3ad42aaab6f9ae7",
-                                "sandboxId": "0fd4edf223e64b249082e86bfd49483d"
+                                "offerId": "1228d7af0cd34ceb8579a0c5d4802e54",
+                                "sandboxId": "d55b1ce868af425e9631c2d46c074ab9"
                             },
                             "purchaseType": "Purchase"
                         }
                     ],
                     "systemSpecs": {
-                        "applicationVersion": "4.2.115",
+                        "applicationVersion": "3.6.3",
                         "platform": "android",
                         "systemRequirements": [
                             {
-                                "minimum": "100",
+                                "minimum": "524 Mo",
                                 "requirementType": "InstallSize",
                                 "title": "Installation size"
                             },
                             {
-                                "minimum": "147.94 MB",
+                                "minimum": "384.33 MB",
                                 "requirementType": "DownloadSize",
                                 "title": "Download size"
                             },
                             {
-                                "minimum": "7.0",
+                                "minimum": "6.0",
                                 "requirementType": "OS",
                                 "title": "OS version"
                             }
                         ]
                     },
-                    "title": "Doodle God: Infinite Alchemy Merge"
+                    "title": "Cultist Simulator"
                 },
-                "offerId": "fe86df2c140d4ba1a3ad42aaab6f9ae7",
-                "sandboxId": "0fd4edf223e64b249082e86bfd49483d"
+                "offerId": "1228d7af0cd34ceb8579a0c5d4802e54",
+                "sandboxId": "d55b1ce868af425e9631c2d46c074ab9"
             }
         ],
         "size": "large",
@@ -3877,6 +3871,24 @@
                     },
                     "purchase": [
                         {
+                            "discount": {
+                                "discountAmountDisplay": "-43%",
+                                "discountEndDate": "2025-07-09T15:00:00.000Z",
+                                "originalPriceDisplay": "€3.59"
+                            },
+                            "offerLifecycleState": "Release",
+                            "price": {
+                                "currencyCode": "EUR",
+                                "decimalPrice": 2.04
+                            },
+                            "priceDisplay": "€2.04",
+                            "purchasePayload": {
+                                "offerId": "e1f9169649d44be99109e47200f80945",
+                                "sandboxId": "dcf4c011daf247bcbc380e28f8ef4fdf"
+                            },
+                            "purchaseType": "Purchase"
+                        },
+                        {
                             "offerLifecycleState": "Release",
                             "price": {
                                 "currencyCode": "EUR",
@@ -3928,6 +3940,108 @@
             "src": ""
         },
         "offers": [
+            {
+                "content": {
+                    "ageRating": {
+                        "ageGate": {
+                            "gate": "no-gate"
+                        },
+                        "ageRating": {
+                            "ageControl": 7,
+                            "contentDescriptors": [
+                                "Implied Violence"
+                            ],
+                            "interactiveElements": [],
+                            "ratingImage": "https://cdn1.epicgames.com/gameRating/gameRating/PEGI_7_192_192x192-30e2e712d0682dad01add90a6ccbed5b",
+                            "ratingSystem": "PEGI",
+                            "rectangularRatingImage": "https://cdn1.epicgames.com/salesEvent/salesEvent/PEGI-7_435x530-9439a136999d3dd762c7a61c3b8c7683",
+                            "title": "PEGI 7"
+                        },
+                        "ratingType": "AgeRating"
+                    },
+                    "attention": {
+                        "inAppPurchases": "None"
+                    },
+                    "catalogItemId": "b8b1209117bb441f9aca77176b142d12",
+                    "categories": [
+                        "games",
+                        "games/edition",
+                        "games/edition/base"
+                    ],
+                    "mapping": {
+                        "slug": "doodle-mafia-epic-alchemy-android-f2683e"
+                    },
+                    "media": {
+                        "appIcon": {
+                            "altText": "-",
+                            "height": 512,
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/c4e2177224b94cee92bab3ae0cdc3b6d/doodle-mafia-epic-alchemy-icon-stw7l.png",
+                            "imageType": "ProductIcon",
+                            "width": 512
+                        },
+                        "card16x9": {
+                            "altText": "Doodle Mafia: Epic Alchemy Offer",
+                            "height": 1440,
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/c4e2177224b94cee92bab3ae0cdc3b6d/doodle-mafia-epic-alchemy-393vi.jpg",
+                            "imageType": "OfferImageWide",
+                            "width": 2560
+                        },
+                        "card3x4": {
+                            "altText": "Download Doodle Mafia: Epic Alchemy Offer",
+                            "height": 1600,
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/c4e2177224b94cee92bab3ae0cdc3b6d/doodle-mafia-epic-alchemy-eo2n3.png",
+                            "imageType": "OfferImageTall",
+                            "width": 1200
+                        },
+                        "coverImage": {
+                            "altText": "-",
+                            "height": 1440,
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/c4e2177224b94cee92bab3ae0cdc3b6d/doodle-mafia-epic-alchemy-7yaqa.jpg",
+                            "imageType": "coverImage",
+                            "width": 2560
+                        }
+                    },
+                    "purchase": [
+                        {
+                            "offerLifecycleState": "Release",
+                            "price": {
+                                "currencyCode": "EUR",
+                                "decimalPrice": 2.19
+                            },
+                            "priceDisplay": "€2.19",
+                            "purchasePayload": {
+                                "offerId": "3a10cce696ef4d79ba908d383b3ce954",
+                                "sandboxId": "07feb5c4405041818a1f13d6816da51b"
+                            },
+                            "purchaseType": "Purchase"
+                        }
+                    ],
+                    "systemSpecs": {
+                        "applicationVersion": "1.0.21",
+                        "platform": "android",
+                        "systemRequirements": [
+                            {
+                                "minimum": "110",
+                                "requirementType": "InstallSize",
+                                "title": "Installation size"
+                            },
+                            {
+                                "minimum": "106.60 MB",
+                                "requirementType": "DownloadSize",
+                                "title": "Download size"
+                            },
+                            {
+                                "minimum": "7.0",
+                                "requirementType": "OS",
+                                "title": "OS version"
+                            }
+                        ]
+                    },
+                    "title": "Doodle Mafia: Epic Alchemy"
+                },
+                "offerId": "3a10cce696ef4d79ba908d383b3ce954",
+                "sandboxId": "07feb5c4405041818a1f13d6816da51b"
+            },
             {
                 "content": {
                     "ageRating": {
@@ -5108,6 +5222,24 @@
                     },
                     "purchase": [
                         {
+                            "discount": {
+                                "discountAmountDisplay": "-72%",
+                                "discountEndDate": "2025-07-09T15:00:00.000Z",
+                                "originalPriceDisplay": "€3.59"
+                            },
+                            "offerLifecycleState": "Release",
+                            "price": {
+                                "currencyCode": "EUR",
+                                "decimalPrice": 1
+                            },
+                            "priceDisplay": "€1.00",
+                            "purchasePayload": {
+                                "offerId": "0b32b9b9238b4ee19d371f051d671420",
+                                "sandboxId": "24f77395564745068e4759e77bc847cb"
+                            },
+                            "purchaseType": "Purchase"
+                        },
+                        {
                             "offerLifecycleState": "Release",
                             "price": {
                                 "currencyCode": "EUR",
@@ -5209,6 +5341,24 @@
                         }
                     },
                     "purchase": [
+                        {
+                            "discount": {
+                                "discountAmountDisplay": "-72%",
+                                "discountEndDate": "2025-07-09T15:00:00.000Z",
+                                "originalPriceDisplay": "€3.59"
+                            },
+                            "offerLifecycleState": "Release",
+                            "price": {
+                                "currencyCode": "EUR",
+                                "decimalPrice": 1
+                            },
+                            "priceDisplay": "€1.00",
+                            "purchasePayload": {
+                                "offerId": "d1c9d4af7b564b1eaf0e18543c3538d4",
+                                "sandboxId": "1b08b1c0ee0947908e85dc9808a16779"
+                            },
+                            "purchaseType": "Purchase"
+                        },
                         {
                             "offerLifecycleState": "Release",
                             "price": {
@@ -5520,6 +5670,37 @@
                         }
                     },
                     "purchase": [
+                        {
+                            "offerLifecycleState": "Release",
+                            "price": {
+                                "currencyCode": "EUR",
+                                "decimalPrice": 0.99
+                            },
+                            "priceDisplay": "€0.99",
+                            "purchasePayload": {
+                                "offerId": "8abca3448435481e917accab73f5f541",
+                                "sandboxId": "09f00180b25347bdb65ac0b7378756b7"
+                            },
+                            "purchaseType": "Purchase"
+                        },
+                        {
+                            "discount": {
+                                "discountAmountDisplay": "-20%",
+                                "discountEndDate": "2025-07-31T15:00:00.000Z",
+                                "originalPriceDisplay": "€0.99"
+                            },
+                            "offerLifecycleState": "Release",
+                            "price": {
+                                "currencyCode": "EUR",
+                                "decimalPrice": 0.79
+                            },
+                            "priceDisplay": "€0.79",
+                            "purchasePayload": {
+                                "offerId": "8abca3448435481e917accab73f5f541",
+                                "sandboxId": "09f00180b25347bdb65ac0b7378756b7"
+                            },
+                            "purchaseType": "Purchase"
+                        },
                         {
                             "offerLifecycleState": "Release",
                             "price": {
@@ -7817,57 +7998,54 @@
                             "gate": "no-gate"
                         },
                         "ageRating": {
-                            "ageControl": 12,
-                            "contentDescriptors": [
-                                "Horror",
-                                "Sexual Innuendo"
-                            ],
+                            "ageControl": 3,
+                            "contentDescriptors": [],
                             "interactiveElements": [],
-                            "ratingImage": "https://cdn1.epicgames.com/gameRating/gameRating/PEGI_12_192_192x192-afa4df43f131bc83eb380ccf22f8d904",
+                            "ratingImage": "https://cdn1.epicgames.com/gameRating/gameRating/PEGI_3_192_192x192-490b93ddf59fb4ac1148d1eb9083626a",
                             "ratingSystem": "PEGI",
-                            "rectangularRatingImage": "https://cdn1.epicgames.com/salesEvent/salesEvent/PEGI-12_436x530-0cd1f06607086f3cc1bc2b8643f21b0a",
-                            "title": "PEGI 12"
+                            "rectangularRatingImage": "https://cdn1.epicgames.com/salesEvent/salesEvent/PEGI-3_435x530-c931ab5bb4eb190f6e8e542081c49dc4",
+                            "title": "PEGI 3"
                         },
                         "ratingType": "AgeRating"
                     },
                     "attention": {
                         "inAppPurchases": "None"
                     },
-                    "catalogItemId": "a11fabf3ba12446d831ac703e5a878ce",
+                    "catalogItemId": "20f69142ea0f4690b50e49b3594b4ef6",
                     "categories": [
                         "games",
                         "games/edition",
                         "games/edition/base"
                     ],
                     "mapping": {
-                        "slug": "cultist-simulator-android-8c5386"
+                        "slug": "doodle-god-infinite-alchemy-merge-android-dd11fe"
                     },
                     "media": {
                         "appIcon": {
                             "altText": "-",
                             "height": 512,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/02ff04eaf61e4fa8b9869b50b64bff94/cultist-simulator-icon-1gtw8.png",
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/2221b636e7a540efabe9719bc46750f8/doodle-god-infinite-alchemy-merge-icon-1c296.png",
                             "imageType": "ProductIcon",
                             "width": 512
                         },
                         "card16x9": {
-                            "altText": "Cultist Simulator Offer",
+                            "altText": "Doodle God: Infinite Alchemy Merge Offer",
                             "height": 1440,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/02ff04eaf61e4fa8b9869b50b64bff94/cultist-simulator-1mcff.png",
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/2221b636e7a540efabe9719bc46750f8/doodle-god-infinite-alchemy-merge-2ohpj.jpg",
                             "imageType": "OfferImageWide",
                             "width": 2560
                         },
                         "card3x4": {
-                            "altText": "Download Cultist Simulator Offer",
+                            "altText": "Download Doodle God: Infinite Alchemy Merge Offer",
                             "height": 1600,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/02ff04eaf61e4fa8b9869b50b64bff94/cultist-simulator-1ly2e.png",
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/2221b636e7a540efabe9719bc46750f8/doodle-god-infinite-alchemy-merge-81z9t.png",
                             "imageType": "OfferImageTall",
                             "width": 1200
                         },
                         "coverImage": {
                             "altText": "-",
                             "height": 1440,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/02ff04eaf61e4fa8b9869b50b64bff94/cultist-simulator-1xund.png",
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/2221b636e7a540efabe9719bc46750f8/doodle-god-infinite-alchemy-merge-195ea.jpg",
                             "imageType": "coverImage",
                             "width": 2560
                         }
@@ -7877,41 +8055,41 @@
                             "offerLifecycleState": "Release",
                             "price": {
                                 "currencyCode": "EUR",
-                                "decimalPrice": 6.29
+                                "decimalPrice": 2.19
                             },
-                            "priceDisplay": "€6.29",
+                            "priceDisplay": "€2.19",
                             "purchasePayload": {
-                                "offerId": "1228d7af0cd34ceb8579a0c5d4802e54",
-                                "sandboxId": "d55b1ce868af425e9631c2d46c074ab9"
+                                "offerId": "fe86df2c140d4ba1a3ad42aaab6f9ae7",
+                                "sandboxId": "0fd4edf223e64b249082e86bfd49483d"
                             },
                             "purchaseType": "Purchase"
                         }
                     ],
                     "systemSpecs": {
-                        "applicationVersion": "3.6.3",
+                        "applicationVersion": "4.2.115",
                         "platform": "android",
                         "systemRequirements": [
                             {
-                                "minimum": "524 Mo",
+                                "minimum": "100",
                                 "requirementType": "InstallSize",
                                 "title": "Installation size"
                             },
                             {
-                                "minimum": "384.33 MB",
+                                "minimum": "147.94 MB",
                                 "requirementType": "DownloadSize",
                                 "title": "Download size"
                             },
                             {
-                                "minimum": "6.0",
+                                "minimum": "7.0",
                                 "requirementType": "OS",
                                 "title": "OS version"
                             }
                         ]
                     },
-                    "title": "Cultist Simulator"
+                    "title": "Doodle God: Infinite Alchemy Merge"
                 },
-                "offerId": "1228d7af0cd34ceb8579a0c5d4802e54",
-                "sandboxId": "d55b1ce868af425e9631c2d46c074ab9"
+                "offerId": "fe86df2c140d4ba1a3ad42aaab6f9ae7",
+                "sandboxId": "0fd4edf223e64b249082e86bfd49483d"
             },
             {
                 "content": {
@@ -8194,7 +8372,7 @@
                         }
                     ],
                     "systemSpecs": {
-                        "applicationVersion": "49.1",
+                        "applicationVersion": "49.2",
                         "platform": "android",
                         "systemRequirements": [
                             {
@@ -8203,7 +8381,7 @@
                                 "title": "Installation size"
                             },
                             {
-                                "minimum": "177.42 MB",
+                                "minimum": "177.57 MB",
                                 "requirementType": "DownloadSize",
                                 "title": "Download size"
                             },
@@ -8896,6 +9074,24 @@
                         }
                     },
                     "purchase": [
+                        {
+                            "discount": {
+                                "discountAmountDisplay": "-50%",
+                                "discountEndDate": "2025-07-09T15:00:00.000Z",
+                                "originalPriceDisplay": "€9.99"
+                            },
+                            "offerLifecycleState": "Release",
+                            "price": {
+                                "currencyCode": "EUR",
+                                "decimalPrice": 4.99
+                            },
+                            "priceDisplay": "€4.99",
+                            "purchasePayload": {
+                                "offerId": "4db605b1fd864f098fc6cefaa87de4a1",
+                                "sandboxId": "f0757a2ab13941d89476cfa09df9a545"
+                            },
+                            "purchaseType": "Purchase"
+                        },
                         {
                             "offerLifecycleState": "Release",
                             "price": {
