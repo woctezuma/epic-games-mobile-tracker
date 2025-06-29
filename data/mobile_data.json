@@ -112,5 +112,63 @@
         "slug": "dc-heroes-united-android-de4bc2",
         "store_url": "<https://store.epicgames.com/product/dc-heroes-united-android-de4bc2>",
         "title": "DC Heroes United"
+    },
+    "1-d55b1ce868af425e9631c2d46c074ab9-1228d7af0cd34ceb8579a0c5d4802e54": {
+        "age_control": 12,
+        "catalog_item_id": "a11fabf3ba12446d831ac703e5a878ce",
+        "checkout_url": "<https://store.epicgames.com/purchase?offers=1-d55b1ce868af425e9631c2d46c074ab9-1228d7af0cd34ceb8579a0c5d4802e54>",
+        "content_descriptors": [
+            "Horror",
+            "Sexual Innuendo"
+        ],
+        "current_price": "0",
+        "discount": "-100%",
+        "download_size": "384.33 MB",
+        "end_date": "2025-07-03T15:00:00.000Z",
+        "in_app_purchases": false,
+        "install_size": "524 Mo",
+        "interactive_elements": [],
+        "media": {
+            "OfferImageTall": "https://cdn1.epicgames.com/spt-assets/02ff04eaf61e4fa8b9869b50b64bff94/cultist-simulator-1ly2e.png",
+            "OfferImageWide": "https://cdn1.epicgames.com/spt-assets/02ff04eaf61e4fa8b9869b50b64bff94/cultist-simulator-1mcff.png",
+            "ProductIcon": "https://cdn1.epicgames.com/spt-assets/02ff04eaf61e4fa8b9869b50b64bff94/cultist-simulator-icon-1gtw8.png",
+            "coverImage": "https://cdn1.epicgames.com/spt-assets/02ff04eaf61e4fa8b9869b50b64bff94/cultist-simulator-1xund.png"
+        },
+        "offer_id": "1228d7af0cd34ceb8579a0c5d4802e54",
+        "original_price": "6.29",
+        "platform": "android",
+        "sandbox_id": "d55b1ce868af425e9631c2d46c074ab9",
+        "slug": "cultist-simulator-android-8c5386",
+        "store_url": "<https://store.epicgames.com/product/cultist-simulator-android-8c5386>",
+        "title": "Cultist Simulator"
+    },
+    "1-d55b1ce868af425e9631c2d46c074ab9-383fd6e2b6ed42e08973301540ba188b": {
+        "age_control": 12,
+        "catalog_item_id": "0239a754e11a473881f0dcd45a7f97a0",
+        "checkout_url": "<https://store.epicgames.com/purchase?offers=1-d55b1ce868af425e9631c2d46c074ab9-383fd6e2b6ed42e08973301540ba188b>",
+        "content_descriptors": [
+            "Horror",
+            "Sexual Innuendo"
+        ],
+        "current_price": "0",
+        "discount": "-100%",
+        "download_size": "403 Mo",
+        "end_date": "2025-07-03T15:00:00.000Z",
+        "in_app_purchases": false,
+        "install_size": "359 Mo",
+        "interactive_elements": [],
+        "media": {
+            "OfferImageTall": "https://cdn1.epicgames.com/spt-assets/02ff04eaf61e4fa8b9869b50b64bff94/cultist-simulator-q8zyn.png",
+            "OfferImageWide": "https://cdn1.epicgames.com/spt-assets/02ff04eaf61e4fa8b9869b50b64bff94/cultist-simulator-1ufl7.png",
+            "ProductIcon": "https://cdn1.epicgames.com/spt-assets/02ff04eaf61e4fa8b9869b50b64bff94/cultist-simulator-icon-1gtw8.png",
+            "coverImage": "https://cdn1.epicgames.com/spt-assets/02ff04eaf61e4fa8b9869b50b64bff94/cultist-simulator-1xund.png"
+        },
+        "offer_id": "383fd6e2b6ed42e08973301540ba188b",
+        "original_price": "6.29",
+        "platform": "ios",
+        "sandbox_id": "d55b1ce868af425e9631c2d46c074ab9",
+        "slug": "cultist-simulator-ios-8eba4c",
+        "store_url": "<https://store.epicgames.com/product/cultist-simulator-ios-8eba4c>",
+        "title": "Cultist Simulator"
     }
 }
