@@ -51,6 +51,62 @@
         "store_url": "<https://store.epicgames.com/product/doodle-god-infinite-alchemy-merge-android-dd11fe>",
         "title": "Doodle God: Infinite Alchemy Merge"
     },
+    "1-270e1d648a5e4060b7b441615c4da4d9-1692b4f15c1045a5968b8db5806d2867": {
+        "age_control": 12,
+        "catalog_item_id": "d8044498b96b4788ab6910da7a34118e",
+        "checkout_url": "<https://store.epicgames.com/purchase?offers=1-270e1d648a5e4060b7b441615c4da4d9-1692b4f15c1045a5968b8db5806d2867>",
+        "content_descriptors": [
+            "Mild Swearing"
+        ],
+        "current_price": "0",
+        "discount": "-100%",
+        "download_size": "787.52 MB",
+        "end_date": "2025-07-10T15:00:00.000Z",
+        "in_app_purchases": false,
+        "install_size": "967MB",
+        "interactive_elements": [],
+        "media": {
+            "OfferImageTall": "https://cdn1.epicgames.com/spt-assets/1c8da4b090f347819213f9130f5289d7/figment-1ws62.png",
+            "OfferImageWide": "https://cdn1.epicgames.com/spt-assets/1c8da4b090f347819213f9130f5289d7/figment-1q6eo.jpg",
+            "ProductIcon": "https://cdn1.epicgames.com/spt-assets/1c8da4b090f347819213f9130f5289d7/figment-icon-ep48r.png",
+            "coverImage": "https://cdn1.epicgames.com/spt-assets/1c8da4b090f347819213f9130f5289d7/figment-1fsa1.jpg"
+        },
+        "offer_id": "1692b4f15c1045a5968b8db5806d2867",
+        "original_price": "5.39",
+        "platform": "android",
+        "sandbox_id": "270e1d648a5e4060b7b441615c4da4d9",
+        "slug": "figment-android-38e58f",
+        "store_url": "<https://store.epicgames.com/product/figment-android-38e58f>",
+        "title": "Figment"
+    },
+    "1-270e1d648a5e4060b7b441615c4da4d9-e85fe9f43fc64fc89a78b950ee7f1860": {
+        "age_control": 12,
+        "catalog_item_id": "537342fa39e6483a8e0415d621398bda",
+        "checkout_url": "<https://store.epicgames.com/purchase?offers=1-270e1d648a5e4060b7b441615c4da4d9-e85fe9f43fc64fc89a78b950ee7f1860>",
+        "content_descriptors": [
+            "Mild Swearing"
+        ],
+        "current_price": "0",
+        "discount": "-100%",
+        "download_size": "685MB",
+        "end_date": "2025-07-10T15:00:00.000Z",
+        "in_app_purchases": false,
+        "install_size": "752MB",
+        "interactive_elements": [],
+        "media": {
+            "OfferImageTall": "https://cdn1.epicgames.com/spt-assets/1c8da4b090f347819213f9130f5289d7/figment-yeiqa.png",
+            "OfferImageWide": "https://cdn1.epicgames.com/spt-assets/1c8da4b090f347819213f9130f5289d7/figment-5chbv.jpg",
+            "ProductIcon": "https://cdn1.epicgames.com/spt-assets/1c8da4b090f347819213f9130f5289d7/figment-icon-ep48r.png",
+            "coverImage": "https://cdn1.epicgames.com/spt-assets/1c8da4b090f347819213f9130f5289d7/figment-1fsa1.jpg"
+        },
+        "offer_id": "e85fe9f43fc64fc89a78b950ee7f1860",
+        "original_price": "5.39",
+        "platform": "ios",
+        "sandbox_id": "270e1d648a5e4060b7b441615c4da4d9",
+        "slug": "figment-ios-982b04",
+        "store_url": "<https://store.epicgames.com/product/figment-ios-982b04>",
+        "title": "Figment"
+    },
     "1-5118b091950743c2bf33185cbd9cd35f-06e80adf547443e1b0161f3c16e57883": {
         "age_control": 12,
         "catalog_item_id": "492f4236452245d7830bf5fe869817a6",
