@@ -2613,16 +2613,16 @@
                         }
                     ],
                     "systemSpecs": {
-                        "applicationVersion": "4.2.2",
+                        "applicationVersion": "4.4.4",
                         "platform": "ios",
                         "systemRequirements": [
                             {
-                                "minimum": "2.1GB",
+                                "minimum": "2.2GB",
                                 "requirementType": "InstallSize",
                                 "title": "Installation size"
                             },
                             {
-                                "minimum": "2.1GB",
+                                "minimum": "2.2GB",
                                 "requirementType": "DownloadSize",
                                 "title": "Download size"
                             },
@@ -4334,6 +4334,7 @@
                     },
                     "catalogItemId": "537342fa39e6483a8e0415d621398bda",
                     "categories": [
+                        "freegames",
                         "games",
                         "games/edition",
                         "games/edition/base"
@@ -4372,6 +4373,36 @@
                         }
                     },
                     "purchase": [
+                        {
+                            "offerLifecycleState": "Release",
+                            "price": {
+                                "currencyCode": "EUR",
+                                "decimalPrice": 5.39
+                            },
+                            "priceDisplay": "€5.39",
+                            "purchasePayload": {
+                                "offerId": "e85fe9f43fc64fc89a78b950ee7f1860",
+                                "sandboxId": "270e1d648a5e4060b7b441615c4da4d9"
+                            },
+                            "purchaseType": "Purchase"
+                        },
+                        {
+                            "discount": {
+                                "discountAmountDisplay": "-100%",
+                                "discountEndDate": "2025-07-10T15:00:00.000Z",
+                                "originalPriceDisplay": "€5.39"
+                            },
+                            "offerLifecycleState": "Release",
+                            "price": {
+                                "currencyCode": "EUR",
+                                "decimalPrice": 0
+                            },
+                            "purchasePayload": {
+                                "offerId": "e85fe9f43fc64fc89a78b950ee7f1860",
+                                "sandboxId": "270e1d648a5e4060b7b441615c4da4d9"
+                            },
+                            "purchaseType": "Claim"
+                        },
                         {
                             "offerLifecycleState": "Release",
                             "price": {
