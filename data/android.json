@@ -16,6 +16,111 @@
                             "contentDescriptors": [
                                 "Strong Violence"
                             ],
+                            "interactiveElements": [
+                                "Users Interact",
+                                "Shares Location",
+                                "In-Game Purchases"
+                            ],
+                            "ratingImage": "https://cdn1.epicgames.com/gameRating/gameRating/PEGI_16_192_192x192-da60f0bd1fe7cb1ac9d8a8bd5168ea96",
+                            "ratingSystem": "PEGI",
+                            "rectangularRatingImage": "https://cdn1.epicgames.com/salesEvent/salesEvent/PEGI-16_435x530-65760d498ce28374fb7ca3258ee1440c",
+                            "title": "PEGI 16"
+                        },
+                        "ratingType": "AgeRating"
+                    },
+                    "attention": {
+                        "inAppPurchases": "MaybeIncludesInAppPurchases"
+                    },
+                    "catalogItemId": "d574f68a77004a7cb0f78939ce83daf9",
+                    "categories": [
+                        "games",
+                        "games/edition",
+                        "games/edition/base"
+                    ],
+                    "mapping": {
+                        "slug": "arena-breakout-android-db5cc2"
+                    },
+                    "media": {
+                        "appIcon": {
+                            "altText": "-",
+                            "height": 512,
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/8917c7fc5edb486b9993837d85e1bc42/arena-breakout-icon-1fmt1.png",
+                            "imageType": "ProductIcon",
+                            "width": 512
+                        },
+                        "card16x9": {
+                            "altText": "Arena Breakout Offer",
+                            "height": 1440,
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/8917c7fc5edb486b9993837d85e1bc42/arena-breakout-mvfxe.jpg",
+                            "imageType": "OfferImageWide",
+                            "width": 2560
+                        },
+                        "card3x4": {
+                            "altText": "Download Arena Breakout Offer",
+                            "height": 1600,
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/8917c7fc5edb486b9993837d85e1bc42/arena-breakout-17n53.jpg",
+                            "imageType": "OfferImageTall",
+                            "width": 1200
+                        },
+                        "coverImage": {
+                            "altText": "-",
+                            "height": 1440,
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/8917c7fc5edb486b9993837d85e1bc42/arena-breakout-3nrcx.jpg",
+                            "imageType": "coverImage",
+                            "width": 2560
+                        }
+                    },
+                    "purchase": [
+                        {
+                            "offerLifecycleState": "Release",
+                            "price": {
+                                "currencyCode": "EUR",
+                                "decimalPrice": 0
+                            },
+                            "purchasePayload": {
+                                "offerId": "eff66fdeafb24f0eb098447734fd8d2b",
+                                "sandboxId": "be8d49d895b046988d6f19bfdebd560a"
+                            },
+                            "purchaseType": "Claim"
+                        }
+                    ],
+                    "systemSpecs": {
+                        "applicationVersion": "1.0.203.203",
+                        "platform": "android",
+                        "systemRequirements": [
+                            {
+                                "minimum": "918MB",
+                                "requirementType": "InstallSize",
+                                "title": "Installation size"
+                            },
+                            {
+                                "minimum": "1.02 GB",
+                                "requirementType": "DownloadSize",
+                                "title": "Download size"
+                            },
+                            {
+                                "minimum": "API level 21",
+                                "requirementType": "OS",
+                                "title": "OS version"
+                            }
+                        ]
+                    },
+                    "title": "Arena Breakout"
+                },
+                "offerId": "eff66fdeafb24f0eb098447734fd8d2b",
+                "sandboxId": "be8d49d895b046988d6f19bfdebd560a"
+            },
+            {
+                "content": {
+                    "ageRating": {
+                        "ageGate": {
+                            "gate": "no-gate"
+                        },
+                        "ageRating": {
+                            "ageControl": 16,
+                            "contentDescriptors": [
+                                "Strong Violence"
+                            ],
                             "interactiveElements": [],
                             "ratingImage": "https://cdn1.epicgames.com/gameRating/gameRating/PEGI_16_192_192x192-da60f0bd1fe7cb1ac9d8a8bd5168ea96",
                             "ratingSystem": "PEGI",
@@ -505,312 +610,6 @@
                 },
                 "offerId": "87b44e258670465bad29348f151f9c6f",
                 "sandboxId": "59176cd042b64d029df8a1c92a54d0d2"
-            },
-            {
-                "content": {
-                    "ageRating": {
-                        "ageGate": {
-                            "gate": "no-gate"
-                        },
-                        "ageRating": {
-                            "ageControl": 3,
-                            "contentDescriptors": [],
-                            "interactiveElements": [],
-                            "ratingImage": "https://cdn1.epicgames.com/gameRating/gameRating/PEGI_3_192_192x192-490b93ddf59fb4ac1148d1eb9083626a",
-                            "ratingSystem": "PEGI",
-                            "rectangularRatingImage": "https://cdn1.epicgames.com/salesEvent/salesEvent/PEGI-3_435x530-c931ab5bb4eb190f6e8e542081c49dc4",
-                            "title": "PEGI 3"
-                        },
-                        "ratingType": "AgeRating"
-                    },
-                    "attention": {
-                        "inAppPurchases": "MaybeIncludesInAppPurchases"
-                    },
-                    "catalogItemId": "865602f46a2c4cd6852f4aba019a46d9",
-                    "categories": [
-                        "games",
-                        "games/edition",
-                        "games/edition/base"
-                    ],
-                    "mapping": {
-                        "slug": "mr-racer-stunt-mania-android-6cce44"
-                    },
-                    "media": {
-                        "appIcon": {
-                            "altText": "-",
-                            "height": 512,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/ac58d4b920fe4a9198c8022e27d44050/mr-stunt-mania-icon-11z4d.png",
-                            "imageType": "ProductIcon",
-                            "width": 512
-                        },
-                        "card16x9": {
-                            "altText": "MR RACER : Stunt Mania Offer",
-                            "height": 1440,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/ac58d4b920fe4a9198c8022e27d44050/mr-racer--stunt-mania-1sp5f.jpg",
-                            "imageType": "OfferImageWide",
-                            "width": 2560
-                        },
-                        "card3x4": {
-                            "altText": "Download MR RACER : Stunt Mania Offer",
-                            "height": 1600,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/ac58d4b920fe4a9198c8022e27d44050/mr-racer--stunt-mania-ijvuc.jpg",
-                            "imageType": "OfferImageTall",
-                            "width": 1200
-                        },
-                        "coverImage": {
-                            "altText": "-",
-                            "height": 1440,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/ac58d4b920fe4a9198c8022e27d44050/mr-racer--stunt-mania-12wzq.jpg",
-                            "imageType": "coverImage",
-                            "width": 2560
-                        }
-                    },
-                    "purchase": [
-                        {
-                            "offerLifecycleState": "Release",
-                            "price": {
-                                "currencyCode": "EUR",
-                                "decimalPrice": 0
-                            },
-                            "purchasePayload": {
-                                "offerId": "1e0be2cbca3a474ba3b6a5aaa16adcf4",
-                                "sandboxId": "ab411337020945c7a02e8a8102918d16"
-                            },
-                            "purchaseType": "Claim"
-                        }
-                    ],
-                    "systemSpecs": {
-                        "applicationVersion": "1.1.2",
-                        "platform": "android",
-                        "systemRequirements": [
-                            {
-                                "minimum": "140Mb",
-                                "requirementType": "InstallSize",
-                                "title": "Installation size"
-                            },
-                            {
-                                "minimum": "137.99 MB",
-                                "requirementType": "DownloadSize",
-                                "title": "Download size"
-                            },
-                            {
-                                "minimum": "6.0",
-                                "requirementType": "OS",
-                                "title": "OS version"
-                            }
-                        ]
-                    },
-                    "title": "MR Stunt Mania"
-                },
-                "offerId": "1e0be2cbca3a474ba3b6a5aaa16adcf4",
-                "sandboxId": "ab411337020945c7a02e8a8102918d16"
-            },
-            {
-                "content": {
-                    "ageRating": {
-                        "ageGate": {
-                            "gate": "no-gate"
-                        },
-                        "ageRating": {
-                            "ageControl": 12,
-                            "contentDescriptors": [
-                                "Moderate Violence"
-                            ],
-                            "interactiveElements": [
-                                "In-Game Purchases"
-                            ],
-                            "ratingImage": "https://cdn1.epicgames.com/gameRating/gameRating/PEGI_12_192_192x192-afa4df43f131bc83eb380ccf22f8d904",
-                            "ratingSystem": "PEGI",
-                            "rectangularRatingImage": "https://cdn1.epicgames.com/salesEvent/salesEvent/PEGI-12_436x530-0cd1f06607086f3cc1bc2b8643f21b0a",
-                            "title": "PEGI 12"
-                        },
-                        "ratingType": "AgeRating"
-                    },
-                    "attention": {
-                        "inAppPurchases": "MaybeIncludesInAppPurchases"
-                    },
-                    "catalogItemId": "93bcdb486dce40428a868475583b1c34",
-                    "categories": [
-                        "games",
-                        "games/edition",
-                        "games/edition/base"
-                    ],
-                    "mapping": {
-                        "slug": "crazy-traffic-control-android-e3dacb"
-                    },
-                    "media": {
-                        "appIcon": {
-                            "altText": "-",
-                            "height": 512,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/a2a2eb8fca8a41818c2edee8b8238be4/crazy-traffic-control-icon-9a5sx.png",
-                            "imageType": "ProductIcon",
-                            "width": 512
-                        },
-                        "card16x9": {
-                            "altText": "Crazy Traffic Control Offer",
-                            "height": 1440,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/a2a2eb8fca8a41818c2edee8b8238be4/crazy-traffic-control-nz71r.jpg",
-                            "imageType": "OfferImageWide",
-                            "width": 2560
-                        },
-                        "card3x4": {
-                            "altText": "Download Crazy Traffic Control Offer",
-                            "height": 1600,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/a2a2eb8fca8a41818c2edee8b8238be4/crazy-traffic-control-c73ul.png",
-                            "imageType": "OfferImageTall",
-                            "width": 1200
-                        },
-                        "coverImage": {
-                            "altText": "-",
-                            "height": 1440,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/a2a2eb8fca8a41818c2edee8b8238be4/crazy-traffic-control-eie5e.jpg",
-                            "imageType": "coverImage",
-                            "width": 2560
-                        }
-                    },
-                    "purchase": [
-                        {
-                            "offerLifecycleState": "Release",
-                            "price": {
-                                "currencyCode": "EUR",
-                                "decimalPrice": 0
-                            },
-                            "purchasePayload": {
-                                "offerId": "934f909d42af4353b713b4daca1b2c69",
-                                "sandboxId": "30f0e6ba95074c4899bceb9754a537b5"
-                            },
-                            "purchaseType": "Claim"
-                        }
-                    ],
-                    "systemSpecs": {
-                        "applicationVersion": "3.4.4",
-                        "platform": "android",
-                        "systemRequirements": [
-                            {
-                                "minimum": "790 MB",
-                                "requirementType": "InstallSize",
-                                "title": "Installation size"
-                            },
-                            {
-                                "minimum": "267.39 MB",
-                                "requirementType": "DownloadSize",
-                                "title": "Download size"
-                            },
-                            {
-                                "minimum": "7.0",
-                                "requirementType": "OS",
-                                "title": "OS version"
-                            }
-                        ]
-                    },
-                    "title": "Crazy Traffic Control"
-                },
-                "offerId": "934f909d42af4353b713b4daca1b2c69",
-                "sandboxId": "30f0e6ba95074c4899bceb9754a537b5"
-            },
-            {
-                "content": {
-                    "ageRating": {
-                        "ageGate": {
-                            "gate": "no-gate"
-                        },
-                        "ageRating": {
-                            "ageControl": 7,
-                            "contentDescriptors": [
-                                "Mild Violence"
-                            ],
-                            "interactiveElements": [
-                                "In-Game Purchases"
-                            ],
-                            "ratingImage": "https://cdn1.epicgames.com/gameRating/gameRating/PEGI_7_192_192x192-30e2e712d0682dad01add90a6ccbed5b",
-                            "ratingSystem": "PEGI",
-                            "rectangularRatingImage": "https://cdn1.epicgames.com/salesEvent/salesEvent/PEGI-7_435x530-9439a136999d3dd762c7a61c3b8c7683",
-                            "title": "PEGI 7"
-                        },
-                        "ratingType": "AgeRating"
-                    },
-                    "attention": {
-                        "inAppPurchases": "None"
-                    },
-                    "catalogItemId": "436e1e1a140d46cab5c23a59e615a838",
-                    "categories": [
-                        "games",
-                        "games/edition",
-                        "games/edition/base"
-                    ],
-                    "mapping": {
-                        "slug": "ogu-and-the-secret-forest-android-362ff7"
-                    },
-                    "media": {
-                        "appIcon": {
-                            "altText": "-",
-                            "height": 512,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/ab32c6c664f340f0bb18afcb9b036dae/ogu-and-the-secret-forest-icon-163ul.png",
-                            "imageType": "ProductIcon",
-                            "width": 512
-                        },
-                        "card16x9": {
-                            "altText": "Ogu and the Secret Forest Offer",
-                            "height": 1440,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/ab32c6c664f340f0bb18afcb9b036dae/ogu-and-the-secret-forest-13j1m.png",
-                            "imageType": "OfferImageWide",
-                            "width": 2560
-                        },
-                        "card3x4": {
-                            "altText": "Download Ogu and the Secret Forest Offer",
-                            "height": 1600,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/ab32c6c664f340f0bb18afcb9b036dae/ogu-and-the-secret-forest-1d9th.png",
-                            "imageType": "OfferImageTall",
-                            "width": 1200
-                        },
-                        "coverImage": {
-                            "altText": "-",
-                            "height": 1440,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/ab32c6c664f340f0bb18afcb9b036dae/ogu-and-the-secret-forest-hrnoi.png",
-                            "imageType": "coverImage",
-                            "width": 2560
-                        }
-                    },
-                    "purchase": [
-                        {
-                            "offerLifecycleState": "Release",
-                            "price": {
-                                "currencyCode": "EUR",
-                                "decimalPrice": 22.39
-                            },
-                            "priceDisplay": "€22.39",
-                            "purchasePayload": {
-                                "offerId": "084fffc9e5f84ecd95081999114a8292",
-                                "sandboxId": "03b2f198c0ec447db7ceff375b4bfe6b"
-                            },
-                            "purchaseType": "Purchase"
-                        }
-                    ],
-                    "systemSpecs": {
-                        "applicationVersion": "1.172",
-                        "platform": "android",
-                        "systemRequirements": [
-                            {
-                                "minimum": "1 GB",
-                                "requirementType": "InstallSize",
-                                "title": "Installation size"
-                            },
-                            {
-                                "minimum": "843.42 MB",
-                                "requirementType": "DownloadSize",
-                                "title": "Download size"
-                            },
-                            {
-                                "minimum": "7.0",
-                                "requirementType": "OS",
-                                "title": "OS version"
-                            }
-                        ]
-                    },
-                    "title": "Ogu and the Secret Forest"
-                },
-                "offerId": "084fffc9e5f84ecd95081999114a8292",
-                "sandboxId": "03b2f198c0ec447db7ceff375b4bfe6b"
             }
         ],
         "size": "xLarge",
@@ -2604,8 +2403,7 @@
                         "ageRating": {
                             "ageControl": 12,
                             "contentDescriptors": [
-                                "Horror",
-                                "Sexual Innuendo"
+                                "Mild Swearing"
                             ],
                             "interactiveElements": [],
                             "ratingImage": "https://cdn1.epicgames.com/gameRating/gameRating/PEGI_12_192_192x192-afa4df43f131bc83eb380ccf22f8d904",
@@ -2618,7 +2416,7 @@
                     "attention": {
                         "inAppPurchases": "None"
                     },
-                    "catalogItemId": "a11fabf3ba12446d831ac703e5a878ce",
+                    "catalogItemId": "d8044498b96b4788ab6910da7a34118e",
                     "categories": [
                         "freegames",
                         "games",
@@ -2626,34 +2424,34 @@
                         "games/edition/base"
                     ],
                     "mapping": {
-                        "slug": "cultist-simulator-android-8c5386"
+                        "slug": "figment-android-38e58f"
                     },
                     "media": {
                         "appIcon": {
                             "altText": "-",
                             "height": 512,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/02ff04eaf61e4fa8b9869b50b64bff94/cultist-simulator-icon-1gtw8.png",
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/1c8da4b090f347819213f9130f5289d7/figment-icon-ep48r.png",
                             "imageType": "ProductIcon",
                             "width": 512
                         },
                         "card16x9": {
-                            "altText": "Cultist Simulator Offer",
+                            "altText": "Figment Offer",
                             "height": 1440,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/02ff04eaf61e4fa8b9869b50b64bff94/cultist-simulator-1mcff.png",
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/1c8da4b090f347819213f9130f5289d7/figment-1q6eo.jpg",
                             "imageType": "OfferImageWide",
                             "width": 2560
                         },
                         "card3x4": {
-                            "altText": "Download Cultist Simulator Offer",
+                            "altText": "Download Figment Offer",
                             "height": 1600,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/02ff04eaf61e4fa8b9869b50b64bff94/cultist-simulator-1ly2e.png",
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/1c8da4b090f347819213f9130f5289d7/figment-1ws62.png",
                             "imageType": "OfferImageTall",
                             "width": 1200
                         },
                         "coverImage": {
                             "altText": "-",
                             "height": 1440,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/02ff04eaf61e4fa8b9869b50b64bff94/cultist-simulator-1mqqo.jpg",
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/1c8da4b090f347819213f9130f5289d7/figment-1fsa1.jpg",
                             "imageType": "coverImage",
                             "width": 2560
                         }
@@ -2662,8 +2460,8 @@
                         {
                             "discount": {
                                 "discountAmountDisplay": "-100%",
-                                "discountEndDate": "2025-07-03T15:00:00.000Z",
-                                "originalPriceDisplay": "€6.29"
+                                "discountEndDate": "2025-07-10T15:00:00.000Z",
+                                "originalPriceDisplay": "€5.39"
                             },
                             "offerLifecycleState": "Release",
                             "price": {
@@ -2671,8 +2469,8 @@
                                 "decimalPrice": 0
                             },
                             "purchasePayload": {
-                                "offerId": "1228d7af0cd34ceb8579a0c5d4802e54",
-                                "sandboxId": "d55b1ce868af425e9631c2d46c074ab9"
+                                "offerId": "1692b4f15c1045a5968b8db5806d2867",
+                                "sandboxId": "270e1d648a5e4060b7b441615c4da4d9"
                             },
                             "purchaseType": "Claim"
                         },
@@ -2680,41 +2478,41 @@
                             "offerLifecycleState": "Release",
                             "price": {
                                 "currencyCode": "EUR",
-                                "decimalPrice": 6.29
+                                "decimalPrice": 5.39
                             },
-                            "priceDisplay": "€6.29",
+                            "priceDisplay": "€5.39",
                             "purchasePayload": {
-                                "offerId": "1228d7af0cd34ceb8579a0c5d4802e54",
-                                "sandboxId": "d55b1ce868af425e9631c2d46c074ab9"
+                                "offerId": "1692b4f15c1045a5968b8db5806d2867",
+                                "sandboxId": "270e1d648a5e4060b7b441615c4da4d9"
                             },
                             "purchaseType": "Purchase"
                         }
                     ],
                     "systemSpecs": {
-                        "applicationVersion": "3.6.4",
+                        "applicationVersion": "1.7.1",
                         "platform": "android",
                         "systemRequirements": [
                             {
-                                "minimum": "524 Mo",
+                                "minimum": "967MB",
                                 "requirementType": "InstallSize",
                                 "title": "Installation size"
                             },
                             {
-                                "minimum": "384.33 MB",
+                                "minimum": "787.52 MB",
                                 "requirementType": "DownloadSize",
                                 "title": "Download size"
                             },
                             {
-                                "minimum": "6.0",
+                                "minimum": "8.0.0",
                                 "requirementType": "OS",
                                 "title": "OS version"
                             }
                         ]
                     },
-                    "title": "Cultist Simulator"
+                    "title": "Figment"
                 },
-                "offerId": "1228d7af0cd34ceb8579a0c5d4802e54",
-                "sandboxId": "d55b1ce868af425e9631c2d46c074ab9"
+                "offerId": "1692b4f15c1045a5968b8db5806d2867",
+                "sandboxId": "270e1d648a5e4060b7b441615c4da4d9"
             }
         ],
         "size": "large",
@@ -4113,6 +3911,312 @@
                             "gate": "no-gate"
                         },
                         "ageRating": {
+                            "ageControl": 3,
+                            "contentDescriptors": [],
+                            "interactiveElements": [],
+                            "ratingImage": "https://cdn1.epicgames.com/gameRating/gameRating/PEGI_3_192_192x192-490b93ddf59fb4ac1148d1eb9083626a",
+                            "ratingSystem": "PEGI",
+                            "rectangularRatingImage": "https://cdn1.epicgames.com/salesEvent/salesEvent/PEGI-3_435x530-c931ab5bb4eb190f6e8e542081c49dc4",
+                            "title": "PEGI 3"
+                        },
+                        "ratingType": "AgeRating"
+                    },
+                    "attention": {
+                        "inAppPurchases": "MaybeIncludesInAppPurchases"
+                    },
+                    "catalogItemId": "865602f46a2c4cd6852f4aba019a46d9",
+                    "categories": [
+                        "games",
+                        "games/edition",
+                        "games/edition/base"
+                    ],
+                    "mapping": {
+                        "slug": "mr-racer-stunt-mania-android-6cce44"
+                    },
+                    "media": {
+                        "appIcon": {
+                            "altText": "-",
+                            "height": 512,
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/ac58d4b920fe4a9198c8022e27d44050/mr-stunt-mania-icon-11z4d.png",
+                            "imageType": "ProductIcon",
+                            "width": 512
+                        },
+                        "card16x9": {
+                            "altText": "MR RACER : Stunt Mania Offer",
+                            "height": 1440,
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/ac58d4b920fe4a9198c8022e27d44050/mr-racer--stunt-mania-1sp5f.jpg",
+                            "imageType": "OfferImageWide",
+                            "width": 2560
+                        },
+                        "card3x4": {
+                            "altText": "Download MR RACER : Stunt Mania Offer",
+                            "height": 1600,
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/ac58d4b920fe4a9198c8022e27d44050/mr-racer--stunt-mania-ijvuc.jpg",
+                            "imageType": "OfferImageTall",
+                            "width": 1200
+                        },
+                        "coverImage": {
+                            "altText": "-",
+                            "height": 1440,
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/ac58d4b920fe4a9198c8022e27d44050/mr-racer--stunt-mania-12wzq.jpg",
+                            "imageType": "coverImage",
+                            "width": 2560
+                        }
+                    },
+                    "purchase": [
+                        {
+                            "offerLifecycleState": "Release",
+                            "price": {
+                                "currencyCode": "EUR",
+                                "decimalPrice": 0
+                            },
+                            "purchasePayload": {
+                                "offerId": "1e0be2cbca3a474ba3b6a5aaa16adcf4",
+                                "sandboxId": "ab411337020945c7a02e8a8102918d16"
+                            },
+                            "purchaseType": "Claim"
+                        }
+                    ],
+                    "systemSpecs": {
+                        "applicationVersion": "1.1.2",
+                        "platform": "android",
+                        "systemRequirements": [
+                            {
+                                "minimum": "140Mb",
+                                "requirementType": "InstallSize",
+                                "title": "Installation size"
+                            },
+                            {
+                                "minimum": "137.99 MB",
+                                "requirementType": "DownloadSize",
+                                "title": "Download size"
+                            },
+                            {
+                                "minimum": "6.0",
+                                "requirementType": "OS",
+                                "title": "OS version"
+                            }
+                        ]
+                    },
+                    "title": "MR Stunt Mania"
+                },
+                "offerId": "1e0be2cbca3a474ba3b6a5aaa16adcf4",
+                "sandboxId": "ab411337020945c7a02e8a8102918d16"
+            },
+            {
+                "content": {
+                    "ageRating": {
+                        "ageGate": {
+                            "gate": "no-gate"
+                        },
+                        "ageRating": {
+                            "ageControl": 12,
+                            "contentDescriptors": [
+                                "Moderate Violence"
+                            ],
+                            "interactiveElements": [
+                                "In-Game Purchases"
+                            ],
+                            "ratingImage": "https://cdn1.epicgames.com/gameRating/gameRating/PEGI_12_192_192x192-afa4df43f131bc83eb380ccf22f8d904",
+                            "ratingSystem": "PEGI",
+                            "rectangularRatingImage": "https://cdn1.epicgames.com/salesEvent/salesEvent/PEGI-12_436x530-0cd1f06607086f3cc1bc2b8643f21b0a",
+                            "title": "PEGI 12"
+                        },
+                        "ratingType": "AgeRating"
+                    },
+                    "attention": {
+                        "inAppPurchases": "MaybeIncludesInAppPurchases"
+                    },
+                    "catalogItemId": "93bcdb486dce40428a868475583b1c34",
+                    "categories": [
+                        "games",
+                        "games/edition",
+                        "games/edition/base"
+                    ],
+                    "mapping": {
+                        "slug": "crazy-traffic-control-android-e3dacb"
+                    },
+                    "media": {
+                        "appIcon": {
+                            "altText": "-",
+                            "height": 512,
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/a2a2eb8fca8a41818c2edee8b8238be4/crazy-traffic-control-icon-9a5sx.png",
+                            "imageType": "ProductIcon",
+                            "width": 512
+                        },
+                        "card16x9": {
+                            "altText": "Crazy Traffic Control Offer",
+                            "height": 1440,
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/a2a2eb8fca8a41818c2edee8b8238be4/crazy-traffic-control-nz71r.jpg",
+                            "imageType": "OfferImageWide",
+                            "width": 2560
+                        },
+                        "card3x4": {
+                            "altText": "Download Crazy Traffic Control Offer",
+                            "height": 1600,
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/a2a2eb8fca8a41818c2edee8b8238be4/crazy-traffic-control-c73ul.png",
+                            "imageType": "OfferImageTall",
+                            "width": 1200
+                        },
+                        "coverImage": {
+                            "altText": "-",
+                            "height": 1440,
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/a2a2eb8fca8a41818c2edee8b8238be4/crazy-traffic-control-eie5e.jpg",
+                            "imageType": "coverImage",
+                            "width": 2560
+                        }
+                    },
+                    "purchase": [
+                        {
+                            "offerLifecycleState": "Release",
+                            "price": {
+                                "currencyCode": "EUR",
+                                "decimalPrice": 0
+                            },
+                            "purchasePayload": {
+                                "offerId": "934f909d42af4353b713b4daca1b2c69",
+                                "sandboxId": "30f0e6ba95074c4899bceb9754a537b5"
+                            },
+                            "purchaseType": "Claim"
+                        }
+                    ],
+                    "systemSpecs": {
+                        "applicationVersion": "3.4.4",
+                        "platform": "android",
+                        "systemRequirements": [
+                            {
+                                "minimum": "790 MB",
+                                "requirementType": "InstallSize",
+                                "title": "Installation size"
+                            },
+                            {
+                                "minimum": "267.39 MB",
+                                "requirementType": "DownloadSize",
+                                "title": "Download size"
+                            },
+                            {
+                                "minimum": "7.0",
+                                "requirementType": "OS",
+                                "title": "OS version"
+                            }
+                        ]
+                    },
+                    "title": "Crazy Traffic Control"
+                },
+                "offerId": "934f909d42af4353b713b4daca1b2c69",
+                "sandboxId": "30f0e6ba95074c4899bceb9754a537b5"
+            },
+            {
+                "content": {
+                    "ageRating": {
+                        "ageGate": {
+                            "gate": "no-gate"
+                        },
+                        "ageRating": {
+                            "ageControl": 7,
+                            "contentDescriptors": [
+                                "Mild Violence"
+                            ],
+                            "interactiveElements": [
+                                "In-Game Purchases"
+                            ],
+                            "ratingImage": "https://cdn1.epicgames.com/gameRating/gameRating/PEGI_7_192_192x192-30e2e712d0682dad01add90a6ccbed5b",
+                            "ratingSystem": "PEGI",
+                            "rectangularRatingImage": "https://cdn1.epicgames.com/salesEvent/salesEvent/PEGI-7_435x530-9439a136999d3dd762c7a61c3b8c7683",
+                            "title": "PEGI 7"
+                        },
+                        "ratingType": "AgeRating"
+                    },
+                    "attention": {
+                        "inAppPurchases": "None"
+                    },
+                    "catalogItemId": "436e1e1a140d46cab5c23a59e615a838",
+                    "categories": [
+                        "games",
+                        "games/edition",
+                        "games/edition/base"
+                    ],
+                    "mapping": {
+                        "slug": "ogu-and-the-secret-forest-android-362ff7"
+                    },
+                    "media": {
+                        "appIcon": {
+                            "altText": "-",
+                            "height": 512,
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/ab32c6c664f340f0bb18afcb9b036dae/ogu-and-the-secret-forest-icon-163ul.png",
+                            "imageType": "ProductIcon",
+                            "width": 512
+                        },
+                        "card16x9": {
+                            "altText": "Ogu and the Secret Forest Offer",
+                            "height": 1440,
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/ab32c6c664f340f0bb18afcb9b036dae/ogu-and-the-secret-forest-13j1m.png",
+                            "imageType": "OfferImageWide",
+                            "width": 2560
+                        },
+                        "card3x4": {
+                            "altText": "Download Ogu and the Secret Forest Offer",
+                            "height": 1600,
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/ab32c6c664f340f0bb18afcb9b036dae/ogu-and-the-secret-forest-1d9th.png",
+                            "imageType": "OfferImageTall",
+                            "width": 1200
+                        },
+                        "coverImage": {
+                            "altText": "-",
+                            "height": 1440,
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/ab32c6c664f340f0bb18afcb9b036dae/ogu-and-the-secret-forest-hrnoi.png",
+                            "imageType": "coverImage",
+                            "width": 2560
+                        }
+                    },
+                    "purchase": [
+                        {
+                            "offerLifecycleState": "Release",
+                            "price": {
+                                "currencyCode": "EUR",
+                                "decimalPrice": 22.39
+                            },
+                            "priceDisplay": "€22.39",
+                            "purchasePayload": {
+                                "offerId": "084fffc9e5f84ecd95081999114a8292",
+                                "sandboxId": "03b2f198c0ec447db7ceff375b4bfe6b"
+                            },
+                            "purchaseType": "Purchase"
+                        }
+                    ],
+                    "systemSpecs": {
+                        "applicationVersion": "1.172",
+                        "platform": "android",
+                        "systemRequirements": [
+                            {
+                                "minimum": "1 GB",
+                                "requirementType": "InstallSize",
+                                "title": "Installation size"
+                            },
+                            {
+                                "minimum": "843.42 MB",
+                                "requirementType": "DownloadSize",
+                                "title": "Download size"
+                            },
+                            {
+                                "minimum": "7.0",
+                                "requirementType": "OS",
+                                "title": "OS version"
+                            }
+                        ]
+                    },
+                    "title": "Ogu and the Secret Forest"
+                },
+                "offerId": "084fffc9e5f84ecd95081999114a8292",
+                "sandboxId": "03b2f198c0ec447db7ceff375b4bfe6b"
+            },
+            {
+                "content": {
+                    "ageRating": {
+                        "ageGate": {
+                            "gate": "no-gate"
+                        },
+                        "ageRating": {
                             "ageControl": 7,
                             "contentDescriptors": [
                                 "Implied Violence"
@@ -4271,19 +4375,6 @@
                         }
                     },
                     "purchase": [
-                        {
-                            "offerLifecycleState": "Release",
-                            "price": {
-                                "currencyCode": "EUR",
-                                "decimalPrice": 5.99
-                            },
-                            "priceDisplay": "€5.99",
-                            "purchasePayload": {
-                                "offerId": "c4b35f34287f4f1b8b60e12e8139bcac",
-                                "sandboxId": "23d15d74b61d4852a2867704c1805c1e"
-                            },
-                            "purchaseType": "Purchase"
-                        },
                         {
                             "discount": {
                                 "discountAmountDisplay": "-49%",
@@ -4910,19 +5001,6 @@
                         }
                     },
                     "purchase": [
-                        {
-                            "offerLifecycleState": "Release",
-                            "price": {
-                                "currencyCode": "EUR",
-                                "decimalPrice": 3.59
-                            },
-                            "priceDisplay": "€3.59",
-                            "purchasePayload": {
-                                "offerId": "bfa7235a577547578527633c82c776a2",
-                                "sandboxId": "1370d5c73fa4438da24c595ea3338456"
-                            },
-                            "purchaseType": "Purchase"
-                        },
                         {
                             "discount": {
                                 "discountAmountDisplay": "-57%",
@@ -5691,19 +5769,6 @@
                         }
                     },
                     "purchase": [
-                        {
-                            "offerLifecycleState": "Release",
-                            "price": {
-                                "currencyCode": "EUR",
-                                "decimalPrice": 2.99
-                            },
-                            "priceDisplay": "€2.99",
-                            "purchasePayload": {
-                                "offerId": "66e8ded38efe434c9a2e28c2aab33d99",
-                                "sandboxId": "75184e746fee49fd9b2928ea79ef1454"
-                            },
-                            "purchaseType": "Purchase"
-                        },
                         {
                             "discount": {
                                 "discountAmountDisplay": "-67%",
@@ -8055,7 +8120,8 @@
                         "ageRating": {
                             "ageControl": 12,
                             "contentDescriptors": [
-                                "Mild Swearing"
+                                "Horror",
+                                "Sexual Innuendo"
                             ],
                             "interactiveElements": [],
                             "ratingImage": "https://cdn1.epicgames.com/gameRating/gameRating/PEGI_12_192_192x192-afa4df43f131bc83eb380ccf22f8d904",
@@ -8068,42 +8134,41 @@
                     "attention": {
                         "inAppPurchases": "None"
                     },
-                    "catalogItemId": "d8044498b96b4788ab6910da7a34118e",
+                    "catalogItemId": "a11fabf3ba12446d831ac703e5a878ce",
                     "categories": [
-                        "freegames",
                         "games",
                         "games/edition",
                         "games/edition/base"
                     ],
                     "mapping": {
-                        "slug": "figment-android-38e58f"
+                        "slug": "cultist-simulator-android-8c5386"
                     },
                     "media": {
                         "appIcon": {
                             "altText": "-",
                             "height": 512,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/1c8da4b090f347819213f9130f5289d7/figment-icon-ep48r.png",
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/02ff04eaf61e4fa8b9869b50b64bff94/cultist-simulator-icon-1gtw8.png",
                             "imageType": "ProductIcon",
                             "width": 512
                         },
                         "card16x9": {
-                            "altText": "Figment Offer",
+                            "altText": "Cultist Simulator Offer",
                             "height": 1440,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/1c8da4b090f347819213f9130f5289d7/figment-1q6eo.jpg",
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/02ff04eaf61e4fa8b9869b50b64bff94/cultist-simulator-1mcff.png",
                             "imageType": "OfferImageWide",
                             "width": 2560
                         },
                         "card3x4": {
-                            "altText": "Download Figment Offer",
+                            "altText": "Download Cultist Simulator Offer",
                             "height": 1600,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/1c8da4b090f347819213f9130f5289d7/figment-1ws62.png",
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/02ff04eaf61e4fa8b9869b50b64bff94/cultist-simulator-1ly2e.png",
                             "imageType": "OfferImageTall",
                             "width": 1200
                         },
                         "coverImage": {
                             "altText": "-",
                             "height": 1440,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/1c8da4b090f347819213f9130f5289d7/figment-1fsa1.jpg",
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/02ff04eaf61e4fa8b9869b50b64bff94/cultist-simulator-1mqqo.jpg",
                             "imageType": "coverImage",
                             "width": 2560
                         }
@@ -8113,71 +8178,41 @@
                             "offerLifecycleState": "Release",
                             "price": {
                                 "currencyCode": "EUR",
-                                "decimalPrice": 5.39
+                                "decimalPrice": 6.29
                             },
-                            "priceDisplay": "€5.39",
+                            "priceDisplay": "€6.29",
                             "purchasePayload": {
-                                "offerId": "1692b4f15c1045a5968b8db5806d2867",
-                                "sandboxId": "270e1d648a5e4060b7b441615c4da4d9"
-                            },
-                            "purchaseType": "Purchase"
-                        },
-                        {
-                            "discount": {
-                                "discountAmountDisplay": "-100%",
-                                "discountEndDate": "2025-07-10T15:00:00.000Z",
-                                "originalPriceDisplay": "€5.39"
-                            },
-                            "offerLifecycleState": "Release",
-                            "price": {
-                                "currencyCode": "EUR",
-                                "decimalPrice": 0
-                            },
-                            "purchasePayload": {
-                                "offerId": "1692b4f15c1045a5968b8db5806d2867",
-                                "sandboxId": "270e1d648a5e4060b7b441615c4da4d9"
-                            },
-                            "purchaseType": "Claim"
-                        },
-                        {
-                            "offerLifecycleState": "Release",
-                            "price": {
-                                "currencyCode": "EUR",
-                                "decimalPrice": 5.39
-                            },
-                            "priceDisplay": "€5.39",
-                            "purchasePayload": {
-                                "offerId": "1692b4f15c1045a5968b8db5806d2867",
-                                "sandboxId": "270e1d648a5e4060b7b441615c4da4d9"
+                                "offerId": "1228d7af0cd34ceb8579a0c5d4802e54",
+                                "sandboxId": "d55b1ce868af425e9631c2d46c074ab9"
                             },
                             "purchaseType": "Purchase"
                         }
                     ],
                     "systemSpecs": {
-                        "applicationVersion": "1.7.1",
+                        "applicationVersion": "3.6.4",
                         "platform": "android",
                         "systemRequirements": [
                             {
-                                "minimum": "967MB",
+                                "minimum": "524 Mo",
                                 "requirementType": "InstallSize",
                                 "title": "Installation size"
                             },
                             {
-                                "minimum": "787.52 MB",
+                                "minimum": "384.33 MB",
                                 "requirementType": "DownloadSize",
                                 "title": "Download size"
                             },
                             {
-                                "minimum": "8.0.0",
+                                "minimum": "6.0",
                                 "requirementType": "OS",
                                 "title": "OS version"
                             }
                         ]
                     },
-                    "title": "Figment"
+                    "title": "Cultist Simulator"
                 },
-                "offerId": "1692b4f15c1045a5968b8db5806d2867",
-                "sandboxId": "270e1d648a5e4060b7b441615c4da4d9"
+                "offerId": "1228d7af0cd34ceb8579a0c5d4802e54",
+                "sandboxId": "d55b1ce868af425e9631c2d46c074ab9"
             },
             {
                 "content": {
@@ -9163,19 +9198,6 @@
                     },
                     "purchase": [
                         {
-                            "offerLifecycleState": "Release",
-                            "price": {
-                                "currencyCode": "EUR",
-                                "decimalPrice": 7.99
-                            },
-                            "priceDisplay": "€7.99",
-                            "purchasePayload": {
-                                "offerId": "6f7428ec61224e17bc23866e08817e67",
-                                "sandboxId": "f5e1592d41da4d7aaf31cc5379a1b5dd"
-                            },
-                            "purchaseType": "Purchase"
-                        },
-                        {
                             "discount": {
                                 "discountAmountDisplay": "-75%",
                                 "discountEndDate": "2025-07-16T15:00:00.000Z",
@@ -9717,19 +9739,6 @@
                         }
                     },
                     "purchase": [
-                        {
-                            "offerLifecycleState": "Release",
-                            "price": {
-                                "currencyCode": "EUR",
-                                "decimalPrice": 9.99
-                            },
-                            "priceDisplay": "€9.99",
-                            "purchasePayload": {
-                                "offerId": "98a9e24ff2284599b82818187433db5c",
-                                "sandboxId": "a4b5203877a04321bd1989cef6ba51dc"
-                            },
-                            "purchaseType": "Purchase"
-                        },
                         {
                             "discount": {
                                 "discountAmountDisplay": "-50%",
