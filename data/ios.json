@@ -2411,8 +2411,7 @@
                         "ageRating": {
                             "ageControl": 12,
                             "contentDescriptors": [
-                                "Horror",
-                                "Sexual Innuendo"
+                                "Mild Swearing"
                             ],
                             "interactiveElements": [],
                             "ratingImage": "https://cdn1.epicgames.com/gameRating/gameRating/PEGI_12_192_192x192-afa4df43f131bc83eb380ccf22f8d904",
@@ -2425,7 +2424,7 @@
                     "attention": {
                         "inAppPurchases": "None"
                     },
-                    "catalogItemId": "0239a754e11a473881f0dcd45a7f97a0",
+                    "catalogItemId": "537342fa39e6483a8e0415d621398bda",
                     "categories": [
                         "freegames",
                         "games",
@@ -2433,34 +2432,34 @@
                         "games/edition/base"
                     ],
                     "mapping": {
-                        "slug": "cultist-simulator-ios-8eba4c"
+                        "slug": "figment-ios-982b04"
                     },
                     "media": {
                         "appIcon": {
                             "altText": "-",
                             "height": 512,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/02ff04eaf61e4fa8b9869b50b64bff94/cultist-simulator-icon-1gtw8.png",
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/1c8da4b090f347819213f9130f5289d7/figment-icon-ep48r.png",
                             "imageType": "ProductIcon",
                             "width": 512
                         },
                         "card16x9": {
-                            "altText": "Cultist Simulator Offer",
+                            "altText": "Figment Offer",
                             "height": 1440,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/02ff04eaf61e4fa8b9869b50b64bff94/cultist-simulator-1ufl7.png",
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/1c8da4b090f347819213f9130f5289d7/figment-5chbv.jpg",
                             "imageType": "OfferImageWide",
                             "width": 2560
                         },
                         "card3x4": {
-                            "altText": "Download Cultist Simulator Offer",
+                            "altText": "Download Figment Offer",
                             "height": 1600,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/02ff04eaf61e4fa8b9869b50b64bff94/cultist-simulator-q8zyn.png",
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/1c8da4b090f347819213f9130f5289d7/figment-yeiqa.png",
                             "imageType": "OfferImageTall",
                             "width": 1200
                         },
                         "coverImage": {
                             "altText": "-",
                             "height": 1440,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/02ff04eaf61e4fa8b9869b50b64bff94/cultist-simulator-1mqqo.jpg",
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/1c8da4b090f347819213f9130f5289d7/figment-1fsa1.jpg",
                             "imageType": "coverImage",
                             "width": 2560
                         }
@@ -2469,8 +2468,8 @@
                         {
                             "discount": {
                                 "discountAmountDisplay": "-100%",
-                                "discountEndDate": "2025-07-03T15:00:00.000Z",
-                                "originalPriceDisplay": "€6.29"
+                                "discountEndDate": "2025-07-10T15:00:00.000Z",
+                                "originalPriceDisplay": "€5.39"
                             },
                             "offerLifecycleState": "Release",
                             "price": {
@@ -2478,8 +2477,8 @@
                                 "decimalPrice": 0
                             },
                             "purchasePayload": {
-                                "offerId": "383fd6e2b6ed42e08973301540ba188b",
-                                "sandboxId": "d55b1ce868af425e9631c2d46c074ab9"
+                                "offerId": "e85fe9f43fc64fc89a78b950ee7f1860",
+                                "sandboxId": "270e1d648a5e4060b7b441615c4da4d9"
                             },
                             "purchaseType": "Claim"
                         },
@@ -2487,41 +2486,41 @@
                             "offerLifecycleState": "Release",
                             "price": {
                                 "currencyCode": "EUR",
-                                "decimalPrice": 6.29
+                                "decimalPrice": 5.39
                             },
-                            "priceDisplay": "€6.29",
+                            "priceDisplay": "€5.39",
                             "purchasePayload": {
-                                "offerId": "383fd6e2b6ed42e08973301540ba188b",
-                                "sandboxId": "d55b1ce868af425e9631c2d46c074ab9"
+                                "offerId": "e85fe9f43fc64fc89a78b950ee7f1860",
+                                "sandboxId": "270e1d648a5e4060b7b441615c4da4d9"
                             },
                             "purchaseType": "Purchase"
                         }
                     ],
                     "systemSpecs": {
-                        "applicationVersion": "3.6.3",
+                        "applicationVersion": "1.7.0",
                         "platform": "ios",
                         "systemRequirements": [
                             {
-                                "minimum": "359 Mo",
+                                "minimum": "752MB",
                                 "requirementType": "InstallSize",
                                 "title": "Installation size"
                             },
                             {
-                                "minimum": "403 Mo",
+                                "minimum": "685MB",
                                 "requirementType": "DownloadSize",
                                 "title": "Download size"
                             },
                             {
-                                "minimum": "12",
+                                "minimum": "iOS 16",
                                 "requirementType": "OS",
                                 "title": "OS version"
                             }
                         ]
                     },
-                    "title": "Cultist Simulator"
+                    "title": "Figment"
                 },
-                "offerId": "383fd6e2b6ed42e08973301540ba188b",
-                "sandboxId": "d55b1ce868af425e9631c2d46c074ab9"
+                "offerId": "e85fe9f43fc64fc89a78b950ee7f1860",
+                "sandboxId": "270e1d648a5e4060b7b441615c4da4d9"
             }
         ],
         "size": "large",
@@ -4319,7 +4318,8 @@
                         "ageRating": {
                             "ageControl": 12,
                             "contentDescriptors": [
-                                "Mild Swearing"
+                                "Horror",
+                                "Sexual Innuendo"
                             ],
                             "interactiveElements": [],
                             "ratingImage": "https://cdn1.epicgames.com/gameRating/gameRating/PEGI_12_192_192x192-afa4df43f131bc83eb380ccf22f8d904",
@@ -4332,42 +4332,41 @@
                     "attention": {
                         "inAppPurchases": "None"
                     },
-                    "catalogItemId": "537342fa39e6483a8e0415d621398bda",
+                    "catalogItemId": "0239a754e11a473881f0dcd45a7f97a0",
                     "categories": [
-                        "freegames",
                         "games",
                         "games/edition",
                         "games/edition/base"
                     ],
                     "mapping": {
-                        "slug": "figment-ios-982b04"
+                        "slug": "cultist-simulator-ios-8eba4c"
                     },
                     "media": {
                         "appIcon": {
                             "altText": "-",
                             "height": 512,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/1c8da4b090f347819213f9130f5289d7/figment-icon-ep48r.png",
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/02ff04eaf61e4fa8b9869b50b64bff94/cultist-simulator-icon-1gtw8.png",
                             "imageType": "ProductIcon",
                             "width": 512
                         },
                         "card16x9": {
-                            "altText": "Figment Offer",
+                            "altText": "Cultist Simulator Offer",
                             "height": 1440,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/1c8da4b090f347819213f9130f5289d7/figment-5chbv.jpg",
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/02ff04eaf61e4fa8b9869b50b64bff94/cultist-simulator-1ufl7.png",
                             "imageType": "OfferImageWide",
                             "width": 2560
                         },
                         "card3x4": {
-                            "altText": "Download Figment Offer",
+                            "altText": "Download Cultist Simulator Offer",
                             "height": 1600,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/1c8da4b090f347819213f9130f5289d7/figment-yeiqa.png",
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/02ff04eaf61e4fa8b9869b50b64bff94/cultist-simulator-q8zyn.png",
                             "imageType": "OfferImageTall",
                             "width": 1200
                         },
                         "coverImage": {
                             "altText": "-",
                             "height": 1440,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/1c8da4b090f347819213f9130f5289d7/figment-1fsa1.jpg",
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/02ff04eaf61e4fa8b9869b50b64bff94/cultist-simulator-1mqqo.jpg",
                             "imageType": "coverImage",
                             "width": 2560
                         }
@@ -4377,71 +4376,41 @@
                             "offerLifecycleState": "Release",
                             "price": {
                                 "currencyCode": "EUR",
-                                "decimalPrice": 5.39
+                                "decimalPrice": 6.29
                             },
-                            "priceDisplay": "€5.39",
+                            "priceDisplay": "€6.29",
                             "purchasePayload": {
-                                "offerId": "e85fe9f43fc64fc89a78b950ee7f1860",
-                                "sandboxId": "270e1d648a5e4060b7b441615c4da4d9"
-                            },
-                            "purchaseType": "Purchase"
-                        },
-                        {
-                            "discount": {
-                                "discountAmountDisplay": "-100%",
-                                "discountEndDate": "2025-07-10T15:00:00.000Z",
-                                "originalPriceDisplay": "€5.39"
-                            },
-                            "offerLifecycleState": "Release",
-                            "price": {
-                                "currencyCode": "EUR",
-                                "decimalPrice": 0
-                            },
-                            "purchasePayload": {
-                                "offerId": "e85fe9f43fc64fc89a78b950ee7f1860",
-                                "sandboxId": "270e1d648a5e4060b7b441615c4da4d9"
-                            },
-                            "purchaseType": "Claim"
-                        },
-                        {
-                            "offerLifecycleState": "Release",
-                            "price": {
-                                "currencyCode": "EUR",
-                                "decimalPrice": 5.39
-                            },
-                            "priceDisplay": "€5.39",
-                            "purchasePayload": {
-                                "offerId": "e85fe9f43fc64fc89a78b950ee7f1860",
-                                "sandboxId": "270e1d648a5e4060b7b441615c4da4d9"
+                                "offerId": "383fd6e2b6ed42e08973301540ba188b",
+                                "sandboxId": "d55b1ce868af425e9631c2d46c074ab9"
                             },
                             "purchaseType": "Purchase"
                         }
                     ],
                     "systemSpecs": {
-                        "applicationVersion": "1.7.0",
+                        "applicationVersion": "3.6.3",
                         "platform": "ios",
                         "systemRequirements": [
                             {
-                                "minimum": "752MB",
+                                "minimum": "359 Mo",
                                 "requirementType": "InstallSize",
                                 "title": "Installation size"
                             },
                             {
-                                "minimum": "685MB",
+                                "minimum": "403 Mo",
                                 "requirementType": "DownloadSize",
                                 "title": "Download size"
                             },
                             {
-                                "minimum": "iOS 16",
+                                "minimum": "12",
                                 "requirementType": "OS",
                                 "title": "OS version"
                             }
                         ]
                     },
-                    "title": "Figment"
+                    "title": "Cultist Simulator"
                 },
-                "offerId": "e85fe9f43fc64fc89a78b950ee7f1860",
-                "sandboxId": "270e1d648a5e4060b7b441615c4da4d9"
+                "offerId": "383fd6e2b6ed42e08973301540ba188b",
+                "sandboxId": "d55b1ce868af425e9631c2d46c074ab9"
             },
             {
                 "content": {
