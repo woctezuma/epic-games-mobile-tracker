@@ -3033,7 +3033,7 @@
                         }
                     ],
                     "systemSpecs": {
-                        "applicationVersion": "1.39.7",
+                        "applicationVersion": "1.40.0",
                         "platform": "ios",
                         "systemRequirements": [
                             {
