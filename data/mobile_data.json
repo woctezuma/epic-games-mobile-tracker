@@ -51,6 +51,62 @@
         "store_url": "<https://store.epicgames.com/product/doodle-god-infinite-alchemy-merge-android-dd11fe>",
         "title": "Doodle God: Infinite Alchemy Merge"
     },
+    "1-109a4631336a475ca4e4a8a51cc6fe69-25975acb0cba4e268fc866171bc8c0c9": {
+        "age_control": 7,
+        "catalog_item_id": "6b022303db2d4df5a14a955d2220f8e1",
+        "checkout_url": "<https://store.epicgames.com/purchase?offers=1-109a4631336a475ca4e4a8a51cc6fe69-25975acb0cba4e268fc866171bc8c0c9>",
+        "content_descriptors": [
+            "Mild Violence"
+        ],
+        "current_price": "0",
+        "discount": "-100%",
+        "download_size": "1.26 GB",
+        "end_date": "2025-07-17T15:00:00.000Z",
+        "in_app_purchases": false,
+        "install_size": "1.42 GB",
+        "interactive_elements": [],
+        "media": {
+            "OfferImageTall": "https://cdn1.epicgames.com/spt-assets/dd3cd36c07864e8398375e00372711cd/figment-2-creed-valley-yt5cr.jpg",
+            "OfferImageWide": "https://cdn1.epicgames.com/spt-assets/dd3cd36c07864e8398375e00372711cd/figment-2-creed-valley-1efg0.jpg",
+            "ProductIcon": "https://cdn1.epicgames.com/spt-assets/dd3cd36c07864e8398375e00372711cd/figment-2-creed-valley-icon-1j523.png",
+            "coverImage": "https://cdn1.epicgames.com/spt-assets/dd3cd36c07864e8398375e00372711cd/figment-2-creed-valley-1c4gt.jpg"
+        },
+        "offer_id": "25975acb0cba4e268fc866171bc8c0c9",
+        "original_price": "5.39",
+        "platform": "ios",
+        "sandbox_id": "109a4631336a475ca4e4a8a51cc6fe69",
+        "slug": "figment2-creed-valley-ios-db9160",
+        "store_url": "<https://store.epicgames.com/product/figment2-creed-valley-ios-db9160>",
+        "title": "Figment 2: Creed Valley"
+    },
+    "1-109a4631336a475ca4e4a8a51cc6fe69-34dc2b614e214cc29b71be833186f96c": {
+        "age_control": 7,
+        "catalog_item_id": "9da61f996f55451c884a96a716077d1e",
+        "checkout_url": "<https://store.epicgames.com/purchase?offers=1-109a4631336a475ca4e4a8a51cc6fe69-34dc2b614e214cc29b71be833186f96c>",
+        "content_descriptors": [
+            "Mild Violence"
+        ],
+        "current_price": "0",
+        "discount": "-100%",
+        "download_size": "1.88 GB",
+        "end_date": "2025-07-17T15:00:00.000Z",
+        "in_app_purchases": false,
+        "install_size": "1.98 GB",
+        "interactive_elements": [],
+        "media": {
+            "OfferImageTall": "https://cdn1.epicgames.com/spt-assets/dd3cd36c07864e8398375e00372711cd/figment-2-creed-valley-lm0fs.jpg",
+            "OfferImageWide": "https://cdn1.epicgames.com/spt-assets/dd3cd36c07864e8398375e00372711cd/figment-2-creed-valley-1t9sm.jpg",
+            "ProductIcon": "https://cdn1.epicgames.com/spt-assets/dd3cd36c07864e8398375e00372711cd/figment-2-creed-valley-icon-1j523.png",
+            "coverImage": "https://cdn1.epicgames.com/spt-assets/dd3cd36c07864e8398375e00372711cd/figment-2-creed-valley-1c4gt.jpg"
+        },
+        "offer_id": "34dc2b614e214cc29b71be833186f96c",
+        "original_price": "5.39",
+        "platform": "android",
+        "sandbox_id": "109a4631336a475ca4e4a8a51cc6fe69",
+        "slug": "figment2-creed-valley-android-e5f2c9",
+        "store_url": "<https://store.epicgames.com/product/figment2-creed-valley-android-e5f2c9>",
+        "title": "Figment 2: Creed Valley"
+    },
     "1-270e1d648a5e4060b7b441615c4da4d9-1692b4f15c1045a5968b8db5806d2867": {
         "age_control": 12,
         "catalog_item_id": "d8044498b96b4788ab6910da7a34118e",
