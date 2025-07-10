@@ -2409,22 +2409,22 @@
                             "gate": "no-gate"
                         },
                         "ageRating": {
-                            "ageControl": 12,
+                            "ageControl": 7,
                             "contentDescriptors": [
-                                "Mild Swearing"
+                                "Mild Violence"
                             ],
                             "interactiveElements": [],
-                            "ratingImage": "https://cdn1.epicgames.com/gameRating/gameRating/PEGI_12_192_192x192-afa4df43f131bc83eb380ccf22f8d904",
+                            "ratingImage": "https://cdn1.epicgames.com/gameRating/gameRating/PEGI_7_192_192x192-30e2e712d0682dad01add90a6ccbed5b",
                             "ratingSystem": "PEGI",
-                            "rectangularRatingImage": "https://cdn1.epicgames.com/salesEvent/salesEvent/PEGI-12_436x530-0cd1f06607086f3cc1bc2b8643f21b0a",
-                            "title": "PEGI 12"
+                            "rectangularRatingImage": "https://cdn1.epicgames.com/salesEvent/salesEvent/PEGI-7_435x530-9439a136999d3dd762c7a61c3b8c7683",
+                            "title": "PEGI 7"
                         },
                         "ratingType": "AgeRating"
                     },
                     "attention": {
                         "inAppPurchases": "None"
                     },
-                    "catalogItemId": "537342fa39e6483a8e0415d621398bda",
+                    "catalogItemId": "6b022303db2d4df5a14a955d2220f8e1",
                     "categories": [
                         "freegames",
                         "games",
@@ -2432,34 +2432,34 @@
                         "games/edition/base"
                     ],
                     "mapping": {
-                        "slug": "figment-ios-982b04"
+                        "slug": "figment2-creed-valley-ios-db9160"
                     },
                     "media": {
                         "appIcon": {
                             "altText": "-",
                             "height": 512,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/1c8da4b090f347819213f9130f5289d7/figment-icon-ep48r.png",
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/dd3cd36c07864e8398375e00372711cd/figment-2-creed-valley-icon-1j523.png",
                             "imageType": "ProductIcon",
                             "width": 512
                         },
                         "card16x9": {
-                            "altText": "Figment Offer",
+                            "altText": "Figment 2: Creed Valley Offer",
                             "height": 1440,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/1c8da4b090f347819213f9130f5289d7/figment-5chbv.jpg",
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/dd3cd36c07864e8398375e00372711cd/figment-2-creed-valley-1efg0.jpg",
                             "imageType": "OfferImageWide",
                             "width": 2560
                         },
                         "card3x4": {
-                            "altText": "Download Figment Offer",
+                            "altText": "Download Figment 2: Creed Valley Offer",
                             "height": 1600,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/1c8da4b090f347819213f9130f5289d7/figment-yeiqa.png",
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/dd3cd36c07864e8398375e00372711cd/figment-2-creed-valley-yt5cr.jpg",
                             "imageType": "OfferImageTall",
                             "width": 1200
                         },
                         "coverImage": {
                             "altText": "-",
                             "height": 1440,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/1c8da4b090f347819213f9130f5289d7/figment-1fsa1.jpg",
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/dd3cd36c07864e8398375e00372711cd/figment-2-creed-valley-1c4gt.jpg",
                             "imageType": "coverImage",
                             "width": 2560
                         }
@@ -2468,7 +2468,7 @@
                         {
                             "discount": {
                                 "discountAmountDisplay": "-100%",
-                                "discountEndDate": "2025-07-10T15:00:00.000Z",
+                                "discountEndDate": "2025-07-17T15:00:00.000Z",
                                 "originalPriceDisplay": "€5.39"
                             },
                             "offerLifecycleState": "Release",
@@ -2477,8 +2477,8 @@
                                 "decimalPrice": 0
                             },
                             "purchasePayload": {
-                                "offerId": "e85fe9f43fc64fc89a78b950ee7f1860",
-                                "sandboxId": "270e1d648a5e4060b7b441615c4da4d9"
+                                "offerId": "25975acb0cba4e268fc866171bc8c0c9",
+                                "sandboxId": "109a4631336a475ca4e4a8a51cc6fe69"
                             },
                             "purchaseType": "Claim"
                         },
@@ -2490,37 +2490,37 @@
                             },
                             "priceDisplay": "€5.39",
                             "purchasePayload": {
-                                "offerId": "e85fe9f43fc64fc89a78b950ee7f1860",
-                                "sandboxId": "270e1d648a5e4060b7b441615c4da4d9"
+                                "offerId": "25975acb0cba4e268fc866171bc8c0c9",
+                                "sandboxId": "109a4631336a475ca4e4a8a51cc6fe69"
                             },
                             "purchaseType": "Purchase"
                         }
                     ],
                     "systemSpecs": {
-                        "applicationVersion": "1.7.0",
+                        "applicationVersion": "1.0.6",
                         "platform": "ios",
                         "systemRequirements": [
                             {
-                                "minimum": "752MB",
+                                "minimum": "1.42 GB",
                                 "requirementType": "InstallSize",
                                 "title": "Installation size"
                             },
                             {
-                                "minimum": "685MB",
+                                "minimum": "1.26 GB",
                                 "requirementType": "DownloadSize",
                                 "title": "Download size"
                             },
                             {
-                                "minimum": "iOS 16",
+                                "minimum": "13.0",
                                 "requirementType": "OS",
                                 "title": "OS version"
                             }
                         ]
                     },
-                    "title": "Figment"
+                    "title": "Figment 2: Creed Valley"
                 },
-                "offerId": "e85fe9f43fc64fc89a78b950ee7f1860",
-                "sandboxId": "270e1d648a5e4060b7b441615c4da4d9"
+                "offerId": "25975acb0cba4e268fc866171bc8c0c9",
+                "sandboxId": "109a4631336a475ca4e4a8a51cc6fe69"
             }
         ],
         "size": "large",
@@ -4825,57 +4825,56 @@
                             "gate": "no-gate"
                         },
                         "ageRating": {
-                            "ageControl": 7,
+                            "ageControl": 12,
                             "contentDescriptors": [
-                                "Mild Violence"
+                                "Mild Swearing"
                             ],
                             "interactiveElements": [],
-                            "ratingImage": "https://cdn1.epicgames.com/gameRating/gameRating/PEGI_7_192_192x192-30e2e712d0682dad01add90a6ccbed5b",
+                            "ratingImage": "https://cdn1.epicgames.com/gameRating/gameRating/PEGI_12_192_192x192-afa4df43f131bc83eb380ccf22f8d904",
                             "ratingSystem": "PEGI",
-                            "rectangularRatingImage": "https://cdn1.epicgames.com/salesEvent/salesEvent/PEGI-7_435x530-9439a136999d3dd762c7a61c3b8c7683",
-                            "title": "PEGI 7"
+                            "rectangularRatingImage": "https://cdn1.epicgames.com/salesEvent/salesEvent/PEGI-12_436x530-0cd1f06607086f3cc1bc2b8643f21b0a",
+                            "title": "PEGI 12"
                         },
                         "ratingType": "AgeRating"
                     },
                     "attention": {
                         "inAppPurchases": "None"
                     },
-                    "catalogItemId": "6b022303db2d4df5a14a955d2220f8e1",
+                    "catalogItemId": "537342fa39e6483a8e0415d621398bda",
                     "categories": [
-                        "freegames",
                         "games",
                         "games/edition",
                         "games/edition/base"
                     ],
                     "mapping": {
-                        "slug": "figment2-creed-valley-ios-db9160"
+                        "slug": "figment-ios-982b04"
                     },
                     "media": {
                         "appIcon": {
                             "altText": "-",
                             "height": 512,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/dd3cd36c07864e8398375e00372711cd/figment-2-creed-valley-icon-1j523.png",
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/1c8da4b090f347819213f9130f5289d7/figment-icon-ep48r.png",
                             "imageType": "ProductIcon",
                             "width": 512
                         },
                         "card16x9": {
-                            "altText": "Figment 2: Creed Valley Offer",
+                            "altText": "Figment Offer",
                             "height": 1440,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/dd3cd36c07864e8398375e00372711cd/figment-2-creed-valley-1efg0.jpg",
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/1c8da4b090f347819213f9130f5289d7/figment-5chbv.jpg",
                             "imageType": "OfferImageWide",
                             "width": 2560
                         },
                         "card3x4": {
-                            "altText": "Download Figment 2: Creed Valley Offer",
+                            "altText": "Download Figment Offer",
                             "height": 1600,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/dd3cd36c07864e8398375e00372711cd/figment-2-creed-valley-yt5cr.jpg",
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/1c8da4b090f347819213f9130f5289d7/figment-yeiqa.png",
                             "imageType": "OfferImageTall",
                             "width": 1200
                         },
                         "coverImage": {
                             "altText": "-",
                             "height": 1440,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/dd3cd36c07864e8398375e00372711cd/figment-2-creed-valley-1c4gt.jpg",
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/1c8da4b090f347819213f9130f5289d7/figment-1fsa1.jpg",
                             "imageType": "coverImage",
                             "width": 2560
                         }
@@ -4889,67 +4888,37 @@
                             },
                             "priceDisplay": "€5.39",
                             "purchasePayload": {
-                                "offerId": "25975acb0cba4e268fc866171bc8c0c9",
-                                "sandboxId": "109a4631336a475ca4e4a8a51cc6fe69"
-                            },
-                            "purchaseType": "Purchase"
-                        },
-                        {
-                            "discount": {
-                                "discountAmountDisplay": "-100%",
-                                "discountEndDate": "2025-07-17T15:00:00.000Z",
-                                "originalPriceDisplay": "€5.39"
-                            },
-                            "offerLifecycleState": "Release",
-                            "price": {
-                                "currencyCode": "EUR",
-                                "decimalPrice": 0
-                            },
-                            "purchasePayload": {
-                                "offerId": "25975acb0cba4e268fc866171bc8c0c9",
-                                "sandboxId": "109a4631336a475ca4e4a8a51cc6fe69"
-                            },
-                            "purchaseType": "Claim"
-                        },
-                        {
-                            "offerLifecycleState": "Release",
-                            "price": {
-                                "currencyCode": "EUR",
-                                "decimalPrice": 5.39
-                            },
-                            "priceDisplay": "€5.39",
-                            "purchasePayload": {
-                                "offerId": "25975acb0cba4e268fc866171bc8c0c9",
-                                "sandboxId": "109a4631336a475ca4e4a8a51cc6fe69"
+                                "offerId": "e85fe9f43fc64fc89a78b950ee7f1860",
+                                "sandboxId": "270e1d648a5e4060b7b441615c4da4d9"
                             },
                             "purchaseType": "Purchase"
                         }
                     ],
                     "systemSpecs": {
-                        "applicationVersion": "1.0.6",
+                        "applicationVersion": "1.7.0",
                         "platform": "ios",
                         "systemRequirements": [
                             {
-                                "minimum": "1.42 GB",
+                                "minimum": "752MB",
                                 "requirementType": "InstallSize",
                                 "title": "Installation size"
                             },
                             {
-                                "minimum": "1.26 GB",
+                                "minimum": "685MB",
                                 "requirementType": "DownloadSize",
                                 "title": "Download size"
                             },
                             {
-                                "minimum": "13.0",
+                                "minimum": "iOS 16",
                                 "requirementType": "OS",
                                 "title": "OS version"
                             }
                         ]
                     },
-                    "title": "Figment 2: Creed Valley"
+                    "title": "Figment"
                 },
-                "offerId": "25975acb0cba4e268fc866171bc8c0c9",
-                "sandboxId": "109a4631336a475ca4e4a8a51cc6fe69"
+                "offerId": "e85fe9f43fc64fc89a78b950ee7f1860",
+                "sandboxId": "270e1d648a5e4060b7b441615c4da4d9"
             },
             {
                 "content": {
