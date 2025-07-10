@@ -1215,19 +1215,6 @@
                     },
                     "purchase": [
                         {
-                            "offerLifecycleState": "Release",
-                            "price": {
-                                "currencyCode": "EUR",
-                                "decimalPrice": 5.99
-                            },
-                            "priceDisplay": "€5.99",
-                            "purchasePayload": {
-                                "offerId": "65911169d003481da9bde64e54be5ffc",
-                                "sandboxId": "438f0dfdc1a2432b99005457b60e319f"
-                            },
-                            "purchaseType": "Purchase"
-                        },
-                        {
                             "discount": {
                                 "discountAmountDisplay": "-46%",
                                 "discountEndDate": "2025-07-23T15:00:00.000Z",
@@ -2432,22 +2419,22 @@
                             "gate": "no-gate"
                         },
                         "ageRating": {
-                            "ageControl": 12,
+                            "ageControl": 7,
                             "contentDescriptors": [
-                                "Mild Swearing"
+                                "Mild Violence"
                             ],
                             "interactiveElements": [],
-                            "ratingImage": "https://cdn1.epicgames.com/gameRating/gameRating/PEGI_12_192_192x192-afa4df43f131bc83eb380ccf22f8d904",
+                            "ratingImage": "https://cdn1.epicgames.com/gameRating/gameRating/PEGI_7_192_192x192-30e2e712d0682dad01add90a6ccbed5b",
                             "ratingSystem": "PEGI",
-                            "rectangularRatingImage": "https://cdn1.epicgames.com/salesEvent/salesEvent/PEGI-12_436x530-0cd1f06607086f3cc1bc2b8643f21b0a",
-                            "title": "PEGI 12"
+                            "rectangularRatingImage": "https://cdn1.epicgames.com/salesEvent/salesEvent/PEGI-7_435x530-9439a136999d3dd762c7a61c3b8c7683",
+                            "title": "PEGI 7"
                         },
                         "ratingType": "AgeRating"
                     },
                     "attention": {
                         "inAppPurchases": "None"
                     },
-                    "catalogItemId": "d8044498b96b4788ab6910da7a34118e",
+                    "catalogItemId": "9da61f996f55451c884a96a716077d1e",
                     "categories": [
                         "freegames",
                         "games",
@@ -2455,34 +2442,34 @@
                         "games/edition/base"
                     ],
                     "mapping": {
-                        "slug": "figment-android-38e58f"
+                        "slug": "figment2-creed-valley-android-e5f2c9"
                     },
                     "media": {
                         "appIcon": {
                             "altText": "-",
                             "height": 512,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/1c8da4b090f347819213f9130f5289d7/figment-icon-ep48r.png",
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/dd3cd36c07864e8398375e00372711cd/figment-2-creed-valley-icon-1j523.png",
                             "imageType": "ProductIcon",
                             "width": 512
                         },
                         "card16x9": {
-                            "altText": "Figment Offer",
+                            "altText": "Figment 2: Creed Valley Offer",
                             "height": 1440,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/1c8da4b090f347819213f9130f5289d7/figment-1q6eo.jpg",
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/dd3cd36c07864e8398375e00372711cd/figment-2-creed-valley-1t9sm.jpg",
                             "imageType": "OfferImageWide",
                             "width": 2560
                         },
                         "card3x4": {
-                            "altText": "Download Figment Offer",
+                            "altText": "Download Figment 2: Creed Valley Offer",
                             "height": 1600,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/1c8da4b090f347819213f9130f5289d7/figment-1ws62.png",
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/dd3cd36c07864e8398375e00372711cd/figment-2-creed-valley-lm0fs.jpg",
                             "imageType": "OfferImageTall",
                             "width": 1200
                         },
                         "coverImage": {
                             "altText": "-",
                             "height": 1440,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/1c8da4b090f347819213f9130f5289d7/figment-1fsa1.jpg",
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/dd3cd36c07864e8398375e00372711cd/figment-2-creed-valley-1c4gt.jpg",
                             "imageType": "coverImage",
                             "width": 2560
                         }
@@ -2491,7 +2478,7 @@
                         {
                             "discount": {
                                 "discountAmountDisplay": "-100%",
-                                "discountEndDate": "2025-07-10T15:00:00.000Z",
+                                "discountEndDate": "2025-07-17T15:00:00.000Z",
                                 "originalPriceDisplay": "€5.39"
                             },
                             "offerLifecycleState": "Release",
@@ -2500,8 +2487,8 @@
                                 "decimalPrice": 0
                             },
                             "purchasePayload": {
-                                "offerId": "1692b4f15c1045a5968b8db5806d2867",
-                                "sandboxId": "270e1d648a5e4060b7b441615c4da4d9"
+                                "offerId": "34dc2b614e214cc29b71be833186f96c",
+                                "sandboxId": "109a4631336a475ca4e4a8a51cc6fe69"
                             },
                             "purchaseType": "Claim"
                         },
@@ -2513,37 +2500,37 @@
                             },
                             "priceDisplay": "€5.39",
                             "purchasePayload": {
-                                "offerId": "1692b4f15c1045a5968b8db5806d2867",
-                                "sandboxId": "270e1d648a5e4060b7b441615c4da4d9"
+                                "offerId": "34dc2b614e214cc29b71be833186f96c",
+                                "sandboxId": "109a4631336a475ca4e4a8a51cc6fe69"
                             },
                             "purchaseType": "Purchase"
                         }
                     ],
                     "systemSpecs": {
-                        "applicationVersion": "1.7.1",
+                        "applicationVersion": "1.0.55",
                         "platform": "android",
                         "systemRequirements": [
                             {
-                                "minimum": "967MB",
+                                "minimum": "1.98 GB",
                                 "requirementType": "InstallSize",
                                 "title": "Installation size"
                             },
                             {
-                                "minimum": "787.52 MB",
+                                "minimum": "1.88 GB",
                                 "requirementType": "DownloadSize",
                                 "title": "Download size"
                             },
                             {
-                                "minimum": "8.0.0",
+                                "minimum": "12",
                                 "requirementType": "OS",
                                 "title": "OS version"
                             }
                         ]
                     },
-                    "title": "Figment"
+                    "title": "Figment 2: Creed Valley"
                 },
-                "offerId": "1692b4f15c1045a5968b8db5806d2867",
-                "sandboxId": "270e1d648a5e4060b7b441615c4da4d9"
+                "offerId": "34dc2b614e214cc29b71be833186f96c",
+                "sandboxId": "109a4631336a475ca4e4a8a51cc6fe69"
             }
         ],
         "size": "large",
@@ -5234,19 +5221,6 @@
                         }
                     },
                     "purchase": [
-                        {
-                            "offerLifecycleState": "Release",
-                            "price": {
-                                "currencyCode": "EUR",
-                                "decimalPrice": 4.79
-                            },
-                            "priceDisplay": "€4.79",
-                            "purchasePayload": {
-                                "offerId": "0e5d790f043b464689d9c2128d472fb5",
-                                "sandboxId": "6b98c6b6298b4282905ea8a66f1e8432"
-                            },
-                            "purchaseType": "Purchase"
-                        },
                         {
                             "discount": {
                                 "discountAmountDisplay": "-56%",
@@ -8533,57 +8507,56 @@
                             "gate": "no-gate"
                         },
                         "ageRating": {
-                            "ageControl": 7,
+                            "ageControl": 12,
                             "contentDescriptors": [
-                                "Mild Violence"
+                                "Mild Swearing"
                             ],
                             "interactiveElements": [],
-                            "ratingImage": "https://cdn1.epicgames.com/gameRating/gameRating/PEGI_7_192_192x192-30e2e712d0682dad01add90a6ccbed5b",
+                            "ratingImage": "https://cdn1.epicgames.com/gameRating/gameRating/PEGI_12_192_192x192-afa4df43f131bc83eb380ccf22f8d904",
                             "ratingSystem": "PEGI",
-                            "rectangularRatingImage": "https://cdn1.epicgames.com/salesEvent/salesEvent/PEGI-7_435x530-9439a136999d3dd762c7a61c3b8c7683",
-                            "title": "PEGI 7"
+                            "rectangularRatingImage": "https://cdn1.epicgames.com/salesEvent/salesEvent/PEGI-12_436x530-0cd1f06607086f3cc1bc2b8643f21b0a",
+                            "title": "PEGI 12"
                         },
                         "ratingType": "AgeRating"
                     },
                     "attention": {
                         "inAppPurchases": "None"
                     },
-                    "catalogItemId": "9da61f996f55451c884a96a716077d1e",
+                    "catalogItemId": "d8044498b96b4788ab6910da7a34118e",
                     "categories": [
-                        "freegames",
                         "games",
                         "games/edition",
                         "games/edition/base"
                     ],
                     "mapping": {
-                        "slug": "figment2-creed-valley-android-e5f2c9"
+                        "slug": "figment-android-38e58f"
                     },
                     "media": {
                         "appIcon": {
                             "altText": "-",
                             "height": 512,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/dd3cd36c07864e8398375e00372711cd/figment-2-creed-valley-icon-1j523.png",
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/1c8da4b090f347819213f9130f5289d7/figment-icon-ep48r.png",
                             "imageType": "ProductIcon",
                             "width": 512
                         },
                         "card16x9": {
-                            "altText": "Figment 2: Creed Valley Offer",
+                            "altText": "Figment Offer",
                             "height": 1440,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/dd3cd36c07864e8398375e00372711cd/figment-2-creed-valley-1t9sm.jpg",
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/1c8da4b090f347819213f9130f5289d7/figment-1q6eo.jpg",
                             "imageType": "OfferImageWide",
                             "width": 2560
                         },
                         "card3x4": {
-                            "altText": "Download Figment 2: Creed Valley Offer",
+                            "altText": "Download Figment Offer",
                             "height": 1600,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/dd3cd36c07864e8398375e00372711cd/figment-2-creed-valley-lm0fs.jpg",
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/1c8da4b090f347819213f9130f5289d7/figment-1ws62.png",
                             "imageType": "OfferImageTall",
                             "width": 1200
                         },
                         "coverImage": {
                             "altText": "-",
                             "height": 1440,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/dd3cd36c07864e8398375e00372711cd/figment-2-creed-valley-1c4gt.jpg",
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/1c8da4b090f347819213f9130f5289d7/figment-1fsa1.jpg",
                             "imageType": "coverImage",
                             "width": 2560
                         }
@@ -8597,67 +8570,37 @@
                             },
                             "priceDisplay": "€5.39",
                             "purchasePayload": {
-                                "offerId": "34dc2b614e214cc29b71be833186f96c",
-                                "sandboxId": "109a4631336a475ca4e4a8a51cc6fe69"
-                            },
-                            "purchaseType": "Purchase"
-                        },
-                        {
-                            "discount": {
-                                "discountAmountDisplay": "-100%",
-                                "discountEndDate": "2025-07-17T15:00:00.000Z",
-                                "originalPriceDisplay": "€5.39"
-                            },
-                            "offerLifecycleState": "Release",
-                            "price": {
-                                "currencyCode": "EUR",
-                                "decimalPrice": 0
-                            },
-                            "purchasePayload": {
-                                "offerId": "34dc2b614e214cc29b71be833186f96c",
-                                "sandboxId": "109a4631336a475ca4e4a8a51cc6fe69"
-                            },
-                            "purchaseType": "Claim"
-                        },
-                        {
-                            "offerLifecycleState": "Release",
-                            "price": {
-                                "currencyCode": "EUR",
-                                "decimalPrice": 5.39
-                            },
-                            "priceDisplay": "€5.39",
-                            "purchasePayload": {
-                                "offerId": "34dc2b614e214cc29b71be833186f96c",
-                                "sandboxId": "109a4631336a475ca4e4a8a51cc6fe69"
+                                "offerId": "1692b4f15c1045a5968b8db5806d2867",
+                                "sandboxId": "270e1d648a5e4060b7b441615c4da4d9"
                             },
                             "purchaseType": "Purchase"
                         }
                     ],
                     "systemSpecs": {
-                        "applicationVersion": "1.0.55",
+                        "applicationVersion": "1.7.1",
                         "platform": "android",
                         "systemRequirements": [
                             {
-                                "minimum": "1.98 GB",
+                                "minimum": "967MB",
                                 "requirementType": "InstallSize",
                                 "title": "Installation size"
                             },
                             {
-                                "minimum": "1.88 GB",
+                                "minimum": "787.52 MB",
                                 "requirementType": "DownloadSize",
                                 "title": "Download size"
                             },
                             {
-                                "minimum": "12",
+                                "minimum": "8.0.0",
                                 "requirementType": "OS",
                                 "title": "OS version"
                             }
                         ]
                     },
-                    "title": "Figment 2: Creed Valley"
+                    "title": "Figment"
                 },
-                "offerId": "34dc2b614e214cc29b71be833186f96c",
-                "sandboxId": "109a4631336a475ca4e4a8a51cc6fe69"
+                "offerId": "1692b4f15c1045a5968b8db5806d2867",
+                "sandboxId": "270e1d648a5e4060b7b441615c4da4d9"
             },
             {
                 "content": {
