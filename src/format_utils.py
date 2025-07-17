@@ -94,6 +94,10 @@ def format_content(content: dict) -> dict:
     }
 
 
+def is_a_giveaway(content: dict) -> bool:
+    return TARGET_CATEGORY in content.get("categories", [])
+
+
 def format_all_content(data: list) -> dict:
     offers = []
     for collection in data:
@@ -108,7 +112,7 @@ def format_all_content(data: list) -> dict:
         offer_id = offer["offerId"]
         content = offer.get("content", {})
 
-        if TARGET_CATEGORY in content.get("categories", []):
+        if is_a_giveaway(content):
             k = build_id(sandbox_id, offer_id)
             v = format_content(content)
 
