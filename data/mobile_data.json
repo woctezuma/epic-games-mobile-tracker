@@ -282,5 +282,63 @@
         "slug": "cultist-simulator-ios-8eba4c",
         "store_url": "<https://store.epicgames.com/product/cultist-simulator-ios-8eba4c>",
         "title": "Cultist Simulator"
+    },
+    "1-f60a81aa52624100bff909dd5849f613-1249af2452334c2585fdea72e532b02c": {
+        "age_control": 7,
+        "catalog_item_id": "f264b02adb254358a83b20297dcfa492",
+        "checkout_url": "<https://store.epicgames.com/purchase?offers=1-f60a81aa52624100bff909dd5849f613-1249af2452334c2585fdea72e532b02c>",
+        "content_descriptors": [
+            "Fear",
+            "Mild Violence"
+        ],
+        "current_price": "0",
+        "discount": "-100%",
+        "download_size": "380.81 MB",
+        "end_date": "2025-07-24T15:00:00.000Z",
+        "in_app_purchases": false,
+        "install_size": "400mo",
+        "interactive_elements": [],
+        "media": {
+            "OfferImageTall": "https://cdn1.epicgames.com/spt-assets/bae5c1d9c043458c8c402c6728005527/there-is-no-game--wd-p47ks.jpg",
+            "OfferImageWide": "https://cdn1.epicgames.com/spt-assets/bae5c1d9c043458c8c402c6728005527/there-is-no-game--wd-7jlkl.jpg",
+            "ProductIcon": "https://cdn1.epicgames.com/spt-assets/bae5c1d9c043458c8c402c6728005527/there-is-no-game--wd-icon-g3nq5.png",
+            "coverImage": "https://cdn1.epicgames.com/spt-assets/bae5c1d9c043458c8c402c6728005527/there-is-no-game--wd-1ej2t.jpg"
+        },
+        "offer_id": "1249af2452334c2585fdea72e532b02c",
+        "original_price": "4.49",
+        "platform": "android",
+        "sandbox_id": "f60a81aa52624100bff909dd5849f613",
+        "slug": "there-is-no-game-wd-android-ccd766",
+        "store_url": "<https://store.epicgames.com/product/there-is-no-game-wd-android-ccd766>",
+        "title": "There Is No Game: Wrong Dimension"
+    },
+    "1-f60a81aa52624100bff909dd5849f613-19708eaff36f43d4afb6ac0505d62def": {
+        "age_control": 7,
+        "catalog_item_id": "bbf5e27f6cfc4260a676b9fca5aa0763",
+        "checkout_url": "<https://store.epicgames.com/purchase?offers=1-f60a81aa52624100bff909dd5849f613-19708eaff36f43d4afb6ac0505d62def>",
+        "content_descriptors": [
+            "Fear",
+            "Mild Violence"
+        ],
+        "current_price": "0",
+        "discount": "-100%",
+        "download_size": "400mo",
+        "end_date": "2025-07-24T15:00:00.000Z",
+        "in_app_purchases": false,
+        "install_size": "400mo",
+        "interactive_elements": [],
+        "media": {
+            "OfferImageTall": "https://cdn1.epicgames.com/spt-assets/bae5c1d9c043458c8c402c6728005527/there-is-no-game--wd-1b7w1.jpg",
+            "OfferImageWide": "https://cdn1.epicgames.com/spt-assets/bae5c1d9c043458c8c402c6728005527/there-is-no-game--wd-imy1n.jpg",
+            "ProductIcon": "https://cdn1.epicgames.com/spt-assets/bae5c1d9c043458c8c402c6728005527/there-is-no-game--wd-icon-g3nq5.png",
+            "coverImage": "https://cdn1.epicgames.com/spt-assets/bae5c1d9c043458c8c402c6728005527/there-is-no-game--wd-1ej2t.jpg"
+        },
+        "offer_id": "19708eaff36f43d4afb6ac0505d62def",
+        "original_price": "4.49",
+        "platform": "ios",
+        "sandbox_id": "f60a81aa52624100bff909dd5849f613",
+        "slug": "there-is-no-game-wd-ios-cfba3a",
+        "store_url": "<https://store.epicgames.com/product/there-is-no-game-wd-ios-cfba3a>",
+        "title": "There Is No Game: Wrong Dimension"
     }
 }
