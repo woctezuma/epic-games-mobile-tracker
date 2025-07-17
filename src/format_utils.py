@@ -96,6 +96,11 @@ def format_content(content: dict) -> dict:
     }
 
 
+def is_both_discounted_and_claimable(content: dict) -> bool:
+    purchases = list_claimable_purchases(content)
+    return any("discount" in p for p in purchases)
+
+
 def is_a_giveaway(content: dict) -> bool:
     return TARGET_CATEGORY in content.get("categories", [])
 
@@ -114,7 +119,7 @@ def format_all_content(data: list) -> dict:
         offer_id = offer["offerId"]
         content = offer.get("content", {})
 
-        if is_a_giveaway(content):
+        if is_a_giveaway(content) or is_both_discounted_and_claimable(content):
             k = build_id(sandbox_id, offer_id)
             v = format_content(content)
 
