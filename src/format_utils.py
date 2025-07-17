@@ -24,13 +24,15 @@ def get_checkout_url(sandbox_id: str, offer_id: str) -> str:
     return f"<{CHECKOUT_BASE_URL}{build_id(sandbox_id, offer_id)}>"
 
 
+def list_claimable_purchases(content: dict) -> list:
+    return [e for e in content.get("purchase", []) if e.get("purchaseType") == "Claim"]
+
+
 def format_content(content: dict) -> dict:
     media = content.get("media", {})
     slug = content.get("mapping", {}).get("slug")
 
-    purchases = [
-        e for e in content.get("purchase", []) if e.get("purchaseType") == "Claim"
-    ]
+    purchases = list_claimable_purchases(content)
 
     if not purchases:
         print(f"- Skipping {slug}")
