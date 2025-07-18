@@ -1788,7 +1788,7 @@
                     "attention": {
                         "inAppPurchases": "None"
                     },
-                    "catalogItemId": "4fe75bbc5a674f4f9b356b5c90567da5",
+                    "catalogItemId": "",
                     "categories": [
                         "games",
                         "games/experience",
@@ -9402,7 +9402,7 @@
                         }
                     ],
                     "systemSpecs": {
-                        "applicationVersion": "2.29.0",
+                        "applicationVersion": "2.30.0",
                         "platform": "android",
                         "systemRequirements": [
                             {
@@ -9411,7 +9411,7 @@
                                 "title": "Installation size"
                             },
                             {
-                                "minimum": "247.12 MB",
+                                "minimum": "237.95 MB",
                                 "requirementType": "DownloadSize",
                                 "title": "Download size"
                             },
