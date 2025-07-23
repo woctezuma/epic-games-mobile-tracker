@@ -1,4 +1,60 @@
 {
+    "1-07feb5c4405041818a1f13d6816da51b-3a10cce696ef4d79ba908d383b3ce954": {
+        "age_control": 7,
+        "catalog_item_id": "b8b1209117bb441f9aca77176b142d12",
+        "checkout_url": "<https://store.epicgames.com/purchase?offers=1-07feb5c4405041818a1f13d6816da51b-3a10cce696ef4d79ba908d383b3ce954>",
+        "content_descriptors": [
+            "Implied Violence"
+        ],
+        "current_price": "0",
+        "discount": "-100%",
+        "download_size": "106.60 MB",
+        "end_date": "2025-07-31T15:00:00.000Z",
+        "in_app_purchases": false,
+        "install_size": "110",
+        "interactive_elements": [],
+        "media": {
+            "OfferImageTall": "https://cdn1.epicgames.com/spt-assets/c4e2177224b94cee92bab3ae0cdc3b6d/doodle-mafia-epic-alchemy-eo2n3.png",
+            "OfferImageWide": "https://cdn1.epicgames.com/spt-assets/c4e2177224b94cee92bab3ae0cdc3b6d/doodle-mafia-epic-alchemy-393vi.jpg",
+            "ProductIcon": "https://cdn1.epicgames.com/spt-assets/c4e2177224b94cee92bab3ae0cdc3b6d/doodle-mafia-epic-alchemy-icon-stw7l.png",
+            "coverImage": "https://cdn1.epicgames.com/spt-assets/c4e2177224b94cee92bab3ae0cdc3b6d/doodle-mafia-epic-alchemy-7yaqa.jpg"
+        },
+        "offer_id": "3a10cce696ef4d79ba908d383b3ce954",
+        "original_price": "2.19",
+        "platform": "android",
+        "sandbox_id": "07feb5c4405041818a1f13d6816da51b",
+        "slug": "doodle-mafia-epic-alchemy-android-f2683e",
+        "store_url": "<https://store.epicgames.com/product/doodle-mafia-epic-alchemy-android-f2683e>",
+        "title": "Doodle Mafia: Epic Alchemy"
+    },
+    "1-07feb5c4405041818a1f13d6816da51b-998844f9ffdb4317b12c6ebd52254673": {
+        "age_control": 7,
+        "catalog_item_id": "92974711a87e49a293b68921c16d02c7",
+        "checkout_url": "<https://store.epicgames.com/purchase?offers=1-07feb5c4405041818a1f13d6816da51b-998844f9ffdb4317b12c6ebd52254673>",
+        "content_descriptors": [
+            "Implied Violence"
+        ],
+        "current_price": "0",
+        "discount": "-100%",
+        "download_size": "110",
+        "end_date": "2025-07-31T15:00:00.000Z",
+        "in_app_purchases": false,
+        "install_size": "110",
+        "interactive_elements": [],
+        "media": {
+            "OfferImageTall": "https://cdn1.epicgames.com/spt-assets/c4e2177224b94cee92bab3ae0cdc3b6d/doodle-mafia-epic-alchemy-kznna.png",
+            "OfferImageWide": "https://cdn1.epicgames.com/spt-assets/c4e2177224b94cee92bab3ae0cdc3b6d/doodle-mafia-epic-alchemy-14fe6.jpg",
+            "ProductIcon": "https://cdn1.epicgames.com/spt-assets/c4e2177224b94cee92bab3ae0cdc3b6d/doodle-mafia-epic-alchemy-icon-stw7l.png",
+            "coverImage": "https://cdn1.epicgames.com/spt-assets/c4e2177224b94cee92bab3ae0cdc3b6d/doodle-mafia-epic-alchemy-7yaqa.jpg"
+        },
+        "offer_id": "998844f9ffdb4317b12c6ebd52254673",
+        "original_price": "2.19",
+        "platform": "ios",
+        "sandbox_id": "07feb5c4405041818a1f13d6816da51b",
+        "slug": "doodle-mafia-epic-alchemy-ios-f77211",
+        "store_url": "<https://store.epicgames.com/product/doodle-mafia-epic-alchemy-ios-f77211>",
+        "title": "Doodle Mafia: Epic Alchemy"
+    },
     "1-0fd4edf223e64b249082e86bfd49483d-29b150b77053448eb30e210edfcdc062": {
         "age_control": 3,
         "catalog_item_id": "7a0e1b20481e428896582d6a52f40871",
