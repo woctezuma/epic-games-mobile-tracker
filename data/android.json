@@ -2301,8 +2301,7 @@
                         "ageRating": {
                             "ageControl": 7,
                             "contentDescriptors": [
-                                "Fear",
-                                "Mild Violence"
+                                "Implied Violence"
                             ],
                             "interactiveElements": [],
                             "ratingImage": "https://cdn1.epicgames.com/gameRating/gameRating/PEGI_7_192_192x192-30e2e712d0682dad01add90a6ccbed5b",
@@ -2315,7 +2314,7 @@
                     "attention": {
                         "inAppPurchases": "None"
                     },
-                    "catalogItemId": "f264b02adb254358a83b20297dcfa492",
+                    "catalogItemId": "b8b1209117bb441f9aca77176b142d12",
                     "categories": [
                         "freegames",
                         "games",
@@ -2323,34 +2322,34 @@
                         "games/edition/base"
                     ],
                     "mapping": {
-                        "slug": "there-is-no-game-wd-android-ccd766"
+                        "slug": "doodle-mafia-epic-alchemy-android-f2683e"
                     },
                     "media": {
                         "appIcon": {
                             "altText": "-",
                             "height": 512,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/bae5c1d9c043458c8c402c6728005527/there-is-no-game--wd-icon-g3nq5.png",
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/c4e2177224b94cee92bab3ae0cdc3b6d/doodle-mafia-epic-alchemy-icon-stw7l.png",
                             "imageType": "ProductIcon",
                             "width": 512
                         },
                         "card16x9": {
-                            "altText": "There Is No Game - WD Offer",
+                            "altText": "Doodle Mafia: Epic Alchemy Offer",
                             "height": 1440,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/bae5c1d9c043458c8c402c6728005527/there-is-no-game--wd-7jlkl.jpg",
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/c4e2177224b94cee92bab3ae0cdc3b6d/doodle-mafia-epic-alchemy-393vi.jpg",
                             "imageType": "OfferImageWide",
                             "width": 2560
                         },
                         "card3x4": {
-                            "altText": "Download There Is No Game - WD Offer",
+                            "altText": "Download Doodle Mafia: Epic Alchemy Offer",
                             "height": 1600,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/bae5c1d9c043458c8c402c6728005527/there-is-no-game--wd-p47ks.jpg",
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/c4e2177224b94cee92bab3ae0cdc3b6d/doodle-mafia-epic-alchemy-eo2n3.png",
                             "imageType": "OfferImageTall",
                             "width": 1200
                         },
                         "coverImage": {
                             "altText": "-",
                             "height": 1440,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/bae5c1d9c043458c8c402c6728005527/there-is-no-game--wd-1ej2t.jpg",
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/c4e2177224b94cee92bab3ae0cdc3b6d/doodle-mafia-epic-alchemy-7yaqa.jpg",
                             "imageType": "coverImage",
                             "width": 2560
                         }
@@ -2359,8 +2358,8 @@
                         {
                             "discount": {
                                 "discountAmountDisplay": "-100%",
-                                "discountEndDate": "2025-07-24T15:00:00.000Z",
-                                "originalPriceDisplay": "€4.49"
+                                "discountEndDate": "2025-07-31T15:00:00.000Z",
+                                "originalPriceDisplay": "€2.19"
                             },
                             "offerLifecycleState": "Release",
                             "price": {
@@ -2368,8 +2367,8 @@
                                 "decimalPrice": 0
                             },
                             "purchasePayload": {
-                                "offerId": "1249af2452334c2585fdea72e532b02c",
-                                "sandboxId": "f60a81aa52624100bff909dd5849f613"
+                                "offerId": "3a10cce696ef4d79ba908d383b3ce954",
+                                "sandboxId": "07feb5c4405041818a1f13d6816da51b"
                             },
                             "purchaseType": "Claim"
                         },
@@ -2377,41 +2376,41 @@
                             "offerLifecycleState": "Release",
                             "price": {
                                 "currencyCode": "EUR",
-                                "decimalPrice": 4.49
+                                "decimalPrice": 2.19
                             },
-                            "priceDisplay": "€4.49",
+                            "priceDisplay": "€2.19",
                             "purchasePayload": {
-                                "offerId": "1249af2452334c2585fdea72e532b02c",
-                                "sandboxId": "f60a81aa52624100bff909dd5849f613"
+                                "offerId": "3a10cce696ef4d79ba908d383b3ce954",
+                                "sandboxId": "07feb5c4405041818a1f13d6816da51b"
                             },
                             "purchaseType": "Purchase"
                         }
                     ],
                     "systemSpecs": {
-                        "applicationVersion": "2.0.2",
+                        "applicationVersion": "1.0.21",
                         "platform": "android",
                         "systemRequirements": [
                             {
-                                "minimum": "400mo",
+                                "minimum": "110",
                                 "requirementType": "InstallSize",
                                 "title": "Installation size"
                             },
                             {
-                                "minimum": "380.81 MB",
+                                "minimum": "106.60 MB",
                                 "requirementType": "DownloadSize",
                                 "title": "Download size"
                             },
                             {
-                                "minimum": "6.0",
+                                "minimum": "7.0",
                                 "requirementType": "OS",
                                 "title": "OS version"
                             }
                         ]
                     },
-                    "title": "There Is No Game: Wrong Dimension"
+                    "title": "Doodle Mafia: Epic Alchemy"
                 },
-                "offerId": "1249af2452334c2585fdea72e532b02c",
-                "sandboxId": "f60a81aa52624100bff909dd5849f613"
+                "offerId": "3a10cce696ef4d79ba908d383b3ce954",
+                "sandboxId": "07feb5c4405041818a1f13d6816da51b"
             }
         ],
         "size": "large",
@@ -3327,19 +3326,6 @@
                         }
                     },
                     "purchase": [
-                        {
-                            "offerLifecycleState": "Release",
-                            "price": {
-                                "currencyCode": "EUR",
-                                "decimalPrice": 5.99
-                            },
-                            "priceDisplay": "€5.99",
-                            "purchasePayload": {
-                                "offerId": "108fd31a4cec4d44bc3b69f666d2af82",
-                                "sandboxId": "195babba4ee143cab291ed109668d10d"
-                            },
-                            "purchaseType": "Purchase"
-                        },
                         {
                             "discount": {
                                 "discountAmountDisplay": "-60%",
@@ -4353,7 +4339,8 @@
                         "ageRating": {
                             "ageControl": 7,
                             "contentDescriptors": [
-                                "Implied Violence"
+                                "Fear",
+                                "Mild Violence"
                             ],
                             "interactiveElements": [],
                             "ratingImage": "https://cdn1.epicgames.com/gameRating/gameRating/PEGI_7_192_192x192-30e2e712d0682dad01add90a6ccbed5b",
@@ -4366,42 +4353,41 @@
                     "attention": {
                         "inAppPurchases": "None"
                     },
-                    "catalogItemId": "b8b1209117bb441f9aca77176b142d12",
+                    "catalogItemId": "f264b02adb254358a83b20297dcfa492",
                     "categories": [
-                        "freegames",
                         "games",
                         "games/edition",
                         "games/edition/base"
                     ],
                     "mapping": {
-                        "slug": "doodle-mafia-epic-alchemy-android-f2683e"
+                        "slug": "there-is-no-game-wd-android-ccd766"
                     },
                     "media": {
                         "appIcon": {
                             "altText": "-",
                             "height": 512,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/c4e2177224b94cee92bab3ae0cdc3b6d/doodle-mafia-epic-alchemy-icon-stw7l.png",
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/bae5c1d9c043458c8c402c6728005527/there-is-no-game--wd-icon-g3nq5.png",
                             "imageType": "ProductIcon",
                             "width": 512
                         },
                         "card16x9": {
-                            "altText": "Doodle Mafia: Epic Alchemy Offer",
+                            "altText": "There Is No Game - WD Offer",
                             "height": 1440,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/c4e2177224b94cee92bab3ae0cdc3b6d/doodle-mafia-epic-alchemy-393vi.jpg",
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/bae5c1d9c043458c8c402c6728005527/there-is-no-game--wd-7jlkl.jpg",
                             "imageType": "OfferImageWide",
                             "width": 2560
                         },
                         "card3x4": {
-                            "altText": "Download Doodle Mafia: Epic Alchemy Offer",
+                            "altText": "Download There Is No Game - WD Offer",
                             "height": 1600,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/c4e2177224b94cee92bab3ae0cdc3b6d/doodle-mafia-epic-alchemy-eo2n3.png",
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/bae5c1d9c043458c8c402c6728005527/there-is-no-game--wd-p47ks.jpg",
                             "imageType": "OfferImageTall",
                             "width": 1200
                         },
                         "coverImage": {
                             "altText": "-",
                             "height": 1440,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/c4e2177224b94cee92bab3ae0cdc3b6d/doodle-mafia-epic-alchemy-7yaqa.jpg",
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/bae5c1d9c043458c8c402c6728005527/there-is-no-game--wd-1ej2t.jpg",
                             "imageType": "coverImage",
                             "width": 2560
                         }
@@ -4411,71 +4397,41 @@
                             "offerLifecycleState": "Release",
                             "price": {
                                 "currencyCode": "EUR",
-                                "decimalPrice": 2.19
+                                "decimalPrice": 4.49
                             },
-                            "priceDisplay": "€2.19",
+                            "priceDisplay": "€4.49",
                             "purchasePayload": {
-                                "offerId": "3a10cce696ef4d79ba908d383b3ce954",
-                                "sandboxId": "07feb5c4405041818a1f13d6816da51b"
-                            },
-                            "purchaseType": "Purchase"
-                        },
-                        {
-                            "discount": {
-                                "discountAmountDisplay": "-100%",
-                                "discountEndDate": "2025-07-31T15:00:00.000Z",
-                                "originalPriceDisplay": "€2.19"
-                            },
-                            "offerLifecycleState": "Release",
-                            "price": {
-                                "currencyCode": "EUR",
-                                "decimalPrice": 0
-                            },
-                            "purchasePayload": {
-                                "offerId": "3a10cce696ef4d79ba908d383b3ce954",
-                                "sandboxId": "07feb5c4405041818a1f13d6816da51b"
-                            },
-                            "purchaseType": "Claim"
-                        },
-                        {
-                            "offerLifecycleState": "Release",
-                            "price": {
-                                "currencyCode": "EUR",
-                                "decimalPrice": 2.19
-                            },
-                            "priceDisplay": "€2.19",
-                            "purchasePayload": {
-                                "offerId": "3a10cce696ef4d79ba908d383b3ce954",
-                                "sandboxId": "07feb5c4405041818a1f13d6816da51b"
+                                "offerId": "1249af2452334c2585fdea72e532b02c",
+                                "sandboxId": "f60a81aa52624100bff909dd5849f613"
                             },
                             "purchaseType": "Purchase"
                         }
                     ],
                     "systemSpecs": {
-                        "applicationVersion": "1.0.21",
+                        "applicationVersion": "2.0.2",
                         "platform": "android",
                         "systemRequirements": [
                             {
-                                "minimum": "110",
+                                "minimum": "400mo",
                                 "requirementType": "InstallSize",
                                 "title": "Installation size"
                             },
                             {
-                                "minimum": "106.60 MB",
+                                "minimum": "380.81 MB",
                                 "requirementType": "DownloadSize",
                                 "title": "Download size"
                             },
                             {
-                                "minimum": "7.0",
+                                "minimum": "6.0",
                                 "requirementType": "OS",
                                 "title": "OS version"
                             }
                         ]
                     },
-                    "title": "Doodle Mafia: Epic Alchemy"
+                    "title": "There Is No Game: Wrong Dimension"
                 },
-                "offerId": "3a10cce696ef4d79ba908d383b3ce954",
-                "sandboxId": "07feb5c4405041818a1f13d6816da51b"
+                "offerId": "1249af2452334c2585fdea72e532b02c",
+                "sandboxId": "f60a81aa52624100bff909dd5849f613"
             },
             {
                 "content": {
@@ -5573,19 +5529,6 @@
                     },
                     "purchase": [
                         {
-                            "offerLifecycleState": "Release",
-                            "price": {
-                                "currencyCode": "EUR",
-                                "decimalPrice": 4.79
-                            },
-                            "priceDisplay": "€4.79",
-                            "purchasePayload": {
-                                "offerId": "123b0ce76e9e401e8a35643a001bf9b5",
-                                "sandboxId": "886cd782adaa4ad6864ea8f603c3e19e"
-                            },
-                            "purchaseType": "Purchase"
-                        },
-                        {
                             "discount": {
                                 "discountAmountDisplay": "-80%",
                                 "discountEndDate": "2025-08-06T15:00:00.000Z",
@@ -6258,19 +6201,6 @@
                         }
                     },
                     "purchase": [
-                        {
-                            "offerLifecycleState": "Release",
-                            "price": {
-                                "currencyCode": "EUR",
-                                "decimalPrice": 2.99
-                            },
-                            "priceDisplay": "€2.99",
-                            "purchasePayload": {
-                                "offerId": "c993c271286e434c9b5398dd050e22b5",
-                                "sandboxId": "6d089f46d38b4e979746362dac9f356b"
-                            },
-                            "purchaseType": "Purchase"
-                        },
                         {
                             "discount": {
                                 "discountAmountDisplay": "-67%",
@@ -9289,19 +9219,6 @@
                     },
                     "purchase": [
                         {
-                            "offerLifecycleState": "Release",
-                            "price": {
-                                "currencyCode": "EUR",
-                                "decimalPrice": 9.99
-                            },
-                            "priceDisplay": "€9.99",
-                            "purchasePayload": {
-                                "offerId": "b3dd256651474eae8210266733d2df0a",
-                                "sandboxId": "0017cfe7374b4c16a42859241b3dfe94"
-                            },
-                            "purchaseType": "Purchase"
-                        },
-                        {
                             "discount": {
                                 "discountAmountDisplay": "-50%",
                                 "discountEndDate": "2025-08-06T15:00:00.000Z",
@@ -9725,19 +9642,6 @@
                         }
                     },
                     "purchase": [
-                        {
-                            "offerLifecycleState": "Release",
-                            "price": {
-                                "currencyCode": "EUR",
-                                "decimalPrice": 9.99
-                            },
-                            "priceDisplay": "€9.99",
-                            "purchasePayload": {
-                                "offerId": "ddf289539e1d4298ac42e01cf48da088",
-                                "sandboxId": "402982723c79438bab7bfe346c34b5b6"
-                            },
-                            "purchaseType": "Purchase"
-                        },
                         {
                             "discount": {
                                 "discountAmountDisplay": "-70%",
