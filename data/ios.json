@@ -115,139 +115,6 @@
                             "gate": "no-gate"
                         },
                         "ageRating": {
-                            "ageControl": 7,
-                            "contentDescriptors": [
-                                "Implied Violence"
-                            ],
-                            "interactiveElements": [],
-                            "ratingImage": "https://cdn1.epicgames.com/gameRating/gameRating/PEGI_7_192_192x192-30e2e712d0682dad01add90a6ccbed5b",
-                            "ratingSystem": "PEGI",
-                            "rectangularRatingImage": "https://cdn1.epicgames.com/salesEvent/salesEvent/PEGI-7_435x530-9439a136999d3dd762c7a61c3b8c7683",
-                            "title": "PEGI 7"
-                        },
-                        "ratingType": "AgeRating"
-                    },
-                    "attention": {
-                        "inAppPurchases": "None"
-                    },
-                    "catalogItemId": "92974711a87e49a293b68921c16d02c7",
-                    "categories": [
-                        "freegames",
-                        "games",
-                        "games/edition",
-                        "games/edition/base"
-                    ],
-                    "mapping": {
-                        "slug": "doodle-mafia-epic-alchemy-ios-f77211"
-                    },
-                    "media": {
-                        "appIcon": {
-                            "altText": "-",
-                            "height": 512,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/c4e2177224b94cee92bab3ae0cdc3b6d/doodle-mafia-epic-alchemy-icon-stw7l.png",
-                            "imageType": "ProductIcon",
-                            "width": 512
-                        },
-                        "card16x9": {
-                            "altText": "Doodle Mafia: Epic Alchemy Offer",
-                            "height": 1440,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/c4e2177224b94cee92bab3ae0cdc3b6d/doodle-mafia-epic-alchemy-14fe6.jpg",
-                            "imageType": "OfferImageWide",
-                            "width": 2560
-                        },
-                        "card3x4": {
-                            "altText": "Download Doodle Mafia: Epic Alchemy Offer",
-                            "height": 1600,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/c4e2177224b94cee92bab3ae0cdc3b6d/doodle-mafia-epic-alchemy-kznna.png",
-                            "imageType": "OfferImageTall",
-                            "width": 1200
-                        },
-                        "coverImage": {
-                            "altText": "-",
-                            "height": 1440,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/c4e2177224b94cee92bab3ae0cdc3b6d/doodle-mafia-epic-alchemy-7yaqa.jpg",
-                            "imageType": "coverImage",
-                            "width": 2560
-                        }
-                    },
-                    "purchase": [
-                        {
-                            "offerLifecycleState": "Release",
-                            "price": {
-                                "currencyCode": "EUR",
-                                "decimalPrice": 2.19
-                            },
-                            "priceDisplay": "€2.19",
-                            "purchasePayload": {
-                                "offerId": "998844f9ffdb4317b12c6ebd52254673",
-                                "sandboxId": "07feb5c4405041818a1f13d6816da51b"
-                            },
-                            "purchaseType": "Purchase"
-                        },
-                        {
-                            "discount": {
-                                "discountAmountDisplay": "-100%",
-                                "discountEndDate": "2025-07-31T15:00:00.000Z",
-                                "originalPriceDisplay": "€2.19"
-                            },
-                            "offerLifecycleState": "Release",
-                            "price": {
-                                "currencyCode": "EUR",
-                                "decimalPrice": 0
-                            },
-                            "purchasePayload": {
-                                "offerId": "998844f9ffdb4317b12c6ebd52254673",
-                                "sandboxId": "07feb5c4405041818a1f13d6816da51b"
-                            },
-                            "purchaseType": "Claim"
-                        },
-                        {
-                            "offerLifecycleState": "Release",
-                            "price": {
-                                "currencyCode": "EUR",
-                                "decimalPrice": 2.19
-                            },
-                            "priceDisplay": "€2.19",
-                            "purchasePayload": {
-                                "offerId": "998844f9ffdb4317b12c6ebd52254673",
-                                "sandboxId": "07feb5c4405041818a1f13d6816da51b"
-                            },
-                            "purchaseType": "Purchase"
-                        }
-                    ],
-                    "systemSpecs": {
-                        "applicationVersion": "1.0.20",
-                        "platform": "ios",
-                        "systemRequirements": [
-                            {
-                                "minimum": "110",
-                                "requirementType": "InstallSize",
-                                "title": "Installation size"
-                            },
-                            {
-                                "minimum": "110",
-                                "requirementType": "DownloadSize",
-                                "title": "Download size"
-                            },
-                            {
-                                "minimum": "14",
-                                "requirementType": "OS",
-                                "title": "OS version"
-                            }
-                        ]
-                    },
-                    "title": "Doodle Mafia: Epic Alchemy"
-                },
-                "offerId": "998844f9ffdb4317b12c6ebd52254673",
-                "sandboxId": "07feb5c4405041818a1f13d6816da51b"
-            },
-            {
-                "content": {
-                    "ageRating": {
-                        "ageGate": {
-                            "gate": "no-gate"
-                        },
-                        "ageRating": {
                             "ageControl": 12,
                             "contentDescriptors": [
                                 "Moderate Violence"
@@ -2460,8 +2327,7 @@
                         "ageRating": {
                             "ageControl": 7,
                             "contentDescriptors": [
-                                "Fear",
-                                "Mild Violence"
+                                "Implied Violence"
                             ],
                             "interactiveElements": [],
                             "ratingImage": "https://cdn1.epicgames.com/gameRating/gameRating/PEGI_7_192_192x192-30e2e712d0682dad01add90a6ccbed5b",
@@ -2474,7 +2340,7 @@
                     "attention": {
                         "inAppPurchases": "None"
                     },
-                    "catalogItemId": "bbf5e27f6cfc4260a676b9fca5aa0763",
+                    "catalogItemId": "92974711a87e49a293b68921c16d02c7",
                     "categories": [
                         "freegames",
                         "games",
@@ -2482,34 +2348,34 @@
                         "games/edition/base"
                     ],
                     "mapping": {
-                        "slug": "there-is-no-game-wd-ios-cfba3a"
+                        "slug": "doodle-mafia-epic-alchemy-ios-f77211"
                     },
                     "media": {
                         "appIcon": {
                             "altText": "-",
                             "height": 512,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/bae5c1d9c043458c8c402c6728005527/there-is-no-game--wd-icon-g3nq5.png",
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/c4e2177224b94cee92bab3ae0cdc3b6d/doodle-mafia-epic-alchemy-icon-stw7l.png",
                             "imageType": "ProductIcon",
                             "width": 512
                         },
                         "card16x9": {
-                            "altText": "There Is No Game - WD Offer",
+                            "altText": "Doodle Mafia: Epic Alchemy Offer",
                             "height": 1440,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/bae5c1d9c043458c8c402c6728005527/there-is-no-game--wd-imy1n.jpg",
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/c4e2177224b94cee92bab3ae0cdc3b6d/doodle-mafia-epic-alchemy-14fe6.jpg",
                             "imageType": "OfferImageWide",
                             "width": 2560
                         },
                         "card3x4": {
-                            "altText": "Download There Is No Game - WD Offer",
+                            "altText": "Download Doodle Mafia: Epic Alchemy Offer",
                             "height": 1600,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/bae5c1d9c043458c8c402c6728005527/there-is-no-game--wd-1b7w1.jpg",
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/c4e2177224b94cee92bab3ae0cdc3b6d/doodle-mafia-epic-alchemy-kznna.png",
                             "imageType": "OfferImageTall",
                             "width": 1200
                         },
                         "coverImage": {
                             "altText": "-",
                             "height": 1440,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/bae5c1d9c043458c8c402c6728005527/there-is-no-game--wd-1ej2t.jpg",
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/c4e2177224b94cee92bab3ae0cdc3b6d/doodle-mafia-epic-alchemy-7yaqa.jpg",
                             "imageType": "coverImage",
                             "width": 2560
                         }
@@ -2518,8 +2384,8 @@
                         {
                             "discount": {
                                 "discountAmountDisplay": "-100%",
-                                "discountEndDate": "2025-07-24T15:00:00.000Z",
-                                "originalPriceDisplay": "€4.49"
+                                "discountEndDate": "2025-07-31T15:00:00.000Z",
+                                "originalPriceDisplay": "€2.19"
                             },
                             "offerLifecycleState": "Release",
                             "price": {
@@ -2527,8 +2393,8 @@
                                 "decimalPrice": 0
                             },
                             "purchasePayload": {
-                                "offerId": "19708eaff36f43d4afb6ac0505d62def",
-                                "sandboxId": "f60a81aa52624100bff909dd5849f613"
+                                "offerId": "998844f9ffdb4317b12c6ebd52254673",
+                                "sandboxId": "07feb5c4405041818a1f13d6816da51b"
                             },
                             "purchaseType": "Claim"
                         },
@@ -2536,41 +2402,41 @@
                             "offerLifecycleState": "Release",
                             "price": {
                                 "currencyCode": "EUR",
-                                "decimalPrice": 4.49
+                                "decimalPrice": 2.19
                             },
-                            "priceDisplay": "€4.49",
+                            "priceDisplay": "€2.19",
                             "purchasePayload": {
-                                "offerId": "19708eaff36f43d4afb6ac0505d62def",
-                                "sandboxId": "f60a81aa52624100bff909dd5849f613"
+                                "offerId": "998844f9ffdb4317b12c6ebd52254673",
+                                "sandboxId": "07feb5c4405041818a1f13d6816da51b"
                             },
                             "purchaseType": "Purchase"
                         }
                     ],
                     "systemSpecs": {
-                        "applicationVersion": "2.0.0",
+                        "applicationVersion": "1.0.20",
                         "platform": "ios",
                         "systemRequirements": [
                             {
-                                "minimum": "400mo",
+                                "minimum": "110",
                                 "requirementType": "InstallSize",
                                 "title": "Installation size"
                             },
                             {
-                                "minimum": "400mo",
+                                "minimum": "110",
                                 "requirementType": "DownloadSize",
                                 "title": "Download size"
                             },
                             {
-                                "minimum": "10",
+                                "minimum": "14",
                                 "requirementType": "OS",
                                 "title": "OS version"
                             }
                         ]
                     },
-                    "title": "There Is No Game: Wrong Dimension"
+                    "title": "Doodle Mafia: Epic Alchemy"
                 },
-                "offerId": "19708eaff36f43d4afb6ac0505d62def",
-                "sandboxId": "f60a81aa52624100bff909dd5849f613"
+                "offerId": "998844f9ffdb4317b12c6ebd52254673",
+                "sandboxId": "07feb5c4405041818a1f13d6816da51b"
             }
         ],
         "size": "large",
@@ -5553,6 +5419,109 @@
                 },
                 "offerId": "b30404c07a47443490e1c94d7e0eba6f",
                 "sandboxId": "9a0c5c4c64404e698fbb56f757572216"
+            },
+            {
+                "content": {
+                    "ageRating": {
+                        "ageGate": {
+                            "gate": "no-gate"
+                        },
+                        "ageRating": {
+                            "ageControl": 7,
+                            "contentDescriptors": [
+                                "Fear",
+                                "Mild Violence"
+                            ],
+                            "interactiveElements": [],
+                            "ratingImage": "https://cdn1.epicgames.com/gameRating/gameRating/PEGI_7_192_192x192-30e2e712d0682dad01add90a6ccbed5b",
+                            "ratingSystem": "PEGI",
+                            "rectangularRatingImage": "https://cdn1.epicgames.com/salesEvent/salesEvent/PEGI-7_435x530-9439a136999d3dd762c7a61c3b8c7683",
+                            "title": "PEGI 7"
+                        },
+                        "ratingType": "AgeRating"
+                    },
+                    "attention": {
+                        "inAppPurchases": "None"
+                    },
+                    "catalogItemId": "bbf5e27f6cfc4260a676b9fca5aa0763",
+                    "categories": [
+                        "games",
+                        "games/edition",
+                        "games/edition/base"
+                    ],
+                    "mapping": {
+                        "slug": "there-is-no-game-wd-ios-cfba3a"
+                    },
+                    "media": {
+                        "appIcon": {
+                            "altText": "-",
+                            "height": 512,
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/bae5c1d9c043458c8c402c6728005527/there-is-no-game--wd-icon-g3nq5.png",
+                            "imageType": "ProductIcon",
+                            "width": 512
+                        },
+                        "card16x9": {
+                            "altText": "There Is No Game - WD Offer",
+                            "height": 1440,
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/bae5c1d9c043458c8c402c6728005527/there-is-no-game--wd-imy1n.jpg",
+                            "imageType": "OfferImageWide",
+                            "width": 2560
+                        },
+                        "card3x4": {
+                            "altText": "Download There Is No Game - WD Offer",
+                            "height": 1600,
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/bae5c1d9c043458c8c402c6728005527/there-is-no-game--wd-1b7w1.jpg",
+                            "imageType": "OfferImageTall",
+                            "width": 1200
+                        },
+                        "coverImage": {
+                            "altText": "-",
+                            "height": 1440,
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/bae5c1d9c043458c8c402c6728005527/there-is-no-game--wd-1ej2t.jpg",
+                            "imageType": "coverImage",
+                            "width": 2560
+                        }
+                    },
+                    "purchase": [
+                        {
+                            "offerLifecycleState": "Release",
+                            "price": {
+                                "currencyCode": "EUR",
+                                "decimalPrice": 4.49
+                            },
+                            "priceDisplay": "€4.49",
+                            "purchasePayload": {
+                                "offerId": "19708eaff36f43d4afb6ac0505d62def",
+                                "sandboxId": "f60a81aa52624100bff909dd5849f613"
+                            },
+                            "purchaseType": "Purchase"
+                        }
+                    ],
+                    "systemSpecs": {
+                        "applicationVersion": "2.0.0",
+                        "platform": "ios",
+                        "systemRequirements": [
+                            {
+                                "minimum": "400mo",
+                                "requirementType": "InstallSize",
+                                "title": "Installation size"
+                            },
+                            {
+                                "minimum": "400mo",
+                                "requirementType": "DownloadSize",
+                                "title": "Download size"
+                            },
+                            {
+                                "minimum": "10",
+                                "requirementType": "OS",
+                                "title": "OS version"
+                            }
+                        ]
+                    },
+                    "title": "There Is No Game: Wrong Dimension"
+                },
+                "offerId": "19708eaff36f43d4afb6ac0505d62def",
+                "sandboxId": "f60a81aa52624100bff909dd5849f613"
             }
         ],
         "size": "small",
