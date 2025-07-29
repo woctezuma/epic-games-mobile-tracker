@@ -1406,7 +1406,7 @@
                         "appIcon": {
                             "altText": "-",
                             "height": 512,
-                            "imageSrc": "https://cdn1.epicgames.com/offer/fn/fn_app-icon_blitz_1024x1024_1024x1024-4610bfa77daba9a03dc964a41b882a86",
+                            "imageSrc": "https://cdn1.epicgames.com/offer/fn/fn_app-icon_36_1024x1024-b9dda977ffa465aac535ef2507d43b75",
                             "imageType": "ProductIcon",
                             "width": 512
                         },
@@ -1693,7 +1693,7 @@
                         "appIcon": {
                             "altText": "-",
                             "height": 512,
-                            "imageSrc": "https://cdn1.epicgames.com/offer/fn/fn_app-icon_blitz_1024x1024_1024x1024-4610bfa77daba9a03dc964a41b882a86",
+                            "imageSrc": "https://cdn1.epicgames.com/offer/fn/fn_app-icon_36_1024x1024-b9dda977ffa465aac535ef2507d43b75",
                             "imageType": "ProductIcon",
                             "width": 512
                         },
@@ -1783,7 +1783,7 @@
                         "appIcon": {
                             "altText": "-",
                             "height": 512,
-                            "imageSrc": "https://cdn1.epicgames.com/offer/fn/fn_app-icon_blitz_1024x1024_1024x1024-4610bfa77daba9a03dc964a41b882a86",
+                            "imageSrc": "https://cdn1.epicgames.com/offer/fn/fn_app-icon_36_1024x1024-b9dda977ffa465aac535ef2507d43b75",
                             "imageType": "ProductIcon",
                             "width": 512
                         },
@@ -1871,7 +1871,7 @@
                         "appIcon": {
                             "altText": "-",
                             "height": 512,
-                            "imageSrc": "https://cdn1.epicgames.com/offer/fn/fn_app-icon_blitz_1024x1024_1024x1024-4610bfa77daba9a03dc964a41b882a86",
+                            "imageSrc": "https://cdn1.epicgames.com/offer/fn/fn_app-icon_36_1024x1024-b9dda977ffa465aac535ef2507d43b75",
                             "imageType": "ProductIcon",
                             "width": 512
                         },
@@ -1961,7 +1961,7 @@
                         "appIcon": {
                             "altText": "-",
                             "height": 512,
-                            "imageSrc": "https://cdn1.epicgames.com/offer/fn/fn_app-icon_blitz_1024x1024_1024x1024-4610bfa77daba9a03dc964a41b882a86",
+                            "imageSrc": "https://cdn1.epicgames.com/offer/fn/fn_app-icon_36_1024x1024-b9dda977ffa465aac535ef2507d43b75",
                             "imageType": "ProductIcon",
                             "width": 512
                         },
@@ -2050,7 +2050,7 @@
                         "appIcon": {
                             "altText": "-",
                             "height": 512,
-                            "imageSrc": "https://cdn1.epicgames.com/offer/fn/fn_app-icon_blitz_1024x1024_1024x1024-4610bfa77daba9a03dc964a41b882a86",
+                            "imageSrc": "https://cdn1.epicgames.com/offer/fn/fn_app-icon_36_1024x1024-b9dda977ffa465aac535ef2507d43b75",
                             "imageType": "ProductIcon",
                             "width": 512
                         },
@@ -2139,7 +2139,7 @@
                         "appIcon": {
                             "altText": "-",
                             "height": 512,
-                            "imageSrc": "https://cdn1.epicgames.com/offer/fn/fn_app-icon_blitz_1024x1024_1024x1024-4610bfa77daba9a03dc964a41b882a86",
+                            "imageSrc": "https://cdn1.epicgames.com/offer/fn/fn_app-icon_36_1024x1024-b9dda977ffa465aac535ef2507d43b75",
                             "imageType": "ProductIcon",
                             "width": 512
                         },
@@ -2227,7 +2227,7 @@
                         "appIcon": {
                             "altText": "-",
                             "height": 512,
-                            "imageSrc": "https://cdn1.epicgames.com/offer/fn/fn_app-icon_blitz_1024x1024_1024x1024-4610bfa77daba9a03dc964a41b882a86",
+                            "imageSrc": "https://cdn1.epicgames.com/offer/fn/fn_app-icon_36_1024x1024-b9dda977ffa465aac535ef2507d43b75",
                             "imageType": "ProductIcon",
                             "width": 512
                         },
@@ -7562,6 +7562,37 @@
                         }
                     },
                     "purchase": [
+                        {
+                            "offerLifecycleState": "Release",
+                            "price": {
+                                "currencyCode": "EUR",
+                                "decimalPrice": 6.29
+                            },
+                            "priceDisplay": "€6.29",
+                            "purchasePayload": {
+                                "offerId": "5d661b228d044405b2741f8c86ded0d9",
+                                "sandboxId": "15e6cccd4204432aa767b06ac1a25382"
+                            },
+                            "purchaseType": "Purchase"
+                        },
+                        {
+                            "discount": {
+                                "discountAmountDisplay": "-70%",
+                                "discountEndDate": "2025-08-13T21:59:00.000Z",
+                                "originalPriceDisplay": "€6.29"
+                            },
+                            "offerLifecycleState": "Release",
+                            "price": {
+                                "currencyCode": "EUR",
+                                "decimalPrice": 1.88
+                            },
+                            "priceDisplay": "€1.88",
+                            "purchasePayload": {
+                                "offerId": "5d661b228d044405b2741f8c86ded0d9",
+                                "sandboxId": "15e6cccd4204432aa767b06ac1a25382"
+                            },
+                            "purchaseType": "Purchase"
+                        },
                         {
                             "offerLifecycleState": "Release",
                             "price": {
