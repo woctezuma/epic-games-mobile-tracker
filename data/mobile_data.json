@@ -1,4 +1,62 @@
 {
+    "1-0693e8391e49492096424712a5595484-639b1fb7fd7a441aafa78df90b526098": {
+        "age_control": 7,
+        "catalog_item_id": "af64a03a360d41c185591649acff9753",
+        "checkout_url": "<https://store.epicgames.com/purchase?offers=1-0693e8391e49492096424712a5595484-639b1fb7fd7a441aafa78df90b526098>",
+        "content_descriptors": [
+            "Implied Violence",
+            "Mild Violence"
+        ],
+        "current_price": "0",
+        "discount": "-100%",
+        "download_size": "240 MB",
+        "end_date": "2025-08-07T15:00:00.000Z",
+        "in_app_purchases": false,
+        "install_size": "320 MB",
+        "interactive_elements": [],
+        "media": {
+            "OfferImageTall": "https://cdn1.epicgames.com/spt-assets/bfb773acd06f4d4090b82bd18f4b7744/pilgrims-1w8co.jpg",
+            "OfferImageWide": "https://cdn1.epicgames.com/spt-assets/bfb773acd06f4d4090b82bd18f4b7744/pilgrims-q5gy1.jpg",
+            "ProductIcon": "https://cdn1.epicgames.com/spt-assets/bfb773acd06f4d4090b82bd18f4b7744/pilgrims-icon-imq65.png",
+            "coverImage": "https://cdn1.epicgames.com/spt-assets/bfb773acd06f4d4090b82bd18f4b7744/pilgrims-1pcyw.jpg"
+        },
+        "offer_id": "639b1fb7fd7a441aafa78df90b526098",
+        "original_price": "1.99",
+        "platform": "ios",
+        "sandbox_id": "0693e8391e49492096424712a5595484",
+        "slug": "pilgrims-ios-e004ba",
+        "store_url": "<https://store.epicgames.com/product/pilgrims-ios-e004ba>",
+        "title": "Pilgrims"
+    },
+    "1-0693e8391e49492096424712a5595484-f9cd4ee9df2d49788c4047b7feebbd86": {
+        "age_control": 7,
+        "catalog_item_id": "34a8889285c24135a22005ef7cef3456",
+        "checkout_url": "<https://store.epicgames.com/purchase?offers=1-0693e8391e49492096424712a5595484-f9cd4ee9df2d49788c4047b7feebbd86>",
+        "content_descriptors": [
+            "Implied Violence",
+            "Mild Violence"
+        ],
+        "current_price": "0",
+        "discount": "-100%",
+        "download_size": "240 MB",
+        "end_date": "2025-08-07T15:00:00.000Z",
+        "in_app_purchases": false,
+        "install_size": "320 MB",
+        "interactive_elements": [],
+        "media": {
+            "OfferImageTall": "https://cdn1.epicgames.com/spt-assets/bfb773acd06f4d4090b82bd18f4b7744/pilgrims-bjl55.jpg",
+            "OfferImageWide": "https://cdn1.epicgames.com/spt-assets/bfb773acd06f4d4090b82bd18f4b7744/pilgrims-auo6q.jpg",
+            "ProductIcon": "https://cdn1.epicgames.com/spt-assets/bfb773acd06f4d4090b82bd18f4b7744/pilgrims-icon-imq65.png",
+            "coverImage": "https://cdn1.epicgames.com/spt-assets/bfb773acd06f4d4090b82bd18f4b7744/pilgrims-1pcyw.jpg"
+        },
+        "offer_id": "f9cd4ee9df2d49788c4047b7feebbd86",
+        "original_price": "1.99",
+        "platform": "android",
+        "sandbox_id": "0693e8391e49492096424712a5595484",
+        "slug": "pilgrims-android-dcb011",
+        "store_url": "<https://store.epicgames.com/product/pilgrims-android-dcb011>",
+        "title": "Pilgrims"
+    },
     "1-07feb5c4405041818a1f13d6816da51b-3a10cce696ef4d79ba908d383b3ce954": {
         "age_control": 7,
         "catalog_item_id": "b8b1209117bb441f9aca77176b142d12",
