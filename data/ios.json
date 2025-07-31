@@ -697,24 +697,6 @@
                     },
                     "purchase": [
                         {
-                            "discount": {
-                                "discountAmountDisplay": "-50%",
-                                "discountEndDate": "2025-07-31T15:00:00.000Z",
-                                "originalPriceDisplay": "€1.99"
-                            },
-                            "offerLifecycleState": "Release",
-                            "price": {
-                                "currencyCode": "EUR",
-                                "decimalPrice": 0.99
-                            },
-                            "priceDisplay": "€0.99",
-                            "purchasePayload": {
-                                "offerId": "6fd580cec714477397ac48fdd4fdf442",
-                                "sandboxId": "39697c68e46b48d2b75e17bdc417d859"
-                            },
-                            "purchaseType": "Purchase"
-                        },
-                        {
                             "offerLifecycleState": "Release",
                             "price": {
                                 "currencyCode": "EUR",
@@ -2345,7 +2327,8 @@
                         "ageRating": {
                             "ageControl": 7,
                             "contentDescriptors": [
-                                "Implied Violence"
+                                "Implied Violence",
+                                "Mild Violence"
                             ],
                             "interactiveElements": [],
                             "ratingImage": "https://cdn1.epicgames.com/gameRating/gameRating/PEGI_7_192_192x192-30e2e712d0682dad01add90a6ccbed5b",
@@ -2358,7 +2341,7 @@
                     "attention": {
                         "inAppPurchases": "None"
                     },
-                    "catalogItemId": "92974711a87e49a293b68921c16d02c7",
+                    "catalogItemId": "af64a03a360d41c185591649acff9753",
                     "categories": [
                         "freegames",
                         "games",
@@ -2366,34 +2349,34 @@
                         "games/edition/base"
                     ],
                     "mapping": {
-                        "slug": "doodle-mafia-epic-alchemy-ios-f77211"
+                        "slug": "pilgrims-ios-e004ba"
                     },
                     "media": {
                         "appIcon": {
                             "altText": "-",
                             "height": 512,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/c4e2177224b94cee92bab3ae0cdc3b6d/doodle-mafia-epic-alchemy-icon-stw7l.png",
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/bfb773acd06f4d4090b82bd18f4b7744/pilgrims-icon-imq65.png",
                             "imageType": "ProductIcon",
                             "width": 512
                         },
                         "card16x9": {
-                            "altText": "Doodle Mafia: Epic Alchemy Offer",
+                            "altText": "Pilgrims Offer",
                             "height": 1440,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/c4e2177224b94cee92bab3ae0cdc3b6d/doodle-mafia-epic-alchemy-14fe6.jpg",
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/bfb773acd06f4d4090b82bd18f4b7744/pilgrims-q5gy1.jpg",
                             "imageType": "OfferImageWide",
                             "width": 2560
                         },
                         "card3x4": {
-                            "altText": "Download Doodle Mafia: Epic Alchemy Offer",
+                            "altText": "Download Pilgrims Offer",
                             "height": 1600,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/c4e2177224b94cee92bab3ae0cdc3b6d/doodle-mafia-epic-alchemy-kznna.png",
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/bfb773acd06f4d4090b82bd18f4b7744/pilgrims-1w8co.jpg",
                             "imageType": "OfferImageTall",
                             "width": 1200
                         },
                         "coverImage": {
                             "altText": "-",
                             "height": 1440,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/c4e2177224b94cee92bab3ae0cdc3b6d/doodle-mafia-epic-alchemy-7yaqa.jpg",
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/bfb773acd06f4d4090b82bd18f4b7744/pilgrims-1pcyw.jpg",
                             "imageType": "coverImage",
                             "width": 2560
                         }
@@ -2402,8 +2385,8 @@
                         {
                             "discount": {
                                 "discountAmountDisplay": "-100%",
-                                "discountEndDate": "2025-07-31T15:00:00.000Z",
-                                "originalPriceDisplay": "€2.19"
+                                "discountEndDate": "2025-08-07T15:00:00.000Z",
+                                "originalPriceDisplay": "€1.99"
                             },
                             "offerLifecycleState": "Release",
                             "price": {
@@ -2411,8 +2394,8 @@
                                 "decimalPrice": 0
                             },
                             "purchasePayload": {
-                                "offerId": "998844f9ffdb4317b12c6ebd52254673",
-                                "sandboxId": "07feb5c4405041818a1f13d6816da51b"
+                                "offerId": "639b1fb7fd7a441aafa78df90b526098",
+                                "sandboxId": "0693e8391e49492096424712a5595484"
                             },
                             "purchaseType": "Claim"
                         },
@@ -2420,41 +2403,41 @@
                             "offerLifecycleState": "Release",
                             "price": {
                                 "currencyCode": "EUR",
-                                "decimalPrice": 2.19
+                                "decimalPrice": 1.99
                             },
-                            "priceDisplay": "€2.19",
+                            "priceDisplay": "€1.99",
                             "purchasePayload": {
-                                "offerId": "998844f9ffdb4317b12c6ebd52254673",
-                                "sandboxId": "07feb5c4405041818a1f13d6816da51b"
+                                "offerId": "639b1fb7fd7a441aafa78df90b526098",
+                                "sandboxId": "0693e8391e49492096424712a5595484"
                             },
                             "purchaseType": "Purchase"
                         }
                     ],
                     "systemSpecs": {
-                        "applicationVersion": "1.0.20",
+                        "applicationVersion": "1.1.7",
                         "platform": "ios",
                         "systemRequirements": [
                             {
-                                "minimum": "110",
+                                "minimum": "320 MB",
                                 "requirementType": "InstallSize",
                                 "title": "Installation size"
                             },
                             {
-                                "minimum": "110",
+                                "minimum": "240 MB",
                                 "requirementType": "DownloadSize",
                                 "title": "Download size"
                             },
                             {
-                                "minimum": "14",
+                                "minimum": "16.0",
                                 "requirementType": "OS",
                                 "title": "OS version"
                             }
                         ]
                     },
-                    "title": "Doodle Mafia: Epic Alchemy"
+                    "title": "Pilgrims"
                 },
-                "offerId": "998844f9ffdb4317b12c6ebd52254673",
-                "sandboxId": "07feb5c4405041818a1f13d6816da51b"
+                "offerId": "639b1fb7fd7a441aafa78df90b526098",
+                "sandboxId": "0693e8391e49492096424712a5595484"
             }
         ],
         "size": "large",
@@ -4166,8 +4149,7 @@
                         "ageRating": {
                             "ageControl": 7,
                             "contentDescriptors": [
-                                "Implied Violence",
-                                "Mild Violence"
+                                "Implied Violence"
                             ],
                             "interactiveElements": [],
                             "ratingImage": "https://cdn1.epicgames.com/gameRating/gameRating/PEGI_7_192_192x192-30e2e712d0682dad01add90a6ccbed5b",
@@ -4180,42 +4162,41 @@
                     "attention": {
                         "inAppPurchases": "None"
                     },
-                    "catalogItemId": "af64a03a360d41c185591649acff9753",
+                    "catalogItemId": "92974711a87e49a293b68921c16d02c7",
                     "categories": [
-                        "freegames",
                         "games",
                         "games/edition",
                         "games/edition/base"
                     ],
                     "mapping": {
-                        "slug": "pilgrims-ios-e004ba"
+                        "slug": "doodle-mafia-epic-alchemy-ios-f77211"
                     },
                     "media": {
                         "appIcon": {
                             "altText": "-",
                             "height": 512,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/bfb773acd06f4d4090b82bd18f4b7744/pilgrims-icon-imq65.png",
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/c4e2177224b94cee92bab3ae0cdc3b6d/doodle-mafia-epic-alchemy-icon-stw7l.png",
                             "imageType": "ProductIcon",
                             "width": 512
                         },
                         "card16x9": {
-                            "altText": "Pilgrims Offer",
+                            "altText": "Doodle Mafia: Epic Alchemy Offer",
                             "height": 1440,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/bfb773acd06f4d4090b82bd18f4b7744/pilgrims-q5gy1.jpg",
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/c4e2177224b94cee92bab3ae0cdc3b6d/doodle-mafia-epic-alchemy-14fe6.jpg",
                             "imageType": "OfferImageWide",
                             "width": 2560
                         },
                         "card3x4": {
-                            "altText": "Download Pilgrims Offer",
+                            "altText": "Download Doodle Mafia: Epic Alchemy Offer",
                             "height": 1600,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/bfb773acd06f4d4090b82bd18f4b7744/pilgrims-1w8co.jpg",
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/c4e2177224b94cee92bab3ae0cdc3b6d/doodle-mafia-epic-alchemy-kznna.png",
                             "imageType": "OfferImageTall",
                             "width": 1200
                         },
                         "coverImage": {
                             "altText": "-",
                             "height": 1440,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/bfb773acd06f4d4090b82bd18f4b7744/pilgrims-1pcyw.jpg",
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/c4e2177224b94cee92bab3ae0cdc3b6d/doodle-mafia-epic-alchemy-7yaqa.jpg",
                             "imageType": "coverImage",
                             "width": 2560
                         }
@@ -4225,71 +4206,41 @@
                             "offerLifecycleState": "Release",
                             "price": {
                                 "currencyCode": "EUR",
-                                "decimalPrice": 1.99
+                                "decimalPrice": 2.19
                             },
-                            "priceDisplay": "€1.99",
+                            "priceDisplay": "€2.19",
                             "purchasePayload": {
-                                "offerId": "639b1fb7fd7a441aafa78df90b526098",
-                                "sandboxId": "0693e8391e49492096424712a5595484"
-                            },
-                            "purchaseType": "Purchase"
-                        },
-                        {
-                            "discount": {
-                                "discountAmountDisplay": "-100%",
-                                "discountEndDate": "2025-08-07T15:00:00.000Z",
-                                "originalPriceDisplay": "€1.99"
-                            },
-                            "offerLifecycleState": "Release",
-                            "price": {
-                                "currencyCode": "EUR",
-                                "decimalPrice": 0
-                            },
-                            "purchasePayload": {
-                                "offerId": "639b1fb7fd7a441aafa78df90b526098",
-                                "sandboxId": "0693e8391e49492096424712a5595484"
-                            },
-                            "purchaseType": "Claim"
-                        },
-                        {
-                            "offerLifecycleState": "Release",
-                            "price": {
-                                "currencyCode": "EUR",
-                                "decimalPrice": 1.99
-                            },
-                            "priceDisplay": "€1.99",
-                            "purchasePayload": {
-                                "offerId": "639b1fb7fd7a441aafa78df90b526098",
-                                "sandboxId": "0693e8391e49492096424712a5595484"
+                                "offerId": "998844f9ffdb4317b12c6ebd52254673",
+                                "sandboxId": "07feb5c4405041818a1f13d6816da51b"
                             },
                             "purchaseType": "Purchase"
                         }
                     ],
                     "systemSpecs": {
-                        "applicationVersion": "1.1.7",
+                        "applicationVersion": "1.0.20",
                         "platform": "ios",
                         "systemRequirements": [
                             {
-                                "minimum": "320 MB",
+                                "minimum": "110",
                                 "requirementType": "InstallSize",
                                 "title": "Installation size"
                             },
                             {
-                                "minimum": "240 MB",
+                                "minimum": "110",
                                 "requirementType": "DownloadSize",
                                 "title": "Download size"
                             },
                             {
-                                "minimum": "16.0",
+                                "minimum": "14",
                                 "requirementType": "OS",
                                 "title": "OS version"
                             }
                         ]
                     },
-                    "title": "Pilgrims"
+                    "title": "Doodle Mafia: Epic Alchemy"
                 },
-                "offerId": "639b1fb7fd7a441aafa78df90b526098",
-                "sandboxId": "0693e8391e49492096424712a5595484"
+                "offerId": "998844f9ffdb4317b12c6ebd52254673",
+                "sandboxId": "07feb5c4405041818a1f13d6816da51b"
             },
             {
                 "content": {
@@ -4456,24 +4407,6 @@
                         }
                     },
                     "purchase": [
-                        {
-                            "discount": {
-                                "discountAmountDisplay": "-80%",
-                                "discountEndDate": "2025-07-31T15:00:00.000Z",
-                                "originalPriceDisplay": "€5.39"
-                            },
-                            "offerLifecycleState": "Release",
-                            "price": {
-                                "currencyCode": "EUR",
-                                "decimalPrice": 1.07
-                            },
-                            "priceDisplay": "€1.07",
-                            "purchasePayload": {
-                                "offerId": "de6c8b3a03474e82a25a4fa4081cb16f",
-                                "sandboxId": "a3100205e194489088c7625c8c5c1596"
-                            },
-                            "purchaseType": "Purchase"
-                        },
                         {
                             "offerLifecycleState": "Release",
                             "price": {
@@ -5085,24 +5018,6 @@
                         }
                     },
                     "purchase": [
-                        {
-                            "discount": {
-                                "discountAmountDisplay": "-20%",
-                                "discountEndDate": "2025-07-31T15:00:00.000Z",
-                                "originalPriceDisplay": "€0.99"
-                            },
-                            "offerLifecycleState": "Release",
-                            "price": {
-                                "currencyCode": "EUR",
-                                "decimalPrice": 0.79
-                            },
-                            "priceDisplay": "€0.79",
-                            "purchasePayload": {
-                                "offerId": "339352faf7db4a3bbb262362fd0041c3",
-                                "sandboxId": "09f00180b25347bdb65ac0b7378756b7"
-                            },
-                            "purchaseType": "Purchase"
-                        },
                         {
                             "offerLifecycleState": "Release",
                             "price": {
