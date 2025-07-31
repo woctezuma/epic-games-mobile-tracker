@@ -418,12 +418,19 @@
                 "content": {
                     "ageRating": {
                         "ageGate": {
-                            "gate": "unrated-gate"
+                            "gate": "no-gate"
                         },
                         "ageRating": {
-                            "ratingSystem": "PEGI"
+                            "ageControl": 3,
+                            "contentDescriptors": [
+                                "In-Game Purchases"
+                            ],
+                            "interactiveElements": [],
+                            "ratingImage": "https://cdn1.epicgames.com/gameRating/gameRating/PEGI_3_192_192x192-490b93ddf59fb4ac1148d1eb9083626a",
+                            "ratingSystem": "PEGI",
+                            "title": "PEGI 3"
                         },
-                        "ratingType": "UnratedRating"
+                        "ratingType": "AgeRating"
                     },
                     "attention": {
                         "inAppPurchases": "MaybeIncludesInAppPurchases"
