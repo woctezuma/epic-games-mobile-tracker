@@ -3319,6 +3319,7 @@
                     },
                     "catalogItemId": "dc8b09ab8f6f475e9d1d1d0b39842dec",
                     "categories": [
+                        "freegames",
                         "games",
                         "games/edition",
                         "games/edition/base"
@@ -3357,6 +3358,36 @@
                         }
                     },
                     "purchase": [
+                        {
+                            "offerLifecycleState": "Release",
+                            "price": {
+                                "currencyCode": "EUR",
+                                "decimalPrice": 4.49
+                            },
+                            "priceDisplay": "€4.49",
+                            "purchasePayload": {
+                                "offerId": "f63e7ff7afef4ed3b854309db4e5cf6b",
+                                "sandboxId": "b0545d64f90248208a5dd6f213f4dde7"
+                            },
+                            "purchaseType": "Purchase"
+                        },
+                        {
+                            "discount": {
+                                "discountAmountDisplay": "-100%",
+                                "discountEndDate": "2025-08-21T15:00:00.000Z",
+                                "originalPriceDisplay": "€4.49"
+                            },
+                            "offerLifecycleState": "Release",
+                            "price": {
+                                "currencyCode": "EUR",
+                                "decimalPrice": 0
+                            },
+                            "purchasePayload": {
+                                "offerId": "f63e7ff7afef4ed3b854309db4e5cf6b",
+                                "sandboxId": "b0545d64f90248208a5dd6f213f4dde7"
+                            },
+                            "purchaseType": "Claim"
+                        },
                         {
                             "offerLifecycleState": "Release",
                             "price": {
