@@ -1240,19 +1240,6 @@
                     },
                     "purchase": [
                         {
-                            "offerLifecycleState": "Release",
-                            "price": {
-                                "currencyCode": "EUR",
-                                "decimalPrice": 2.99
-                            },
-                            "priceDisplay": "€2.99",
-                            "purchasePayload": {
-                                "offerId": "c0c571041fd94e158a5b4f9d96753f6d",
-                                "sandboxId": "de6432ac525d47c8a2e649e4a75a3078"
-                            },
-                            "purchaseType": "Purchase"
-                        },
-                        {
                             "discount": {
                                 "discountAmountDisplay": "-67%",
                                 "discountEndDate": "2025-08-20T15:00:00.000Z",
@@ -2355,23 +2342,22 @@
                             "gate": "no-gate"
                         },
                         "ageRating": {
-                            "ageControl": 7,
+                            "ageControl": 16,
                             "contentDescriptors": [
-                                "Implied Violence",
-                                "Mild Violence"
+                                "Drugs"
                             ],
                             "interactiveElements": [],
-                            "ratingImage": "https://cdn1.epicgames.com/gameRating/gameRating/PEGI_7_192_192x192-30e2e712d0682dad01add90a6ccbed5b",
+                            "ratingImage": "https://cdn1.epicgames.com/gameRating/gameRating/PEGI_16_192_192x192-da60f0bd1fe7cb1ac9d8a8bd5168ea96",
                             "ratingSystem": "PEGI",
-                            "rectangularRatingImage": "https://cdn1.epicgames.com/salesEvent/salesEvent/PEGI-7_435x530-9439a136999d3dd762c7a61c3b8c7683",
-                            "title": "PEGI 7"
+                            "rectangularRatingImage": "https://cdn1.epicgames.com/salesEvent/salesEvent/PEGI-16_435x530-65760d498ce28374fb7ca3258ee1440c",
+                            "title": "PEGI 16"
                         },
                         "ratingType": "AgeRating"
                     },
                     "attention": {
                         "inAppPurchases": "None"
                     },
-                    "catalogItemId": "34a8889285c24135a22005ef7cef3456",
+                    "catalogItemId": "52267ea31a9b4cac92baff60b438fb69",
                     "categories": [
                         "freegames",
                         "games",
@@ -2379,34 +2365,34 @@
                         "games/edition/base"
                     ],
                     "mapping": {
-                        "slug": "pilgrims-android-dcb011"
+                        "slug": "112-operator-android-979286"
                     },
                     "media": {
                         "appIcon": {
                             "altText": "-",
                             "height": 512,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/bfb773acd06f4d4090b82bd18f4b7744/pilgrims-icon-imq65.png",
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/6036e5ea111a448ea1b41d5ab3800d99/112-operator-icon-y4ugl.png",
                             "imageType": "ProductIcon",
                             "width": 512
                         },
                         "card16x9": {
-                            "altText": "Pilgrims Offer",
+                            "altText": "112 Operator Offer",
                             "height": 1440,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/bfb773acd06f4d4090b82bd18f4b7744/pilgrims-auo6q.jpg",
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/6036e5ea111a448ea1b41d5ab3800d99/112-operator-1dvw8.jpg",
                             "imageType": "OfferImageWide",
                             "width": 2560
                         },
                         "card3x4": {
-                            "altText": "Download Pilgrims Offer",
+                            "altText": "Download 112 Operator Offer",
                             "height": 1600,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/bfb773acd06f4d4090b82bd18f4b7744/pilgrims-bjl55.jpg",
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/6036e5ea111a448ea1b41d5ab3800d99/112-operator-19bb7.jpg",
                             "imageType": "OfferImageTall",
                             "width": 1200
                         },
                         "coverImage": {
                             "altText": "-",
                             "height": 1440,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/bfb773acd06f4d4090b82bd18f4b7744/pilgrims-1pcyw.jpg",
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/6036e5ea111a448ea1b41d5ab3800d99/112-operator-1htjd.jpg",
                             "imageType": "coverImage",
                             "width": 2560
                         }
@@ -2415,8 +2401,8 @@
                         {
                             "discount": {
                                 "discountAmountDisplay": "-100%",
-                                "discountEndDate": "2025-08-07T15:00:00.000Z",
-                                "originalPriceDisplay": "€1.99"
+                                "discountEndDate": "2025-08-14T15:00:00.000Z",
+                                "originalPriceDisplay": "€8.99"
                             },
                             "offerLifecycleState": "Release",
                             "price": {
@@ -2424,8 +2410,8 @@
                                 "decimalPrice": 0
                             },
                             "purchasePayload": {
-                                "offerId": "f9cd4ee9df2d49788c4047b7feebbd86",
-                                "sandboxId": "0693e8391e49492096424712a5595484"
+                                "offerId": "cc5047a61fca40c492cf255c07ffc4c6",
+                                "sandboxId": "9f981e2c861e4a8fbd0eab89541ac8e6"
                             },
                             "purchaseType": "Claim"
                         },
@@ -2433,41 +2419,41 @@
                             "offerLifecycleState": "Release",
                             "price": {
                                 "currencyCode": "EUR",
-                                "decimalPrice": 1.99
+                                "decimalPrice": 8.99
                             },
-                            "priceDisplay": "€1.99",
+                            "priceDisplay": "€8.99",
                             "purchasePayload": {
-                                "offerId": "f9cd4ee9df2d49788c4047b7feebbd86",
-                                "sandboxId": "0693e8391e49492096424712a5595484"
+                                "offerId": "cc5047a61fca40c492cf255c07ffc4c6",
+                                "sandboxId": "9f981e2c861e4a8fbd0eab89541ac8e6"
                             },
                             "purchaseType": "Purchase"
                         }
                     ],
                     "systemSpecs": {
-                        "applicationVersion": "1.1.7",
+                        "applicationVersion": "1.07.29",
                         "platform": "android",
                         "systemRequirements": [
                             {
-                                "minimum": "320 MB",
+                                "minimum": "2 GB",
                                 "requirementType": "InstallSize",
                                 "title": "Installation size"
                             },
                             {
-                                "minimum": "240 MB",
+                                "minimum": "737.24 MB",
                                 "requirementType": "DownloadSize",
                                 "title": "Download size"
                             },
                             {
-                                "minimum": "6.0",
+                                "minimum": "8.0.0",
                                 "requirementType": "OS",
                                 "title": "OS version"
                             }
                         ]
                     },
-                    "title": "Pilgrims"
+                    "title": "112 Operator"
                 },
-                "offerId": "f9cd4ee9df2d49788c4047b7feebbd86",
-                "sandboxId": "0693e8391e49492096424712a5595484"
+                "offerId": "cc5047a61fca40c492cf255c07ffc4c6",
+                "sandboxId": "9f981e2c861e4a8fbd0eab89541ac8e6"
             }
         ],
         "size": "large",
@@ -4024,19 +4010,6 @@
                     },
                     "purchase": [
                         {
-                            "offerLifecycleState": "Release",
-                            "price": {
-                                "currencyCode": "EUR",
-                                "decimalPrice": 3.59
-                            },
-                            "priceDisplay": "€3.59",
-                            "purchasePayload": {
-                                "offerId": "88e067bae4ee48afb42e4d0351db48ab",
-                                "sandboxId": "bf0ff87e1f254dfcba5268f33036130d"
-                            },
-                            "purchaseType": "Purchase"
-                        },
-                        {
                             "discount": {
                                 "discountAmountDisplay": "-43%",
                                 "discountEndDate": "2025-08-20T15:00:00.000Z",
@@ -4770,19 +4743,6 @@
                         }
                     },
                     "purchase": [
-                        {
-                            "offerLifecycleState": "Release",
-                            "price": {
-                                "currencyCode": "EUR",
-                                "decimalPrice": 4.79
-                            },
-                            "priceDisplay": "€4.79",
-                            "purchasePayload": {
-                                "offerId": "7b0b95230dbb48908344b0e7ec90f0f3",
-                                "sandboxId": "788106ed2233439bbe0df94c27fcef9b"
-                            },
-                            "purchaseType": "Purchase"
-                        },
                         {
                             "discount": {
                                 "discountAmountDisplay": "-59%",
@@ -5770,6 +5730,109 @@
                 },
                 "offerId": "123b0ce76e9e401e8a35643a001bf9b5",
                 "sandboxId": "886cd782adaa4ad6864ea8f603c3e19e"
+            },
+            {
+                "content": {
+                    "ageRating": {
+                        "ageGate": {
+                            "gate": "no-gate"
+                        },
+                        "ageRating": {
+                            "ageControl": 7,
+                            "contentDescriptors": [
+                                "Implied Violence",
+                                "Mild Violence"
+                            ],
+                            "interactiveElements": [],
+                            "ratingImage": "https://cdn1.epicgames.com/gameRating/gameRating/PEGI_7_192_192x192-30e2e712d0682dad01add90a6ccbed5b",
+                            "ratingSystem": "PEGI",
+                            "rectangularRatingImage": "https://cdn1.epicgames.com/salesEvent/salesEvent/PEGI-7_435x530-9439a136999d3dd762c7a61c3b8c7683",
+                            "title": "PEGI 7"
+                        },
+                        "ratingType": "AgeRating"
+                    },
+                    "attention": {
+                        "inAppPurchases": "None"
+                    },
+                    "catalogItemId": "34a8889285c24135a22005ef7cef3456",
+                    "categories": [
+                        "games",
+                        "games/edition",
+                        "games/edition/base"
+                    ],
+                    "mapping": {
+                        "slug": "pilgrims-android-dcb011"
+                    },
+                    "media": {
+                        "appIcon": {
+                            "altText": "-",
+                            "height": 512,
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/bfb773acd06f4d4090b82bd18f4b7744/pilgrims-icon-imq65.png",
+                            "imageType": "ProductIcon",
+                            "width": 512
+                        },
+                        "card16x9": {
+                            "altText": "Pilgrims Offer",
+                            "height": 1440,
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/bfb773acd06f4d4090b82bd18f4b7744/pilgrims-auo6q.jpg",
+                            "imageType": "OfferImageWide",
+                            "width": 2560
+                        },
+                        "card3x4": {
+                            "altText": "Download Pilgrims Offer",
+                            "height": 1600,
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/bfb773acd06f4d4090b82bd18f4b7744/pilgrims-bjl55.jpg",
+                            "imageType": "OfferImageTall",
+                            "width": 1200
+                        },
+                        "coverImage": {
+                            "altText": "-",
+                            "height": 1440,
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/bfb773acd06f4d4090b82bd18f4b7744/pilgrims-1pcyw.jpg",
+                            "imageType": "coverImage",
+                            "width": 2560
+                        }
+                    },
+                    "purchase": [
+                        {
+                            "offerLifecycleState": "Release",
+                            "price": {
+                                "currencyCode": "EUR",
+                                "decimalPrice": 1.99
+                            },
+                            "priceDisplay": "€1.99",
+                            "purchasePayload": {
+                                "offerId": "f9cd4ee9df2d49788c4047b7feebbd86",
+                                "sandboxId": "0693e8391e49492096424712a5595484"
+                            },
+                            "purchaseType": "Purchase"
+                        }
+                    ],
+                    "systemSpecs": {
+                        "applicationVersion": "1.1.7",
+                        "platform": "android",
+                        "systemRequirements": [
+                            {
+                                "minimum": "320 MB",
+                                "requirementType": "InstallSize",
+                                "title": "Installation size"
+                            },
+                            {
+                                "minimum": "240 MB",
+                                "requirementType": "DownloadSize",
+                                "title": "Download size"
+                            },
+                            {
+                                "minimum": "6.0",
+                                "requirementType": "OS",
+                                "title": "OS version"
+                            }
+                        ]
+                    },
+                    "title": "Pilgrims"
+                },
+                "offerId": "f9cd4ee9df2d49788c4047b7feebbd86",
+                "sandboxId": "0693e8391e49492096424712a5595484"
             },
             {
                 "content": {
@@ -9870,19 +9933,6 @@
                     },
                     "purchase": [
                         {
-                            "offerLifecycleState": "Release",
-                            "price": {
-                                "currencyCode": "EUR",
-                                "decimalPrice": 4.99
-                            },
-                            "priceDisplay": "€4.99",
-                            "purchasePayload": {
-                                "offerId": "26cc69dd4fa54caa93288e25767f8c9c",
-                                "sandboxId": "5d24ed888f9542a09dc406f66705631a"
-                            },
-                            "purchaseType": "Purchase"
-                        },
-                        {
                             "discount": {
                                 "discountAmountDisplay": "-60%",
                                 "discountEndDate": "2025-08-20T15:00:00.000Z",
@@ -10326,19 +10376,6 @@
                         }
                     },
                     "purchase": [
-                        {
-                            "offerLifecycleState": "Release",
-                            "price": {
-                                "currencyCode": "EUR",
-                                "decimalPrice": 7.99
-                            },
-                            "priceDisplay": "€7.99",
-                            "purchasePayload": {
-                                "offerId": "ed5b79630abd4a3ba1ec55cbe1a7fa27",
-                                "sandboxId": "6e7faac262f04035aeb848e660b2d18c"
-                            },
-                            "purchaseType": "Purchase"
-                        },
                         {
                             "discount": {
                                 "discountAmountDisplay": "-88%",
