@@ -629,6 +629,108 @@
                             "gate": "no-gate"
                         },
                         "ageRating": {
+                            "ageControl": 16,
+                            "contentDescriptors": [
+                                "Drugs"
+                            ],
+                            "interactiveElements": [],
+                            "ratingImage": "https://cdn1.epicgames.com/gameRating/gameRating/PEGI_16_192_192x192-da60f0bd1fe7cb1ac9d8a8bd5168ea96",
+                            "ratingSystem": "PEGI",
+                            "rectangularRatingImage": "https://cdn1.epicgames.com/salesEvent/salesEvent/PEGI-16_435x530-65760d498ce28374fb7ca3258ee1440c",
+                            "title": "PEGI 16"
+                        },
+                        "ratingType": "AgeRating"
+                    },
+                    "attention": {
+                        "inAppPurchases": "None"
+                    },
+                    "catalogItemId": "230d84fe27094fbcb0b6f71c787339af",
+                    "categories": [
+                        "games",
+                        "games/edition",
+                        "games/edition/base"
+                    ],
+                    "mapping": {
+                        "slug": "112-operator-ios-c9d3bc"
+                    },
+                    "media": {
+                        "appIcon": {
+                            "altText": "-",
+                            "height": 512,
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/6036e5ea111a448ea1b41d5ab3800d99/112-operator-icon-y4ugl.png",
+                            "imageType": "ProductIcon",
+                            "width": 512
+                        },
+                        "card16x9": {
+                            "altText": "112 Operator Offer",
+                            "height": 1440,
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/6036e5ea111a448ea1b41d5ab3800d99/112-operator-k3rkv.jpg",
+                            "imageType": "OfferImageWide",
+                            "width": 2560
+                        },
+                        "card3x4": {
+                            "altText": "Download 112 Operator Offer",
+                            "height": 1600,
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/6036e5ea111a448ea1b41d5ab3800d99/112-operator-1rf39.jpg",
+                            "imageType": "OfferImageTall",
+                            "width": 1200
+                        },
+                        "coverImage": {
+                            "altText": "-",
+                            "height": 1440,
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/6036e5ea111a448ea1b41d5ab3800d99/112-operator-1htjd.jpg",
+                            "imageType": "coverImage",
+                            "width": 2560
+                        }
+                    },
+                    "purchase": [
+                        {
+                            "offerLifecycleState": "Release",
+                            "price": {
+                                "currencyCode": "EUR",
+                                "decimalPrice": 8.99
+                            },
+                            "priceDisplay": "€8.99",
+                            "purchasePayload": {
+                                "offerId": "a96d48ca85e44dd1b868531eb6cebeaf",
+                                "sandboxId": "9f981e2c861e4a8fbd0eab89541ac8e6"
+                            },
+                            "purchaseType": "Purchase"
+                        }
+                    ],
+                    "systemSpecs": {
+                        "applicationVersion": "1.06.04",
+                        "platform": "ios",
+                        "systemRequirements": [
+                            {
+                                "minimum": "2 GB",
+                                "requirementType": "InstallSize",
+                                "title": "Installation size"
+                            },
+                            {
+                                "minimum": "736.74 MB",
+                                "requirementType": "DownloadSize",
+                                "title": "Download size"
+                            },
+                            {
+                                "minimum": "iOS 14",
+                                "requirementType": "OS",
+                                "title": "OS version"
+                            }
+                        ]
+                    },
+                    "title": "112 Operator"
+                },
+                "offerId": "a96d48ca85e44dd1b868531eb6cebeaf",
+                "sandboxId": "9f981e2c861e4a8fbd0eab89541ac8e6"
+            },
+            {
+                "content": {
+                    "ageRating": {
+                        "ageGate": {
+                            "gate": "no-gate"
+                        },
+                        "ageRating": {
                             "ageControl": 12,
                             "contentDescriptors": [
                                 "Moderate Violence"
@@ -828,109 +930,6 @@
                 },
                 "offerId": "6fd580cec714477397ac48fdd4fdf442",
                 "sandboxId": "39697c68e46b48d2b75e17bdc417d859"
-            },
-            {
-                "content": {
-                    "ageRating": {
-                        "ageGate": {
-                            "gate": "no-gate"
-                        },
-                        "ageRating": {
-                            "ageControl": 12,
-                            "contentDescriptors": [
-                                "Mild Swearing",
-                                "Moderate Violence"
-                            ],
-                            "interactiveElements": [],
-                            "ratingImage": "https://cdn1.epicgames.com/gameRating/gameRating/PEGI_12_192_192x192-afa4df43f131bc83eb380ccf22f8d904",
-                            "ratingSystem": "PEGI",
-                            "rectangularRatingImage": "https://cdn1.epicgames.com/salesEvent/salesEvent/PEGI-12_436x530-0cd1f06607086f3cc1bc2b8643f21b0a",
-                            "title": "PEGI 12"
-                        },
-                        "ratingType": "AgeRating"
-                    },
-                    "attention": {
-                        "inAppPurchases": "None"
-                    },
-                    "catalogItemId": "38f6fbcd4b46447d991a2c043f1021cc",
-                    "categories": [
-                        "games",
-                        "games/edition",
-                        "games/edition/base"
-                    ],
-                    "mapping": {
-                        "slug": "super-meat-boy-forever-mobile-ios-190ae0"
-                    },
-                    "media": {
-                        "appIcon": {
-                            "altText": "-",
-                            "height": 512,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/671b8ba419e2433eac672283d53567b5/super-meat-boy-forever-mobile-icon-gv0j4.png",
-                            "imageType": "ProductIcon",
-                            "width": 512
-                        },
-                        "card16x9": {
-                            "altText": "Super Meat Boy Forever Mobile Offer",
-                            "height": 1440,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/671b8ba419e2433eac672283d53567b5/super-meat-boy-forever-mobile-q3x27.jpg",
-                            "imageType": "OfferImageWide",
-                            "width": 2560
-                        },
-                        "card3x4": {
-                            "altText": "Download Super Meat Boy Forever Mobile Offer",
-                            "height": 1600,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/671b8ba419e2433eac672283d53567b5/super-meat-boy-forever-mobile-1ul7h.jpg",
-                            "imageType": "OfferImageTall",
-                            "width": 1200
-                        },
-                        "coverImage": {
-                            "altText": "-",
-                            "height": 1440,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/671b8ba419e2433eac672283d53567b5/super-meat-boy-forever-mobile-g1l2e.jpg",
-                            "imageType": "coverImage",
-                            "width": 2560
-                        }
-                    },
-                    "purchase": [
-                        {
-                            "offerLifecycleState": "Release",
-                            "price": {
-                                "currencyCode": "EUR",
-                                "decimalPrice": 0.99
-                            },
-                            "priceDisplay": "€0.99",
-                            "purchasePayload": {
-                                "offerId": "c7e04db93fe74b86b04ca988a91f9249",
-                                "sandboxId": "d408f663403d4e9f8ecdc3086ed0d7bc"
-                            },
-                            "purchaseType": "Purchase"
-                        }
-                    ],
-                    "systemSpecs": {
-                        "applicationVersion": "1.0",
-                        "platform": "ios",
-                        "systemRequirements": [
-                            {
-                                "minimum": "981.25 MB",
-                                "requirementType": "InstallSize",
-                                "title": "Installation size"
-                            },
-                            {
-                                "minimum": "981.25 MB",
-                                "requirementType": "DownloadSize",
-                                "title": "Download size"
-                            },
-                            {
-                                "minimum": "18.0",
-                                "requirementType": "OS",
-                                "title": "OS version"
-                            }
-                        ]
-                    },
-                    "title": "Super Meat Boy Forever Mobile"
-                },
-                "offerId": "c7e04db93fe74b86b04ca988a91f9249",
-                "sandboxId": "d408f663403d4e9f8ecdc3086ed0d7bc"
             }
         ],
         "size": "medium",
@@ -2400,22 +2399,20 @@
                             "gate": "no-gate"
                         },
                         "ageRating": {
-                            "ageControl": 16,
-                            "contentDescriptors": [
-                                "Drugs"
-                            ],
+                            "ageControl": 3,
+                            "contentDescriptors": [],
                             "interactiveElements": [],
-                            "ratingImage": "https://cdn1.epicgames.com/gameRating/gameRating/PEGI_16_192_192x192-da60f0bd1fe7cb1ac9d8a8bd5168ea96",
+                            "ratingImage": "https://cdn1.epicgames.com/gameRating/gameRating/PEGI_3_192_192x192-490b93ddf59fb4ac1148d1eb9083626a",
                             "ratingSystem": "PEGI",
-                            "rectangularRatingImage": "https://cdn1.epicgames.com/salesEvent/salesEvent/PEGI-16_435x530-65760d498ce28374fb7ca3258ee1440c",
-                            "title": "PEGI 16"
+                            "rectangularRatingImage": "https://cdn1.epicgames.com/salesEvent/salesEvent/PEGI-3_435x530-c931ab5bb4eb190f6e8e542081c49dc4",
+                            "title": "PEGI 3"
                         },
                         "ratingType": "AgeRating"
                     },
                     "attention": {
                         "inAppPurchases": "None"
                     },
-                    "catalogItemId": "230d84fe27094fbcb0b6f71c787339af",
+                    "catalogItemId": "dc8b09ab8f6f475e9d1d1d0b39842dec",
                     "categories": [
                         "freegames",
                         "games",
@@ -2423,34 +2420,34 @@
                         "games/edition/base"
                     ],
                     "mapping": {
-                        "slug": "112-operator-ios-c9d3bc"
+                        "slug": "hidden-folks-ios-72dd34"
                     },
                     "media": {
                         "appIcon": {
                             "altText": "-",
                             "height": 512,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/6036e5ea111a448ea1b41d5ab3800d99/112-operator-icon-y4ugl.png",
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/7bfd56b0586348dcb139945d9e59f988/hidden-folks-icon-yz5rc.png",
                             "imageType": "ProductIcon",
                             "width": 512
                         },
                         "card16x9": {
-                            "altText": "112 Operator Offer",
+                            "altText": "Hidden Folks Offer",
                             "height": 1440,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/6036e5ea111a448ea1b41d5ab3800d99/112-operator-k3rkv.jpg",
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/7bfd56b0586348dcb139945d9e59f988/hidden-folks-7mnn2.png",
                             "imageType": "OfferImageWide",
                             "width": 2560
                         },
                         "card3x4": {
-                            "altText": "Download 112 Operator Offer",
+                            "altText": "Download Hidden Folks Offer",
                             "height": 1600,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/6036e5ea111a448ea1b41d5ab3800d99/112-operator-1rf39.jpg",
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/7bfd56b0586348dcb139945d9e59f988/hidden-folks-1amh8.png",
                             "imageType": "OfferImageTall",
                             "width": 1200
                         },
                         "coverImage": {
                             "altText": "-",
                             "height": 1440,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/6036e5ea111a448ea1b41d5ab3800d99/112-operator-1htjd.jpg",
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/7bfd56b0586348dcb139945d9e59f988/hidden-folks-1sr47.png",
                             "imageType": "coverImage",
                             "width": 2560
                         }
@@ -2459,8 +2456,8 @@
                         {
                             "discount": {
                                 "discountAmountDisplay": "-100%",
-                                "discountEndDate": "2025-08-14T15:00:00.000Z",
-                                "originalPriceDisplay": "€8.99"
+                                "discountEndDate": "2025-08-21T15:00:00.000Z",
+                                "originalPriceDisplay": "€4.49"
                             },
                             "offerLifecycleState": "Release",
                             "price": {
@@ -2468,8 +2465,8 @@
                                 "decimalPrice": 0
                             },
                             "purchasePayload": {
-                                "offerId": "a96d48ca85e44dd1b868531eb6cebeaf",
-                                "sandboxId": "9f981e2c861e4a8fbd0eab89541ac8e6"
+                                "offerId": "f63e7ff7afef4ed3b854309db4e5cf6b",
+                                "sandboxId": "b0545d64f90248208a5dd6f213f4dde7"
                             },
                             "purchaseType": "Claim"
                         },
@@ -2477,41 +2474,41 @@
                             "offerLifecycleState": "Release",
                             "price": {
                                 "currencyCode": "EUR",
-                                "decimalPrice": 8.99
+                                "decimalPrice": 4.49
                             },
-                            "priceDisplay": "€8.99",
+                            "priceDisplay": "€4.49",
                             "purchasePayload": {
-                                "offerId": "a96d48ca85e44dd1b868531eb6cebeaf",
-                                "sandboxId": "9f981e2c861e4a8fbd0eab89541ac8e6"
+                                "offerId": "f63e7ff7afef4ed3b854309db4e5cf6b",
+                                "sandboxId": "b0545d64f90248208a5dd6f213f4dde7"
                             },
                             "purchaseType": "Purchase"
                         }
                     ],
                     "systemSpecs": {
-                        "applicationVersion": "1.06.04",
+                        "applicationVersion": "2.1.8",
                         "platform": "ios",
                         "systemRequirements": [
                             {
-                                "minimum": "2 GB",
+                                "minimum": "227 MB",
                                 "requirementType": "InstallSize",
                                 "title": "Installation size"
                             },
                             {
-                                "minimum": "736.74 MB",
+                                "minimum": "100 MB",
                                 "requirementType": "DownloadSize",
                                 "title": "Download size"
                             },
                             {
-                                "minimum": "iOS 14",
+                                "minimum": "12.0",
                                 "requirementType": "OS",
                                 "title": "OS version"
                             }
                         ]
                     },
-                    "title": "112 Operator"
+                    "title": "Hidden Folks"
                 },
-                "offerId": "a96d48ca85e44dd1b868531eb6cebeaf",
-                "sandboxId": "9f981e2c861e4a8fbd0eab89541ac8e6"
+                "offerId": "f63e7ff7afef4ed3b854309db4e5cf6b",
+                "sandboxId": "b0545d64f90248208a5dd6f213f4dde7"
             }
         ],
         "size": "large",
@@ -3378,55 +3375,57 @@
                             "gate": "no-gate"
                         },
                         "ageRating": {
-                            "ageControl": 3,
-                            "contentDescriptors": [],
+                            "ageControl": 12,
+                            "contentDescriptors": [
+                                "Mild Swearing",
+                                "Moderate Violence"
+                            ],
                             "interactiveElements": [],
-                            "ratingImage": "https://cdn1.epicgames.com/gameRating/gameRating/PEGI_3_192_192x192-490b93ddf59fb4ac1148d1eb9083626a",
+                            "ratingImage": "https://cdn1.epicgames.com/gameRating/gameRating/PEGI_12_192_192x192-afa4df43f131bc83eb380ccf22f8d904",
                             "ratingSystem": "PEGI",
-                            "rectangularRatingImage": "https://cdn1.epicgames.com/salesEvent/salesEvent/PEGI-3_435x530-c931ab5bb4eb190f6e8e542081c49dc4",
-                            "title": "PEGI 3"
+                            "rectangularRatingImage": "https://cdn1.epicgames.com/salesEvent/salesEvent/PEGI-12_436x530-0cd1f06607086f3cc1bc2b8643f21b0a",
+                            "title": "PEGI 12"
                         },
                         "ratingType": "AgeRating"
                     },
                     "attention": {
                         "inAppPurchases": "None"
                     },
-                    "catalogItemId": "dc8b09ab8f6f475e9d1d1d0b39842dec",
+                    "catalogItemId": "38f6fbcd4b46447d991a2c043f1021cc",
                     "categories": [
-                        "freegames",
                         "games",
                         "games/edition",
                         "games/edition/base"
                     ],
                     "mapping": {
-                        "slug": "hidden-folks-ios-72dd34"
+                        "slug": "super-meat-boy-forever-mobile-ios-190ae0"
                     },
                     "media": {
                         "appIcon": {
                             "altText": "-",
                             "height": 512,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/7bfd56b0586348dcb139945d9e59f988/hidden-folks-icon-yz5rc.png",
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/671b8ba419e2433eac672283d53567b5/super-meat-boy-forever-mobile-icon-gv0j4.png",
                             "imageType": "ProductIcon",
                             "width": 512
                         },
                         "card16x9": {
-                            "altText": "Hidden Folks Offer",
+                            "altText": "Super Meat Boy Forever Mobile Offer",
                             "height": 1440,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/7bfd56b0586348dcb139945d9e59f988/hidden-folks-7mnn2.png",
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/671b8ba419e2433eac672283d53567b5/super-meat-boy-forever-mobile-q3x27.jpg",
                             "imageType": "OfferImageWide",
                             "width": 2560
                         },
                         "card3x4": {
-                            "altText": "Download Hidden Folks Offer",
+                            "altText": "Download Super Meat Boy Forever Mobile Offer",
                             "height": 1600,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/7bfd56b0586348dcb139945d9e59f988/hidden-folks-1amh8.png",
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/671b8ba419e2433eac672283d53567b5/super-meat-boy-forever-mobile-1ul7h.jpg",
                             "imageType": "OfferImageTall",
                             "width": 1200
                         },
                         "coverImage": {
                             "altText": "-",
                             "height": 1440,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/7bfd56b0586348dcb139945d9e59f988/hidden-folks-1sr47.png",
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/671b8ba419e2433eac672283d53567b5/super-meat-boy-forever-mobile-g1l2e.jpg",
                             "imageType": "coverImage",
                             "width": 2560
                         }
@@ -3436,71 +3435,41 @@
                             "offerLifecycleState": "Release",
                             "price": {
                                 "currencyCode": "EUR",
-                                "decimalPrice": 4.49
+                                "decimalPrice": 0.99
                             },
-                            "priceDisplay": "€4.49",
+                            "priceDisplay": "€0.99",
                             "purchasePayload": {
-                                "offerId": "f63e7ff7afef4ed3b854309db4e5cf6b",
-                                "sandboxId": "b0545d64f90248208a5dd6f213f4dde7"
-                            },
-                            "purchaseType": "Purchase"
-                        },
-                        {
-                            "discount": {
-                                "discountAmountDisplay": "-100%",
-                                "discountEndDate": "2025-08-21T15:00:00.000Z",
-                                "originalPriceDisplay": "€4.49"
-                            },
-                            "offerLifecycleState": "Release",
-                            "price": {
-                                "currencyCode": "EUR",
-                                "decimalPrice": 0
-                            },
-                            "purchasePayload": {
-                                "offerId": "f63e7ff7afef4ed3b854309db4e5cf6b",
-                                "sandboxId": "b0545d64f90248208a5dd6f213f4dde7"
-                            },
-                            "purchaseType": "Claim"
-                        },
-                        {
-                            "offerLifecycleState": "Release",
-                            "price": {
-                                "currencyCode": "EUR",
-                                "decimalPrice": 4.49
-                            },
-                            "priceDisplay": "€4.49",
-                            "purchasePayload": {
-                                "offerId": "f63e7ff7afef4ed3b854309db4e5cf6b",
-                                "sandboxId": "b0545d64f90248208a5dd6f213f4dde7"
+                                "offerId": "c7e04db93fe74b86b04ca988a91f9249",
+                                "sandboxId": "d408f663403d4e9f8ecdc3086ed0d7bc"
                             },
                             "purchaseType": "Purchase"
                         }
                     ],
                     "systemSpecs": {
-                        "applicationVersion": "2.1.8",
+                        "applicationVersion": "1.0",
                         "platform": "ios",
                         "systemRequirements": [
                             {
-                                "minimum": "227 MB",
+                                "minimum": "981.25 MB",
                                 "requirementType": "InstallSize",
                                 "title": "Installation size"
                             },
                             {
-                                "minimum": "100 MB",
+                                "minimum": "981.25 MB",
                                 "requirementType": "DownloadSize",
                                 "title": "Download size"
                             },
                             {
-                                "minimum": "12.0",
+                                "minimum": "18.0",
                                 "requirementType": "OS",
                                 "title": "OS version"
                             }
                         ]
                     },
-                    "title": "Hidden Folks"
+                    "title": "Super Meat Boy Forever Mobile"
                 },
-                "offerId": "f63e7ff7afef4ed3b854309db4e5cf6b",
-                "sandboxId": "b0545d64f90248208a5dd6f213f4dde7"
+                "offerId": "c7e04db93fe74b86b04ca988a91f9249",
+                "sandboxId": "d408f663403d4e9f8ecdc3086ed0d7bc"
             },
             {
                 "content": {
