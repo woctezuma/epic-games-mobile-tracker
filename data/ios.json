@@ -12,57 +12,56 @@
                             "gate": "no-gate"
                         },
                         "ageRating": {
-                            "ageControl": 0,
-                            "contentDescriptors": [],
-                            "interactiveElements": [
-                                "Users Interact",
-                                "In-App Purchases"
+                            "ageControl": 7,
+                            "contentDescriptors": [
+                                "Mild Violence"
                             ],
-                            "ratingImage": "https://cdn1.epicgames.com/gameRating/gameRating/PEGI_EXC_192_192x192-4b60638de38c759ed1cdb5c19a573256",
+                            "interactiveElements": [],
+                            "ratingImage": "https://cdn1.epicgames.com/gameRating/gameRating/PEGI_7_192_192x192-30e2e712d0682dad01add90a6ccbed5b",
                             "ratingSystem": "PEGI",
-                            "rectangularRatingImage": "https://cdn1.epicgames.com/salesEvent/salesEvent/PEGI-info_435x530-d763ff1e493324dfef7ffd688b61476a",
-                            "title": "PARENTAL GUIDANCE RECOMMENDED"
+                            "rectangularRatingImage": "https://cdn1.epicgames.com/salesEvent/salesEvent/PEGI-7_435x530-9439a136999d3dd762c7a61c3b8c7683",
+                            "title": "PEGI 7"
                         },
                         "ratingType": "AgeRating"
                     },
                     "attention": {
-                        "inAppPurchases": "IncludesInAppPurchases"
+                        "inAppPurchases": "None"
                     },
-                    "catalogItemId": "909dd1fd19bf41f99b23edf2ce461927",
+                    "catalogItemId": "2628258624b44d688dbec6be0e03dff3",
                     "categories": [
                         "games",
                         "games/edition",
-                        "games/edition/base",
-                        "attention/in-app-purchases/supported",
-                        "applications"
+                        "games/edition/base"
                     ],
                     "mapping": {
-                        "slug": "fortnite-ios"
+                        "slug": "doodle-devil-dark-side-ios-307eea"
                     },
                     "media": {
                         "appIcon": {
                             "altText": "-",
                             "height": 512,
-                            "imageSrc": "https://cdn1.epicgames.com/offer/fn/fn_app-icon_36_1024x1024-b9dda977ffa465aac535ef2507d43b75",
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/c9c97160d58f4e428cebd428f85333e4/doodle-devil-dark-side-icon-mu0jd.png",
                             "imageType": "ProductIcon",
                             "width": 512
                         },
                         "card16x9": {
+                            "altText": "Doodle Devil: Dark Side Offer",
                             "height": 1440,
-                            "imageSrc": "https://cdn1.epicgames.com/offer/fn/FNBR_37-00_C6S4_EGS_Launcher_KeyArt_FNLogo_Carousel_PDP_2560x1440_logo_2560x1440-04348f5d3d52391f572e8c1050ddc737",
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/c9c97160d58f4e428cebd428f85333e4/doodle-devil-dark-side-6oc4z.png",
                             "imageType": "OfferImageWide",
                             "width": 2560
                         },
                         "card3x4": {
+                            "altText": "Download Doodle Devil: Dark Side Offer",
                             "height": 1600,
-                            "imageSrc": "https://cdn1.epicgames.com/offer/fn/FNBR_37-00_C6S4_EGS_Launcher_KeyArt_FNLogo_Blade_1200x1600_1200x1600-0924136c90b79f9006796f69f24a07f6",
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/c9c97160d58f4e428cebd428f85333e4/doodle-devil-dark-side-1j1nw.png",
                             "imageType": "OfferImageTall",
                             "width": 1200
                         },
                         "coverImage": {
                             "altText": "-",
                             "height": 1440,
-                            "imageSrc": "https://cdn1.epicgames.com/item/fn/FNBR_37-00_C6S4_EGS_Launcher_KeyArt_FNLogo_Carousel_PDP_2560x1440_logo_2560x1440-04348f5d3d52391f572e8c1050ddc737",
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/c9c97160d58f4e428cebd428f85333e4/doodle-devil-dark-side-wo7h5.jpg",
                             "imageType": "coverImage",
                             "width": 2560
                         }
@@ -72,31 +71,41 @@
                             "offerLifecycleState": "Release",
                             "price": {
                                 "currencyCode": "EUR",
-                                "decimalPrice": 0
+                                "decimalPrice": 2.19
                             },
+                            "priceDisplay": "€2.19",
                             "purchasePayload": {
-                                "offerId": "d69e49517f0f4e49a39253f7b106dc27",
-                                "sandboxId": "fn"
+                                "offerId": "2cb9a99516fa495baed71d9af45b10e1",
+                                "sandboxId": "cdb8bfe1ad5944e7b77973f4b84416dc"
                             },
-                            "purchaseType": "Claim"
+                            "purchaseType": "Purchase"
                         }
                     ],
                     "systemSpecs": {
+                        "applicationVersion": "2.6.7",
                         "platform": "ios",
                         "systemRequirements": [
                             {
-                                "minimum": "12.0",
-                                "recommended": "",
+                                "minimum": "120",
+                                "requirementType": "InstallSize",
+                                "title": "Installation size"
+                            },
+                            {
+                                "minimum": "120",
+                                "requirementType": "DownloadSize",
+                                "title": "Download size"
+                            },
+                            {
+                                "minimum": "14",
                                 "requirementType": "OS",
                                 "title": "OS version"
                             }
-                        ],
-                        "technicalDetails": "Fortnite requires an internet connection and supports the following devices: \n- iPhone 11 or later with 4GB RAM\n- iPad Pro 13” (1st gen or later)\n- iPad Pro 11” (3rd gen or later)\n- iPad Air (4th gen or later)\n- iPad Mini (6th gen or later)\n- iPad (10th gen or later)"
+                        ]
                     },
-                    "title": "Fortnite"
+                    "title": "Doodle Devil: Dark Side"
                 },
-                "offerId": "d69e49517f0f4e49a39253f7b106dc27",
-                "sandboxId": "fn"
+                "offerId": "2cb9a99516fa495baed71d9af45b10e1",
+                "sandboxId": "cdb8bfe1ad5944e7b77973f4b84416dc"
             },
             {
                 "content": {
