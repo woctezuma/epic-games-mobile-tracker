@@ -2421,7 +2421,7 @@
                     "attention": {
                         "inAppPurchases": "None"
                     },
-                    "catalogItemId": "dc8b09ab8f6f475e9d1d1d0b39842dec",
+                    "catalogItemId": "f28e02288dad4baa9807c63eaa3eb1e0",
                     "categories": [
                         "freegames",
                         "games",
@@ -2429,34 +2429,34 @@
                         "games/edition/base"
                     ],
                     "mapping": {
-                        "slug": "hidden-folks-ios-72dd34"
+                        "slug": "strange-horticulture-ios-42250a"
                     },
                     "media": {
                         "appIcon": {
                             "altText": "-",
                             "height": 512,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/7bfd56b0586348dcb139945d9e59f988/hidden-folks-icon-yz5rc.png",
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/d182b6573834457497e411f3bd22c1a3/strange-horticulture-icon-j8ufe.png",
                             "imageType": "ProductIcon",
                             "width": 512
                         },
                         "card16x9": {
-                            "altText": "Hidden Folks Offer",
+                            "altText": "Strange Horticulture Offer",
                             "height": 1440,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/7bfd56b0586348dcb139945d9e59f988/hidden-folks-7mnn2.png",
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/d182b6573834457497e411f3bd22c1a3/strange-horticulture-c1j0b.png",
                             "imageType": "OfferImageWide",
                             "width": 2560
                         },
                         "card3x4": {
-                            "altText": "Download Hidden Folks Offer",
+                            "altText": "Download Strange Horticulture Offer",
                             "height": 1600,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/7bfd56b0586348dcb139945d9e59f988/hidden-folks-1amh8.png",
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/d182b6573834457497e411f3bd22c1a3/strange-horticulture-1ayo6.png",
                             "imageType": "OfferImageTall",
                             "width": 1200
                         },
                         "coverImage": {
                             "altText": "-",
                             "height": 1440,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/7bfd56b0586348dcb139945d9e59f988/hidden-folks-1sr47.png",
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/d182b6573834457497e411f3bd22c1a3/strange-horticulture-1b0oa.png",
                             "imageType": "coverImage",
                             "width": 2560
                         }
@@ -2465,7 +2465,7 @@
                         {
                             "discount": {
                                 "discountAmountDisplay": "-100%",
-                                "discountEndDate": "2025-08-21T15:00:00.000Z",
+                                "discountEndDate": "2025-08-28T15:00:00.000Z",
                                 "originalPriceDisplay": "€4.49"
                             },
                             "offerLifecycleState": "Release",
@@ -2474,8 +2474,8 @@
                                 "decimalPrice": 0
                             },
                             "purchasePayload": {
-                                "offerId": "f63e7ff7afef4ed3b854309db4e5cf6b",
-                                "sandboxId": "b0545d64f90248208a5dd6f213f4dde7"
+                                "offerId": "77b9f44902ef49708fac4e1087dc3f44",
+                                "sandboxId": "92296faa8faf4e56a6858c4a2d7abf03"
                             },
                             "purchaseType": "Claim"
                         },
@@ -2487,37 +2487,37 @@
                             },
                             "priceDisplay": "€4.49",
                             "purchasePayload": {
-                                "offerId": "f63e7ff7afef4ed3b854309db4e5cf6b",
-                                "sandboxId": "b0545d64f90248208a5dd6f213f4dde7"
+                                "offerId": "77b9f44902ef49708fac4e1087dc3f44",
+                                "sandboxId": "92296faa8faf4e56a6858c4a2d7abf03"
                             },
                             "purchaseType": "Purchase"
                         }
                     ],
                     "systemSpecs": {
-                        "applicationVersion": "2.1.8",
+                        "applicationVersion": "1.1.650",
                         "platform": "ios",
                         "systemRequirements": [
                             {
-                                "minimum": "227 MB",
+                                "minimum": "564 MB",
                                 "requirementType": "InstallSize",
                                 "title": "Installation size"
                             },
                             {
-                                "minimum": "100 MB",
+                                "minimum": "320 MB",
                                 "requirementType": "DownloadSize",
                                 "title": "Download size"
                             },
                             {
-                                "minimum": "12.0",
+                                "minimum": "15.6",
                                 "requirementType": "OS",
                                 "title": "OS version"
                             }
                         ]
                     },
-                    "title": "Hidden Folks"
+                    "title": "Strange Horticulture"
                 },
-                "offerId": "f63e7ff7afef4ed3b854309db4e5cf6b",
-                "sandboxId": "b0545d64f90248208a5dd6f213f4dde7"
+                "offerId": "77b9f44902ef49708fac4e1087dc3f44",
+                "sandboxId": "92296faa8faf4e56a6858c4a2d7abf03"
             }
         ],
         "size": "large",
@@ -5654,6 +5654,106 @@
                 },
                 "offerId": "639b1fb7fd7a441aafa78df90b526098",
                 "sandboxId": "0693e8391e49492096424712a5595484"
+            },
+            {
+                "content": {
+                    "ageRating": {
+                        "ageGate": {
+                            "gate": "no-gate"
+                        },
+                        "ageRating": {
+                            "ageControl": 3,
+                            "contentDescriptors": [],
+                            "interactiveElements": [],
+                            "ratingImage": "https://cdn1.epicgames.com/gameRating/gameRating/PEGI_3_192_192x192-490b93ddf59fb4ac1148d1eb9083626a",
+                            "ratingSystem": "PEGI",
+                            "rectangularRatingImage": "https://cdn1.epicgames.com/salesEvent/salesEvent/PEGI-3_435x530-c931ab5bb4eb190f6e8e542081c49dc4",
+                            "title": "PEGI 3"
+                        },
+                        "ratingType": "AgeRating"
+                    },
+                    "attention": {
+                        "inAppPurchases": "None"
+                    },
+                    "catalogItemId": "dc8b09ab8f6f475e9d1d1d0b39842dec",
+                    "categories": [
+                        "games",
+                        "games/edition",
+                        "games/edition/base"
+                    ],
+                    "mapping": {
+                        "slug": "hidden-folks-ios-72dd34"
+                    },
+                    "media": {
+                        "appIcon": {
+                            "altText": "-",
+                            "height": 512,
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/7bfd56b0586348dcb139945d9e59f988/hidden-folks-icon-yz5rc.png",
+                            "imageType": "ProductIcon",
+                            "width": 512
+                        },
+                        "card16x9": {
+                            "altText": "Hidden Folks Offer",
+                            "height": 1440,
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/7bfd56b0586348dcb139945d9e59f988/hidden-folks-7mnn2.png",
+                            "imageType": "OfferImageWide",
+                            "width": 2560
+                        },
+                        "card3x4": {
+                            "altText": "Download Hidden Folks Offer",
+                            "height": 1600,
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/7bfd56b0586348dcb139945d9e59f988/hidden-folks-1amh8.png",
+                            "imageType": "OfferImageTall",
+                            "width": 1200
+                        },
+                        "coverImage": {
+                            "altText": "-",
+                            "height": 1440,
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/7bfd56b0586348dcb139945d9e59f988/hidden-folks-1sr47.png",
+                            "imageType": "coverImage",
+                            "width": 2560
+                        }
+                    },
+                    "purchase": [
+                        {
+                            "offerLifecycleState": "Release",
+                            "price": {
+                                "currencyCode": "EUR",
+                                "decimalPrice": 4.49
+                            },
+                            "priceDisplay": "€4.49",
+                            "purchasePayload": {
+                                "offerId": "f63e7ff7afef4ed3b854309db4e5cf6b",
+                                "sandboxId": "b0545d64f90248208a5dd6f213f4dde7"
+                            },
+                            "purchaseType": "Purchase"
+                        }
+                    ],
+                    "systemSpecs": {
+                        "applicationVersion": "2.1.8",
+                        "platform": "ios",
+                        "systemRequirements": [
+                            {
+                                "minimum": "227 MB",
+                                "requirementType": "InstallSize",
+                                "title": "Installation size"
+                            },
+                            {
+                                "minimum": "100 MB",
+                                "requirementType": "DownloadSize",
+                                "title": "Download size"
+                            },
+                            {
+                                "minimum": "12.0",
+                                "requirementType": "OS",
+                                "title": "OS version"
+                            }
+                        ]
+                    },
+                    "title": "Hidden Folks"
+                },
+                "offerId": "f63e7ff7afef4ed3b854309db4e5cf6b",
+                "sandboxId": "b0545d64f90248208a5dd6f213f4dde7"
             }
         ],
         "size": "small",
