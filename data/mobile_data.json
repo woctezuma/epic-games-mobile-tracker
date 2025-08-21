@@ -339,6 +339,58 @@
         "store_url": "<https://store.epicgames.com/product/dc-heroes-united-android-de4bc2>",
         "title": "DC Heroes United"
     },
+    "1-92296faa8faf4e56a6858c4a2d7abf03-77b9f44902ef49708fac4e1087dc3f44": {
+        "age_control": 3,
+        "catalog_item_id": "f28e02288dad4baa9807c63eaa3eb1e0",
+        "checkout_url": "<https://store.epicgames.com/purchase?offers=1-92296faa8faf4e56a6858c4a2d7abf03-77b9f44902ef49708fac4e1087dc3f44>",
+        "content_descriptors": [],
+        "current_price": "0",
+        "discount": "-100%",
+        "download_size": "320 MB",
+        "end_date": "2025-08-28T15:00:00.000Z",
+        "in_app_purchases": false,
+        "install_size": "564 MB",
+        "interactive_elements": [],
+        "media": {
+            "OfferImageTall": "https://cdn1.epicgames.com/spt-assets/d182b6573834457497e411f3bd22c1a3/strange-horticulture-1ayo6.png",
+            "OfferImageWide": "https://cdn1.epicgames.com/spt-assets/d182b6573834457497e411f3bd22c1a3/strange-horticulture-c1j0b.png",
+            "ProductIcon": "https://cdn1.epicgames.com/spt-assets/d182b6573834457497e411f3bd22c1a3/strange-horticulture-icon-j8ufe.png",
+            "coverImage": "https://cdn1.epicgames.com/spt-assets/d182b6573834457497e411f3bd22c1a3/strange-horticulture-1b0oa.png"
+        },
+        "offer_id": "77b9f44902ef49708fac4e1087dc3f44",
+        "original_price": "4.49",
+        "platform": "ios",
+        "sandbox_id": "92296faa8faf4e56a6858c4a2d7abf03",
+        "slug": "strange-horticulture-ios-42250a",
+        "store_url": "<https://store.epicgames.com/product/strange-horticulture-ios-42250a>",
+        "title": "Strange Horticulture"
+    },
+    "1-92296faa8faf4e56a6858c4a2d7abf03-970e866150c84cea964e8258650bb879": {
+        "age_control": 3,
+        "catalog_item_id": "3654b2e78bbd4fa6afbe388ae4ff3e49",
+        "checkout_url": "<https://store.epicgames.com/purchase?offers=1-92296faa8faf4e56a6858c4a2d7abf03-970e866150c84cea964e8258650bb879>",
+        "content_descriptors": [],
+        "current_price": "0",
+        "discount": "-100%",
+        "download_size": "354.31 MB",
+        "end_date": "2025-08-28T15:00:00.000Z",
+        "in_app_purchases": false,
+        "install_size": "400 MB",
+        "interactive_elements": [],
+        "media": {
+            "OfferImageTall": "https://cdn1.epicgames.com/spt-assets/d182b6573834457497e411f3bd22c1a3/strange-horticulture-14o1g.png",
+            "OfferImageWide": "https://cdn1.epicgames.com/spt-assets/d182b6573834457497e411f3bd22c1a3/strange-horticulture-1pfex.png",
+            "ProductIcon": "https://cdn1.epicgames.com/spt-assets/d182b6573834457497e411f3bd22c1a3/strange-horticulture-icon-j8ufe.png",
+            "coverImage": "https://cdn1.epicgames.com/spt-assets/d182b6573834457497e411f3bd22c1a3/strange-horticulture-1b0oa.png"
+        },
+        "offer_id": "970e866150c84cea964e8258650bb879",
+        "original_price": "4.49",
+        "platform": "android",
+        "sandbox_id": "92296faa8faf4e56a6858c4a2d7abf03",
+        "slug": "strange-horticulture-android-8143c0",
+        "store_url": "<https://store.epicgames.com/product/strange-horticulture-android-8143c0>",
+        "title": "Strange Horticulture"
+    },
     "1-9f981e2c861e4a8fbd0eab89541ac8e6-a96d48ca85e44dd1b868531eb6cebeaf": {
         "age_control": 16,
         "catalog_item_id": "230d84fe27094fbcb0b6f71c787339af",
