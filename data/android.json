@@ -277,9 +277,9 @@
                             "offerLifecycleState": "Release",
                             "price": {
                                 "currencyCode": "EUR",
-                                "decimalPrice": 8.99
+                                "decimalPrice": 11.69
                             },
-                            "priceDisplay": "€8.99",
+                            "priceDisplay": "€11.69",
                             "purchasePayload": {
                                 "offerId": "10f88dd0ece144c3962a5ce05ebfb6be",
                                 "sandboxId": "8fab06fadbc544a8a17b0cbfd6dde51c"
@@ -1795,19 +1795,19 @@
                         },
                         "card16x9": {
                             "height": 1440,
-                            "imageSrc": "https://cdn1.epicgames.com/offer/fn/FNSP_09_DryErase_EGS_Launcher_KeyArt_Blade_2560x1440_2560x1440-a5fff9129a31aa868fd920a9ef94cb4a",
+                            "imageSrc": "https://cdn1.epicgames.com/offer/fn/FNSP_10_Hilarious_EGS_Launcher_KeyArt_Blade_2560x1440_2560x1440-ddd55c02a4e0851e5b4d5af1042e0354",
                             "imageType": "OfferImageWide",
                             "width": 2560
                         },
                         "card3x4": {
                             "height": 1600,
-                            "imageSrc": "https://cdn1.epicgames.com/offer/fn/FNSP_09_DryErase_EGS_Launcher_KeyArt_Blade_1200x1600_1200x1600-e93fe8b84be5b73fdfd885f9cce0211b",
+                            "imageSrc": "https://cdn1.epicgames.com/offer/fn/FNSP_10_Hilarious_EGS_Launcher_KeyArt_Blade_1200x1600_1200x1600-d6058be4b454f58f9514948da1312ec0",
                             "imageType": "OfferImageTall",
                             "width": 1200
                         },
                         "coverImage": {
                             "height": 1440,
-                            "imageSrc": "https://cdn1.epicgames.com/offer/fn/FNSP_09_DryErase_EGS_Launcher_KeyArt_Blade_2560x1440_2560x1440-a5fff9129a31aa868fd920a9ef94cb4a",
+                            "imageSrc": "https://cdn1.epicgames.com/offer/fn/FNSP_10_Hilarious_EGS_Launcher_KeyArt_Blade_2560x1440_2560x1440-ddd55c02a4e0851e5b4d5af1042e0354",
                             "imageType": "OfferImageWide",
                             "width": 2560
                         }
@@ -5131,19 +5131,6 @@
                         }
                     },
                     "purchase": [
-                        {
-                            "offerLifecycleState": "Release",
-                            "price": {
-                                "currencyCode": "EUR",
-                                "decimalPrice": 3.59
-                            },
-                            "priceDisplay": "€3.59",
-                            "purchasePayload": {
-                                "offerId": "bb8f265529da44dd82ca1773168a3343",
-                                "sandboxId": "617c8303a6764a35b65f2925dfb23ef1"
-                            },
-                            "purchaseType": "Purchase"
-                        },
                         {
                             "discount": {
                                 "discountAmountDisplay": "-60%",
