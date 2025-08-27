@@ -557,6 +557,62 @@
         "store_url": "<https://store.epicgames.com/product/cultist-simulator-ios-8eba4c>",
         "title": "Cultist Simulator"
     },
+    "1-e52b4d8cbcfd45ad95eff800ccc59d93-297bbfffc4c643209b59c3cd6c764e9c": {
+        "age_control": 7,
+        "catalog_item_id": "1ec27461c7704314ac319e7c74dfdcde",
+        "checkout_url": "<https://store.epicgames.com/purchase?offers=1-e52b4d8cbcfd45ad95eff800ccc59d93-297bbfffc4c643209b59c3cd6c764e9c>",
+        "content_descriptors": [
+            "Mild Violence"
+        ],
+        "current_price": "0",
+        "discount": "-100%",
+        "download_size": "243.03 MB",
+        "end_date": "2025-09-04T15:00:00.000Z",
+        "in_app_purchases": false,
+        "install_size": "300 MB",
+        "interactive_elements": [],
+        "media": {
+            "OfferImageTall": "https://cdn1.epicgames.com/spt-assets/907d9edf585e4c23b971164cd1c452e2/machinarium-mv7us.jpg",
+            "OfferImageWide": "https://cdn1.epicgames.com/spt-assets/907d9edf585e4c23b971164cd1c452e2/machinarium-dtwck.jpg",
+            "ProductIcon": "https://cdn1.epicgames.com/spt-assets/907d9edf585e4c23b971164cd1c452e2/machinarium-icon-172qc.png",
+            "coverImage": "https://cdn1.epicgames.com/spt-assets/907d9edf585e4c23b971164cd1c452e2/machinarium-4rgdn.jpg"
+        },
+        "offer_id": "297bbfffc4c643209b59c3cd6c764e9c",
+        "original_price": "6.99",
+        "platform": "android",
+        "sandbox_id": "e52b4d8cbcfd45ad95eff800ccc59d93",
+        "slug": "machinarium-android-cb6e90",
+        "store_url": "<https://store.epicgames.com/product/machinarium-android-cb6e90>",
+        "title": "Machinarium"
+    },
+    "1-e52b4d8cbcfd45ad95eff800ccc59d93-7341a6d951184e95bd7776b59fae0bc4": {
+        "age_control": 7,
+        "catalog_item_id": "9b6210ceccf944b9a15a324bcf71e266",
+        "checkout_url": "<https://store.epicgames.com/purchase?offers=1-e52b4d8cbcfd45ad95eff800ccc59d93-7341a6d951184e95bd7776b59fae0bc4>",
+        "content_descriptors": [
+            "Mild Violence"
+        ],
+        "current_price": "0",
+        "discount": "-100%",
+        "download_size": "300 MB",
+        "end_date": "2025-09-04T15:00:00.000Z",
+        "in_app_purchases": false,
+        "install_size": "300 MB",
+        "interactive_elements": [],
+        "media": {
+            "OfferImageTall": "https://cdn1.epicgames.com/spt-assets/907d9edf585e4c23b971164cd1c452e2/machinarium-1drz4.jpg",
+            "OfferImageWide": "https://cdn1.epicgames.com/spt-assets/907d9edf585e4c23b971164cd1c452e2/machinarium-ga7pi.jpg",
+            "ProductIcon": "https://cdn1.epicgames.com/spt-assets/907d9edf585e4c23b971164cd1c452e2/machinarium-icon-172qc.png",
+            "coverImage": "https://cdn1.epicgames.com/spt-assets/907d9edf585e4c23b971164cd1c452e2/machinarium-4rgdn.jpg"
+        },
+        "offer_id": "7341a6d951184e95bd7776b59fae0bc4",
+        "original_price": "6.99",
+        "platform": "ios",
+        "sandbox_id": "e52b4d8cbcfd45ad95eff800ccc59d93",
+        "slug": "machinarium-ios-cde620",
+        "store_url": "<https://store.epicgames.com/product/machinarium-ios-cde620>",
+        "title": "Machinarium"
+    },
     "1-f60a81aa52624100bff909dd5849f613-1249af2452334c2585fdea72e532b02c": {
         "age_control": 7,
         "catalog_item_id": "f264b02adb254358a83b20297dcfa492",
