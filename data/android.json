@@ -116,6 +116,108 @@
                             "gate": "no-gate"
                         },
                         "ageRating": {
+                            "ageControl": 3,
+                            "contentDescriptors": [],
+                            "interactiveElements": [
+                                "Users Interact",
+                                "In-Game Purchases (Includes Random Items)"
+                            ],
+                            "ratingImage": "https://cdn1.epicgames.com/gameRating/gameRating/PEGI_3_192_192x192-490b93ddf59fb4ac1148d1eb9083626a",
+                            "ratingSystem": "PEGI",
+                            "rectangularRatingImage": "https://cdn1.epicgames.com/salesEvent/salesEvent/PEGI-3_435x530-c931ab5bb4eb190f6e8e542081c49dc4",
+                            "title": "PEGI 3"
+                        },
+                        "ratingType": "AgeRating"
+                    },
+                    "attention": {
+                        "inAppPurchases": "MaybeIncludesInAppPurchases"
+                    },
+                    "catalogItemId": "4cadfc8471704b1997d2cd2bd9677484",
+                    "categories": [
+                        "games",
+                        "games/edition",
+                        "games/edition/base"
+                    ],
+                    "mapping": {
+                        "slug": "1212-android-f8a696"
+                    },
+                    "media": {
+                        "appIcon": {
+                            "altText": "-",
+                            "height": 512,
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/cb8173a84ad44774b2e355e53daea00b/nations-of-darkness-icon-1o95q.png",
+                            "imageType": "ProductIcon",
+                            "width": 512
+                        },
+                        "card16x9": {
+                            "altText": "Nations of Darkness Offer",
+                            "height": 1440,
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/cb8173a84ad44774b2e355e53daea00b/nations-of-darkness-vcgyz.png",
+                            "imageType": "OfferImageWide",
+                            "width": 2560
+                        },
+                        "card3x4": {
+                            "altText": "Download Nations of Darkness Offer",
+                            "height": 1600,
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/cb8173a84ad44774b2e355e53daea00b/nations-of-darkness-1oehn.png",
+                            "imageType": "OfferImageTall",
+                            "width": 1200
+                        },
+                        "coverImage": {
+                            "altText": "-",
+                            "height": 1440,
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/cb8173a84ad44774b2e355e53daea00b/nations-of-darkness-m11gq.jpg",
+                            "imageType": "coverImage",
+                            "width": 2560
+                        }
+                    },
+                    "purchase": [
+                        {
+                            "offerLifecycleState": "Release",
+                            "price": {
+                                "currencyCode": "EUR",
+                                "decimalPrice": 0
+                            },
+                            "purchasePayload": {
+                                "offerId": "d9ab14ff867e43c2911aa17fc145a800",
+                                "sandboxId": "7516c53e561c456495ae592cc9c02ae4"
+                            },
+                            "purchaseType": "Claim"
+                        }
+                    ],
+                    "systemSpecs": {
+                        "applicationVersion": "1.15.0",
+                        "platform": "android",
+                        "systemRequirements": [
+                            {
+                                "minimum": "175MB",
+                                "requirementType": "InstallSize",
+                                "title": "Installation size"
+                            },
+                            {
+                                "minimum": "194.59 MB",
+                                "requirementType": "DownloadSize",
+                                "title": "Download size"
+                            },
+                            {
+                                "minimum": "API level 22",
+                                "requirementType": "OS",
+                                "title": "OS version"
+                            }
+                        ]
+                    },
+                    "title": "Nations of Darkness"
+                },
+                "offerId": "d9ab14ff867e43c2911aa17fc145a800",
+                "sandboxId": "7516c53e561c456495ae592cc9c02ae4"
+            },
+            {
+                "content": {
+                    "ageRating": {
+                        "ageGate": {
+                            "gate": "no-gate"
+                        },
+                        "ageRating": {
                             "ageControl": 7,
                             "contentDescriptors": [
                                 "Mild Violence"
@@ -414,7 +516,19 @@
                 },
                 "offerId": "81cd2738fb904aa692c3ba510d23d7b9",
                 "sandboxId": "79c7bac7155c4d2e849394eaf3867245"
-            },
+            }
+        ],
+        "size": "xLarge",
+        "title": "",
+        "topicId": "mobile-android-carousel",
+        "type": "featured"
+    },
+    {
+        "link": {
+            "linkText": "home page",
+            "src": "/"
+        },
+        "offers": [
             {
                 "content": {
                     "ageRating": {
@@ -519,19 +633,7 @@
                 },
                 "offerId": "eff66fdeafb24f0eb098447734fd8d2b",
                 "sandboxId": "be8d49d895b046988d6f19bfdebd560a"
-            }
-        ],
-        "size": "xLarge",
-        "title": "",
-        "topicId": "mobile-android-carousel",
-        "type": "featured"
-    },
-    {
-        "link": {
-            "linkText": "home page",
-            "src": "/"
-        },
-        "offers": [
+            },
             {
                 "content": {
                     "ageRating": {
@@ -735,7 +837,19 @@
                 },
                 "offerId": "cc5047a61fca40c492cf255c07ffc4c6",
                 "sandboxId": "9f981e2c861e4a8fbd0eab89541ac8e6"
-            },
+            }
+        ],
+        "size": "medium",
+        "title": "Featured",
+        "topicId": "mobile-android-featured-breaker",
+        "type": "featured"
+    },
+    {
+        "link": {
+            "linkText": "",
+            "src": ""
+        },
+        "offers": [
             {
                 "content": {
                     "ageRating": {
@@ -835,19 +949,7 @@
                 },
                 "offerId": "eda52656cf8246a6a9c836cfd3b24bf4",
                 "sandboxId": "55acc9cfbc1d488484ce46b5bed50f05"
-            }
-        ],
-        "size": "medium",
-        "title": "Featured",
-        "topicId": "mobile-android-featured-breaker",
-        "type": "featured"
-    },
-    {
-        "link": {
-            "linkText": "",
-            "src": ""
-        },
-        "offers": [
+            },
             {
                 "content": {
                     "ageRating": {
@@ -1232,6 +1334,37 @@
                                 "sandboxId": "d62ece62bdc54609bdf99af431044588"
                             },
                             "purchaseType": "Purchase"
+                        },
+                        {
+                            "discount": {
+                                "discountAmountDisplay": "-67%",
+                                "discountEndDate": "2025-09-10T15:00:00.000Z",
+                                "originalPriceDisplay": "€2.99"
+                            },
+                            "offerLifecycleState": "Release",
+                            "price": {
+                                "currencyCode": "EUR",
+                                "decimalPrice": 0.98
+                            },
+                            "priceDisplay": "€0.98",
+                            "purchasePayload": {
+                                "offerId": "a58fa1be6d98402898549af5e705918c",
+                                "sandboxId": "d62ece62bdc54609bdf99af431044588"
+                            },
+                            "purchaseType": "Purchase"
+                        },
+                        {
+                            "offerLifecycleState": "Release",
+                            "price": {
+                                "currencyCode": "EUR",
+                                "decimalPrice": 2.99
+                            },
+                            "priceDisplay": "€2.99",
+                            "purchasePayload": {
+                                "offerId": "a58fa1be6d98402898549af5e705918c",
+                                "sandboxId": "d62ece62bdc54609bdf99af431044588"
+                            },
+                            "purchaseType": "Purchase"
                         }
                     ],
                     "systemSpecs": {
@@ -1259,108 +1392,6 @@
                 },
                 "offerId": "a58fa1be6d98402898549af5e705918c",
                 "sandboxId": "d62ece62bdc54609bdf99af431044588"
-            },
-            {
-                "content": {
-                    "ageRating": {
-                        "ageGate": {
-                            "gate": "no-gate"
-                        },
-                        "ageRating": {
-                            "ageControl": 7,
-                            "contentDescriptors": [
-                                "Mild Violence"
-                            ],
-                            "interactiveElements": [],
-                            "ratingImage": "https://cdn1.epicgames.com/gameRating/gameRating/PEGI_7_192_192x192-30e2e712d0682dad01add90a6ccbed5b",
-                            "ratingSystem": "PEGI",
-                            "rectangularRatingImage": "https://cdn1.epicgames.com/salesEvent/salesEvent/PEGI-7_435x530-9439a136999d3dd762c7a61c3b8c7683",
-                            "title": "PEGI 7"
-                        },
-                        "ratingType": "AgeRating"
-                    },
-                    "attention": {
-                        "inAppPurchases": "None"
-                    },
-                    "catalogItemId": "ed1c1fb301dd4a69a57bef41c376ab6e",
-                    "categories": [
-                        "games",
-                        "games/edition",
-                        "games/edition/base"
-                    ],
-                    "mapping": {
-                        "slug": "raiden-legacy-android-1cd342"
-                    },
-                    "media": {
-                        "appIcon": {
-                            "altText": "-",
-                            "height": 512,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/78c256ab53404b6c9bb46a32849f42f7/raiden-legacy-icon-8cl2h.png",
-                            "imageType": "ProductIcon",
-                            "width": 512
-                        },
-                        "card16x9": {
-                            "altText": "Raiden Legacy Offer",
-                            "height": 1440,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/78c256ab53404b6c9bb46a32849f42f7/raiden-legacy-1xz6a.jpg",
-                            "imageType": "OfferImageWide",
-                            "width": 2560
-                        },
-                        "card3x4": {
-                            "altText": "Download Raiden Legacy Offer",
-                            "height": 1600,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/78c256ab53404b6c9bb46a32849f42f7/raiden-legacy-1md2s.jpg",
-                            "imageType": "OfferImageTall",
-                            "width": 1200
-                        },
-                        "coverImage": {
-                            "altText": "-",
-                            "height": 1440,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/78c256ab53404b6c9bb46a32849f42f7/raiden-legacy-1ovr1.jpg",
-                            "imageType": "coverImage",
-                            "width": 2560
-                        }
-                    },
-                    "purchase": [
-                        {
-                            "offerLifecycleState": "Release",
-                            "price": {
-                                "currencyCode": "EUR",
-                                "decimalPrice": 4.49
-                            },
-                            "priceDisplay": "€4.49",
-                            "purchasePayload": {
-                                "offerId": "a62f4e614a33493389f65cbf4b044898",
-                                "sandboxId": "58655f84ec9a46c49b1dc70f9014efa2"
-                            },
-                            "purchaseType": "Purchase"
-                        }
-                    ],
-                    "systemSpecs": {
-                        "applicationVersion": "2.4.5",
-                        "platform": "android",
-                        "systemRequirements": [
-                            {
-                                "minimum": "70Mo",
-                                "requirementType": "InstallSize",
-                                "title": "Installation size"
-                            },
-                            {
-                                "minimum": "62.38 MB",
-                                "requirementType": "DownloadSize",
-                                "title": "Download size"
-                            },
-                            {
-                                "minimum": "6.0",
-                                "requirementType": "OS",
-                                "title": "OS version"
-                            }
-                        ]
-                    },
-                    "title": "Raiden Legacy"
-                },
-                "offerId": "a62f4e614a33493389f65cbf4b044898",
-                "sandboxId": "58655f84ec9a46c49b1dc70f9014efa2"
             }
         ],
         "size": "small",
@@ -3535,24 +3566,6 @@
                     },
                     "purchase": [
                         {
-                            "discount": {
-                                "discountAmountDisplay": "-60%",
-                                "discountEndDate": "2025-08-27T15:00:00.000Z",
-                                "originalPriceDisplay": "€4.99"
-                            },
-                            "offerLifecycleState": "Release",
-                            "price": {
-                                "currencyCode": "EUR",
-                                "decimalPrice": 1.99
-                            },
-                            "priceDisplay": "€1.99",
-                            "purchasePayload": {
-                                "offerId": "9a2c3acce04d43bfbcd38de94b412d37",
-                                "sandboxId": "1567fd089fd84f07a0237513d26add12"
-                            },
-                            "purchaseType": "Purchase"
-                        },
-                        {
                             "offerLifecycleState": "Release",
                             "price": {
                                 "currencyCode": "EUR",
@@ -3824,6 +3837,108 @@
             "src": ""
         },
         "offers": [
+            {
+                "content": {
+                    "ageRating": {
+                        "ageGate": {
+                            "gate": "no-gate"
+                        },
+                        "ageRating": {
+                            "ageControl": 7,
+                            "contentDescriptors": [
+                                "Mild Violence"
+                            ],
+                            "interactiveElements": [],
+                            "ratingImage": "https://cdn1.epicgames.com/gameRating/gameRating/PEGI_7_192_192x192-30e2e712d0682dad01add90a6ccbed5b",
+                            "ratingSystem": "PEGI",
+                            "rectangularRatingImage": "https://cdn1.epicgames.com/salesEvent/salesEvent/PEGI-7_435x530-9439a136999d3dd762c7a61c3b8c7683",
+                            "title": "PEGI 7"
+                        },
+                        "ratingType": "AgeRating"
+                    },
+                    "attention": {
+                        "inAppPurchases": "None"
+                    },
+                    "catalogItemId": "ed1c1fb301dd4a69a57bef41c376ab6e",
+                    "categories": [
+                        "games",
+                        "games/edition",
+                        "games/edition/base"
+                    ],
+                    "mapping": {
+                        "slug": "raiden-legacy-android-1cd342"
+                    },
+                    "media": {
+                        "appIcon": {
+                            "altText": "-",
+                            "height": 512,
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/78c256ab53404b6c9bb46a32849f42f7/raiden-legacy-icon-8cl2h.png",
+                            "imageType": "ProductIcon",
+                            "width": 512
+                        },
+                        "card16x9": {
+                            "altText": "Raiden Legacy Offer",
+                            "height": 1440,
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/78c256ab53404b6c9bb46a32849f42f7/raiden-legacy-1xz6a.jpg",
+                            "imageType": "OfferImageWide",
+                            "width": 2560
+                        },
+                        "card3x4": {
+                            "altText": "Download Raiden Legacy Offer",
+                            "height": 1600,
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/78c256ab53404b6c9bb46a32849f42f7/raiden-legacy-1md2s.jpg",
+                            "imageType": "OfferImageTall",
+                            "width": 1200
+                        },
+                        "coverImage": {
+                            "altText": "-",
+                            "height": 1440,
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/78c256ab53404b6c9bb46a32849f42f7/raiden-legacy-1ovr1.jpg",
+                            "imageType": "coverImage",
+                            "width": 2560
+                        }
+                    },
+                    "purchase": [
+                        {
+                            "offerLifecycleState": "Release",
+                            "price": {
+                                "currencyCode": "EUR",
+                                "decimalPrice": 4.49
+                            },
+                            "priceDisplay": "€4.49",
+                            "purchasePayload": {
+                                "offerId": "a62f4e614a33493389f65cbf4b044898",
+                                "sandboxId": "58655f84ec9a46c49b1dc70f9014efa2"
+                            },
+                            "purchaseType": "Purchase"
+                        }
+                    ],
+                    "systemSpecs": {
+                        "applicationVersion": "2.4.5",
+                        "platform": "android",
+                        "systemRequirements": [
+                            {
+                                "minimum": "70Mo",
+                                "requirementType": "InstallSize",
+                                "title": "Installation size"
+                            },
+                            {
+                                "minimum": "62.38 MB",
+                                "requirementType": "DownloadSize",
+                                "title": "Download size"
+                            },
+                            {
+                                "minimum": "6.0",
+                                "requirementType": "OS",
+                                "title": "OS version"
+                            }
+                        ]
+                    },
+                    "title": "Raiden Legacy"
+                },
+                "offerId": "a62f4e614a33493389f65cbf4b044898",
+                "sandboxId": "58655f84ec9a46c49b1dc70f9014efa2"
+            },
             {
                 "content": {
                     "ageRating": {
@@ -4157,9 +4272,9 @@
                     },
                     "catalogItemId": "f6466333b51846118f441674f784cb9b",
                     "categories": [
-                        "games",
+                        "games/edition/base",
                         "games/edition",
-                        "games/edition/base"
+                        "games"
                     ],
                     "mapping": {
                         "slug": "residual-android-eef593"
@@ -4210,7 +4325,7 @@
                         }
                     ],
                     "systemSpecs": {
-                        "applicationVersion": "1.3.5",
+                        "applicationVersion": "1.3.6",
                         "platform": "android",
                         "systemRequirements": [
                             {
@@ -4219,7 +4334,7 @@
                                 "title": "Installation size"
                             },
                             {
-                                "minimum": "62.09 MB",
+                                "minimum": "64.29 MB",
                                 "requirementType": "DownloadSize",
                                 "title": "Download size"
                             },
@@ -5263,6 +5378,37 @@
                                 "sandboxId": "5cde19fec0144bcba3d9c77360103460"
                             },
                             "purchaseType": "Purchase"
+                        },
+                        {
+                            "discount": {
+                                "discountAmountDisplay": "-50%",
+                                "discountEndDate": "2025-09-10T15:00:00.000Z",
+                                "originalPriceDisplay": "€1.99"
+                            },
+                            "offerLifecycleState": "Release",
+                            "price": {
+                                "currencyCode": "EUR",
+                                "decimalPrice": 0.99
+                            },
+                            "priceDisplay": "€0.99",
+                            "purchasePayload": {
+                                "offerId": "7b182f2fb28c494cb626c3c6a26610f1",
+                                "sandboxId": "5cde19fec0144bcba3d9c77360103460"
+                            },
+                            "purchaseType": "Purchase"
+                        },
+                        {
+                            "offerLifecycleState": "Release",
+                            "price": {
+                                "currencyCode": "EUR",
+                                "decimalPrice": 1.99
+                            },
+                            "priceDisplay": "€1.99",
+                            "purchasePayload": {
+                                "offerId": "7b182f2fb28c494cb626c3c6a26610f1",
+                                "sandboxId": "5cde19fec0144bcba3d9c77360103460"
+                            },
+                            "purchaseType": "Purchase"
                         }
                     ],
                     "systemSpecs": {
@@ -5567,6 +5713,37 @@
                                 "sandboxId": "1370d5c73fa4438da24c595ea3338456"
                             },
                             "purchaseType": "Purchase"
+                        },
+                        {
+                            "discount": {
+                                "discountAmountDisplay": "-50%",
+                                "discountEndDate": "2025-09-10T15:00:00.000Z",
+                                "originalPriceDisplay": "€3.99"
+                            },
+                            "offerLifecycleState": "Release",
+                            "price": {
+                                "currencyCode": "EUR",
+                                "decimalPrice": 1.99
+                            },
+                            "priceDisplay": "€1.99",
+                            "purchasePayload": {
+                                "offerId": "bfa7235a577547578527633c82c776a2",
+                                "sandboxId": "1370d5c73fa4438da24c595ea3338456"
+                            },
+                            "purchaseType": "Purchase"
+                        },
+                        {
+                            "offerLifecycleState": "Release",
+                            "price": {
+                                "currencyCode": "EUR",
+                                "decimalPrice": 3.99
+                            },
+                            "priceDisplay": "€3.99",
+                            "purchasePayload": {
+                                "offerId": "bfa7235a577547578527633c82c776a2",
+                                "sandboxId": "1370d5c73fa4438da24c595ea3338456"
+                            },
+                            "purchaseType": "Purchase"
                         }
                     ],
                     "systemSpecs": {
@@ -5757,6 +5934,37 @@
                         }
                     },
                     "purchase": [
+                        {
+                            "offerLifecycleState": "Release",
+                            "price": {
+                                "currencyCode": "EUR",
+                                "decimalPrice": 4.99
+                            },
+                            "priceDisplay": "€4.99",
+                            "purchasePayload": {
+                                "offerId": "0e5d790f043b464689d9c2128d472fb5",
+                                "sandboxId": "6b98c6b6298b4282905ea8a66f1e8432"
+                            },
+                            "purchaseType": "Purchase"
+                        },
+                        {
+                            "discount": {
+                                "discountAmountDisplay": "-60%",
+                                "discountEndDate": "2025-09-10T15:00:00.000Z",
+                                "originalPriceDisplay": "€4.99"
+                            },
+                            "offerLifecycleState": "Release",
+                            "price": {
+                                "currencyCode": "EUR",
+                                "decimalPrice": 1.99
+                            },
+                            "priceDisplay": "€1.99",
+                            "purchasePayload": {
+                                "offerId": "0e5d790f043b464689d9c2128d472fb5",
+                                "sandboxId": "6b98c6b6298b4282905ea8a66f1e8432"
+                            },
+                            "purchaseType": "Purchase"
+                        },
                         {
                             "offerLifecycleState": "Release",
                             "price": {
@@ -6368,24 +6576,6 @@
                         }
                     },
                     "purchase": [
-                        {
-                            "discount": {
-                                "discountAmountDisplay": "-75%",
-                                "discountEndDate": "2025-08-27T15:00:00.000Z",
-                                "originalPriceDisplay": "€3.99"
-                            },
-                            "offerLifecycleState": "Release",
-                            "price": {
-                                "currencyCode": "EUR",
-                                "decimalPrice": 0.99
-                            },
-                            "priceDisplay": "€0.99",
-                            "purchasePayload": {
-                                "offerId": "d1c9d4af7b564b1eaf0e18543c3538d4",
-                                "sandboxId": "1b08b1c0ee0947908e85dc9808a16779"
-                            },
-                            "purchaseType": "Purchase"
-                        },
                         {
                             "offerLifecycleState": "Release",
                             "price": {
@@ -7821,6 +8011,36 @@
                         }
                     },
                     "purchase": [
+                        {
+                            "offerLifecycleState": "Release",
+                            "price": {
+                                "currencyCode": "EUR",
+                                "decimalPrice": 6.99
+                            },
+                            "priceDisplay": "€6.99",
+                            "purchasePayload": {
+                                "offerId": "297bbfffc4c643209b59c3cd6c764e9c",
+                                "sandboxId": "e52b4d8cbcfd45ad95eff800ccc59d93"
+                            },
+                            "purchaseType": "Purchase"
+                        },
+                        {
+                            "discount": {
+                                "discountAmountDisplay": "-100%",
+                                "discountEndDate": "2025-09-04T15:00:00.000Z",
+                                "originalPriceDisplay": "€6.99"
+                            },
+                            "offerLifecycleState": "Release",
+                            "price": {
+                                "currencyCode": "EUR",
+                                "decimalPrice": 0
+                            },
+                            "purchasePayload": {
+                                "offerId": "297bbfffc4c643209b59c3cd6c764e9c",
+                                "sandboxId": "e52b4d8cbcfd45ad95eff800ccc59d93"
+                            },
+                            "purchaseType": "Claim"
+                        },
                         {
                             "offerLifecycleState": "Release",
                             "price": {
@@ -9988,24 +10208,6 @@
                     },
                     "purchase": [
                         {
-                            "discount": {
-                                "discountAmountDisplay": "-50%",
-                                "discountEndDate": "2025-08-27T15:00:00.000Z",
-                                "originalPriceDisplay": "€9.99"
-                            },
-                            "offerLifecycleState": "Release",
-                            "price": {
-                                "currencyCode": "EUR",
-                                "decimalPrice": 4.99
-                            },
-                            "priceDisplay": "€4.99",
-                            "purchasePayload": {
-                                "offerId": "4db605b1fd864f098fc6cefaa87de4a1",
-                                "sandboxId": "f0757a2ab13941d89476cfa09df9a545"
-                            },
-                            "purchaseType": "Purchase"
-                        },
-                        {
                             "offerLifecycleState": "Release",
                             "price": {
                                 "currencyCode": "EUR",
@@ -11356,6 +11558,24 @@
                     },
                     "purchase": [
                         {
+                            "discount": {
+                                "discountAmountDisplay": "-80%",
+                                "discountEndDate": "2025-09-08T21:59:00.000Z",
+                                "originalPriceDisplay": "€6.29"
+                            },
+                            "offerLifecycleState": "Release",
+                            "price": {
+                                "currencyCode": "EUR",
+                                "decimalPrice": 1.25
+                            },
+                            "priceDisplay": "€1.25",
+                            "purchasePayload": {
+                                "offerId": "0f124601704d4baa9c7e76657507e700",
+                                "sandboxId": "601b5944b71c478fa38f18f36de45bf0"
+                            },
+                            "purchaseType": "Purchase"
+                        },
+                        {
                             "offerLifecycleState": "Release",
                             "price": {
                                 "currencyCode": "EUR",
@@ -11457,24 +11677,6 @@
                         }
                     },
                     "purchase": [
-                        {
-                            "discount": {
-                                "discountAmountDisplay": "-50%",
-                                "discountEndDate": "2025-08-26T23:00:00.000Z",
-                                "originalPriceDisplay": "€4.49"
-                            },
-                            "offerLifecycleState": "Release",
-                            "price": {
-                                "currencyCode": "EUR",
-                                "decimalPrice": 2.24
-                            },
-                            "priceDisplay": "€2.24",
-                            "purchasePayload": {
-                                "offerId": "00ff828ca2d24334b2b649e87fc4370d",
-                                "sandboxId": "9a0c5c4c64404e698fbb56f757572216"
-                            },
-                            "purchaseType": "Purchase"
-                        },
                         {
                             "offerLifecycleState": "Release",
                             "price": {
