@@ -1323,19 +1323,6 @@
                     },
                     "purchase": [
                         {
-                            "offerLifecycleState": "Release",
-                            "price": {
-                                "currencyCode": "EUR",
-                                "decimalPrice": 2.99
-                            },
-                            "priceDisplay": "€2.99",
-                            "purchasePayload": {
-                                "offerId": "a58fa1be6d98402898549af5e705918c",
-                                "sandboxId": "d62ece62bdc54609bdf99af431044588"
-                            },
-                            "purchaseType": "Purchase"
-                        },
-                        {
                             "discount": {
                                 "discountAmountDisplay": "-67%",
                                 "discountEndDate": "2025-09-10T15:00:00.000Z",
@@ -2336,20 +2323,22 @@
                             "gate": "no-gate"
                         },
                         "ageRating": {
-                            "ageControl": 3,
-                            "contentDescriptors": [],
+                            "ageControl": 7,
+                            "contentDescriptors": [
+                                "Mild Violence"
+                            ],
                             "interactiveElements": [],
-                            "ratingImage": "https://cdn1.epicgames.com/gameRating/gameRating/PEGI_3_192_192x192-490b93ddf59fb4ac1148d1eb9083626a",
+                            "ratingImage": "https://cdn1.epicgames.com/gameRating/gameRating/PEGI_7_192_192x192-30e2e712d0682dad01add90a6ccbed5b",
                             "ratingSystem": "PEGI",
-                            "rectangularRatingImage": "https://cdn1.epicgames.com/salesEvent/salesEvent/PEGI-3_435x530-c931ab5bb4eb190f6e8e542081c49dc4",
-                            "title": "PEGI 3"
+                            "rectangularRatingImage": "https://cdn1.epicgames.com/salesEvent/salesEvent/PEGI-7_435x530-9439a136999d3dd762c7a61c3b8c7683",
+                            "title": "PEGI 7"
                         },
                         "ratingType": "AgeRating"
                     },
                     "attention": {
                         "inAppPurchases": "None"
                     },
-                    "catalogItemId": "3654b2e78bbd4fa6afbe388ae4ff3e49",
+                    "catalogItemId": "1ec27461c7704314ac319e7c74dfdcde",
                     "categories": [
                         "freegames",
                         "games",
@@ -2357,34 +2346,34 @@
                         "games/edition/base"
                     ],
                     "mapping": {
-                        "slug": "strange-horticulture-android-8143c0"
+                        "slug": "machinarium-android-cb6e90"
                     },
                     "media": {
                         "appIcon": {
                             "altText": "-",
                             "height": 512,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/d182b6573834457497e411f3bd22c1a3/strange-horticulture-icon-j8ufe.png",
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/907d9edf585e4c23b971164cd1c452e2/machinarium-icon-172qc.png",
                             "imageType": "ProductIcon",
                             "width": 512
                         },
                         "card16x9": {
-                            "altText": "Strange Horticulture Offer",
+                            "altText": "Machinarium Offer",
                             "height": 1440,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/d182b6573834457497e411f3bd22c1a3/strange-horticulture-1pfex.png",
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/907d9edf585e4c23b971164cd1c452e2/machinarium-dtwck.jpg",
                             "imageType": "OfferImageWide",
                             "width": 2560
                         },
                         "card3x4": {
-                            "altText": "Download Strange Horticulture Offer",
+                            "altText": "Download Machinarium Offer",
                             "height": 1600,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/d182b6573834457497e411f3bd22c1a3/strange-horticulture-14o1g.png",
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/907d9edf585e4c23b971164cd1c452e2/machinarium-mv7us.jpg",
                             "imageType": "OfferImageTall",
                             "width": 1200
                         },
                         "coverImage": {
                             "altText": "-",
                             "height": 1440,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/d182b6573834457497e411f3bd22c1a3/strange-horticulture-1b0oa.png",
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/907d9edf585e4c23b971164cd1c452e2/machinarium-4rgdn.jpg",
                             "imageType": "coverImage",
                             "width": 2560
                         }
@@ -2393,8 +2382,8 @@
                         {
                             "discount": {
                                 "discountAmountDisplay": "-100%",
-                                "discountEndDate": "2025-08-28T15:00:00.000Z",
-                                "originalPriceDisplay": "€4.49"
+                                "discountEndDate": "2025-09-04T15:00:00.000Z",
+                                "originalPriceDisplay": "€6.99"
                             },
                             "offerLifecycleState": "Release",
                             "price": {
@@ -2402,8 +2391,8 @@
                                 "decimalPrice": 0
                             },
                             "purchasePayload": {
-                                "offerId": "970e866150c84cea964e8258650bb879",
-                                "sandboxId": "92296faa8faf4e56a6858c4a2d7abf03"
+                                "offerId": "297bbfffc4c643209b59c3cd6c764e9c",
+                                "sandboxId": "e52b4d8cbcfd45ad95eff800ccc59d93"
                             },
                             "purchaseType": "Claim"
                         },
@@ -2411,41 +2400,41 @@
                             "offerLifecycleState": "Release",
                             "price": {
                                 "currencyCode": "EUR",
-                                "decimalPrice": 4.49
+                                "decimalPrice": 6.99
                             },
-                            "priceDisplay": "€4.49",
+                            "priceDisplay": "€6.99",
                             "purchasePayload": {
-                                "offerId": "970e866150c84cea964e8258650bb879",
-                                "sandboxId": "92296faa8faf4e56a6858c4a2d7abf03"
+                                "offerId": "297bbfffc4c643209b59c3cd6c764e9c",
+                                "sandboxId": "e52b4d8cbcfd45ad95eff800ccc59d93"
                             },
                             "purchaseType": "Purchase"
                         }
                     ],
                     "systemSpecs": {
-                        "applicationVersion": "1.1.652",
+                        "applicationVersion": "3.1.6",
                         "platform": "android",
                         "systemRequirements": [
                             {
-                                "minimum": "400 MB",
+                                "minimum": "300 MB",
                                 "requirementType": "InstallSize",
                                 "title": "Installation size"
                             },
                             {
-                                "minimum": "354.31 MB",
+                                "minimum": "243.03 MB",
                                 "requirementType": "DownloadSize",
                                 "title": "Download size"
                             },
                             {
-                                "minimum": "7.0",
+                                "minimum": "API level 21",
                                 "requirementType": "OS",
                                 "title": "OS version"
                             }
                         ]
                     },
-                    "title": "Strange Horticulture"
+                    "title": "Machinarium"
                 },
-                "offerId": "970e866150c84cea964e8258650bb879",
-                "sandboxId": "92296faa8faf4e56a6858c4a2d7abf03"
+                "offerId": "297bbfffc4c643209b59c3cd6c764e9c",
+                "sandboxId": "e52b4d8cbcfd45ad95eff800ccc59d93"
             }
         ],
         "size": "large",
@@ -5367,19 +5356,6 @@
                     },
                     "purchase": [
                         {
-                            "offerLifecycleState": "Release",
-                            "price": {
-                                "currencyCode": "EUR",
-                                "decimalPrice": 1.99
-                            },
-                            "priceDisplay": "€1.99",
-                            "purchasePayload": {
-                                "offerId": "7b182f2fb28c494cb626c3c6a26610f1",
-                                "sandboxId": "5cde19fec0144bcba3d9c77360103460"
-                            },
-                            "purchaseType": "Purchase"
-                        },
-                        {
                             "discount": {
                                 "discountAmountDisplay": "-50%",
                                 "discountEndDate": "2025-09-10T15:00:00.000Z",
@@ -5702,19 +5678,6 @@
                     },
                     "purchase": [
                         {
-                            "offerLifecycleState": "Release",
-                            "price": {
-                                "currencyCode": "EUR",
-                                "decimalPrice": 3.99
-                            },
-                            "priceDisplay": "€3.99",
-                            "purchasePayload": {
-                                "offerId": "bfa7235a577547578527633c82c776a2",
-                                "sandboxId": "1370d5c73fa4438da24c595ea3338456"
-                            },
-                            "purchaseType": "Purchase"
-                        },
-                        {
                             "discount": {
                                 "discountAmountDisplay": "-50%",
                                 "discountEndDate": "2025-09-10T15:00:00.000Z",
@@ -5934,19 +5897,6 @@
                         }
                     },
                     "purchase": [
-                        {
-                            "offerLifecycleState": "Release",
-                            "price": {
-                                "currencyCode": "EUR",
-                                "decimalPrice": 4.99
-                            },
-                            "priceDisplay": "€4.99",
-                            "purchasePayload": {
-                                "offerId": "0e5d790f043b464689d9c2128d472fb5",
-                                "sandboxId": "6b98c6b6298b4282905ea8a66f1e8432"
-                            },
-                            "purchaseType": "Purchase"
-                        },
                         {
                             "discount": {
                                 "discountAmountDisplay": "-60%",
@@ -7987,57 +7937,54 @@
                             "gate": "no-gate"
                         },
                         "ageRating": {
-                            "ageControl": 7,
-                            "contentDescriptors": [
-                                "Mild Violence"
-                            ],
+                            "ageControl": 3,
+                            "contentDescriptors": [],
                             "interactiveElements": [],
-                            "ratingImage": "https://cdn1.epicgames.com/gameRating/gameRating/PEGI_7_192_192x192-30e2e712d0682dad01add90a6ccbed5b",
+                            "ratingImage": "https://cdn1.epicgames.com/gameRating/gameRating/PEGI_3_192_192x192-490b93ddf59fb4ac1148d1eb9083626a",
                             "ratingSystem": "PEGI",
-                            "rectangularRatingImage": "https://cdn1.epicgames.com/salesEvent/salesEvent/PEGI-7_435x530-9439a136999d3dd762c7a61c3b8c7683",
-                            "title": "PEGI 7"
+                            "rectangularRatingImage": "https://cdn1.epicgames.com/salesEvent/salesEvent/PEGI-3_435x530-c931ab5bb4eb190f6e8e542081c49dc4",
+                            "title": "PEGI 3"
                         },
                         "ratingType": "AgeRating"
                     },
                     "attention": {
                         "inAppPurchases": "None"
                     },
-                    "catalogItemId": "1ec27461c7704314ac319e7c74dfdcde",
+                    "catalogItemId": "3654b2e78bbd4fa6afbe388ae4ff3e49",
                     "categories": [
-                        "freegames",
                         "games",
                         "games/edition",
                         "games/edition/base"
                     ],
                     "mapping": {
-                        "slug": "machinarium-android-cb6e90"
+                        "slug": "strange-horticulture-android-8143c0"
                     },
                     "media": {
                         "appIcon": {
                             "altText": "-",
                             "height": 512,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/907d9edf585e4c23b971164cd1c452e2/machinarium-icon-172qc.png",
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/d182b6573834457497e411f3bd22c1a3/strange-horticulture-icon-j8ufe.png",
                             "imageType": "ProductIcon",
                             "width": 512
                         },
                         "card16x9": {
-                            "altText": "Machinarium Offer",
+                            "altText": "Strange Horticulture Offer",
                             "height": 1440,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/907d9edf585e4c23b971164cd1c452e2/machinarium-dtwck.jpg",
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/d182b6573834457497e411f3bd22c1a3/strange-horticulture-1pfex.png",
                             "imageType": "OfferImageWide",
                             "width": 2560
                         },
                         "card3x4": {
-                            "altText": "Download Machinarium Offer",
+                            "altText": "Download Strange Horticulture Offer",
                             "height": 1600,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/907d9edf585e4c23b971164cd1c452e2/machinarium-mv7us.jpg",
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/d182b6573834457497e411f3bd22c1a3/strange-horticulture-14o1g.png",
                             "imageType": "OfferImageTall",
                             "width": 1200
                         },
                         "coverImage": {
                             "altText": "-",
                             "height": 1440,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/907d9edf585e4c23b971164cd1c452e2/machinarium-4rgdn.jpg",
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/d182b6573834457497e411f3bd22c1a3/strange-horticulture-1b0oa.png",
                             "imageType": "coverImage",
                             "width": 2560
                         }
@@ -8047,71 +7994,41 @@
                             "offerLifecycleState": "Release",
                             "price": {
                                 "currencyCode": "EUR",
-                                "decimalPrice": 6.99
+                                "decimalPrice": 4.49
                             },
-                            "priceDisplay": "€6.99",
+                            "priceDisplay": "€4.49",
                             "purchasePayload": {
-                                "offerId": "297bbfffc4c643209b59c3cd6c764e9c",
-                                "sandboxId": "e52b4d8cbcfd45ad95eff800ccc59d93"
-                            },
-                            "purchaseType": "Purchase"
-                        },
-                        {
-                            "discount": {
-                                "discountAmountDisplay": "-100%",
-                                "discountEndDate": "2025-09-04T15:00:00.000Z",
-                                "originalPriceDisplay": "€6.99"
-                            },
-                            "offerLifecycleState": "Release",
-                            "price": {
-                                "currencyCode": "EUR",
-                                "decimalPrice": 0
-                            },
-                            "purchasePayload": {
-                                "offerId": "297bbfffc4c643209b59c3cd6c764e9c",
-                                "sandboxId": "e52b4d8cbcfd45ad95eff800ccc59d93"
-                            },
-                            "purchaseType": "Claim"
-                        },
-                        {
-                            "offerLifecycleState": "Release",
-                            "price": {
-                                "currencyCode": "EUR",
-                                "decimalPrice": 6.99
-                            },
-                            "priceDisplay": "€6.99",
-                            "purchasePayload": {
-                                "offerId": "297bbfffc4c643209b59c3cd6c764e9c",
-                                "sandboxId": "e52b4d8cbcfd45ad95eff800ccc59d93"
+                                "offerId": "970e866150c84cea964e8258650bb879",
+                                "sandboxId": "92296faa8faf4e56a6858c4a2d7abf03"
                             },
                             "purchaseType": "Purchase"
                         }
                     ],
                     "systemSpecs": {
-                        "applicationVersion": "3.1.6",
+                        "applicationVersion": "1.1.652",
                         "platform": "android",
                         "systemRequirements": [
                             {
-                                "minimum": "300 MB",
+                                "minimum": "400 MB",
                                 "requirementType": "InstallSize",
                                 "title": "Installation size"
                             },
                             {
-                                "minimum": "243.03 MB",
+                                "minimum": "354.31 MB",
                                 "requirementType": "DownloadSize",
                                 "title": "Download size"
                             },
                             {
-                                "minimum": "API level 21",
+                                "minimum": "7.0",
                                 "requirementType": "OS",
                                 "title": "OS version"
                             }
                         ]
                     },
-                    "title": "Machinarium"
+                    "title": "Strange Horticulture"
                 },
-                "offerId": "297bbfffc4c643209b59c3cd6c764e9c",
-                "sandboxId": "e52b4d8cbcfd45ad95eff800ccc59d93"
+                "offerId": "970e866150c84cea964e8258650bb879",
+                "sandboxId": "92296faa8faf4e56a6858c4a2d7abf03"
             },
             {
                 "content": {
