@@ -499,6 +499,66 @@
         "store_url": "<https://store.epicgames.com/product/hidden-folks-ios-72dd34>",
         "title": "Hidden Folks"
     },
+    "1-c28a4972ae574f27af0304e6ac625009-9d07ab4223af4a55a5e0b56103bd1345": {
+        "age_control": 7,
+        "catalog_item_id": "86a95712f3eb48b19bdbbf3ccdcc0d06",
+        "checkout_url": "<https://store.epicgames.com/purchase?offers=1-c28a4972ae574f27af0304e6ac625009-9d07ab4223af4a55a5e0b56103bd1345>",
+        "content_descriptors": [
+            "Mild Violence"
+        ],
+        "current_price": "0",
+        "discount": null,
+        "download_size": "212,1 MB",
+        "end_date": null,
+        "in_app_purchases": true,
+        "install_size": "212,9 MB",
+        "interactive_elements": [
+            "In-Game Purchases"
+        ],
+        "media": {
+            "OfferImageTall": "https://cdn1.epicgames.com/spt-assets/b312dfc1b33d459daa55a67d53a56223/the-battle-of-polytopia-1rboq.png",
+            "OfferImageWide": "https://cdn1.epicgames.com/spt-assets/b312dfc1b33d459daa55a67d53a56223/the-battle-of-polytopia-145ty.png",
+            "ProductIcon": "https://cdn1.epicgames.com/spt-assets/b312dfc1b33d459daa55a67d53a56223/the-battle-of-polytopia-icon-sg8s5.png",
+            "coverImage": "https://cdn1.epicgames.com/spt-assets/b312dfc1b33d459daa55a67d53a56223/the-battle-of-polytopia-99wf7.png"
+        },
+        "offer_id": "9d07ab4223af4a55a5e0b56103bd1345",
+        "original_price": "0",
+        "platform": "ios",
+        "sandbox_id": "c28a4972ae574f27af0304e6ac625009",
+        "slug": "the-battle-of-polytopia-ios-afc195",
+        "store_url": "<https://store.epicgames.com/product/the-battle-of-polytopia-ios-afc195>",
+        "title": "The Battle of Polytopia"
+    },
+    "1-c28a4972ae574f27af0304e6ac625009-da916d731a16499095993725ea9a3058": {
+        "age_control": 7,
+        "catalog_item_id": "f224809b5d8646edada112ca256fa72f",
+        "checkout_url": "<https://store.epicgames.com/purchase?offers=1-c28a4972ae574f27af0304e6ac625009-da916d731a16499095993725ea9a3058>",
+        "content_descriptors": [
+            "Mild Violence"
+        ],
+        "current_price": "0",
+        "discount": null,
+        "download_size": "156.22 MB",
+        "end_date": null,
+        "in_app_purchases": true,
+        "install_size": "269 MB",
+        "interactive_elements": [
+            "In-Game Purchases"
+        ],
+        "media": {
+            "OfferImageTall": "https://cdn1.epicgames.com/spt-assets/b312dfc1b33d459daa55a67d53a56223/the-battle-of-polytopia-qaago.png",
+            "OfferImageWide": "https://cdn1.epicgames.com/spt-assets/b312dfc1b33d459daa55a67d53a56223/the-battle-of-polytopia-bd1ep.png",
+            "ProductIcon": "https://cdn1.epicgames.com/spt-assets/b312dfc1b33d459daa55a67d53a56223/the-battle-of-polytopia-icon-sg8s5.png",
+            "coverImage": "https://cdn1.epicgames.com/spt-assets/b312dfc1b33d459daa55a67d53a56223/the-battle-of-polytopia-99wf7.png"
+        },
+        "offer_id": "da916d731a16499095993725ea9a3058",
+        "original_price": "0",
+        "platform": "android",
+        "sandbox_id": "c28a4972ae574f27af0304e6ac625009",
+        "slug": "the-battle-of-polytopia-android-2acf81",
+        "store_url": "<https://store.epicgames.com/product/the-battle-of-polytopia-android-2acf81>",
+        "title": "The Battle of Polytopia"
+    },
     "1-d55b1ce868af425e9631c2d46c074ab9-1228d7af0cd34ceb8579a0c5d4802e54": {
         "age_control": 12,
         "catalog_item_id": "a11fabf3ba12446d831ac703e5a878ce",
