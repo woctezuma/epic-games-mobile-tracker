@@ -119,6 +119,244 @@
                             "ageControl": 3,
                             "contentDescriptors": [],
                             "interactiveElements": [
+                                "Digital Purchases"
+                            ],
+                            "ratingImage": "https://cdn1.epicgames.com/gameRating/gameRating/PEGI_3_192_192x192-490b93ddf59fb4ac1148d1eb9083626a",
+                            "ratingSystem": "PEGI",
+                            "rectangularRatingImage": "https://cdn1.epicgames.com/salesEvent/salesEvent/PEGI-3_435x530-c931ab5bb4eb190f6e8e542081c49dc4",
+                            "title": "PEGI 3"
+                        },
+                        "ratingType": "AgeRating"
+                    },
+                    "attention": {
+                        "inAppPurchases": "None"
+                    },
+                    "catalogItemId": "9becf03a19714ffc9c24114e8939338d",
+                    "categories": [
+                        "games",
+                        "games/edition",
+                        "games/edition/base"
+                    ],
+                    "mapping": {
+                        "slug": "bridge-constructor-medieval-android-e8ab55"
+                    },
+                    "media": {
+                        "appIcon": {
+                            "altText": "-",
+                            "height": 512,
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/98d683c5a3fe4861882f90a164a190ad/bridge-constructor-medieval-icon-1ev7d.png",
+                            "imageType": "ProductIcon",
+                            "width": 512
+                        },
+                        "card16x9": {
+                            "altText": "Bridge Constructor Medieval Offer",
+                            "height": 1440,
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/98d683c5a3fe4861882f90a164a190ad/bridge-constructor-medieval-1ug3i.jpg",
+                            "imageType": "OfferImageWide",
+                            "width": 2560
+                        },
+                        "card3x4": {
+                            "altText": "Download Bridge Constructor Medieval Offer",
+                            "height": 1600,
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/98d683c5a3fe4861882f90a164a190ad/bridge-constructor-medieval-x32jf.png",
+                            "imageType": "OfferImageTall",
+                            "width": 1200
+                        },
+                        "coverImage": {
+                            "altText": "-",
+                            "height": 1440,
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/98d683c5a3fe4861882f90a164a190ad/bridge-constructor-medieval-1ofxa.jpg",
+                            "imageType": "coverImage",
+                            "width": 2560
+                        }
+                    },
+                    "purchase": [
+                        {
+                            "discount": {
+                                "discountAmountDisplay": "-20%",
+                                "discountEndDate": "2025-09-09T17:00:00.000Z",
+                                "originalPriceDisplay": "€0.99"
+                            },
+                            "offerLifecycleState": "Release",
+                            "price": {
+                                "currencyCode": "EUR",
+                                "decimalPrice": 0.79
+                            },
+                            "priceDisplay": "€0.79",
+                            "purchasePayload": {
+                                "offerId": "65369ba055884f85b6d7d927b31a78dd",
+                                "sandboxId": "5f31cc1f56e04ea1aa991db29e53a148"
+                            },
+                            "purchaseType": "Purchase"
+                        },
+                        {
+                            "offerLifecycleState": "Release",
+                            "price": {
+                                "currencyCode": "EUR",
+                                "decimalPrice": 0.99
+                            },
+                            "priceDisplay": "€0.99",
+                            "purchasePayload": {
+                                "offerId": "65369ba055884f85b6d7d927b31a78dd",
+                                "sandboxId": "5f31cc1f56e04ea1aa991db29e53a148"
+                            },
+                            "purchaseType": "Purchase"
+                        }
+                    ],
+                    "systemSpecs": {
+                        "applicationVersion": "3.2",
+                        "platform": "android",
+                        "systemRequirements": [
+                            {
+                                "minimum": "92 MB",
+                                "requirementType": "InstallSize",
+                                "title": "Installation size"
+                            },
+                            {
+                                "minimum": "90.77 MB",
+                                "requirementType": "DownloadSize",
+                                "title": "Download size"
+                            },
+                            {
+                                "minimum": "API level 22",
+                                "requirementType": "OS",
+                                "title": "OS version"
+                            }
+                        ]
+                    },
+                    "title": "Bridge Constructor Medieval"
+                },
+                "offerId": "65369ba055884f85b6d7d927b31a78dd",
+                "sandboxId": "5f31cc1f56e04ea1aa991db29e53a148"
+            },
+            {
+                "content": {
+                    "ageRating": {
+                        "ageGate": {
+                            "gate": "no-gate"
+                        },
+                        "ageRating": {
+                            "ageControl": 3,
+                            "contentDescriptors": [],
+                            "interactiveElements": [],
+                            "ratingImage": "https://cdn1.epicgames.com/gameRating/gameRating/PEGI_3_192_192x192-490b93ddf59fb4ac1148d1eb9083626a",
+                            "ratingSystem": "PEGI",
+                            "rectangularRatingImage": "https://cdn1.epicgames.com/salesEvent/salesEvent/PEGI-3_435x530-c931ab5bb4eb190f6e8e542081c49dc4",
+                            "title": "PEGI 3"
+                        },
+                        "ratingType": "AgeRating"
+                    },
+                    "attention": {
+                        "inAppPurchases": "None"
+                    },
+                    "catalogItemId": "8b494c5f480848f6a12c698cea37be14",
+                    "categories": [
+                        "games",
+                        "games/edition",
+                        "games/edition/base"
+                    ],
+                    "mapping": {
+                        "slug": "bridge-constructor-studio-android-c42687"
+                    },
+                    "media": {
+                        "appIcon": {
+                            "altText": "-",
+                            "height": 512,
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/f1d15131f52f4ef7bc917ac348e2fe9d/bridge-constructor-studio-icon-1xwnt.png",
+                            "imageType": "ProductIcon",
+                            "width": 512
+                        },
+                        "card16x9": {
+                            "altText": "Bridge Constructor Studio Offer",
+                            "height": 1440,
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/f1d15131f52f4ef7bc917ac348e2fe9d/bridge-constructor-studio-jcapk.jpg",
+                            "imageType": "OfferImageWide",
+                            "width": 2560
+                        },
+                        "card3x4": {
+                            "altText": "Download Bridge Constructor Studio Offer",
+                            "height": 1600,
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/f1d15131f52f4ef7bc917ac348e2fe9d/bridge-constructor-studio-1jh6w.jpg",
+                            "imageType": "OfferImageTall",
+                            "width": 1200
+                        },
+                        "coverImage": {
+                            "altText": "-",
+                            "height": 1440,
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/f1d15131f52f4ef7bc917ac348e2fe9d/bridge-constructor-studio-17fg0.jpg",
+                            "imageType": "coverImage",
+                            "width": 2560
+                        }
+                    },
+                    "purchase": [
+                        {
+                            "discount": {
+                                "discountAmountDisplay": "-20%",
+                                "discountEndDate": "2025-09-09T17:00:00.000Z",
+                                "originalPriceDisplay": "€5.99"
+                            },
+                            "offerLifecycleState": "Release",
+                            "price": {
+                                "currencyCode": "EUR",
+                                "decimalPrice": 4.79
+                            },
+                            "priceDisplay": "€4.79",
+                            "purchasePayload": {
+                                "offerId": "89131e73045d4c5b935dbc9834fc7b4a",
+                                "sandboxId": "db665435888341f69ec556d5408e7798"
+                            },
+                            "purchaseType": "Purchase"
+                        },
+                        {
+                            "offerLifecycleState": "Release",
+                            "price": {
+                                "currencyCode": "EUR",
+                                "decimalPrice": 5.99
+                            },
+                            "priceDisplay": "€5.99",
+                            "purchasePayload": {
+                                "offerId": "89131e73045d4c5b935dbc9834fc7b4a",
+                                "sandboxId": "db665435888341f69ec556d5408e7798"
+                            },
+                            "purchaseType": "Purchase"
+                        }
+                    ],
+                    "systemSpecs": {
+                        "applicationVersion": "1.3",
+                        "platform": "android",
+                        "systemRequirements": [
+                            {
+                                "minimum": "405 MB",
+                                "requirementType": "InstallSize",
+                                "title": "Installation size"
+                            },
+                            {
+                                "minimum": "216.71 MB",
+                                "requirementType": "DownloadSize",
+                                "title": "Download size"
+                            },
+                            {
+                                "minimum": "10",
+                                "requirementType": "OS",
+                                "title": "OS version"
+                            }
+                        ]
+                    },
+                    "title": "Bridge Constructor Studio"
+                },
+                "offerId": "89131e73045d4c5b935dbc9834fc7b4a",
+                "sandboxId": "db665435888341f69ec556d5408e7798"
+            },
+            {
+                "content": {
+                    "ageRating": {
+                        "ageGate": {
+                            "gate": "no-gate"
+                        },
+                        "ageRating": {
+                            "ageControl": 3,
+                            "contentDescriptors": [],
+                            "interactiveElements": [
                                 "Users Interact",
                                 "In-Game Purchases (Includes Random Items)"
                             ],
@@ -414,7 +652,19 @@
                 },
                 "offerId": "10f88dd0ece144c3962a5ce05ebfb6be",
                 "sandboxId": "8fab06fadbc544a8a17b0cbfd6dde51c"
-            },
+            }
+        ],
+        "size": "xLarge",
+        "title": "",
+        "topicId": "mobile-android-carousel",
+        "type": "featured"
+    },
+    {
+        "link": {
+            "linkText": "home page",
+            "src": "/"
+        },
+        "offers": [
             {
                 "content": {
                     "ageRating": {
@@ -489,6 +739,37 @@
                                 "sandboxId": "79c7bac7155c4d2e849394eaf3867245"
                             },
                             "purchaseType": "Purchase"
+                        },
+                        {
+                            "discount": {
+                                "discountAmountDisplay": "-10%",
+                                "discountEndDate": "2025-09-18T15:00:00.000Z",
+                                "originalPriceDisplay": "€8.99"
+                            },
+                            "offerLifecycleState": "Release",
+                            "price": {
+                                "currencyCode": "EUR",
+                                "decimalPrice": 8.09
+                            },
+                            "priceDisplay": "€8.09",
+                            "purchasePayload": {
+                                "offerId": "81cd2738fb904aa692c3ba510d23d7b9",
+                                "sandboxId": "79c7bac7155c4d2e849394eaf3867245"
+                            },
+                            "purchaseType": "Purchase"
+                        },
+                        {
+                            "offerLifecycleState": "Release",
+                            "price": {
+                                "currencyCode": "EUR",
+                                "decimalPrice": 8.99
+                            },
+                            "priceDisplay": "€8.99",
+                            "purchasePayload": {
+                                "offerId": "81cd2738fb904aa692c3ba510d23d7b9",
+                                "sandboxId": "79c7bac7155c4d2e849394eaf3867245"
+                            },
+                            "purchaseType": "Purchase"
                         }
                     ],
                     "systemSpecs": {
@@ -516,19 +797,225 @@
                 },
                 "offerId": "81cd2738fb904aa692c3ba510d23d7b9",
                 "sandboxId": "79c7bac7155c4d2e849394eaf3867245"
+            },
+            {
+                "content": {
+                    "ageRating": {
+                        "ageGate": {
+                            "gate": "no-gate"
+                        },
+                        "ageRating": {
+                            "ageControl": 16,
+                            "contentDescriptors": [
+                                "Strong Violence"
+                            ],
+                            "interactiveElements": [],
+                            "ratingImage": "https://cdn1.epicgames.com/gameRating/gameRating/PEGI_16_192_192x192-da60f0bd1fe7cb1ac9d8a8bd5168ea96",
+                            "ratingSystem": "PEGI",
+                            "rectangularRatingImage": "https://cdn1.epicgames.com/salesEvent/salesEvent/PEGI-16_435x530-65760d498ce28374fb7ca3258ee1440c",
+                            "title": "PEGI 16"
+                        },
+                        "ratingType": "AgeRating"
+                    },
+                    "attention": {
+                        "inAppPurchases": "None"
+                    },
+                    "catalogItemId": "3ccfdc4735be4b0d95886b0135180e3c",
+                    "categories": [
+                        "games",
+                        "games/edition",
+                        "games/edition/base"
+                    ],
+                    "mapping": {
+                        "slug": "carrion-ios-android-184e18"
+                    },
+                    "media": {
+                        "appIcon": {
+                            "altText": "-",
+                            "height": 512,
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/ea7941cc3762462ca756629fc37b6303/carrion-mobile-icon-fxpns.png",
+                            "imageType": "ProductIcon",
+                            "width": 512
+                        },
+                        "card16x9": {
+                            "altText": "Carrion Mobile Offer",
+                            "height": 1440,
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/ea7941cc3762462ca756629fc37b6303/carrion-mobile-5g1dw.jpg",
+                            "imageType": "OfferImageWide",
+                            "width": 2560
+                        },
+                        "card3x4": {
+                            "altText": "Download Carrion Mobile Offer",
+                            "height": 1600,
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/ea7941cc3762462ca756629fc37b6303/carrion-mobile-1tgyv.png",
+                            "imageType": "OfferImageTall",
+                            "width": 1200
+                        },
+                        "coverImage": {
+                            "altText": "-",
+                            "height": 1440,
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/ea7941cc3762462ca756629fc37b6303/carrion-mobile-2t6ja.jpg",
+                            "imageType": "coverImage",
+                            "width": 2560
+                        }
+                    },
+                    "purchase": [
+                        {
+                            "offerLifecycleState": "Release",
+                            "price": {
+                                "currencyCode": "EUR",
+                                "decimalPrice": 6.29
+                            },
+                            "priceDisplay": "€6.29",
+                            "purchasePayload": {
+                                "offerId": "70944660d2bb4800975802c714e99193",
+                                "sandboxId": "710b0610e09249bdb0ceb663a54f82ba"
+                            },
+                            "purchaseType": "Purchase"
+                        }
+                    ],
+                    "systemSpecs": {
+                        "applicationVersion": "1.0.0",
+                        "platform": "android",
+                        "systemRequirements": [
+                            {
+                                "minimum": "135MB",
+                                "requirementType": "InstallSize",
+                                "title": "Installation size"
+                            },
+                            {
+                                "minimum": "134.99 MB",
+                                "requirementType": "DownloadSize",
+                                "title": "Download size"
+                            },
+                            {
+                                "minimum": "6.0",
+                                "requirementType": "OS",
+                                "title": "OS version"
+                            }
+                        ]
+                    },
+                    "title": "Carrion"
+                },
+                "offerId": "70944660d2bb4800975802c714e99193",
+                "sandboxId": "710b0610e09249bdb0ceb663a54f82ba"
             }
         ],
-        "size": "xLarge",
-        "title": "",
-        "topicId": "mobile-android-carousel",
+        "size": "medium",
+        "title": "Featured",
+        "topicId": "mobile-android-featured-breaker",
         "type": "featured"
     },
     {
         "link": {
-            "linkText": "home page",
-            "src": "/"
+            "linkText": "",
+            "src": ""
         },
         "offers": [
+            {
+                "content": {
+                    "ageRating": {
+                        "ageGate": {
+                            "gate": "no-gate"
+                        },
+                        "ageRating": {
+                            "ageControl": 16,
+                            "contentDescriptors": [
+                                "Strong Language"
+                            ],
+                            "interactiveElements": [
+                                "In-Game Purchases"
+                            ],
+                            "ratingImage": "https://cdn1.epicgames.com/gameRating/gameRating/PEGI_16_192_192x192-da60f0bd1fe7cb1ac9d8a8bd5168ea96",
+                            "ratingSystem": "PEGI",
+                            "rectangularRatingImage": "https://cdn1.epicgames.com/salesEvent/salesEvent/PEGI-16_435x530-65760d498ce28374fb7ca3258ee1440c",
+                            "title": "PEGI 16"
+                        },
+                        "ratingType": "AgeRating"
+                    },
+                    "attention": {
+                        "inAppPurchases": "None"
+                    },
+                    "catalogItemId": "52267ea31a9b4cac92baff60b438fb69",
+                    "categories": [
+                        "games",
+                        "games/edition",
+                        "games/edition/base"
+                    ],
+                    "mapping": {
+                        "slug": "112-operator-android-979286"
+                    },
+                    "media": {
+                        "appIcon": {
+                            "altText": "-",
+                            "height": 512,
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/6036e5ea111a448ea1b41d5ab3800d99/112-operator-icon-y4ugl.png",
+                            "imageType": "ProductIcon",
+                            "width": 512
+                        },
+                        "card16x9": {
+                            "altText": "112 Operator Offer",
+                            "height": 1440,
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/6036e5ea111a448ea1b41d5ab3800d99/112-operator-1dvw8.jpg",
+                            "imageType": "OfferImageWide",
+                            "width": 2560
+                        },
+                        "card3x4": {
+                            "altText": "Download 112 Operator Offer",
+                            "height": 1600,
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/6036e5ea111a448ea1b41d5ab3800d99/112-operator-19bb7.jpg",
+                            "imageType": "OfferImageTall",
+                            "width": 1200
+                        },
+                        "coverImage": {
+                            "altText": "-",
+                            "height": 1440,
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/6036e5ea111a448ea1b41d5ab3800d99/112-operator-1htjd.jpg",
+                            "imageType": "coverImage",
+                            "width": 2560
+                        }
+                    },
+                    "purchase": [
+                        {
+                            "offerLifecycleState": "Release",
+                            "price": {
+                                "currencyCode": "EUR",
+                                "decimalPrice": 8.99
+                            },
+                            "priceDisplay": "€8.99",
+                            "purchasePayload": {
+                                "offerId": "cc5047a61fca40c492cf255c07ffc4c6",
+                                "sandboxId": "9f981e2c861e4a8fbd0eab89541ac8e6"
+                            },
+                            "purchaseType": "Purchase"
+                        }
+                    ],
+                    "systemSpecs": {
+                        "applicationVersion": "1.07.29",
+                        "platform": "android",
+                        "systemRequirements": [
+                            {
+                                "minimum": "2 GB",
+                                "requirementType": "InstallSize",
+                                "title": "Installation size"
+                            },
+                            {
+                                "minimum": "737.24 MB",
+                                "requirementType": "DownloadSize",
+                                "title": "Download size"
+                            },
+                            {
+                                "minimum": "8.0.0",
+                                "requirementType": "OS",
+                                "title": "OS version"
+                            }
+                        ]
+                    },
+                    "title": "112 Operator"
+                },
+                "offerId": "cc5047a61fca40c492cf255c07ffc4c6",
+                "sandboxId": "9f981e2c861e4a8fbd0eab89541ac8e6"
+            },
             {
                 "content": {
                     "ageRating": {
@@ -645,424 +1132,6 @@
                             "contentDescriptors": [
                                 "Strong Violence"
                             ],
-                            "interactiveElements": [],
-                            "ratingImage": "https://cdn1.epicgames.com/gameRating/gameRating/PEGI_16_192_192x192-da60f0bd1fe7cb1ac9d8a8bd5168ea96",
-                            "ratingSystem": "PEGI",
-                            "rectangularRatingImage": "https://cdn1.epicgames.com/salesEvent/salesEvent/PEGI-16_435x530-65760d498ce28374fb7ca3258ee1440c",
-                            "title": "PEGI 16"
-                        },
-                        "ratingType": "AgeRating"
-                    },
-                    "attention": {
-                        "inAppPurchases": "None"
-                    },
-                    "catalogItemId": "3ccfdc4735be4b0d95886b0135180e3c",
-                    "categories": [
-                        "games",
-                        "games/edition",
-                        "games/edition/base"
-                    ],
-                    "mapping": {
-                        "slug": "carrion-ios-android-184e18"
-                    },
-                    "media": {
-                        "appIcon": {
-                            "altText": "-",
-                            "height": 512,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/ea7941cc3762462ca756629fc37b6303/carrion-mobile-icon-fxpns.png",
-                            "imageType": "ProductIcon",
-                            "width": 512
-                        },
-                        "card16x9": {
-                            "altText": "Carrion Mobile Offer",
-                            "height": 1440,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/ea7941cc3762462ca756629fc37b6303/carrion-mobile-5g1dw.jpg",
-                            "imageType": "OfferImageWide",
-                            "width": 2560
-                        },
-                        "card3x4": {
-                            "altText": "Download Carrion Mobile Offer",
-                            "height": 1600,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/ea7941cc3762462ca756629fc37b6303/carrion-mobile-1tgyv.png",
-                            "imageType": "OfferImageTall",
-                            "width": 1200
-                        },
-                        "coverImage": {
-                            "altText": "-",
-                            "height": 1440,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/ea7941cc3762462ca756629fc37b6303/carrion-mobile-2t6ja.jpg",
-                            "imageType": "coverImage",
-                            "width": 2560
-                        }
-                    },
-                    "purchase": [
-                        {
-                            "offerLifecycleState": "Release",
-                            "price": {
-                                "currencyCode": "EUR",
-                                "decimalPrice": 6.29
-                            },
-                            "priceDisplay": "€6.29",
-                            "purchasePayload": {
-                                "offerId": "70944660d2bb4800975802c714e99193",
-                                "sandboxId": "710b0610e09249bdb0ceb663a54f82ba"
-                            },
-                            "purchaseType": "Purchase"
-                        }
-                    ],
-                    "systemSpecs": {
-                        "applicationVersion": "1.0.0",
-                        "platform": "android",
-                        "systemRequirements": [
-                            {
-                                "minimum": "135MB",
-                                "requirementType": "InstallSize",
-                                "title": "Installation size"
-                            },
-                            {
-                                "minimum": "134.99 MB",
-                                "requirementType": "DownloadSize",
-                                "title": "Download size"
-                            },
-                            {
-                                "minimum": "6.0",
-                                "requirementType": "OS",
-                                "title": "OS version"
-                            }
-                        ]
-                    },
-                    "title": "Carrion"
-                },
-                "offerId": "70944660d2bb4800975802c714e99193",
-                "sandboxId": "710b0610e09249bdb0ceb663a54f82ba"
-            },
-            {
-                "content": {
-                    "ageRating": {
-                        "ageGate": {
-                            "gate": "no-gate"
-                        },
-                        "ageRating": {
-                            "ageControl": 16,
-                            "contentDescriptors": [
-                                "Strong Language"
-                            ],
-                            "interactiveElements": [
-                                "In-Game Purchases"
-                            ],
-                            "ratingImage": "https://cdn1.epicgames.com/gameRating/gameRating/PEGI_16_192_192x192-da60f0bd1fe7cb1ac9d8a8bd5168ea96",
-                            "ratingSystem": "PEGI",
-                            "rectangularRatingImage": "https://cdn1.epicgames.com/salesEvent/salesEvent/PEGI-16_435x530-65760d498ce28374fb7ca3258ee1440c",
-                            "title": "PEGI 16"
-                        },
-                        "ratingType": "AgeRating"
-                    },
-                    "attention": {
-                        "inAppPurchases": "None"
-                    },
-                    "catalogItemId": "52267ea31a9b4cac92baff60b438fb69",
-                    "categories": [
-                        "games",
-                        "games/edition",
-                        "games/edition/base"
-                    ],
-                    "mapping": {
-                        "slug": "112-operator-android-979286"
-                    },
-                    "media": {
-                        "appIcon": {
-                            "altText": "-",
-                            "height": 512,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/6036e5ea111a448ea1b41d5ab3800d99/112-operator-icon-y4ugl.png",
-                            "imageType": "ProductIcon",
-                            "width": 512
-                        },
-                        "card16x9": {
-                            "altText": "112 Operator Offer",
-                            "height": 1440,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/6036e5ea111a448ea1b41d5ab3800d99/112-operator-1dvw8.jpg",
-                            "imageType": "OfferImageWide",
-                            "width": 2560
-                        },
-                        "card3x4": {
-                            "altText": "Download 112 Operator Offer",
-                            "height": 1600,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/6036e5ea111a448ea1b41d5ab3800d99/112-operator-19bb7.jpg",
-                            "imageType": "OfferImageTall",
-                            "width": 1200
-                        },
-                        "coverImage": {
-                            "altText": "-",
-                            "height": 1440,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/6036e5ea111a448ea1b41d5ab3800d99/112-operator-1htjd.jpg",
-                            "imageType": "coverImage",
-                            "width": 2560
-                        }
-                    },
-                    "purchase": [
-                        {
-                            "offerLifecycleState": "Release",
-                            "price": {
-                                "currencyCode": "EUR",
-                                "decimalPrice": 8.99
-                            },
-                            "priceDisplay": "€8.99",
-                            "purchasePayload": {
-                                "offerId": "cc5047a61fca40c492cf255c07ffc4c6",
-                                "sandboxId": "9f981e2c861e4a8fbd0eab89541ac8e6"
-                            },
-                            "purchaseType": "Purchase"
-                        }
-                    ],
-                    "systemSpecs": {
-                        "applicationVersion": "1.07.29",
-                        "platform": "android",
-                        "systemRequirements": [
-                            {
-                                "minimum": "2 GB",
-                                "requirementType": "InstallSize",
-                                "title": "Installation size"
-                            },
-                            {
-                                "minimum": "737.24 MB",
-                                "requirementType": "DownloadSize",
-                                "title": "Download size"
-                            },
-                            {
-                                "minimum": "8.0.0",
-                                "requirementType": "OS",
-                                "title": "OS version"
-                            }
-                        ]
-                    },
-                    "title": "112 Operator"
-                },
-                "offerId": "cc5047a61fca40c492cf255c07ffc4c6",
-                "sandboxId": "9f981e2c861e4a8fbd0eab89541ac8e6"
-            }
-        ],
-        "size": "medium",
-        "title": "Featured",
-        "topicId": "mobile-android-featured-breaker",
-        "type": "featured"
-    },
-    {
-        "link": {
-            "linkText": "",
-            "src": ""
-        },
-        "offers": [
-            {
-                "content": {
-                    "ageRating": {
-                        "ageGate": {
-                            "gate": "no-gate"
-                        },
-                        "ageRating": {
-                            "ageControl": 3,
-                            "contentDescriptors": [],
-                            "interactiveElements": [],
-                            "ratingImage": "https://cdn1.epicgames.com/gameRating/gameRating/PEGI_3_192_192x192-490b93ddf59fb4ac1148d1eb9083626a",
-                            "ratingSystem": "PEGI",
-                            "rectangularRatingImage": "https://cdn1.epicgames.com/salesEvent/salesEvent/PEGI-3_435x530-c931ab5bb4eb190f6e8e542081c49dc4",
-                            "title": "PEGI 3"
-                        },
-                        "ratingType": "AgeRating"
-                    },
-                    "attention": {
-                        "inAppPurchases": "None"
-                    },
-                    "catalogItemId": "aa1502011ce14cc58d4daa57e92b8eb4",
-                    "categories": [
-                        "games",
-                        "games/edition",
-                        "games/edition/base"
-                    ],
-                    "mapping": {
-                        "slug": "football-cup-2025-android-ce46ee"
-                    },
-                    "media": {
-                        "appIcon": {
-                            "altText": "-",
-                            "height": 512,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/653b6833b2f34d4ba7a98ad30685ae3f/football-cup-2025-icon-gdedd.png",
-                            "imageType": "ProductIcon",
-                            "width": 512
-                        },
-                        "card16x9": {
-                            "altText": "Football Cup 2025 Offer",
-                            "height": 1440,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/653b6833b2f34d4ba7a98ad30685ae3f/football-cup-2025-1cy1r.png",
-                            "imageType": "OfferImageWide",
-                            "width": 2560
-                        },
-                        "card3x4": {
-                            "altText": "Download Football Cup 2025 Offer",
-                            "height": 1600,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/653b6833b2f34d4ba7a98ad30685ae3f/football-cup-2025-1dd6g.png",
-                            "imageType": "OfferImageTall",
-                            "width": 1200
-                        },
-                        "coverImage": {
-                            "altText": "-",
-                            "height": 1440,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/653b6833b2f34d4ba7a98ad30685ae3f/football-cup-2025-1ex4d.png",
-                            "imageType": "coverImage",
-                            "width": 2560
-                        }
-                    },
-                    "purchase": [
-                        {
-                            "offerLifecycleState": "Release",
-                            "price": {
-                                "currencyCode": "EUR",
-                                "decimalPrice": 2.69
-                            },
-                            "priceDisplay": "€2.69",
-                            "purchasePayload": {
-                                "offerId": "eda52656cf8246a6a9c836cfd3b24bf4",
-                                "sandboxId": "55acc9cfbc1d488484ce46b5bed50f05"
-                            },
-                            "purchaseType": "Purchase"
-                        }
-                    ],
-                    "systemSpecs": {
-                        "applicationVersion": "1.0.0",
-                        "platform": "android",
-                        "systemRequirements": [
-                            {
-                                "minimum": "165",
-                                "requirementType": "InstallSize",
-                                "title": "Installation size"
-                            },
-                            {
-                                "minimum": "109.41 MB",
-                                "requirementType": "DownloadSize",
-                                "title": "Download size"
-                            },
-                            {
-                                "minimum": "7.0",
-                                "requirementType": "OS",
-                                "title": "OS version"
-                            }
-                        ]
-                    },
-                    "title": "Football Cup 2025"
-                },
-                "offerId": "eda52656cf8246a6a9c836cfd3b24bf4",
-                "sandboxId": "55acc9cfbc1d488484ce46b5bed50f05"
-            },
-            {
-                "content": {
-                    "ageRating": {
-                        "ageGate": {
-                            "gate": "no-gate"
-                        },
-                        "ageRating": {
-                            "ageControl": 3,
-                            "contentDescriptors": [
-                                "In-Game Purchases"
-                            ],
-                            "interactiveElements": [],
-                            "ratingImage": "https://cdn1.epicgames.com/gameRating/gameRating/PEGI_3_192_192x192-490b93ddf59fb4ac1148d1eb9083626a",
-                            "ratingSystem": "PEGI",
-                            "title": "PEGI 3"
-                        },
-                        "ratingType": "AgeRating"
-                    },
-                    "attention": {
-                        "inAppPurchases": "MaybeIncludesInAppPurchases"
-                    },
-                    "catalogItemId": "fb80a6dfeaec4e84bad3833fe1adf4ea",
-                    "categories": [
-                        "games",
-                        "games/edition",
-                        "games/edition/base"
-                    ],
-                    "mapping": {
-                        "slug": "tanks-arena-android-18b75f"
-                    },
-                    "media": {
-                        "appIcon": {
-                            "altText": "-",
-                            "height": 512,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/b4c63bded85b4a6483f36b6a6a6acac5/tanks-arena-icon-12fmi.png",
-                            "imageType": "ProductIcon",
-                            "width": 512
-                        },
-                        "card16x9": {
-                            "altText": "Tanks Arena Offer",
-                            "height": 1440,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/b4c63bded85b4a6483f36b6a6a6acac5/tanks-arena-1yh9f.png",
-                            "imageType": "OfferImageWide",
-                            "width": 2560
-                        },
-                        "card3x4": {
-                            "altText": "Download Tanks Arena Offer",
-                            "height": 1600,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/b4c63bded85b4a6483f36b6a6a6acac5/tanks-arena-1y2ck.png",
-                            "imageType": "OfferImageTall",
-                            "width": 1200
-                        },
-                        "coverImage": {
-                            "altText": "-",
-                            "height": 1440,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/b4c63bded85b4a6483f36b6a6a6acac5/tanks-arena-eed94.png",
-                            "imageType": "coverImage",
-                            "width": 2560
-                        }
-                    },
-                    "purchase": [
-                        {
-                            "offerLifecycleState": "Release",
-                            "price": {
-                                "currencyCode": "EUR",
-                                "decimalPrice": 0
-                            },
-                            "purchasePayload": {
-                                "offerId": "318fa702573941fbaaf697b75b525142",
-                                "sandboxId": "a7727adfd6fd4bc1aa39468bb24795fd"
-                            },
-                            "purchaseType": "Claim"
-                        }
-                    ],
-                    "systemSpecs": {
-                        "applicationVersion": "3.06.01",
-                        "platform": "android",
-                        "systemRequirements": [
-                            {
-                                "minimum": "221.70 MB",
-                                "requirementType": "InstallSize",
-                                "title": "Installation size"
-                            },
-                            {
-                                "minimum": "219.84 MB",
-                                "requirementType": "DownloadSize",
-                                "title": "Download size"
-                            },
-                            {
-                                "minimum": "6.0",
-                                "requirementType": "OS",
-                                "title": "OS version"
-                            }
-                        ]
-                    },
-                    "title": "Tanks Arena"
-                },
-                "offerId": "318fa702573941fbaaf697b75b525142",
-                "sandboxId": "a7727adfd6fd4bc1aa39468bb24795fd"
-            },
-            {
-                "content": {
-                    "ageRating": {
-                        "ageGate": {
-                            "gate": "no-gate"
-                        },
-                        "ageRating": {
-                            "ageControl": 16,
-                            "contentDescriptors": [
-                                "Strong Violence"
-                            ],
                             "interactiveElements": [
                                 "In-Game Purchases (Includes Random Items)"
                             ],
@@ -1130,7 +1199,7 @@
                         }
                     ],
                     "systemSpecs": {
-                        "applicationVersion": "1.2.95",
+                        "applicationVersion": "1.2.96",
                         "platform": "android",
                         "systemRequirements": [
                             {
@@ -1139,7 +1208,7 @@
                                 "title": "Installation size"
                             },
                             {
-                                "minimum": "155.30 MB",
+                                "minimum": "155.29 MB",
                                 "requirementType": "DownloadSize",
                                 "title": "Download size"
                             },
@@ -3759,24 +3828,6 @@
                     },
                     "purchase": [
                         {
-                            "discount": {
-                                "discountAmountDisplay": "-50%",
-                                "discountEndDate": "2025-09-03T15:00:00.000Z",
-                                "originalPriceDisplay": "€3.99"
-                            },
-                            "offerLifecycleState": "Release",
-                            "price": {
-                                "currencyCode": "EUR",
-                                "decimalPrice": 1.99
-                            },
-                            "priceDisplay": "€1.99",
-                            "purchasePayload": {
-                                "offerId": "e1f9169649d44be99109e47200f80945",
-                                "sandboxId": "dcf4c011daf247bcbc380e28f8ef4fdf"
-                            },
-                            "purchaseType": "Purchase"
-                        },
-                        {
                             "offerLifecycleState": "Release",
                             "price": {
                                 "currencyCode": "EUR",
@@ -3828,6 +3879,206 @@
             "src": ""
         },
         "offers": [
+            {
+                "content": {
+                    "ageRating": {
+                        "ageGate": {
+                            "gate": "no-gate"
+                        },
+                        "ageRating": {
+                            "ageControl": 3,
+                            "contentDescriptors": [],
+                            "interactiveElements": [],
+                            "ratingImage": "https://cdn1.epicgames.com/gameRating/gameRating/PEGI_3_192_192x192-490b93ddf59fb4ac1148d1eb9083626a",
+                            "ratingSystem": "PEGI",
+                            "rectangularRatingImage": "https://cdn1.epicgames.com/salesEvent/salesEvent/PEGI-3_435x530-c931ab5bb4eb190f6e8e542081c49dc4",
+                            "title": "PEGI 3"
+                        },
+                        "ratingType": "AgeRating"
+                    },
+                    "attention": {
+                        "inAppPurchases": "None"
+                    },
+                    "catalogItemId": "aa1502011ce14cc58d4daa57e92b8eb4",
+                    "categories": [
+                        "games",
+                        "games/edition",
+                        "games/edition/base"
+                    ],
+                    "mapping": {
+                        "slug": "football-cup-2025-android-ce46ee"
+                    },
+                    "media": {
+                        "appIcon": {
+                            "altText": "-",
+                            "height": 512,
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/653b6833b2f34d4ba7a98ad30685ae3f/football-cup-2025-icon-gdedd.png",
+                            "imageType": "ProductIcon",
+                            "width": 512
+                        },
+                        "card16x9": {
+                            "altText": "Football Cup 2025 Offer",
+                            "height": 1440,
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/653b6833b2f34d4ba7a98ad30685ae3f/football-cup-2025-1cy1r.png",
+                            "imageType": "OfferImageWide",
+                            "width": 2560
+                        },
+                        "card3x4": {
+                            "altText": "Download Football Cup 2025 Offer",
+                            "height": 1600,
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/653b6833b2f34d4ba7a98ad30685ae3f/football-cup-2025-1dd6g.png",
+                            "imageType": "OfferImageTall",
+                            "width": 1200
+                        },
+                        "coverImage": {
+                            "altText": "-",
+                            "height": 1440,
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/653b6833b2f34d4ba7a98ad30685ae3f/football-cup-2025-1ex4d.png",
+                            "imageType": "coverImage",
+                            "width": 2560
+                        }
+                    },
+                    "purchase": [
+                        {
+                            "offerLifecycleState": "Release",
+                            "price": {
+                                "currencyCode": "EUR",
+                                "decimalPrice": 2.69
+                            },
+                            "priceDisplay": "€2.69",
+                            "purchasePayload": {
+                                "offerId": "eda52656cf8246a6a9c836cfd3b24bf4",
+                                "sandboxId": "55acc9cfbc1d488484ce46b5bed50f05"
+                            },
+                            "purchaseType": "Purchase"
+                        }
+                    ],
+                    "systemSpecs": {
+                        "applicationVersion": "1.0.0",
+                        "platform": "android",
+                        "systemRequirements": [
+                            {
+                                "minimum": "165",
+                                "requirementType": "InstallSize",
+                                "title": "Installation size"
+                            },
+                            {
+                                "minimum": "109.41 MB",
+                                "requirementType": "DownloadSize",
+                                "title": "Download size"
+                            },
+                            {
+                                "minimum": "7.0",
+                                "requirementType": "OS",
+                                "title": "OS version"
+                            }
+                        ]
+                    },
+                    "title": "Football Cup 2025"
+                },
+                "offerId": "eda52656cf8246a6a9c836cfd3b24bf4",
+                "sandboxId": "55acc9cfbc1d488484ce46b5bed50f05"
+            },
+            {
+                "content": {
+                    "ageRating": {
+                        "ageGate": {
+                            "gate": "no-gate"
+                        },
+                        "ageRating": {
+                            "ageControl": 3,
+                            "contentDescriptors": [
+                                "In-Game Purchases"
+                            ],
+                            "interactiveElements": [],
+                            "ratingImage": "https://cdn1.epicgames.com/gameRating/gameRating/PEGI_3_192_192x192-490b93ddf59fb4ac1148d1eb9083626a",
+                            "ratingSystem": "PEGI",
+                            "title": "PEGI 3"
+                        },
+                        "ratingType": "AgeRating"
+                    },
+                    "attention": {
+                        "inAppPurchases": "MaybeIncludesInAppPurchases"
+                    },
+                    "catalogItemId": "fb80a6dfeaec4e84bad3833fe1adf4ea",
+                    "categories": [
+                        "games",
+                        "games/edition",
+                        "games/edition/base"
+                    ],
+                    "mapping": {
+                        "slug": "tanks-arena-android-18b75f"
+                    },
+                    "media": {
+                        "appIcon": {
+                            "altText": "-",
+                            "height": 512,
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/b4c63bded85b4a6483f36b6a6a6acac5/tanks-arena-icon-12fmi.png",
+                            "imageType": "ProductIcon",
+                            "width": 512
+                        },
+                        "card16x9": {
+                            "altText": "Tanks Arena Offer",
+                            "height": 1440,
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/b4c63bded85b4a6483f36b6a6a6acac5/tanks-arena-1yh9f.png",
+                            "imageType": "OfferImageWide",
+                            "width": 2560
+                        },
+                        "card3x4": {
+                            "altText": "Download Tanks Arena Offer",
+                            "height": 1600,
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/b4c63bded85b4a6483f36b6a6a6acac5/tanks-arena-1y2ck.png",
+                            "imageType": "OfferImageTall",
+                            "width": 1200
+                        },
+                        "coverImage": {
+                            "altText": "-",
+                            "height": 1440,
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/b4c63bded85b4a6483f36b6a6a6acac5/tanks-arena-eed94.png",
+                            "imageType": "coverImage",
+                            "width": 2560
+                        }
+                    },
+                    "purchase": [
+                        {
+                            "offerLifecycleState": "Release",
+                            "price": {
+                                "currencyCode": "EUR",
+                                "decimalPrice": 0
+                            },
+                            "purchasePayload": {
+                                "offerId": "318fa702573941fbaaf697b75b525142",
+                                "sandboxId": "a7727adfd6fd4bc1aa39468bb24795fd"
+                            },
+                            "purchaseType": "Claim"
+                        }
+                    ],
+                    "systemSpecs": {
+                        "applicationVersion": "3.06.01",
+                        "platform": "android",
+                        "systemRequirements": [
+                            {
+                                "minimum": "221.70 MB",
+                                "requirementType": "InstallSize",
+                                "title": "Installation size"
+                            },
+                            {
+                                "minimum": "219.84 MB",
+                                "requirementType": "DownloadSize",
+                                "title": "Download size"
+                            },
+                            {
+                                "minimum": "6.0",
+                                "requirementType": "OS",
+                                "title": "OS version"
+                            }
+                        ]
+                    },
+                    "title": "Tanks Arena"
+                },
+                "offerId": "318fa702573941fbaaf697b75b525142",
+                "sandboxId": "a7727adfd6fd4bc1aa39468bb24795fd"
+            },
             {
                 "content": {
                     "ageRating": {
@@ -4078,6 +4329,7 @@
                     },
                     "catalogItemId": "f224809b5d8646edada112ca256fa72f",
                     "categories": [
+                        "freegames",
                         "games",
                         "games/edition",
                         "games/edition/base"
@@ -4331,6 +4583,37 @@
                                 "sandboxId": "438f0dfdc1a2432b99005457b60e319f"
                             },
                             "purchaseType": "Purchase"
+                        },
+                        {
+                            "discount": {
+                                "discountAmountDisplay": "-50%",
+                                "discountEndDate": "2025-09-17T15:00:00.000Z",
+                                "originalPriceDisplay": "€4.99"
+                            },
+                            "offerLifecycleState": "Release",
+                            "price": {
+                                "currencyCode": "EUR",
+                                "decimalPrice": 2.49
+                            },
+                            "priceDisplay": "€2.49",
+                            "purchasePayload": {
+                                "offerId": "65911169d003481da9bde64e54be5ffc",
+                                "sandboxId": "438f0dfdc1a2432b99005457b60e319f"
+                            },
+                            "purchaseType": "Purchase"
+                        },
+                        {
+                            "offerLifecycleState": "Release",
+                            "price": {
+                                "currencyCode": "EUR",
+                                "decimalPrice": 4.99
+                            },
+                            "priceDisplay": "€4.99",
+                            "purchasePayload": {
+                                "offerId": "65911169d003481da9bde64e54be5ffc",
+                                "sandboxId": "438f0dfdc1a2432b99005457b60e319f"
+                            },
+                            "purchaseType": "Purchase"
                         }
                     ],
                     "systemSpecs": {
@@ -4523,6 +4806,37 @@
                         }
                     },
                     "purchase": [
+                        {
+                            "offerLifecycleState": "Release",
+                            "price": {
+                                "currencyCode": "EUR",
+                                "decimalPrice": 4.99
+                            },
+                            "priceDisplay": "€4.99",
+                            "purchasePayload": {
+                                "offerId": "609b35c3aeb94ba193c2d2e3b4d3a056",
+                                "sandboxId": "f9c8275639794b62a3ef63e0d7903a02"
+                            },
+                            "purchaseType": "Purchase"
+                        },
+                        {
+                            "discount": {
+                                "discountAmountDisplay": "-50%",
+                                "discountEndDate": "2025-09-17T15:00:00.000Z",
+                                "originalPriceDisplay": "€4.99"
+                            },
+                            "offerLifecycleState": "Release",
+                            "price": {
+                                "currencyCode": "EUR",
+                                "decimalPrice": 2.49
+                            },
+                            "priceDisplay": "€2.49",
+                            "purchasePayload": {
+                                "offerId": "609b35c3aeb94ba193c2d2e3b4d3a056",
+                                "sandboxId": "f9c8275639794b62a3ef63e0d7903a02"
+                            },
+                            "purchaseType": "Purchase"
+                        },
                         {
                             "offerLifecycleState": "Release",
                             "price": {
@@ -5036,24 +5350,6 @@
                     },
                     "purchase": [
                         {
-                            "discount": {
-                                "discountAmountDisplay": "-50%",
-                                "discountEndDate": "2025-09-03T15:00:00.000Z",
-                                "originalPriceDisplay": "€4.99"
-                            },
-                            "offerLifecycleState": "Release",
-                            "price": {
-                                "currencyCode": "EUR",
-                                "decimalPrice": 2.49
-                            },
-                            "priceDisplay": "€2.49",
-                            "purchasePayload": {
-                                "offerId": "c4b35f34287f4f1b8b60e12e8139bcac",
-                                "sandboxId": "23d15d74b61d4852a2867704c1805c1e"
-                            },
-                            "purchaseType": "Purchase"
-                        },
-                        {
                             "offerLifecycleState": "Release",
                             "price": {
                                 "currencyCode": "EUR",
@@ -5255,24 +5551,6 @@
                         }
                     },
                     "purchase": [
-                        {
-                            "discount": {
-                                "discountAmountDisplay": "-60%",
-                                "discountEndDate": "2025-09-02T22:00:00.000Z",
-                                "originalPriceDisplay": "€3.59"
-                            },
-                            "offerLifecycleState": "Release",
-                            "price": {
-                                "currencyCode": "EUR",
-                                "decimalPrice": 1.43
-                            },
-                            "priceDisplay": "€1.43",
-                            "purchasePayload": {
-                                "offerId": "bb8f265529da44dd82ca1773168a3343",
-                                "sandboxId": "617c8303a6764a35b65f2925dfb23ef1"
-                            },
-                            "purchaseType": "Purchase"
-                        },
                         {
                             "offerLifecycleState": "Release",
                             "price": {
@@ -7501,6 +7779,37 @@
                                 "sandboxId": "109a4631336a475ca4e4a8a51cc6fe69"
                             },
                             "purchaseType": "Purchase"
+                        },
+                        {
+                            "discount": {
+                                "discountAmountDisplay": "-80%",
+                                "discountEndDate": "2025-09-18T15:00:00.000Z",
+                                "originalPriceDisplay": "€5.39"
+                            },
+                            "offerLifecycleState": "Release",
+                            "price": {
+                                "currencyCode": "EUR",
+                                "decimalPrice": 1.07
+                            },
+                            "priceDisplay": "€1.07",
+                            "purchasePayload": {
+                                "offerId": "34dc2b614e214cc29b71be833186f96c",
+                                "sandboxId": "109a4631336a475ca4e4a8a51cc6fe69"
+                            },
+                            "purchaseType": "Purchase"
+                        },
+                        {
+                            "offerLifecycleState": "Release",
+                            "price": {
+                                "currencyCode": "EUR",
+                                "decimalPrice": 5.39
+                            },
+                            "priceDisplay": "€5.39",
+                            "purchasePayload": {
+                                "offerId": "34dc2b614e214cc29b71be833186f96c",
+                                "sandboxId": "109a4631336a475ca4e4a8a51cc6fe69"
+                            },
+                            "purchaseType": "Purchase"
                         }
                     ],
                     "systemSpecs": {
@@ -9338,6 +9647,37 @@
                                 "sandboxId": "270e1d648a5e4060b7b441615c4da4d9"
                             },
                             "purchaseType": "Purchase"
+                        },
+                        {
+                            "discount": {
+                                "discountAmountDisplay": "-80%",
+                                "discountEndDate": "2025-09-18T15:00:00.000Z",
+                                "originalPriceDisplay": "€5.39"
+                            },
+                            "offerLifecycleState": "Release",
+                            "price": {
+                                "currencyCode": "EUR",
+                                "decimalPrice": 1.07
+                            },
+                            "priceDisplay": "€1.07",
+                            "purchasePayload": {
+                                "offerId": "1692b4f15c1045a5968b8db5806d2867",
+                                "sandboxId": "270e1d648a5e4060b7b441615c4da4d9"
+                            },
+                            "purchaseType": "Purchase"
+                        },
+                        {
+                            "offerLifecycleState": "Release",
+                            "price": {
+                                "currencyCode": "EUR",
+                                "decimalPrice": 5.39
+                            },
+                            "priceDisplay": "€5.39",
+                            "purchasePayload": {
+                                "offerId": "1692b4f15c1045a5968b8db5806d2867",
+                                "sandboxId": "270e1d648a5e4060b7b441615c4da4d9"
+                            },
+                            "purchaseType": "Purchase"
                         }
                     ],
                     "systemSpecs": {
@@ -9440,10 +9780,41 @@
                                 "sandboxId": "6a8dfa6e441e4f2f9048a98776c6077d"
                             },
                             "purchaseType": "Purchase"
+                        },
+                        {
+                            "discount": {
+                                "discountAmountDisplay": "-50%",
+                                "discountEndDate": "2025-09-18T15:00:00.000Z",
+                                "originalPriceDisplay": "€6.29"
+                            },
+                            "offerLifecycleState": "Release",
+                            "price": {
+                                "currencyCode": "EUR",
+                                "decimalPrice": 3.14
+                            },
+                            "priceDisplay": "€3.14",
+                            "purchasePayload": {
+                                "offerId": "c930e6f4d4e3420aad0241f45b0fea4b",
+                                "sandboxId": "6a8dfa6e441e4f2f9048a98776c6077d"
+                            },
+                            "purchaseType": "Purchase"
+                        },
+                        {
+                            "offerLifecycleState": "Release",
+                            "price": {
+                                "currencyCode": "EUR",
+                                "decimalPrice": 6.29
+                            },
+                            "priceDisplay": "€6.29",
+                            "purchasePayload": {
+                                "offerId": "c930e6f4d4e3420aad0241f45b0fea4b",
+                                "sandboxId": "6a8dfa6e441e4f2f9048a98776c6077d"
+                            },
+                            "purchaseType": "Purchase"
                         }
                     ],
                     "systemSpecs": {
-                        "applicationVersion": "50.0",
+                        "applicationVersion": "50.1",
                         "platform": "android",
                         "systemRequirements": [
                             {
@@ -9452,7 +9823,7 @@
                                 "title": "Installation size"
                             },
                             {
-                                "minimum": "140.03 MB",
+                                "minimum": "140.06 MB",
                                 "requirementType": "DownloadSize",
                                 "title": "Download size"
                             },
@@ -9943,24 +10314,6 @@
                         }
                     },
                     "purchase": [
-                        {
-                            "discount": {
-                                "discountAmountDisplay": "-75%",
-                                "discountEndDate": "2025-09-03T15:05:00.000Z",
-                                "originalPriceDisplay": "€7.99"
-                            },
-                            "offerLifecycleState": "Release",
-                            "price": {
-                                "currencyCode": "EUR",
-                                "decimalPrice": 1.99
-                            },
-                            "priceDisplay": "€1.99",
-                            "purchasePayload": {
-                                "offerId": "6f7428ec61224e17bc23866e08817e67",
-                                "sandboxId": "f5e1592d41da4d7aaf31cc5379a1b5dd"
-                            },
-                            "purchaseType": "Purchase"
-                        },
                         {
                             "offerLifecycleState": "Release",
                             "price": {
@@ -10468,24 +10821,6 @@
                     },
                     "purchase": [
                         {
-                            "discount": {
-                                "discountAmountDisplay": "-50%",
-                                "discountEndDate": "2025-09-03T15:00:00.000Z",
-                                "originalPriceDisplay": "€9.99"
-                            },
-                            "offerLifecycleState": "Release",
-                            "price": {
-                                "currencyCode": "EUR",
-                                "decimalPrice": 4.99
-                            },
-                            "priceDisplay": "€4.99",
-                            "purchasePayload": {
-                                "offerId": "98a9e24ff2284599b82818187433db5c",
-                                "sandboxId": "a4b5203877a04321bd1989cef6ba51dc"
-                            },
-                            "purchaseType": "Purchase"
-                        },
-                        {
                             "offerLifecycleState": "Release",
                             "price": {
                                 "currencyCode": "EUR",
@@ -10894,6 +11229,37 @@
                         }
                     },
                     "purchase": [
+                        {
+                            "offerLifecycleState": "Release",
+                            "price": {
+                                "currencyCode": "EUR",
+                                "decimalPrice": 7.99
+                            },
+                            "priceDisplay": "€7.99",
+                            "purchasePayload": {
+                                "offerId": "d938a57551914db286757ebdf89b95f9",
+                                "sandboxId": "4b36452d205344bcb0f60f6a466ecd58"
+                            },
+                            "purchaseType": "Purchase"
+                        },
+                        {
+                            "discount": {
+                                "discountAmountDisplay": "-75%",
+                                "discountEndDate": "2025-09-17T15:00:00.000Z",
+                                "originalPriceDisplay": "€7.99"
+                            },
+                            "offerLifecycleState": "Release",
+                            "price": {
+                                "currencyCode": "EUR",
+                                "decimalPrice": 1.99
+                            },
+                            "priceDisplay": "€1.99",
+                            "purchasePayload": {
+                                "offerId": "d938a57551914db286757ebdf89b95f9",
+                                "sandboxId": "4b36452d205344bcb0f60f6a466ecd58"
+                            },
+                            "purchaseType": "Purchase"
+                        },
                         {
                             "offerLifecycleState": "Release",
                             "price": {
@@ -11837,6 +12203,37 @@
                         }
                     },
                     "purchase": [
+                        {
+                            "offerLifecycleState": "Release",
+                            "price": {
+                                "currencyCode": "EUR",
+                                "decimalPrice": 5.39
+                            },
+                            "priceDisplay": "€5.39",
+                            "purchasePayload": {
+                                "offerId": "d856aca8b72040ba8f7a10a39cf11ce0",
+                                "sandboxId": "a3100205e194489088c7625c8c5c1596"
+                            },
+                            "purchaseType": "Purchase"
+                        },
+                        {
+                            "discount": {
+                                "discountAmountDisplay": "-80%",
+                                "discountEndDate": "2025-09-18T15:00:00.000Z",
+                                "originalPriceDisplay": "€5.39"
+                            },
+                            "offerLifecycleState": "Release",
+                            "price": {
+                                "currencyCode": "EUR",
+                                "decimalPrice": 1.07
+                            },
+                            "priceDisplay": "€1.07",
+                            "purchasePayload": {
+                                "offerId": "d856aca8b72040ba8f7a10a39cf11ce0",
+                                "sandboxId": "a3100205e194489088c7625c8c5c1596"
+                            },
+                            "purchaseType": "Purchase"
+                        },
                         {
                             "offerLifecycleState": "Release",
                             "price": {
