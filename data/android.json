@@ -728,19 +728,6 @@
                     },
                     "purchase": [
                         {
-                            "offerLifecycleState": "Release",
-                            "price": {
-                                "currencyCode": "EUR",
-                                "decimalPrice": 8.99
-                            },
-                            "priceDisplay": "€8.99",
-                            "purchasePayload": {
-                                "offerId": "81cd2738fb904aa692c3ba510d23d7b9",
-                                "sandboxId": "79c7bac7155c4d2e849394eaf3867245"
-                            },
-                            "purchaseType": "Purchase"
-                        },
-                        {
                             "discount": {
                                 "discountAmountDisplay": "-10%",
                                 "discountEndDate": "2025-09-18T15:00:00.000Z",
@@ -2394,57 +2381,54 @@
                             "gate": "no-gate"
                         },
                         "ageRating": {
-                            "ageControl": 7,
-                            "contentDescriptors": [
-                                "Mild Violence"
-                            ],
+                            "ageControl": 3,
+                            "contentDescriptors": [],
                             "interactiveElements": [],
-                            "ratingImage": "https://cdn1.epicgames.com/gameRating/gameRating/PEGI_7_192_192x192-30e2e712d0682dad01add90a6ccbed5b",
+                            "ratingImage": "https://cdn1.epicgames.com/gameRating/gameRating/PEGI_3_192_192x192-490b93ddf59fb4ac1148d1eb9083626a",
                             "ratingSystem": "PEGI",
-                            "rectangularRatingImage": "https://cdn1.epicgames.com/salesEvent/salesEvent/PEGI-7_435x530-9439a136999d3dd762c7a61c3b8c7683",
-                            "title": "PEGI 7"
+                            "rectangularRatingImage": "https://cdn1.epicgames.com/salesEvent/salesEvent/PEGI-3_435x530-c931ab5bb4eb190f6e8e542081c49dc4",
+                            "title": "PEGI 3"
                         },
                         "ratingType": "AgeRating"
                     },
                     "attention": {
                         "inAppPurchases": "None"
                     },
-                    "catalogItemId": "1ec27461c7704314ac319e7c74dfdcde",
+                    "catalogItemId": "06eb7870688a4e4b87ea67542a7dfb09",
                     "categories": [
-                        "freegames",
-                        "games",
+                        "games/edition/base",
                         "games/edition",
-                        "games/edition/base"
+                        "games"
                     ],
                     "mapping": {
-                        "slug": "machinarium-android-cb6e90"
+                        "slug": "monument-valley-android-1046b9"
                     },
                     "media": {
                         "appIcon": {
                             "altText": "-",
                             "height": 512,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/907d9edf585e4c23b971164cd1c452e2/machinarium-icon-172qc.png",
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/e56a7411805046d3b5b7253a6e4e0faa/monument-valley-icon-1g5yi.png",
                             "imageType": "ProductIcon",
                             "width": 512
                         },
                         "card16x9": {
-                            "altText": "Machinarium Offer",
+                            "altText": "Monument Valley Offer",
                             "height": 1440,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/907d9edf585e4c23b971164cd1c452e2/machinarium-dtwck.jpg",
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/e56a7411805046d3b5b7253a6e4e0faa/monument-valley-8cblo.jpg",
                             "imageType": "OfferImageWide",
                             "width": 2560
                         },
                         "card3x4": {
-                            "altText": "Download Machinarium Offer",
+                            "altText": "Download Monument Valley Offer",
                             "height": 1600,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/907d9edf585e4c23b971164cd1c452e2/machinarium-mv7us.jpg",
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/e56a7411805046d3b5b7253a6e4e0faa/monument-valley-1mu47.jpg",
                             "imageType": "OfferImageTall",
                             "width": 1200
                         },
                         "coverImage": {
                             "altText": "-",
                             "height": 1440,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/907d9edf585e4c23b971164cd1c452e2/machinarium-4rgdn.jpg",
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/e56a7411805046d3b5b7253a6e4e0faa/monument-valley-zefdi.jpg",
                             "imageType": "coverImage",
                             "width": 2560
                         }
@@ -2453,8 +2437,8 @@
                         {
                             "discount": {
                                 "discountAmountDisplay": "-100%",
-                                "discountEndDate": "2025-09-04T15:00:00.000Z",
-                                "originalPriceDisplay": "€6.99"
+                                "discountEndDate": "2025-09-11T15:00:00.000Z",
+                                "originalPriceDisplay": "€2.99"
                             },
                             "offerLifecycleState": "Release",
                             "price": {
@@ -2462,8 +2446,8 @@
                                 "decimalPrice": 0
                             },
                             "purchasePayload": {
-                                "offerId": "297bbfffc4c643209b59c3cd6c764e9c",
-                                "sandboxId": "e52b4d8cbcfd45ad95eff800ccc59d93"
+                                "offerId": "c56a936e7e6c41be9ed688da42713bf5",
+                                "sandboxId": "e236e73a294b462d85715f5ba23a6346"
                             },
                             "purchaseType": "Claim"
                         },
@@ -2471,41 +2455,41 @@
                             "offerLifecycleState": "Release",
                             "price": {
                                 "currencyCode": "EUR",
-                                "decimalPrice": 6.99
+                                "decimalPrice": 2.99
                             },
-                            "priceDisplay": "€6.99",
+                            "priceDisplay": "€2.99",
                             "purchasePayload": {
-                                "offerId": "297bbfffc4c643209b59c3cd6c764e9c",
-                                "sandboxId": "e52b4d8cbcfd45ad95eff800ccc59d93"
+                                "offerId": "c56a936e7e6c41be9ed688da42713bf5",
+                                "sandboxId": "e236e73a294b462d85715f5ba23a6346"
                             },
                             "purchaseType": "Purchase"
                         }
                     ],
                     "systemSpecs": {
-                        "applicationVersion": "3.1.6",
+                        "applicationVersion": "1.0.808",
                         "platform": "android",
                         "systemRequirements": [
                             {
-                                "minimum": "300 MB",
+                                "minimum": "336.07 MB",
                                 "requirementType": "InstallSize",
                                 "title": "Installation size"
                             },
                             {
-                                "minimum": "243.03 MB",
+                                "minimum": "330.07 MB",
                                 "requirementType": "DownloadSize",
                                 "title": "Download size"
                             },
                             {
-                                "minimum": "API level 21",
+                                "minimum": "9",
                                 "requirementType": "OS",
                                 "title": "OS version"
                             }
                         ]
                     },
-                    "title": "Machinarium"
+                    "title": "Monument Valley"
                 },
-                "offerId": "297bbfffc4c643209b59c3cd6c764e9c",
-                "sandboxId": "e52b4d8cbcfd45ad95eff800ccc59d93"
+                "offerId": "c56a936e7e6c41be9ed688da42713bf5",
+                "sandboxId": "e236e73a294b462d85715f5ba23a6346"
             }
         ],
         "size": "large",
@@ -4571,19 +4555,6 @@
                     },
                     "purchase": [
                         {
-                            "offerLifecycleState": "Release",
-                            "price": {
-                                "currencyCode": "EUR",
-                                "decimalPrice": 4.99
-                            },
-                            "priceDisplay": "€4.99",
-                            "purchasePayload": {
-                                "offerId": "65911169d003481da9bde64e54be5ffc",
-                                "sandboxId": "438f0dfdc1a2432b99005457b60e319f"
-                            },
-                            "purchaseType": "Purchase"
-                        },
-                        {
                             "discount": {
                                 "discountAmountDisplay": "-50%",
                                 "discountEndDate": "2025-09-17T15:00:00.000Z",
@@ -4805,19 +4776,6 @@
                         }
                     },
                     "purchase": [
-                        {
-                            "offerLifecycleState": "Release",
-                            "price": {
-                                "currencyCode": "EUR",
-                                "decimalPrice": 4.99
-                            },
-                            "priceDisplay": "€4.99",
-                            "purchasePayload": {
-                                "offerId": "609b35c3aeb94ba193c2d2e3b4d3a056",
-                                "sandboxId": "f9c8275639794b62a3ef63e0d7903a02"
-                            },
-                            "purchaseType": "Purchase"
-                        },
                         {
                             "discount": {
                                 "discountAmountDisplay": "-50%",
@@ -6251,6 +6209,108 @@
                 },
                 "offerId": "0e5d790f043b464689d9c2128d472fb5",
                 "sandboxId": "6b98c6b6298b4282905ea8a66f1e8432"
+            },
+            {
+                "content": {
+                    "ageRating": {
+                        "ageGate": {
+                            "gate": "no-gate"
+                        },
+                        "ageRating": {
+                            "ageControl": 7,
+                            "contentDescriptors": [
+                                "Mild Violence"
+                            ],
+                            "interactiveElements": [],
+                            "ratingImage": "https://cdn1.epicgames.com/gameRating/gameRating/PEGI_7_192_192x192-30e2e712d0682dad01add90a6ccbed5b",
+                            "ratingSystem": "PEGI",
+                            "rectangularRatingImage": "https://cdn1.epicgames.com/salesEvent/salesEvent/PEGI-7_435x530-9439a136999d3dd762c7a61c3b8c7683",
+                            "title": "PEGI 7"
+                        },
+                        "ratingType": "AgeRating"
+                    },
+                    "attention": {
+                        "inAppPurchases": "None"
+                    },
+                    "catalogItemId": "1ec27461c7704314ac319e7c74dfdcde",
+                    "categories": [
+                        "games",
+                        "games/edition",
+                        "games/edition/base"
+                    ],
+                    "mapping": {
+                        "slug": "machinarium-android-cb6e90"
+                    },
+                    "media": {
+                        "appIcon": {
+                            "altText": "-",
+                            "height": 512,
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/907d9edf585e4c23b971164cd1c452e2/machinarium-icon-172qc.png",
+                            "imageType": "ProductIcon",
+                            "width": 512
+                        },
+                        "card16x9": {
+                            "altText": "Machinarium Offer",
+                            "height": 1440,
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/907d9edf585e4c23b971164cd1c452e2/machinarium-dtwck.jpg",
+                            "imageType": "OfferImageWide",
+                            "width": 2560
+                        },
+                        "card3x4": {
+                            "altText": "Download Machinarium Offer",
+                            "height": 1600,
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/907d9edf585e4c23b971164cd1c452e2/machinarium-mv7us.jpg",
+                            "imageType": "OfferImageTall",
+                            "width": 1200
+                        },
+                        "coverImage": {
+                            "altText": "-",
+                            "height": 1440,
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/907d9edf585e4c23b971164cd1c452e2/machinarium-4rgdn.jpg",
+                            "imageType": "coverImage",
+                            "width": 2560
+                        }
+                    },
+                    "purchase": [
+                        {
+                            "offerLifecycleState": "Release",
+                            "price": {
+                                "currencyCode": "EUR",
+                                "decimalPrice": 6.99
+                            },
+                            "priceDisplay": "€6.99",
+                            "purchasePayload": {
+                                "offerId": "297bbfffc4c643209b59c3cd6c764e9c",
+                                "sandboxId": "e52b4d8cbcfd45ad95eff800ccc59d93"
+                            },
+                            "purchaseType": "Purchase"
+                        }
+                    ],
+                    "systemSpecs": {
+                        "applicationVersion": "3.1.6",
+                        "platform": "android",
+                        "systemRequirements": [
+                            {
+                                "minimum": "300 MB",
+                                "requirementType": "InstallSize",
+                                "title": "Installation size"
+                            },
+                            {
+                                "minimum": "243.03 MB",
+                                "requirementType": "DownloadSize",
+                                "title": "Download size"
+                            },
+                            {
+                                "minimum": "API level 21",
+                                "requirementType": "OS",
+                                "title": "OS version"
+                            }
+                        ]
+                    },
+                    "title": "Machinarium"
+                },
+                "offerId": "297bbfffc4c643209b59c3cd6c764e9c",
+                "sandboxId": "e52b4d8cbcfd45ad95eff800ccc59d93"
             },
             {
                 "content": {
@@ -7797,19 +7857,6 @@
                         }
                     },
                     "purchase": [
-                        {
-                            "offerLifecycleState": "Release",
-                            "price": {
-                                "currencyCode": "EUR",
-                                "decimalPrice": 5.39
-                            },
-                            "priceDisplay": "€5.39",
-                            "purchasePayload": {
-                                "offerId": "34dc2b614e214cc29b71be833186f96c",
-                                "sandboxId": "109a4631336a475ca4e4a8a51cc6fe69"
-                            },
-                            "purchaseType": "Purchase"
-                        },
                         {
                             "discount": {
                                 "discountAmountDisplay": "-80%",
@@ -9666,19 +9713,6 @@
                     },
                     "purchase": [
                         {
-                            "offerLifecycleState": "Release",
-                            "price": {
-                                "currencyCode": "EUR",
-                                "decimalPrice": 5.39
-                            },
-                            "priceDisplay": "€5.39",
-                            "purchasePayload": {
-                                "offerId": "1692b4f15c1045a5968b8db5806d2867",
-                                "sandboxId": "270e1d648a5e4060b7b441615c4da4d9"
-                            },
-                            "purchaseType": "Purchase"
-                        },
-                        {
                             "discount": {
                                 "discountAmountDisplay": "-80%",
                                 "discountEndDate": "2025-09-18T15:00:00.000Z",
@@ -9798,19 +9832,6 @@
                         }
                     },
                     "purchase": [
-                        {
-                            "offerLifecycleState": "Release",
-                            "price": {
-                                "currencyCode": "EUR",
-                                "decimalPrice": 6.29
-                            },
-                            "priceDisplay": "€6.29",
-                            "purchasePayload": {
-                                "offerId": "c930e6f4d4e3420aad0241f45b0fea4b",
-                                "sandboxId": "6a8dfa6e441e4f2f9048a98776c6077d"
-                            },
-                            "purchaseType": "Purchase"
-                        },
                         {
                             "discount": {
                                 "discountAmountDisplay": "-50%",
@@ -11260,19 +11281,6 @@
                     },
                     "purchase": [
                         {
-                            "offerLifecycleState": "Release",
-                            "price": {
-                                "currencyCode": "EUR",
-                                "decimalPrice": 7.99
-                            },
-                            "priceDisplay": "€7.99",
-                            "purchasePayload": {
-                                "offerId": "d938a57551914db286757ebdf89b95f9",
-                                "sandboxId": "4b36452d205344bcb0f60f6a466ecd58"
-                            },
-                            "purchaseType": "Purchase"
-                        },
-                        {
                             "discount": {
                                 "discountAmountDisplay": "-75%",
                                 "discountEndDate": "2025-09-17T15:00:00.000Z",
@@ -12233,19 +12241,6 @@
                         }
                     },
                     "purchase": [
-                        {
-                            "offerLifecycleState": "Release",
-                            "price": {
-                                "currencyCode": "EUR",
-                                "decimalPrice": 5.39
-                            },
-                            "priceDisplay": "€5.39",
-                            "purchasePayload": {
-                                "offerId": "d856aca8b72040ba8f7a10a39cf11ce0",
-                                "sandboxId": "a3100205e194489088c7625c8c5c1596"
-                            },
-                            "purchaseType": "Purchase"
-                        },
                         {
                             "discount": {
                                 "discountAmountDisplay": "-80%",
