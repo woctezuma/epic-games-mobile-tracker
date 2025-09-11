@@ -2543,41 +2543,42 @@
                     "attention": {
                         "inAppPurchases": "None"
                     },
-                    "catalogItemId": "06eb7870688a4e4b87ea67542a7dfb09",
+                    "catalogItemId": "5977703732a64dce88104e5be90e8e2b",
                     "categories": [
-                        "games/edition/base",
+                        "freegames",
+                        "games",
                         "games/edition",
-                        "games"
+                        "games/edition/base"
                     ],
                     "mapping": {
-                        "slug": "monument-valley-android-1046b9"
+                        "slug": "monument-valley-2-android-b21888"
                     },
                     "media": {
                         "appIcon": {
                             "altText": "-",
                             "height": 512,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/e56a7411805046d3b5b7253a6e4e0faa/monument-valley-icon-1g5yi.png",
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/ec6e53ce95cc432d895dfb1285254bfd/monument-valley-2-icon-ivubn.png",
                             "imageType": "ProductIcon",
                             "width": 512
                         },
                         "card16x9": {
-                            "altText": "Monument Valley Offer",
+                            "altText": "Monument Valley 2 Offer",
                             "height": 1440,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/e56a7411805046d3b5b7253a6e4e0faa/monument-valley-8cblo.jpg",
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/ec6e53ce95cc432d895dfb1285254bfd/monument-valley-2-9jm2m.jpg",
                             "imageType": "OfferImageWide",
                             "width": 2560
                         },
                         "card3x4": {
-                            "altText": "Download Monument Valley Offer",
+                            "altText": "Download Monument Valley 2 Offer",
                             "height": 1600,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/e56a7411805046d3b5b7253a6e4e0faa/monument-valley-1mu47.jpg",
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/ec6e53ce95cc432d895dfb1285254bfd/monument-valley-2-1bxay.jpg",
                             "imageType": "OfferImageTall",
                             "width": 1200
                         },
                         "coverImage": {
                             "altText": "-",
                             "height": 1440,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/e56a7411805046d3b5b7253a6e4e0faa/monument-valley-zefdi.jpg",
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/ec6e53ce95cc432d895dfb1285254bfd/monument-valley-2-zk12e.jpg",
                             "imageType": "coverImage",
                             "width": 2560
                         }
@@ -2586,7 +2587,7 @@
                         {
                             "discount": {
                                 "discountAmountDisplay": "-100%",
-                                "discountEndDate": "2025-09-11T15:00:00.000Z",
+                                "discountEndDate": "2025-09-18T15:00:00.000Z",
                                 "originalPriceDisplay": "€2.99"
                             },
                             "offerLifecycleState": "Release",
@@ -2595,8 +2596,8 @@
                                 "decimalPrice": 0
                             },
                             "purchasePayload": {
-                                "offerId": "c56a936e7e6c41be9ed688da42713bf5",
-                                "sandboxId": "e236e73a294b462d85715f5ba23a6346"
+                                "offerId": "9667d66729ab41a0baf52570873c8472",
+                                "sandboxId": "e6abebfda00f45e2b3b9ba79970bc511"
                             },
                             "purchaseType": "Claim"
                         },
@@ -2608,23 +2609,23 @@
                             },
                             "priceDisplay": "€2.99",
                             "purchasePayload": {
-                                "offerId": "c56a936e7e6c41be9ed688da42713bf5",
-                                "sandboxId": "e236e73a294b462d85715f5ba23a6346"
+                                "offerId": "9667d66729ab41a0baf52570873c8472",
+                                "sandboxId": "e6abebfda00f45e2b3b9ba79970bc511"
                             },
                             "purchaseType": "Purchase"
                         }
                     ],
                     "systemSpecs": {
-                        "applicationVersion": "1.0.808",
+                        "applicationVersion": "1.0.603",
                         "platform": "android",
                         "systemRequirements": [
                             {
-                                "minimum": "336.07 MB",
+                                "minimum": "350 MB",
                                 "requirementType": "InstallSize",
                                 "title": "Installation size"
                             },
                             {
-                                "minimum": "330.07 MB",
+                                "minimum": "365.33 MB",
                                 "requirementType": "DownloadSize",
                                 "title": "Download size"
                             },
@@ -2635,10 +2636,114 @@
                             }
                         ]
                     },
-                    "title": "Monument Valley"
+                    "title": "Monument Valley 2"
                 },
-                "offerId": "c56a936e7e6c41be9ed688da42713bf5",
-                "sandboxId": "e236e73a294b462d85715f5ba23a6346"
+                "offerId": "9667d66729ab41a0baf52570873c8472",
+                "sandboxId": "e6abebfda00f45e2b3b9ba79970bc511"
+            },
+            {
+                "content": {
+                    "ageRating": {
+                        "ageGate": {
+                            "gate": "no-gate"
+                        },
+                        "ageRating": {
+                            "ageControl": 7,
+                            "contentDescriptors": [
+                                "Mild Violence"
+                            ],
+                            "interactiveElements": [
+                                "In-Game Purchases"
+                            ],
+                            "ratingImage": "https://cdn1.epicgames.com/gameRating/gameRating/PEGI_7_192_192x192-30e2e712d0682dad01add90a6ccbed5b",
+                            "ratingSystem": "PEGI",
+                            "rectangularRatingImage": "https://cdn1.epicgames.com/salesEvent/salesEvent/PEGI-7_435x530-9439a136999d3dd762c7a61c3b8c7683",
+                            "title": "PEGI 7"
+                        },
+                        "ratingType": "AgeRating"
+                    },
+                    "attention": {
+                        "inAppPurchases": "MaybeIncludesInAppPurchases"
+                    },
+                    "catalogItemId": "f224809b5d8646edada112ca256fa72f",
+                    "categories": [
+                        "freegames",
+                        "games",
+                        "games/edition",
+                        "games/edition/base"
+                    ],
+                    "mapping": {
+                        "slug": "the-battle-of-polytopia-android-2acf81"
+                    },
+                    "media": {
+                        "appIcon": {
+                            "altText": "-",
+                            "height": 512,
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/b312dfc1b33d459daa55a67d53a56223/the-battle-of-polytopia-icon-sg8s5.png",
+                            "imageType": "ProductIcon",
+                            "width": 512
+                        },
+                        "card16x9": {
+                            "altText": "The Battle of Polytopia Offer",
+                            "height": 1440,
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/b312dfc1b33d459daa55a67d53a56223/the-battle-of-polytopia-1836y.png",
+                            "imageType": "OfferImageWide",
+                            "width": 2560
+                        },
+                        "card3x4": {
+                            "altText": "Download The Battle of Polytopia Offer",
+                            "height": 1600,
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/b312dfc1b33d459daa55a67d53a56223/the-battle-of-polytopia-x2ir4.png",
+                            "imageType": "OfferImageTall",
+                            "width": 1200
+                        },
+                        "coverImage": {
+                            "altText": "-",
+                            "height": 1440,
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/b312dfc1b33d459daa55a67d53a56223/the-battle-of-polytopia-99wf7.png",
+                            "imageType": "coverImage",
+                            "width": 2560
+                        }
+                    },
+                    "purchase": [
+                        {
+                            "offerLifecycleState": "Release",
+                            "price": {
+                                "currencyCode": "EUR",
+                                "decimalPrice": 0
+                            },
+                            "purchasePayload": {
+                                "offerId": "da916d731a16499095993725ea9a3058",
+                                "sandboxId": "c28a4972ae574f27af0304e6ac625009"
+                            },
+                            "purchaseType": "Claim"
+                        }
+                    ],
+                    "systemSpecs": {
+                        "applicationVersion": "2.13.1.14391",
+                        "platform": "android",
+                        "systemRequirements": [
+                            {
+                                "minimum": "269 MB",
+                                "requirementType": "InstallSize",
+                                "title": "Installation size"
+                            },
+                            {
+                                "minimum": "156.22 MB",
+                                "requirementType": "DownloadSize",
+                                "title": "Download size"
+                            },
+                            {
+                                "minimum": "7.0",
+                                "requirementType": "OS",
+                                "title": "OS version"
+                            }
+                        ]
+                    },
+                    "title": "The Battle of Polytopia"
+                },
+                "offerId": "da916d731a16499095993725ea9a3058",
+                "sandboxId": "c28a4972ae574f27af0304e6ac625009"
             }
         ],
         "size": "large",
@@ -4020,6 +4125,106 @@
                         },
                         "ageRating": {
                             "ageControl": 3,
+                            "contentDescriptors": [],
+                            "interactiveElements": [],
+                            "ratingImage": "https://cdn1.epicgames.com/gameRating/gameRating/PEGI_3_192_192x192-490b93ddf59fb4ac1148d1eb9083626a",
+                            "ratingSystem": "PEGI",
+                            "rectangularRatingImage": "https://cdn1.epicgames.com/salesEvent/salesEvent/PEGI-3_435x530-c931ab5bb4eb190f6e8e542081c49dc4",
+                            "title": "PEGI 3"
+                        },
+                        "ratingType": "AgeRating"
+                    },
+                    "attention": {
+                        "inAppPurchases": "None"
+                    },
+                    "catalogItemId": "06eb7870688a4e4b87ea67542a7dfb09",
+                    "categories": [
+                        "games/edition/base",
+                        "games/edition",
+                        "games"
+                    ],
+                    "mapping": {
+                        "slug": "monument-valley-android-1046b9"
+                    },
+                    "media": {
+                        "appIcon": {
+                            "altText": "-",
+                            "height": 512,
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/e56a7411805046d3b5b7253a6e4e0faa/monument-valley-icon-1g5yi.png",
+                            "imageType": "ProductIcon",
+                            "width": 512
+                        },
+                        "card16x9": {
+                            "altText": "Monument Valley Offer",
+                            "height": 1440,
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/e56a7411805046d3b5b7253a6e4e0faa/monument-valley-8cblo.jpg",
+                            "imageType": "OfferImageWide",
+                            "width": 2560
+                        },
+                        "card3x4": {
+                            "altText": "Download Monument Valley Offer",
+                            "height": 1600,
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/e56a7411805046d3b5b7253a6e4e0faa/monument-valley-1mu47.jpg",
+                            "imageType": "OfferImageTall",
+                            "width": 1200
+                        },
+                        "coverImage": {
+                            "altText": "-",
+                            "height": 1440,
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/e56a7411805046d3b5b7253a6e4e0faa/monument-valley-zefdi.jpg",
+                            "imageType": "coverImage",
+                            "width": 2560
+                        }
+                    },
+                    "purchase": [
+                        {
+                            "offerLifecycleState": "Release",
+                            "price": {
+                                "currencyCode": "EUR",
+                                "decimalPrice": 2.99
+                            },
+                            "priceDisplay": "€2.99",
+                            "purchasePayload": {
+                                "offerId": "c56a936e7e6c41be9ed688da42713bf5",
+                                "sandboxId": "e236e73a294b462d85715f5ba23a6346"
+                            },
+                            "purchaseType": "Purchase"
+                        }
+                    ],
+                    "systemSpecs": {
+                        "applicationVersion": "1.0.808",
+                        "platform": "android",
+                        "systemRequirements": [
+                            {
+                                "minimum": "336.07 MB",
+                                "requirementType": "InstallSize",
+                                "title": "Installation size"
+                            },
+                            {
+                                "minimum": "330.07 MB",
+                                "requirementType": "DownloadSize",
+                                "title": "Download size"
+                            },
+                            {
+                                "minimum": "9",
+                                "requirementType": "OS",
+                                "title": "OS version"
+                            }
+                        ]
+                    },
+                    "title": "Monument Valley"
+                },
+                "offerId": "c56a936e7e6c41be9ed688da42713bf5",
+                "sandboxId": "e236e73a294b462d85715f5ba23a6346"
+            },
+            {
+                "content": {
+                    "ageRating": {
+                        "ageGate": {
+                            "gate": "no-gate"
+                        },
+                        "ageRating": {
+                            "ageControl": 3,
                             "contentDescriptors": [
                                 "In-Game Purchases"
                             ],
@@ -4317,110 +4522,6 @@
                 },
                 "offerId": "c0c571041fd94e158a5b4f9d96753f6d",
                 "sandboxId": "de6432ac525d47c8a2e649e4a75a3078"
-            },
-            {
-                "content": {
-                    "ageRating": {
-                        "ageGate": {
-                            "gate": "no-gate"
-                        },
-                        "ageRating": {
-                            "ageControl": 7,
-                            "contentDescriptors": [
-                                "Mild Violence"
-                            ],
-                            "interactiveElements": [
-                                "In-Game Purchases"
-                            ],
-                            "ratingImage": "https://cdn1.epicgames.com/gameRating/gameRating/PEGI_7_192_192x192-30e2e712d0682dad01add90a6ccbed5b",
-                            "ratingSystem": "PEGI",
-                            "rectangularRatingImage": "https://cdn1.epicgames.com/salesEvent/salesEvent/PEGI-7_435x530-9439a136999d3dd762c7a61c3b8c7683",
-                            "title": "PEGI 7"
-                        },
-                        "ratingType": "AgeRating"
-                    },
-                    "attention": {
-                        "inAppPurchases": "MaybeIncludesInAppPurchases"
-                    },
-                    "catalogItemId": "f224809b5d8646edada112ca256fa72f",
-                    "categories": [
-                        "freegames",
-                        "games",
-                        "games/edition",
-                        "games/edition/base"
-                    ],
-                    "mapping": {
-                        "slug": "the-battle-of-polytopia-android-2acf81"
-                    },
-                    "media": {
-                        "appIcon": {
-                            "altText": "-",
-                            "height": 512,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/b312dfc1b33d459daa55a67d53a56223/the-battle-of-polytopia-icon-sg8s5.png",
-                            "imageType": "ProductIcon",
-                            "width": 512
-                        },
-                        "card16x9": {
-                            "altText": "The Battle of Polytopia Offer",
-                            "height": 1440,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/b312dfc1b33d459daa55a67d53a56223/the-battle-of-polytopia-bd1ep.png",
-                            "imageType": "OfferImageWide",
-                            "width": 2560
-                        },
-                        "card3x4": {
-                            "altText": "Download The Battle of Polytopia Offer",
-                            "height": 1600,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/b312dfc1b33d459daa55a67d53a56223/the-battle-of-polytopia-qaago.png",
-                            "imageType": "OfferImageTall",
-                            "width": 1200
-                        },
-                        "coverImage": {
-                            "altText": "-",
-                            "height": 1440,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/b312dfc1b33d459daa55a67d53a56223/the-battle-of-polytopia-99wf7.png",
-                            "imageType": "coverImage",
-                            "width": 2560
-                        }
-                    },
-                    "purchase": [
-                        {
-                            "offerLifecycleState": "Release",
-                            "price": {
-                                "currencyCode": "EUR",
-                                "decimalPrice": 0
-                            },
-                            "purchasePayload": {
-                                "offerId": "da916d731a16499095993725ea9a3058",
-                                "sandboxId": "c28a4972ae574f27af0304e6ac625009"
-                            },
-                            "purchaseType": "Claim"
-                        }
-                    ],
-                    "systemSpecs": {
-                        "applicationVersion": "2.13.1.14391",
-                        "platform": "android",
-                        "systemRequirements": [
-                            {
-                                "minimum": "269 MB",
-                                "requirementType": "InstallSize",
-                                "title": "Installation size"
-                            },
-                            {
-                                "minimum": "156.22 MB",
-                                "requirementType": "DownloadSize",
-                                "title": "Download size"
-                            },
-                            {
-                                "minimum": "7.0",
-                                "requirementType": "OS",
-                                "title": "OS version"
-                            }
-                        ]
-                    },
-                    "title": "The Battle of Polytopia"
-                },
-                "offerId": "da916d731a16499095993725ea9a3058",
-                "sandboxId": "c28a4972ae574f27af0304e6ac625009"
             },
             {
                 "content": {
@@ -6555,19 +6656,6 @@
                     },
                     "purchase": [
                         {
-                            "offerLifecycleState": "Release",
-                            "price": {
-                                "currencyCode": "EUR",
-                                "decimalPrice": 3.99
-                            },
-                            "priceDisplay": "€3.99",
-                            "purchasePayload": {
-                                "offerId": "8617449b0ef64fd29f4b8a7401f7ceb8",
-                                "sandboxId": "66ab6672b313434e9ab6ba7c36ec7d3e"
-                            },
-                            "purchaseType": "Purchase"
-                        },
-                        {
                             "discount": {
                                 "discountAmountDisplay": "-75%",
                                 "discountEndDate": "2025-09-24T15:00:00.000Z",
@@ -6687,19 +6775,6 @@
                         }
                     },
                     "purchase": [
-                        {
-                            "offerLifecycleState": "Release",
-                            "price": {
-                                "currencyCode": "EUR",
-                                "decimalPrice": 4.99
-                            },
-                            "priceDisplay": "€4.99",
-                            "purchasePayload": {
-                                "offerId": "123b0ce76e9e401e8a35643a001bf9b5",
-                                "sandboxId": "886cd782adaa4ad6864ea8f603c3e19e"
-                            },
-                            "purchaseType": "Purchase"
-                        },
                         {
                             "discount": {
                                 "discountAmountDisplay": "-80%",
@@ -10307,19 +10382,6 @@
                     },
                     "purchase": [
                         {
-                            "offerLifecycleState": "Release",
-                            "price": {
-                                "currencyCode": "EUR",
-                                "decimalPrice": 9.99
-                            },
-                            "priceDisplay": "€9.99",
-                            "purchasePayload": {
-                                "offerId": "b3dd256651474eae8210266733d2df0a",
-                                "sandboxId": "0017cfe7374b4c16a42859241b3dfe94"
-                            },
-                            "purchaseType": "Purchase"
-                        },
-                        {
                             "discount": {
                                 "discountAmountDisplay": "-50%",
                                 "discountEndDate": "2025-09-24T15:00:00.000Z",
@@ -10743,19 +10805,6 @@
                         }
                     },
                     "purchase": [
-                        {
-                            "offerLifecycleState": "Release",
-                            "price": {
-                                "currencyCode": "EUR",
-                                "decimalPrice": 9.99
-                            },
-                            "priceDisplay": "€9.99",
-                            "purchasePayload": {
-                                "offerId": "ddf289539e1d4298ac42e01cf48da088",
-                                "sandboxId": "402982723c79438bab7bfe346c34b5b6"
-                            },
-                            "purchaseType": "Purchase"
-                        },
                         {
                             "discount": {
                                 "discountAmountDisplay": "-80%",
