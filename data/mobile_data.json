@@ -725,6 +725,58 @@
         "store_url": "<https://store.epicgames.com/product/machinarium-ios-cde620>",
         "title": "Machinarium"
     },
+    "1-e6abebfda00f45e2b3b9ba79970bc511-0b1ecc2b308f444da0b17da1061faa72": {
+        "age_control": 3,
+        "catalog_item_id": "e940f30c03f948ba9f9f0c2ca39af0bf",
+        "checkout_url": "<https://store.epicgames.com/purchase?offers=1-e6abebfda00f45e2b3b9ba79970bc511-0b1ecc2b308f444da0b17da1061faa72>",
+        "content_descriptors": [],
+        "current_price": "0",
+        "discount": "-100%",
+        "download_size": "350 MB",
+        "end_date": "2025-09-18T15:00:00.000Z",
+        "in_app_purchases": false,
+        "install_size": "350 MB",
+        "interactive_elements": [],
+        "media": {
+            "OfferImageTall": "https://cdn1.epicgames.com/spt-assets/ec6e53ce95cc432d895dfb1285254bfd/monument-valley-2-aebwx.jpg",
+            "OfferImageWide": "https://cdn1.epicgames.com/spt-assets/ec6e53ce95cc432d895dfb1285254bfd/monument-valley-2-oesn3.jpg",
+            "ProductIcon": "https://cdn1.epicgames.com/spt-assets/ec6e53ce95cc432d895dfb1285254bfd/monument-valley-2-icon-ivubn.png",
+            "coverImage": "https://cdn1.epicgames.com/spt-assets/ec6e53ce95cc432d895dfb1285254bfd/monument-valley-2-zk12e.jpg"
+        },
+        "offer_id": "0b1ecc2b308f444da0b17da1061faa72",
+        "original_price": "3.99",
+        "platform": "ios",
+        "sandbox_id": "e6abebfda00f45e2b3b9ba79970bc511",
+        "slug": "monument-valley-2-ios-b4a7bf",
+        "store_url": "<https://store.epicgames.com/product/monument-valley-2-ios-b4a7bf>",
+        "title": "Monument Valley 2"
+    },
+    "1-e6abebfda00f45e2b3b9ba79970bc511-9667d66729ab41a0baf52570873c8472": {
+        "age_control": 3,
+        "catalog_item_id": "5977703732a64dce88104e5be90e8e2b",
+        "checkout_url": "<https://store.epicgames.com/purchase?offers=1-e6abebfda00f45e2b3b9ba79970bc511-9667d66729ab41a0baf52570873c8472>",
+        "content_descriptors": [],
+        "current_price": "0",
+        "discount": "-100%",
+        "download_size": "365.33 MB",
+        "end_date": "2025-09-18T15:00:00.000Z",
+        "in_app_purchases": false,
+        "install_size": "350 MB",
+        "interactive_elements": [],
+        "media": {
+            "OfferImageTall": "https://cdn1.epicgames.com/spt-assets/ec6e53ce95cc432d895dfb1285254bfd/monument-valley-2-1bxay.jpg",
+            "OfferImageWide": "https://cdn1.epicgames.com/spt-assets/ec6e53ce95cc432d895dfb1285254bfd/monument-valley-2-9jm2m.jpg",
+            "ProductIcon": "https://cdn1.epicgames.com/spt-assets/ec6e53ce95cc432d895dfb1285254bfd/monument-valley-2-icon-ivubn.png",
+            "coverImage": "https://cdn1.epicgames.com/spt-assets/ec6e53ce95cc432d895dfb1285254bfd/monument-valley-2-zk12e.jpg"
+        },
+        "offer_id": "9667d66729ab41a0baf52570873c8472",
+        "original_price": "2.99",
+        "platform": "android",
+        "sandbox_id": "e6abebfda00f45e2b3b9ba79970bc511",
+        "slug": "monument-valley-2-android-b21888",
+        "store_url": "<https://store.epicgames.com/product/monument-valley-2-android-b21888>",
+        "title": "Monument Valley 2"
+    },
     "1-f60a81aa52624100bff909dd5849f613-1249af2452334c2585fdea72e532b02c": {
         "age_control": 7,
         "catalog_item_id": "f264b02adb254358a83b20297dcfa492",
