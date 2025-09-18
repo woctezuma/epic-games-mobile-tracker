@@ -2748,16 +2748,16 @@
                         "ratingType": "AgeRating"
                     },
                     "attention": {
-                        "inAppPurchases": "MaybeIncludesInAppPurchases"
+                        "inAppPurchases": "None"
                     },
-                    "catalogItemId": "6b6494fb87bd42439535ab3b638aba2d",
+                    "catalogItemId": "",
                     "categories": [
-                        "games",
-                        "games/edition",
-                        "games/edition/base"
+                        "addons",
+                        "freegames",
+                        "addons/durable"
                     ],
                     "mapping": {
-                        "slug": "road-redemption-mobile-ios-18d1e0"
+                        "slug": "road-redemption-mobile-full-game-unlock-34a6aa"
                     },
                     "media": {
                         "appIcon": {
@@ -2768,39 +2768,57 @@
                             "width": 512
                         },
                         "card16x9": {
-                            "altText": "Road Redemption Mobile Offer",
+                            "altText": "Road Redemption Mobile Full Game Offer",
                             "height": 1440,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/cf29ae887bef439f9907d842fd14abf2/road-redemption-mobile-1pkux.jpg",
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/cf29ae887bef439f9907d842fd14abf2/road-redemption-mobile-1hdik.jpg",
                             "imageType": "OfferImageWide",
                             "width": 2560
                         },
                         "card3x4": {
-                            "altText": "Download Road Redemption Mobile Offer",
+                            "altText": "Download Road Redemption Mobile Full Game Offer",
                             "height": 1600,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/cf29ae887bef439f9907d842fd14abf2/road-redemption-mobile-1vxdq.png",
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/cf29ae887bef439f9907d842fd14abf2/road-redemption-mobile-927hs.jpg",
                             "imageType": "OfferImageTall",
                             "width": 1200
                         },
                         "coverImage": {
-                            "altText": "-",
+                            "altText": "Road Redemption Mobile Full Game Offer",
                             "height": 1440,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/cf29ae887bef439f9907d842fd14abf2/road-redemption-mobile-1i2vz.jpg",
-                            "imageType": "coverImage",
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/cf29ae887bef439f9907d842fd14abf2/road-redemption-mobile-1hdik.jpg",
+                            "imageType": "OfferImageWide",
                             "width": 2560
                         }
                     },
                     "purchase": [
                         {
+                            "discount": {
+                                "discountAmountDisplay": "-100%",
+                                "discountEndDate": "2025-09-25T15:00:00.000Z",
+                                "originalPriceDisplay": "€4.49"
+                            },
                             "offerLifecycleState": "Release",
                             "price": {
                                 "currencyCode": "EUR",
                                 "decimalPrice": 0
                             },
                             "purchasePayload": {
-                                "offerId": "59b4c50196e14daeb0857eca8c4450db",
+                                "offerId": "5f56a9d21cf94bb7b9af7dc03e12693e",
                                 "sandboxId": "b55da3b0bc01490088b8f982bbf7d54e"
                             },
                             "purchaseType": "Claim"
+                        },
+                        {
+                            "offerLifecycleState": "Release",
+                            "price": {
+                                "currencyCode": "EUR",
+                                "decimalPrice": 4.49
+                            },
+                            "priceDisplay": "€4.49",
+                            "purchasePayload": {
+                                "offerId": "5f56a9d21cf94bb7b9af7dc03e12693e",
+                                "sandboxId": "b55da3b0bc01490088b8f982bbf7d54e"
+                            },
+                            "purchaseType": "Purchase"
                         }
                     ],
                     "systemSpecs": {
@@ -2824,9 +2842,9 @@
                             }
                         ]
                     },
-                    "title": "Road Redemption Mobile"
+                    "title": "Road Redemption - Full Game"
                 },
-                "offerId": "59b4c50196e14daeb0857eca8c4450db",
+                "offerId": "5f56a9d21cf94bb7b9af7dc03e12693e",
                 "sandboxId": "b55da3b0bc01490088b8f982bbf7d54e"
             }
         ],
@@ -4126,7 +4144,6 @@
                     },
                     "catalogItemId": "e940f30c03f948ba9f9f0c2ca39af0bf",
                     "categories": [
-                        "freegames",
                         "games",
                         "games/edition",
                         "games/edition/base"
