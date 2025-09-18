@@ -795,24 +795,6 @@
                     },
                     "purchase": [
                         {
-                            "discount": {
-                                "discountAmountDisplay": "-10%",
-                                "discountEndDate": "2025-09-18T15:00:00.000Z",
-                                "originalPriceDisplay": "€8.99"
-                            },
-                            "offerLifecycleState": "Release",
-                            "price": {
-                                "currencyCode": "EUR",
-                                "decimalPrice": 8.09
-                            },
-                            "priceDisplay": "€8.09",
-                            "purchasePayload": {
-                                "offerId": "81cd2738fb904aa692c3ba510d23d7b9",
-                                "sandboxId": "79c7bac7155c4d2e849394eaf3867245"
-                            },
-                            "purchaseType": "Purchase"
-                        },
-                        {
                             "offerLifecycleState": "Release",
                             "price": {
                                 "currencyCode": "EUR",
@@ -2530,131 +2512,11 @@
                             "gate": "no-gate"
                         },
                         "ageRating": {
-                            "ageControl": 3,
-                            "contentDescriptors": [],
-                            "interactiveElements": [],
-                            "ratingImage": "https://cdn1.epicgames.com/gameRating/gameRating/PEGI_3_192_192x192-490b93ddf59fb4ac1148d1eb9083626a",
-                            "ratingSystem": "PEGI",
-                            "rectangularRatingImage": "https://cdn1.epicgames.com/salesEvent/salesEvent/PEGI-3_435x530-c931ab5bb4eb190f6e8e542081c49dc4",
-                            "title": "PEGI 3"
-                        },
-                        "ratingType": "AgeRating"
-                    },
-                    "attention": {
-                        "inAppPurchases": "None"
-                    },
-                    "catalogItemId": "5977703732a64dce88104e5be90e8e2b",
-                    "categories": [
-                        "freegames",
-                        "games",
-                        "games/edition",
-                        "games/edition/base"
-                    ],
-                    "mapping": {
-                        "slug": "monument-valley-2-android-b21888"
-                    },
-                    "media": {
-                        "appIcon": {
-                            "altText": "-",
-                            "height": 512,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/ec6e53ce95cc432d895dfb1285254bfd/monument-valley-2-icon-ivubn.png",
-                            "imageType": "ProductIcon",
-                            "width": 512
-                        },
-                        "card16x9": {
-                            "altText": "Monument Valley 2 Offer",
-                            "height": 1440,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/ec6e53ce95cc432d895dfb1285254bfd/monument-valley-2-9jm2m.jpg",
-                            "imageType": "OfferImageWide",
-                            "width": 2560
-                        },
-                        "card3x4": {
-                            "altText": "Download Monument Valley 2 Offer",
-                            "height": 1600,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/ec6e53ce95cc432d895dfb1285254bfd/monument-valley-2-1bxay.jpg",
-                            "imageType": "OfferImageTall",
-                            "width": 1200
-                        },
-                        "coverImage": {
-                            "altText": "-",
-                            "height": 1440,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/ec6e53ce95cc432d895dfb1285254bfd/monument-valley-2-zk12e.jpg",
-                            "imageType": "coverImage",
-                            "width": 2560
-                        }
-                    },
-                    "purchase": [
-                        {
-                            "discount": {
-                                "discountAmountDisplay": "-100%",
-                                "discountEndDate": "2025-09-18T15:00:00.000Z",
-                                "originalPriceDisplay": "€2.99"
-                            },
-                            "offerLifecycleState": "Release",
-                            "price": {
-                                "currencyCode": "EUR",
-                                "decimalPrice": 0
-                            },
-                            "purchasePayload": {
-                                "offerId": "9667d66729ab41a0baf52570873c8472",
-                                "sandboxId": "e6abebfda00f45e2b3b9ba79970bc511"
-                            },
-                            "purchaseType": "Claim"
-                        },
-                        {
-                            "offerLifecycleState": "Release",
-                            "price": {
-                                "currencyCode": "EUR",
-                                "decimalPrice": 2.99
-                            },
-                            "priceDisplay": "€2.99",
-                            "purchasePayload": {
-                                "offerId": "9667d66729ab41a0baf52570873c8472",
-                                "sandboxId": "e6abebfda00f45e2b3b9ba79970bc511"
-                            },
-                            "purchaseType": "Purchase"
-                        }
-                    ],
-                    "systemSpecs": {
-                        "applicationVersion": "1.0.603",
-                        "platform": "android",
-                        "systemRequirements": [
-                            {
-                                "minimum": "350 MB",
-                                "requirementType": "InstallSize",
-                                "title": "Installation size"
-                            },
-                            {
-                                "minimum": "365.33 MB",
-                                "requirementType": "DownloadSize",
-                                "title": "Download size"
-                            },
-                            {
-                                "minimum": "9",
-                                "requirementType": "OS",
-                                "title": "OS version"
-                            }
-                        ]
-                    },
-                    "title": "Monument Valley 2"
-                },
-                "offerId": "9667d66729ab41a0baf52570873c8472",
-                "sandboxId": "e6abebfda00f45e2b3b9ba79970bc511"
-            },
-            {
-                "content": {
-                    "ageRating": {
-                        "ageGate": {
-                            "gate": "no-gate"
-                        },
-                        "ageRating": {
                             "ageControl": 7,
                             "contentDescriptors": [
-                                "Mild Violence"
+                                "Fear"
                             ],
-                            "interactiveElements": [
-                                "In-Game Purchases"
-                            ],
+                            "interactiveElements": [],
                             "ratingImage": "https://cdn1.epicgames.com/gameRating/gameRating/PEGI_7_192_192x192-30e2e712d0682dad01add90a6ccbed5b",
                             "ratingSystem": "PEGI",
                             "rectangularRatingImage": "https://cdn1.epicgames.com/salesEvent/salesEvent/PEGI-7_435x530-9439a136999d3dd762c7a61c3b8c7683",
@@ -2663,9 +2525,9 @@
                         "ratingType": "AgeRating"
                     },
                     "attention": {
-                        "inAppPurchases": "MaybeIncludesInAppPurchases"
+                        "inAppPurchases": "None"
                     },
-                    "catalogItemId": "f224809b5d8646edada112ca256fa72f",
+                    "catalogItemId": "d9a0de164e6449869d9ee7685485c4d1",
                     "categories": [
                         "freegames",
                         "games",
@@ -2673,77 +2535,217 @@
                         "games/edition/base"
                     ],
                     "mapping": {
-                        "slug": "the-battle-of-polytopia-android-2acf81"
+                        "slug": "samorost-2-android-96a371"
                     },
                     "media": {
                         "appIcon": {
                             "altText": "-",
                             "height": 512,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/b312dfc1b33d459daa55a67d53a56223/the-battle-of-polytopia-icon-sg8s5.png",
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/472b13536da144839f184bd67e9a8e25/samorost-2-icon-y03jk.png",
                             "imageType": "ProductIcon",
                             "width": 512
                         },
                         "card16x9": {
-                            "altText": "The Battle of Polytopia Offer",
+                            "altText": "Samorost 2 Offer",
                             "height": 1440,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/b312dfc1b33d459daa55a67d53a56223/the-battle-of-polytopia-1836y.png",
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/472b13536da144839f184bd67e9a8e25/samorost-2-12rpr.jpg",
                             "imageType": "OfferImageWide",
                             "width": 2560
                         },
                         "card3x4": {
-                            "altText": "Download The Battle of Polytopia Offer",
+                            "altText": "Download Samorost 2 Offer",
                             "height": 1600,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/b312dfc1b33d459daa55a67d53a56223/the-battle-of-polytopia-x2ir4.png",
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/472b13536da144839f184bd67e9a8e25/samorost-2-1pcn1.jpg",
                             "imageType": "OfferImageTall",
                             "width": 1200
                         },
                         "coverImage": {
                             "altText": "-",
                             "height": 1440,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/b312dfc1b33d459daa55a67d53a56223/the-battle-of-polytopia-99wf7.png",
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/472b13536da144839f184bd67e9a8e25/samorost-2-sxej0.jpg",
                             "imageType": "coverImage",
                             "width": 2560
                         }
                     },
                     "purchase": [
                         {
+                            "discount": {
+                                "discountAmountDisplay": "-100%",
+                                "discountEndDate": "2025-09-25T15:00:00.000Z",
+                                "originalPriceDisplay": "€1.99"
+                            },
                             "offerLifecycleState": "Release",
                             "price": {
                                 "currencyCode": "EUR",
                                 "decimalPrice": 0
                             },
                             "purchasePayload": {
-                                "offerId": "da916d731a16499095993725ea9a3058",
-                                "sandboxId": "c28a4972ae574f27af0304e6ac625009"
+                                "offerId": "742b12c834ee47b5b43b78388cccad21",
+                                "sandboxId": "3341d4dd5b8d44c3a372da3f10122485"
                             },
                             "purchaseType": "Claim"
+                        },
+                        {
+                            "offerLifecycleState": "Release",
+                            "price": {
+                                "currencyCode": "EUR",
+                                "decimalPrice": 1.99
+                            },
+                            "priceDisplay": "€1.99",
+                            "purchasePayload": {
+                                "offerId": "742b12c834ee47b5b43b78388cccad21",
+                                "sandboxId": "3341d4dd5b8d44c3a372da3f10122485"
+                            },
+                            "purchaseType": "Purchase"
                         }
                     ],
                     "systemSpecs": {
-                        "applicationVersion": "2.13.1.14391",
+                        "applicationVersion": "2.42.2",
                         "platform": "android",
                         "systemRequirements": [
                             {
-                                "minimum": "269 MB",
+                                "minimum": "120 MB",
                                 "requirementType": "InstallSize",
                                 "title": "Installation size"
                             },
                             {
-                                "minimum": "156.22 MB",
+                                "minimum": "118.72 MB",
                                 "requirementType": "DownloadSize",
                                 "title": "Download size"
                             },
                             {
-                                "minimum": "7.0",
+                                "minimum": "6.0",
                                 "requirementType": "OS",
                                 "title": "OS version"
                             }
                         ]
                     },
-                    "title": "The Battle of Polytopia"
+                    "title": "Samorost 2"
                 },
-                "offerId": "da916d731a16499095993725ea9a3058",
-                "sandboxId": "c28a4972ae574f27af0304e6ac625009"
+                "offerId": "742b12c834ee47b5b43b78388cccad21",
+                "sandboxId": "3341d4dd5b8d44c3a372da3f10122485"
+            },
+            {
+                "content": {
+                    "ageRating": {
+                        "ageGate": {
+                            "gate": "age-gate"
+                        },
+                        "ageRating": {
+                            "ageControl": 18,
+                            "contentDescriptors": [
+                                "Extreme Violence",
+                                "Strong Language"
+                            ],
+                            "interactiveElements": [
+                                "In-Game Purchases"
+                            ],
+                            "ratingImage": "https://cdn1.epicgames.com/gameRating/gameRating/PEGI_18_192_192x192-d6a2111e4c05a18bc5ec235df88a7382",
+                            "ratingSystem": "PEGI",
+                            "rectangularRatingImage": "https://cdn1.epicgames.com/salesEvent/salesEvent/PEGI-18_436x530-f31bca6eb9a143791a8525f8b278462f",
+                            "title": "PEGI 18"
+                        },
+                        "ratingType": "AgeRating"
+                    },
+                    "attention": {
+                        "inAppPurchases": "None"
+                    },
+                    "catalogItemId": "",
+                    "categories": [
+                        "addons",
+                        "freegames",
+                        "addons/durable"
+                    ],
+                    "mapping": {
+                        "slug": "road-redemption-mobile-full-game-unlock-34a6aa"
+                    },
+                    "media": {
+                        "appIcon": {
+                            "altText": "-",
+                            "height": 512,
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/cf29ae887bef439f9907d842fd14abf2/road-redemption-mobile-icon-ndocq.png",
+                            "imageType": "ProductIcon",
+                            "width": 512
+                        },
+                        "card16x9": {
+                            "altText": "Road Redemption Mobile Full Game Offer",
+                            "height": 1440,
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/cf29ae887bef439f9907d842fd14abf2/road-redemption-mobile-1hdik.jpg",
+                            "imageType": "OfferImageWide",
+                            "width": 2560
+                        },
+                        "card3x4": {
+                            "altText": "Download Road Redemption Mobile Full Game Offer",
+                            "height": 1600,
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/cf29ae887bef439f9907d842fd14abf2/road-redemption-mobile-927hs.jpg",
+                            "imageType": "OfferImageTall",
+                            "width": 1200
+                        },
+                        "coverImage": {
+                            "altText": "Road Redemption Mobile Full Game Offer",
+                            "height": 1440,
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/cf29ae887bef439f9907d842fd14abf2/road-redemption-mobile-1hdik.jpg",
+                            "imageType": "OfferImageWide",
+                            "width": 2560
+                        }
+                    },
+                    "purchase": [
+                        {
+                            "discount": {
+                                "discountAmountDisplay": "-100%",
+                                "discountEndDate": "2025-09-25T15:00:00.000Z",
+                                "originalPriceDisplay": "€4.49"
+                            },
+                            "offerLifecycleState": "Release",
+                            "price": {
+                                "currencyCode": "EUR",
+                                "decimalPrice": 0
+                            },
+                            "purchasePayload": {
+                                "offerId": "5f56a9d21cf94bb7b9af7dc03e12693e",
+                                "sandboxId": "b55da3b0bc01490088b8f982bbf7d54e"
+                            },
+                            "purchaseType": "Claim"
+                        },
+                        {
+                            "offerLifecycleState": "Release",
+                            "price": {
+                                "currencyCode": "EUR",
+                                "decimalPrice": 4.49
+                            },
+                            "priceDisplay": "€4.49",
+                            "purchasePayload": {
+                                "offerId": "5f56a9d21cf94bb7b9af7dc03e12693e",
+                                "sandboxId": "b55da3b0bc01490088b8f982bbf7d54e"
+                            },
+                            "purchaseType": "Purchase"
+                        }
+                    ],
+                    "systemSpecs": {
+                        "applicationVersion": "10.11",
+                        "platform": "android",
+                        "systemRequirements": [
+                            {
+                                "minimum": "1.02 GB",
+                                "requirementType": "InstallSize",
+                                "title": "Installation size"
+                            },
+                            {
+                                "minimum": "1.33 GB",
+                                "requirementType": "DownloadSize",
+                                "title": "Download size"
+                            },
+                            {
+                                "minimum": "6.0",
+                                "requirementType": "OS",
+                                "title": "OS version"
+                            }
+                        ]
+                    },
+                    "title": "Road Redemption - Full Game"
+                },
+                "offerId": "5f56a9d21cf94bb7b9af7dc03e12693e",
+                "sandboxId": "b55da3b0bc01490088b8f982bbf7d54e"
             }
         ],
         "size": "large",
@@ -3660,19 +3662,6 @@
                     },
                     "purchase": [
                         {
-                            "offerLifecycleState": "Release",
-                            "price": {
-                                "currencyCode": "EUR",
-                                "decimalPrice": 4.99
-                            },
-                            "priceDisplay": "€4.99",
-                            "purchasePayload": {
-                                "offerId": "108fd31a4cec4d44bc3b69f666d2af82",
-                                "sandboxId": "195babba4ee143cab291ed109668d10d"
-                            },
-                            "purchaseType": "Purchase"
-                        },
-                        {
                             "discount": {
                                 "discountAmountDisplay": "-60%",
                                 "discountEndDate": "2025-10-01T15:00:00.000Z",
@@ -4148,6 +4137,210 @@
             "src": ""
         },
         "offers": [
+            {
+                "content": {
+                    "ageRating": {
+                        "ageGate": {
+                            "gate": "no-gate"
+                        },
+                        "ageRating": {
+                            "ageControl": 3,
+                            "contentDescriptors": [],
+                            "interactiveElements": [],
+                            "ratingImage": "https://cdn1.epicgames.com/gameRating/gameRating/PEGI_3_192_192x192-490b93ddf59fb4ac1148d1eb9083626a",
+                            "ratingSystem": "PEGI",
+                            "rectangularRatingImage": "https://cdn1.epicgames.com/salesEvent/salesEvent/PEGI-3_435x530-c931ab5bb4eb190f6e8e542081c49dc4",
+                            "title": "PEGI 3"
+                        },
+                        "ratingType": "AgeRating"
+                    },
+                    "attention": {
+                        "inAppPurchases": "None"
+                    },
+                    "catalogItemId": "5977703732a64dce88104e5be90e8e2b",
+                    "categories": [
+                        "games",
+                        "games/edition",
+                        "games/edition/base"
+                    ],
+                    "mapping": {
+                        "slug": "monument-valley-2-android-b21888"
+                    },
+                    "media": {
+                        "appIcon": {
+                            "altText": "-",
+                            "height": 512,
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/ec6e53ce95cc432d895dfb1285254bfd/monument-valley-2-icon-ivubn.png",
+                            "imageType": "ProductIcon",
+                            "width": 512
+                        },
+                        "card16x9": {
+                            "altText": "Monument Valley 2 Offer",
+                            "height": 1440,
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/ec6e53ce95cc432d895dfb1285254bfd/monument-valley-2-9jm2m.jpg",
+                            "imageType": "OfferImageWide",
+                            "width": 2560
+                        },
+                        "card3x4": {
+                            "altText": "Download Monument Valley 2 Offer",
+                            "height": 1600,
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/ec6e53ce95cc432d895dfb1285254bfd/monument-valley-2-1bxay.jpg",
+                            "imageType": "OfferImageTall",
+                            "width": 1200
+                        },
+                        "coverImage": {
+                            "altText": "-",
+                            "height": 1440,
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/ec6e53ce95cc432d895dfb1285254bfd/monument-valley-2-zk12e.jpg",
+                            "imageType": "coverImage",
+                            "width": 2560
+                        }
+                    },
+                    "purchase": [
+                        {
+                            "offerLifecycleState": "Release",
+                            "price": {
+                                "currencyCode": "EUR",
+                                "decimalPrice": 2.99
+                            },
+                            "priceDisplay": "€2.99",
+                            "purchasePayload": {
+                                "offerId": "9667d66729ab41a0baf52570873c8472",
+                                "sandboxId": "e6abebfda00f45e2b3b9ba79970bc511"
+                            },
+                            "purchaseType": "Purchase"
+                        }
+                    ],
+                    "systemSpecs": {
+                        "applicationVersion": "1.0.603",
+                        "platform": "android",
+                        "systemRequirements": [
+                            {
+                                "minimum": "350 MB",
+                                "requirementType": "InstallSize",
+                                "title": "Installation size"
+                            },
+                            {
+                                "minimum": "365.33 MB",
+                                "requirementType": "DownloadSize",
+                                "title": "Download size"
+                            },
+                            {
+                                "minimum": "9",
+                                "requirementType": "OS",
+                                "title": "OS version"
+                            }
+                        ]
+                    },
+                    "title": "Monument Valley 2"
+                },
+                "offerId": "9667d66729ab41a0baf52570873c8472",
+                "sandboxId": "e6abebfda00f45e2b3b9ba79970bc511"
+            },
+            {
+                "content": {
+                    "ageRating": {
+                        "ageGate": {
+                            "gate": "no-gate"
+                        },
+                        "ageRating": {
+                            "ageControl": 7,
+                            "contentDescriptors": [
+                                "Mild Violence"
+                            ],
+                            "interactiveElements": [
+                                "In-Game Purchases"
+                            ],
+                            "ratingImage": "https://cdn1.epicgames.com/gameRating/gameRating/PEGI_7_192_192x192-30e2e712d0682dad01add90a6ccbed5b",
+                            "ratingSystem": "PEGI",
+                            "rectangularRatingImage": "https://cdn1.epicgames.com/salesEvent/salesEvent/PEGI-7_435x530-9439a136999d3dd762c7a61c3b8c7683",
+                            "title": "PEGI 7"
+                        },
+                        "ratingType": "AgeRating"
+                    },
+                    "attention": {
+                        "inAppPurchases": "MaybeIncludesInAppPurchases"
+                    },
+                    "catalogItemId": "f224809b5d8646edada112ca256fa72f",
+                    "categories": [
+                        "freegames",
+                        "games",
+                        "games/edition",
+                        "games/edition/base"
+                    ],
+                    "mapping": {
+                        "slug": "the-battle-of-polytopia-android-2acf81"
+                    },
+                    "media": {
+                        "appIcon": {
+                            "altText": "-",
+                            "height": 512,
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/b312dfc1b33d459daa55a67d53a56223/the-battle-of-polytopia-icon-sg8s5.png",
+                            "imageType": "ProductIcon",
+                            "width": 512
+                        },
+                        "card16x9": {
+                            "altText": "The Battle of Polytopia Offer",
+                            "height": 1440,
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/b312dfc1b33d459daa55a67d53a56223/the-battle-of-polytopia-4sp5b.png",
+                            "imageType": "OfferImageWide",
+                            "width": 2560
+                        },
+                        "card3x4": {
+                            "altText": "Download The Battle of Polytopia Offer",
+                            "height": 1600,
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/b312dfc1b33d459daa55a67d53a56223/the-battle-of-polytopia-1cus7.png",
+                            "imageType": "OfferImageTall",
+                            "width": 1200
+                        },
+                        "coverImage": {
+                            "altText": "-",
+                            "height": 1440,
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/b312dfc1b33d459daa55a67d53a56223/the-battle-of-polytopia-99wf7.png",
+                            "imageType": "coverImage",
+                            "width": 2560
+                        }
+                    },
+                    "purchase": [
+                        {
+                            "offerLifecycleState": "Release",
+                            "price": {
+                                "currencyCode": "EUR",
+                                "decimalPrice": 0
+                            },
+                            "purchasePayload": {
+                                "offerId": "da916d731a16499095993725ea9a3058",
+                                "sandboxId": "c28a4972ae574f27af0304e6ac625009"
+                            },
+                            "purchaseType": "Claim"
+                        }
+                    ],
+                    "systemSpecs": {
+                        "applicationVersion": "2.14.1.14597",
+                        "platform": "android",
+                        "systemRequirements": [
+                            {
+                                "minimum": "269 MB",
+                                "requirementType": "InstallSize",
+                                "title": "Installation size"
+                            },
+                            {
+                                "minimum": "156.45 MB",
+                                "requirementType": "DownloadSize",
+                                "title": "Download size"
+                            },
+                            {
+                                "minimum": "7.0",
+                                "requirementType": "OS",
+                                "title": "OS version"
+                            }
+                        ]
+                    },
+                    "title": "The Battle of Polytopia"
+                },
+                "offerId": "da916d731a16499095993725ea9a3058",
+                "sandboxId": "c28a4972ae574f27af0304e6ac625009"
+            },
             {
                 "content": {
                     "ageRating": {
@@ -6143,19 +6336,6 @@
                     },
                     "purchase": [
                         {
-                            "offerLifecycleState": "Release",
-                            "price": {
-                                "currencyCode": "EUR",
-                                "decimalPrice": 4.99
-                            },
-                            "priceDisplay": "€4.99",
-                            "purchasePayload": {
-                                "offerId": "4556ecf13e07411194e200aa7dff703e",
-                                "sandboxId": "cfc873292b2f4df1a94949ed72109f2b"
-                            },
-                            "purchaseType": "Purchase"
-                        },
-                        {
                             "discount": {
                                 "discountAmountDisplay": "-60%",
                                 "discountEndDate": "2025-10-01T15:00:00.000Z",
@@ -7950,24 +8130,6 @@
                     },
                     "purchase": [
                         {
-                            "discount": {
-                                "discountAmountDisplay": "-80%",
-                                "discountEndDate": "2025-09-18T15:00:00.000Z",
-                                "originalPriceDisplay": "€5.39"
-                            },
-                            "offerLifecycleState": "Release",
-                            "price": {
-                                "currencyCode": "EUR",
-                                "decimalPrice": 1.07
-                            },
-                            "priceDisplay": "€1.07",
-                            "purchasePayload": {
-                                "offerId": "34dc2b614e214cc29b71be833186f96c",
-                                "sandboxId": "109a4631336a475ca4e4a8a51cc6fe69"
-                            },
-                            "purchaseType": "Purchase"
-                        },
-                        {
                             "offerLifecycleState": "Release",
                             "price": {
                                 "currencyCode": "EUR",
@@ -9481,139 +9643,6 @@
                             "gate": "no-gate"
                         },
                         "ageRating": {
-                            "ageControl": 7,
-                            "contentDescriptors": [
-                                "Fear"
-                            ],
-                            "interactiveElements": [],
-                            "ratingImage": "https://cdn1.epicgames.com/gameRating/gameRating/PEGI_7_192_192x192-30e2e712d0682dad01add90a6ccbed5b",
-                            "ratingSystem": "PEGI",
-                            "rectangularRatingImage": "https://cdn1.epicgames.com/salesEvent/salesEvent/PEGI-7_435x530-9439a136999d3dd762c7a61c3b8c7683",
-                            "title": "PEGI 7"
-                        },
-                        "ratingType": "AgeRating"
-                    },
-                    "attention": {
-                        "inAppPurchases": "None"
-                    },
-                    "catalogItemId": "d9a0de164e6449869d9ee7685485c4d1",
-                    "categories": [
-                        "freegames",
-                        "games",
-                        "games/edition",
-                        "games/edition/base"
-                    ],
-                    "mapping": {
-                        "slug": "samorost-2-android-96a371"
-                    },
-                    "media": {
-                        "appIcon": {
-                            "altText": "-",
-                            "height": 512,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/472b13536da144839f184bd67e9a8e25/samorost-2-icon-y03jk.png",
-                            "imageType": "ProductIcon",
-                            "width": 512
-                        },
-                        "card16x9": {
-                            "altText": "Samorost 2 Offer",
-                            "height": 1440,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/472b13536da144839f184bd67e9a8e25/samorost-2-12rpr.jpg",
-                            "imageType": "OfferImageWide",
-                            "width": 2560
-                        },
-                        "card3x4": {
-                            "altText": "Download Samorost 2 Offer",
-                            "height": 1600,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/472b13536da144839f184bd67e9a8e25/samorost-2-1pcn1.jpg",
-                            "imageType": "OfferImageTall",
-                            "width": 1200
-                        },
-                        "coverImage": {
-                            "altText": "-",
-                            "height": 1440,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/472b13536da144839f184bd67e9a8e25/samorost-2-sxej0.jpg",
-                            "imageType": "coverImage",
-                            "width": 2560
-                        }
-                    },
-                    "purchase": [
-                        {
-                            "offerLifecycleState": "Release",
-                            "price": {
-                                "currencyCode": "EUR",
-                                "decimalPrice": 1.99
-                            },
-                            "priceDisplay": "€1.99",
-                            "purchasePayload": {
-                                "offerId": "742b12c834ee47b5b43b78388cccad21",
-                                "sandboxId": "3341d4dd5b8d44c3a372da3f10122485"
-                            },
-                            "purchaseType": "Purchase"
-                        },
-                        {
-                            "discount": {
-                                "discountAmountDisplay": "-100%",
-                                "discountEndDate": "2025-09-25T15:00:00.000Z",
-                                "originalPriceDisplay": "€1.99"
-                            },
-                            "offerLifecycleState": "Release",
-                            "price": {
-                                "currencyCode": "EUR",
-                                "decimalPrice": 0
-                            },
-                            "purchasePayload": {
-                                "offerId": "742b12c834ee47b5b43b78388cccad21",
-                                "sandboxId": "3341d4dd5b8d44c3a372da3f10122485"
-                            },
-                            "purchaseType": "Claim"
-                        },
-                        {
-                            "offerLifecycleState": "Release",
-                            "price": {
-                                "currencyCode": "EUR",
-                                "decimalPrice": 1.99
-                            },
-                            "priceDisplay": "€1.99",
-                            "purchasePayload": {
-                                "offerId": "742b12c834ee47b5b43b78388cccad21",
-                                "sandboxId": "3341d4dd5b8d44c3a372da3f10122485"
-                            },
-                            "purchaseType": "Purchase"
-                        }
-                    ],
-                    "systemSpecs": {
-                        "applicationVersion": "2.42.2",
-                        "platform": "android",
-                        "systemRequirements": [
-                            {
-                                "minimum": "120 MB",
-                                "requirementType": "InstallSize",
-                                "title": "Installation size"
-                            },
-                            {
-                                "minimum": "118.72 MB",
-                                "requirementType": "DownloadSize",
-                                "title": "Download size"
-                            },
-                            {
-                                "minimum": "6.0",
-                                "requirementType": "OS",
-                                "title": "OS version"
-                            }
-                        ]
-                    },
-                    "title": "Samorost 2"
-                },
-                "offerId": "742b12c834ee47b5b43b78388cccad21",
-                "sandboxId": "3341d4dd5b8d44c3a372da3f10122485"
-            },
-            {
-                "content": {
-                    "ageRating": {
-                        "ageGate": {
-                            "gate": "no-gate"
-                        },
-                        "ageRating": {
                             "ageControl": 3,
                             "contentDescriptors": [],
                             "interactiveElements": [],
@@ -9872,24 +9901,6 @@
                     },
                     "purchase": [
                         {
-                            "discount": {
-                                "discountAmountDisplay": "-80%",
-                                "discountEndDate": "2025-09-18T15:00:00.000Z",
-                                "originalPriceDisplay": "€5.39"
-                            },
-                            "offerLifecycleState": "Release",
-                            "price": {
-                                "currencyCode": "EUR",
-                                "decimalPrice": 1.07
-                            },
-                            "priceDisplay": "€1.07",
-                            "purchasePayload": {
-                                "offerId": "1692b4f15c1045a5968b8db5806d2867",
-                                "sandboxId": "270e1d648a5e4060b7b441615c4da4d9"
-                            },
-                            "purchaseType": "Purchase"
-                        },
-                        {
                             "offerLifecycleState": "Release",
                             "price": {
                                 "currencyCode": "EUR",
@@ -9991,24 +10002,6 @@
                         }
                     },
                     "purchase": [
-                        {
-                            "discount": {
-                                "discountAmountDisplay": "-50%",
-                                "discountEndDate": "2025-09-18T15:00:00.000Z",
-                                "originalPriceDisplay": "€6.29"
-                            },
-                            "offerLifecycleState": "Release",
-                            "price": {
-                                "currencyCode": "EUR",
-                                "decimalPrice": 3.14
-                            },
-                            "priceDisplay": "€3.14",
-                            "purchasePayload": {
-                                "offerId": "c930e6f4d4e3420aad0241f45b0fea4b",
-                                "sandboxId": "6a8dfa6e441e4f2f9048a98776c6077d"
-                            },
-                            "purchaseType": "Purchase"
-                        },
                         {
                             "offerLifecycleState": "Release",
                             "price": {
@@ -11272,19 +11265,6 @@
                     },
                     "purchase": [
                         {
-                            "offerLifecycleState": "Release",
-                            "price": {
-                                "currencyCode": "EUR",
-                                "decimalPrice": 9.99
-                            },
-                            "priceDisplay": "€9.99",
-                            "purchasePayload": {
-                                "offerId": "8210fdfc329b443fbc9dcd52b63a56e9",
-                                "sandboxId": "e0e916451a4946508f7071c272d2e1f5"
-                            },
-                            "purchaseType": "Purchase"
-                        },
-                        {
                             "discount": {
                                 "discountAmountDisplay": "-60%",
                                 "discountEndDate": "2025-10-01T15:00:00.000Z",
@@ -12449,24 +12429,6 @@
                         }
                     },
                     "purchase": [
-                        {
-                            "discount": {
-                                "discountAmountDisplay": "-80%",
-                                "discountEndDate": "2025-09-18T15:00:00.000Z",
-                                "originalPriceDisplay": "€5.39"
-                            },
-                            "offerLifecycleState": "Release",
-                            "price": {
-                                "currencyCode": "EUR",
-                                "decimalPrice": 1.07
-                            },
-                            "priceDisplay": "€1.07",
-                            "purchasePayload": {
-                                "offerId": "d856aca8b72040ba8f7a10a39cf11ce0",
-                                "sandboxId": "a3100205e194489088c7625c8c5c1596"
-                            },
-                            "purchaseType": "Purchase"
-                        },
                         {
                             "offerLifecycleState": "Release",
                             "price": {
