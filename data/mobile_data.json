@@ -555,6 +555,36 @@
         "store_url": "<https://store.epicgames.com/product/hidden-folks-ios-72dd34>",
         "title": "Hidden Folks"
     },
+    "1-b55da3b0bc01490088b8f982bbf7d54e-5f56a9d21cf94bb7b9af7dc03e12693e": {
+        "age_control": 18,
+        "catalog_item_id": "",
+        "checkout_url": "<https://store.epicgames.com/purchase?offers=1-b55da3b0bc01490088b8f982bbf7d54e-5f56a9d21cf94bb7b9af7dc03e12693e>",
+        "content_descriptors": [
+            "Extreme Violence",
+            "Strong Language"
+        ],
+        "current_price": "0",
+        "discount": "-100%",
+        "download_size": "1.33 GB",
+        "end_date": "2025-09-25T15:00:00.000Z",
+        "in_app_purchases": false,
+        "install_size": "1.02 GB",
+        "interactive_elements": [
+            "In-Game Purchases"
+        ],
+        "media": {
+            "OfferImageTall": "https://cdn1.epicgames.com/spt-assets/cf29ae887bef439f9907d842fd14abf2/road-redemption-mobile-927hs.jpg",
+            "OfferImageWide": "https://cdn1.epicgames.com/spt-assets/cf29ae887bef439f9907d842fd14abf2/road-redemption-mobile-1hdik.jpg",
+            "ProductIcon": "https://cdn1.epicgames.com/spt-assets/cf29ae887bef439f9907d842fd14abf2/road-redemption-mobile-icon-ndocq.png"
+        },
+        "offer_id": "5f56a9d21cf94bb7b9af7dc03e12693e",
+        "original_price": "4.49",
+        "platform": "android",
+        "sandbox_id": "b55da3b0bc01490088b8f982bbf7d54e",
+        "slug": "road-redemption-mobile-full-game-unlock-34a6aa",
+        "store_url": "<https://store.epicgames.com/product/road-redemption-mobile-full-game-unlock-34a6aa>",
+        "title": "Road Redemption - Full Game"
+    },
     "1-c28a4972ae574f27af0304e6ac625009-9d07ab4223af4a55a5e0b56103bd1345": {
         "age_control": 7,
         "catalog_item_id": "86a95712f3eb48b19bdbbf3ccdcc0d06",
