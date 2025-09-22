@@ -3398,7 +3398,6 @@
                     },
                     "catalogItemId": "86a95712f3eb48b19bdbbf3ccdcc0d06",
                     "categories": [
-                        "freegames",
                         "games",
                         "games/edition",
                         "games/edition/base"
@@ -4783,6 +4782,24 @@
                         }
                     },
                     "purchase": [
+                        {
+                            "discount": {
+                                "discountAmountDisplay": "-70%",
+                                "discountEndDate": "2025-10-06T21:59:00.000Z",
+                                "originalPriceDisplay": "€6.29"
+                            },
+                            "offerLifecycleState": "Release",
+                            "price": {
+                                "currencyCode": "EUR",
+                                "decimalPrice": 1.88
+                            },
+                            "priceDisplay": "€1.88",
+                            "purchasePayload": {
+                                "offerId": "69bf90e246b7468680ab159748b2b099",
+                                "sandboxId": "23ef2d517b994f9abf319d8cb213b8c4"
+                            },
+                            "purchaseType": "Purchase"
+                        },
                         {
                             "offerLifecycleState": "Release",
                             "price": {
