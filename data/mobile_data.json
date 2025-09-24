@@ -395,6 +395,62 @@
         "store_url": "<https://store.epicgames.com/product/dc-heroes-united-android-de4bc2>",
         "title": "DC Heroes United"
     },
+    "1-630a4b97a55545bb9941aee38ec799db-208ced5ba5334a21998d694cfd6a8c70": {
+        "age_control": 12,
+        "catalog_item_id": "15f80e26c27242afb07172b565a5b4aa",
+        "checkout_url": "<https://store.epicgames.com/purchase?offers=1-630a4b97a55545bb9941aee38ec799db-208ced5ba5334a21998d694cfd6a8c70>",
+        "content_descriptors": [
+            "Moderate Violence"
+        ],
+        "current_price": "0",
+        "discount": "-100%",
+        "download_size": "1.21 GB",
+        "end_date": "2025-10-02T15:00:00.000Z",
+        "in_app_purchases": false,
+        "install_size": "1.17 GB",
+        "interactive_elements": [],
+        "media": {
+            "OfferImageTall": "https://cdn1.epicgames.com/spt-assets/aa3726b6b8a14b148b58992e8d2700b1/eastern-exorcist-qy3jr.png",
+            "OfferImageWide": "https://cdn1.epicgames.com/spt-assets/aa3726b6b8a14b148b58992e8d2700b1/eastern-exorcist-1ku0u.png",
+            "ProductIcon": "https://cdn1.epicgames.com/spt-assets/aa3726b6b8a14b148b58992e8d2700b1/eastern-exorcist-icon-cklpe.png",
+            "coverImage": "https://cdn1.epicgames.com/spt-assets/aa3726b6b8a14b148b58992e8d2700b1/eastern-exorcist-1tt2b.png"
+        },
+        "offer_id": "208ced5ba5334a21998d694cfd6a8c70",
+        "original_price": "3.59",
+        "platform": "android",
+        "sandbox_id": "630a4b97a55545bb9941aee38ec799db",
+        "slug": "eastern-exorcist-android-8e99ad",
+        "store_url": "<https://store.epicgames.com/product/eastern-exorcist-android-8e99ad>",
+        "title": "Eastern Exorcist"
+    },
+    "1-630a4b97a55545bb9941aee38ec799db-b6b6dd2a8c0a4a57b6ee2896520b5142": {
+        "age_control": 12,
+        "catalog_item_id": "6c9eb7d1789949a38d87fd57beb24235",
+        "checkout_url": "<https://store.epicgames.com/purchase?offers=1-630a4b97a55545bb9941aee38ec799db-b6b6dd2a8c0a4a57b6ee2896520b5142>",
+        "content_descriptors": [
+            "Moderate Violence"
+        ],
+        "current_price": "0",
+        "discount": "-100%",
+        "download_size": "1.19 GB",
+        "end_date": "2025-10-02T15:00:00.000Z",
+        "in_app_purchases": false,
+        "install_size": "1.19 GB",
+        "interactive_elements": [],
+        "media": {
+            "OfferImageTall": "https://cdn1.epicgames.com/spt-assets/aa3726b6b8a14b148b58992e8d2700b1/eastern-exorcist-6o00z.png",
+            "OfferImageWide": "https://cdn1.epicgames.com/spt-assets/aa3726b6b8a14b148b58992e8d2700b1/eastern-exorcist-s0m31.png",
+            "ProductIcon": "https://cdn1.epicgames.com/spt-assets/aa3726b6b8a14b148b58992e8d2700b1/eastern-exorcist-icon-cklpe.png",
+            "coverImage": "https://cdn1.epicgames.com/spt-assets/aa3726b6b8a14b148b58992e8d2700b1/eastern-exorcist-1tt2b.png"
+        },
+        "offer_id": "b6b6dd2a8c0a4a57b6ee2896520b5142",
+        "original_price": "3.59",
+        "platform": "ios",
+        "sandbox_id": "630a4b97a55545bb9941aee38ec799db",
+        "slug": "eastern-exorcist-ios-910c34",
+        "store_url": "<https://store.epicgames.com/product/eastern-exorcist-ios-910c34>",
+        "title": "Eastern Exorcist"
+    },
     "1-92296faa8faf4e56a6858c4a2d7abf03-77b9f44902ef49708fac4e1087dc3f44": {
         "age_control": 3,
         "catalog_item_id": "f28e02288dad4baa9807c63eaa3eb1e0",
