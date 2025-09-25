@@ -641,6 +641,68 @@
         "store_url": "<https://store.epicgames.com/product/road-redemption-mobile-full-game-unlock-34a6aa>",
         "title": "Road Redemption - Full Game"
     },
+    "1-bda8d2133655435982b9118972792328-079984d920864c7bb9f0c5f3c066907c": {
+        "age_control": 7,
+        "catalog_item_id": "fa311c526d554653a025da7f52ec5a8c",
+        "checkout_url": "<https://store.epicgames.com/purchase?offers=1-bda8d2133655435982b9118972792328-079984d920864c7bb9f0c5f3c066907c>",
+        "content_descriptors": [
+            "Mild Violence"
+        ],
+        "current_price": "0",
+        "discount": null,
+        "download_size": "422.93 MB",
+        "end_date": null,
+        "in_app_purchases": true,
+        "install_size": "300mb",
+        "interactive_elements": [
+            "Users Interact",
+            "In-Game Purchases (Includes Random Items)"
+        ],
+        "media": {
+            "OfferImageTall": "https://cdn1.epicgames.com/spt-assets/69576a28f7154fe9a0dce97508da5163/firestone-online-idle-rpg-i79kp.png",
+            "OfferImageWide": "https://cdn1.epicgames.com/spt-assets/69576a28f7154fe9a0dce97508da5163/firestone-online-idle-rpg-17b2q.png",
+            "ProductIcon": "https://cdn1.epicgames.com/spt-assets/69576a28f7154fe9a0dce97508da5163/firestone-online-idle-rpg-icon-1rop3.png",
+            "coverImage": "https://cdn1.epicgames.com/spt-assets/69576a28f7154fe9a0dce97508da5163/firestone-online-idle-rpg-1stnb.jpg"
+        },
+        "offer_id": "079984d920864c7bb9f0c5f3c066907c",
+        "original_price": "0",
+        "platform": "android",
+        "sandbox_id": "bda8d2133655435982b9118972792328",
+        "slug": "firestone-online-idle-rpg-android-fb0ce6",
+        "store_url": "<https://store.epicgames.com/product/firestone-online-idle-rpg-android-fb0ce6>",
+        "title": "Firestone Online Idle RPG"
+    },
+    "1-bda8d2133655435982b9118972792328-b21bae1f16b5471682d9269502c7dafd": {
+        "age_control": 7,
+        "catalog_item_id": "c73f2eeef43c4d1ca6690f8ca963937e",
+        "checkout_url": "<https://store.epicgames.com/purchase?offers=1-bda8d2133655435982b9118972792328-b21bae1f16b5471682d9269502c7dafd>",
+        "content_descriptors": [
+            "Mild Violence"
+        ],
+        "current_price": "0",
+        "discount": null,
+        "download_size": "150mb",
+        "end_date": null,
+        "in_app_purchases": true,
+        "install_size": "250mb",
+        "interactive_elements": [
+            "Users Interact",
+            "In-Game Purchases (Includes Random Items)"
+        ],
+        "media": {
+            "OfferImageTall": "https://cdn1.epicgames.com/spt-assets/69576a28f7154fe9a0dce97508da5163/firestone-online-idle-rpg-1ps43.png",
+            "OfferImageWide": "https://cdn1.epicgames.com/spt-assets/69576a28f7154fe9a0dce97508da5163/firestone-online-idle-rpg-oq9dq.png",
+            "ProductIcon": "https://cdn1.epicgames.com/spt-assets/69576a28f7154fe9a0dce97508da5163/firestone-online-idle-rpg-icon-1rop3.png",
+            "coverImage": "https://cdn1.epicgames.com/spt-assets/69576a28f7154fe9a0dce97508da5163/firestone-online-idle-rpg-1stnb.jpg"
+        },
+        "offer_id": "b21bae1f16b5471682d9269502c7dafd",
+        "original_price": "0",
+        "platform": "ios",
+        "sandbox_id": "bda8d2133655435982b9118972792328",
+        "slug": "firestone-online-idle-rpg-ios-b0619c",
+        "store_url": "<https://store.epicgames.com/product/firestone-online-idle-rpg-ios-b0619c>",
+        "title": "Firestone Online Idle RPG"
+    },
     "1-c28a4972ae574f27af0304e6ac625009-9d07ab4223af4a55a5e0b56103bd1345": {
         "age_control": 7,
         "catalog_item_id": "86a95712f3eb48b19bdbbf3ccdcc0d06",
