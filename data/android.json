@@ -1271,9 +1271,9 @@
                     },
                     "catalogItemId": "d574f68a77004a7cb0f78939ce83daf9",
                     "categories": [
-                        "games",
+                        "games/edition/base",
                         "games/edition",
-                        "games/edition/base"
+                        "games"
                     ],
                     "mapping": {
                         "slug": "arena-breakout-android-db5cc2"
@@ -1282,28 +1282,28 @@
                         "appIcon": {
                             "altText": "-",
                             "height": 512,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/8917c7fc5edb486b9993837d85e1bc42/arena-breakout-icon-1fmt1.png",
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/8917c7fc5edb486b9993837d85e1bc42/arena-breakout-icon-1df07.png",
                             "imageType": "ProductIcon",
                             "width": 512
                         },
                         "card16x9": {
                             "altText": "Arena Breakout Offer",
                             "height": 1440,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/8917c7fc5edb486b9993837d85e1bc42/arena-breakout-mvfxe.jpg",
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/8917c7fc5edb486b9993837d85e1bc42/arena-breakout-p246x.jpg",
                             "imageType": "OfferImageWide",
                             "width": 2560
                         },
                         "card3x4": {
                             "altText": "Download Arena Breakout Offer",
                             "height": 1600,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/8917c7fc5edb486b9993837d85e1bc42/arena-breakout-17n53.jpg",
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/8917c7fc5edb486b9993837d85e1bc42/arena-breakout-1o9h8.png",
                             "imageType": "OfferImageTall",
                             "width": 1200
                         },
                         "coverImage": {
                             "altText": "-",
                             "height": 1440,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/8917c7fc5edb486b9993837d85e1bc42/arena-breakout-3nrcx.jpg",
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/8917c7fc5edb486b9993837d85e1bc42/arena-breakout-pr9ms.jpg",
                             "imageType": "coverImage",
                             "width": 2560
                         }
@@ -1323,7 +1323,7 @@
                         }
                     ],
                     "systemSpecs": {
-                        "applicationVersion": "1.0.203.203",
+                        "applicationVersion": "1.0.215.215",
                         "platform": "android",
                         "systemRequirements": [
                             {
@@ -1332,7 +1332,7 @@
                                 "title": "Installation size"
                             },
                             {
-                                "minimum": "1.02 GB",
+                                "minimum": "1.09 GB",
                                 "requirementType": "DownloadSize",
                                 "title": "Download size"
                             },
@@ -1426,7 +1426,7 @@
                         }
                     ],
                     "systemSpecs": {
-                        "applicationVersion": "1.2.96",
+                        "applicationVersion": "1.3.07",
                         "platform": "android",
                         "systemRequirements": [
                             {
@@ -1435,7 +1435,7 @@
                                 "title": "Installation size"
                             },
                             {
-                                "minimum": "155.29 MB",
+                                "minimum": "155.57 MB",
                                 "requirementType": "DownloadSize",
                                 "title": "Download size"
                             },
