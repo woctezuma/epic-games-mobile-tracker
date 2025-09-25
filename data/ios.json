@@ -1662,57 +1662,56 @@
                             "gate": "no-gate"
                         },
                         "ageRating": {
-                            "ageControl": 12,
+                            "ageControl": 16,
                             "contentDescriptors": [
-                                "Moderate Violence"
+                                "Strong Violence"
                             ],
                             "interactiveElements": [],
-                            "ratingImage": "https://cdn1.epicgames.com/gameRating/gameRating/PEGI_12_192_192x192-afa4df43f131bc83eb380ccf22f8d904",
+                            "ratingImage": "https://cdn1.epicgames.com/gameRating/gameRating/PEGI_16_192_192x192-da60f0bd1fe7cb1ac9d8a8bd5168ea96",
                             "ratingSystem": "PEGI",
-                            "rectangularRatingImage": "https://cdn1.epicgames.com/salesEvent/salesEvent/PEGI-12_436x530-0cd1f06607086f3cc1bc2b8643f21b0a",
-                            "title": "PEGI 12"
+                            "rectangularRatingImage": "https://cdn1.epicgames.com/salesEvent/salesEvent/PEGI-16_435x530-65760d498ce28374fb7ca3258ee1440c",
+                            "title": "PEGI 16"
                         },
                         "ratingType": "AgeRating"
                     },
                     "attention": {
                         "inAppPurchases": "None"
                     },
-                    "catalogItemId": "6c9eb7d1789949a38d87fd57beb24235",
+                    "catalogItemId": "a0ae98041d0941abaf96f2f01c5e8c9e",
                     "categories": [
-                        "freegames",
                         "games",
                         "games/edition",
                         "games/edition/base"
                     ],
                     "mapping": {
-                        "slug": "eastern-exorcist-ios-910c34"
+                        "slug": "limbo-mobile-ios-396a20"
                     },
                     "media": {
                         "appIcon": {
                             "altText": "-",
                             "height": 512,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/aa3726b6b8a14b148b58992e8d2700b1/eastern-exorcist-icon-cklpe.png",
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/8dd4bfecdb45403fbf7f838b7c52450c/limbo-mobile-icon-1ede3.png",
                             "imageType": "ProductIcon",
                             "width": 512
                         },
                         "card16x9": {
-                            "altText": "Eastern Exorcist Offer",
+                            "altText": "LIMBO Mobile Offer",
                             "height": 1440,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/aa3726b6b8a14b148b58992e8d2700b1/eastern-exorcist-s0m31.png",
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/8dd4bfecdb45403fbf7f838b7c52450c/limbo-mobile-gnbxz.jpg",
                             "imageType": "OfferImageWide",
                             "width": 2560
                         },
                         "card3x4": {
-                            "altText": "Download Eastern Exorcist Offer",
+                            "altText": "Download LIMBO Mobile Offer",
                             "height": 1600,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/aa3726b6b8a14b148b58992e8d2700b1/eastern-exorcist-6o00z.png",
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/8dd4bfecdb45403fbf7f838b7c52450c/limbo-mobile-kmmy0.jpg",
                             "imageType": "OfferImageTall",
                             "width": 1200
                         },
                         "coverImage": {
                             "altText": "-",
                             "height": 1440,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/aa3726b6b8a14b148b58992e8d2700b1/eastern-exorcist-1tt2b.png",
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/8dd4bfecdb45403fbf7f838b7c52450c/limbo-mobile-w0ni8.jpg",
                             "imageType": "coverImage",
                             "width": 2560
                         }
@@ -1726,67 +1725,37 @@
                             },
                             "priceDisplay": "€3.59",
                             "purchasePayload": {
-                                "offerId": "b6b6dd2a8c0a4a57b6ee2896520b5142",
-                                "sandboxId": "630a4b97a55545bb9941aee38ec799db"
-                            },
-                            "purchaseType": "Purchase"
-                        },
-                        {
-                            "discount": {
-                                "discountAmountDisplay": "-100%",
-                                "discountEndDate": "2025-10-02T15:00:00.000Z",
-                                "originalPriceDisplay": "€3.59"
-                            },
-                            "offerLifecycleState": "Release",
-                            "price": {
-                                "currencyCode": "EUR",
-                                "decimalPrice": 0
-                            },
-                            "purchasePayload": {
-                                "offerId": "b6b6dd2a8c0a4a57b6ee2896520b5142",
-                                "sandboxId": "630a4b97a55545bb9941aee38ec799db"
-                            },
-                            "purchaseType": "Claim"
-                        },
-                        {
-                            "offerLifecycleState": "Release",
-                            "price": {
-                                "currencyCode": "EUR",
-                                "decimalPrice": 3.59
-                            },
-                            "priceDisplay": "€3.59",
-                            "purchasePayload": {
-                                "offerId": "b6b6dd2a8c0a4a57b6ee2896520b5142",
-                                "sandboxId": "630a4b97a55545bb9941aee38ec799db"
+                                "offerId": "4cae623d36184a8599a8994b1645f89b",
+                                "sandboxId": "d512cb4db7f54b33b89b37f1ad5c6dc6"
                             },
                             "purchaseType": "Purchase"
                         }
                     ],
                     "systemSpecs": {
-                        "applicationVersion": "1.00.0",
+                        "applicationVersion": "1.0.1",
                         "platform": "ios",
                         "systemRequirements": [
                             {
-                                "minimum": "1.19 GB",
+                                "minimum": "140 MB",
                                 "requirementType": "InstallSize",
                                 "title": "Installation size"
                             },
                             {
-                                "minimum": "1.19 GB",
+                                "minimum": "118 MB",
                                 "requirementType": "DownloadSize",
                                 "title": "Download size"
                             },
                             {
-                                "minimum": "IOS 10",
+                                "minimum": "13",
                                 "requirementType": "OS",
                                 "title": "OS version"
                             }
                         ]
                     },
-                    "title": "Eastern Exorcist"
+                    "title": "LIMBO"
                 },
-                "offerId": "b6b6dd2a8c0a4a57b6ee2896520b5142",
-                "sandboxId": "630a4b97a55545bb9941aee38ec799db"
+                "offerId": "4cae623d36184a8599a8994b1645f89b",
+                "sandboxId": "d512cb4db7f54b33b89b37f1ad5c6dc6"
             },
             {
                 "content": {
@@ -2831,22 +2800,22 @@
                             "gate": "no-gate"
                         },
                         "ageRating": {
-                            "ageControl": 7,
+                            "ageControl": 12,
                             "contentDescriptors": [
-                                "Fear"
+                                "Moderate Violence"
                             ],
                             "interactiveElements": [],
-                            "ratingImage": "https://cdn1.epicgames.com/gameRating/gameRating/PEGI_7_192_192x192-30e2e712d0682dad01add90a6ccbed5b",
+                            "ratingImage": "https://cdn1.epicgames.com/gameRating/gameRating/PEGI_12_192_192x192-afa4df43f131bc83eb380ccf22f8d904",
                             "ratingSystem": "PEGI",
-                            "rectangularRatingImage": "https://cdn1.epicgames.com/salesEvent/salesEvent/PEGI-7_435x530-9439a136999d3dd762c7a61c3b8c7683",
-                            "title": "PEGI 7"
+                            "rectangularRatingImage": "https://cdn1.epicgames.com/salesEvent/salesEvent/PEGI-12_436x530-0cd1f06607086f3cc1bc2b8643f21b0a",
+                            "title": "PEGI 12"
                         },
                         "ratingType": "AgeRating"
                     },
                     "attention": {
                         "inAppPurchases": "None"
                     },
-                    "catalogItemId": "c8e561ca26c04743b2dea6ac17f802b4",
+                    "catalogItemId": "6c9eb7d1789949a38d87fd57beb24235",
                     "categories": [
                         "freegames",
                         "games",
@@ -2854,34 +2823,34 @@
                         "games/edition/base"
                     ],
                     "mapping": {
-                        "slug": "samorost-2-ios-990d45"
+                        "slug": "eastern-exorcist-ios-910c34"
                     },
                     "media": {
                         "appIcon": {
                             "altText": "-",
                             "height": 512,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/472b13536da144839f184bd67e9a8e25/samorost-2-icon-y03jk.png",
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/aa3726b6b8a14b148b58992e8d2700b1/eastern-exorcist-icon-cklpe.png",
                             "imageType": "ProductIcon",
                             "width": 512
                         },
                         "card16x9": {
-                            "altText": "Samorost 2 Offer",
+                            "altText": "Eastern Exorcist Offer",
                             "height": 1440,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/472b13536da144839f184bd67e9a8e25/samorost-2-5uwcx.jpg",
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/aa3726b6b8a14b148b58992e8d2700b1/eastern-exorcist-s0m31.png",
                             "imageType": "OfferImageWide",
                             "width": 2560
                         },
                         "card3x4": {
-                            "altText": "Download Samorost 2 Offer",
+                            "altText": "Download Eastern Exorcist Offer",
                             "height": 1600,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/472b13536da144839f184bd67e9a8e25/samorost-2-1bhdh.jpg",
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/aa3726b6b8a14b148b58992e8d2700b1/eastern-exorcist-6o00z.png",
                             "imageType": "OfferImageTall",
                             "width": 1200
                         },
                         "coverImage": {
                             "altText": "-",
                             "height": 1440,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/472b13536da144839f184bd67e9a8e25/samorost-2-sxej0.jpg",
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/aa3726b6b8a14b148b58992e8d2700b1/eastern-exorcist-1tt2b.png",
                             "imageType": "coverImage",
                             "width": 2560
                         }
@@ -2890,8 +2859,8 @@
                         {
                             "discount": {
                                 "discountAmountDisplay": "-100%",
-                                "discountEndDate": "2025-09-25T15:00:00.000Z",
-                                "originalPriceDisplay": "€1.99"
+                                "discountEndDate": "2025-10-02T15:00:00.000Z",
+                                "originalPriceDisplay": "€3.59"
                             },
                             "offerLifecycleState": "Release",
                             "price": {
@@ -2899,8 +2868,8 @@
                                 "decimalPrice": 0
                             },
                             "purchasePayload": {
-                                "offerId": "a43b72dc81614884b02f43604ccd242d",
-                                "sandboxId": "3341d4dd5b8d44c3a372da3f10122485"
+                                "offerId": "b6b6dd2a8c0a4a57b6ee2896520b5142",
+                                "sandboxId": "630a4b97a55545bb9941aee38ec799db"
                             },
                             "purchaseType": "Claim"
                         },
@@ -2908,163 +2877,41 @@
                             "offerLifecycleState": "Release",
                             "price": {
                                 "currencyCode": "EUR",
-                                "decimalPrice": 1.99
+                                "decimalPrice": 3.59
                             },
-                            "priceDisplay": "€1.99",
+                            "priceDisplay": "€3.59",
                             "purchasePayload": {
-                                "offerId": "a43b72dc81614884b02f43604ccd242d",
-                                "sandboxId": "3341d4dd5b8d44c3a372da3f10122485"
+                                "offerId": "b6b6dd2a8c0a4a57b6ee2896520b5142",
+                                "sandboxId": "630a4b97a55545bb9941aee38ec799db"
                             },
                             "purchaseType": "Purchase"
                         }
                     ],
                     "systemSpecs": {
-                        "applicationVersion": "2.31.3",
+                        "applicationVersion": "1.00.0",
                         "platform": "ios",
                         "systemRequirements": [
                             {
-                                "minimum": "120 MB",
+                                "minimum": "1.19 GB",
                                 "requirementType": "InstallSize",
                                 "title": "Installation size"
                             },
                             {
-                                "minimum": "120 MB",
+                                "minimum": "1.19 GB",
                                 "requirementType": "DownloadSize",
                                 "title": "Download size"
                             },
                             {
-                                "minimum": "12.0",
+                                "minimum": "IOS 10",
                                 "requirementType": "OS",
                                 "title": "OS version"
                             }
                         ]
                     },
-                    "title": "Samorost 2"
+                    "title": "Eastern Exorcist"
                 },
-                "offerId": "a43b72dc81614884b02f43604ccd242d",
-                "sandboxId": "3341d4dd5b8d44c3a372da3f10122485"
-            },
-            {
-                "content": {
-                    "ageRating": {
-                        "ageGate": {
-                            "gate": "age-gate"
-                        },
-                        "ageRating": {
-                            "ageControl": 18,
-                            "contentDescriptors": [
-                                "Extreme Violence",
-                                "Strong Language"
-                            ],
-                            "interactiveElements": [
-                                "In-Game Purchases"
-                            ],
-                            "ratingImage": "https://cdn1.epicgames.com/gameRating/gameRating/PEGI_18_192_192x192-d6a2111e4c05a18bc5ec235df88a7382",
-                            "ratingSystem": "PEGI",
-                            "rectangularRatingImage": "https://cdn1.epicgames.com/salesEvent/salesEvent/PEGI-18_436x530-f31bca6eb9a143791a8525f8b278462f",
-                            "title": "PEGI 18"
-                        },
-                        "ratingType": "AgeRating"
-                    },
-                    "attention": {
-                        "inAppPurchases": "None"
-                    },
-                    "catalogItemId": "",
-                    "categories": [
-                        "addons",
-                        "freegames",
-                        "addons/durable"
-                    ],
-                    "mapping": {
-                        "slug": "road-redemption-mobile-full-game-unlock-34a6aa"
-                    },
-                    "media": {
-                        "appIcon": {
-                            "altText": "-",
-                            "height": 512,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/cf29ae887bef439f9907d842fd14abf2/road-redemption-mobile-icon-ndocq.png",
-                            "imageType": "ProductIcon",
-                            "width": 512
-                        },
-                        "card16x9": {
-                            "altText": "Road Redemption Mobile Full Game Offer",
-                            "height": 1440,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/cf29ae887bef439f9907d842fd14abf2/road-redemption-mobile-1hdik.jpg",
-                            "imageType": "OfferImageWide",
-                            "width": 2560
-                        },
-                        "card3x4": {
-                            "altText": "Download Road Redemption Mobile Full Game Offer",
-                            "height": 1600,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/cf29ae887bef439f9907d842fd14abf2/road-redemption-mobile-927hs.jpg",
-                            "imageType": "OfferImageTall",
-                            "width": 1200
-                        },
-                        "coverImage": {
-                            "altText": "Road Redemption Mobile Full Game Offer",
-                            "height": 1440,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/cf29ae887bef439f9907d842fd14abf2/road-redemption-mobile-1hdik.jpg",
-                            "imageType": "OfferImageWide",
-                            "width": 2560
-                        }
-                    },
-                    "purchase": [
-                        {
-                            "discount": {
-                                "discountAmountDisplay": "-100%",
-                                "discountEndDate": "2025-09-25T15:00:00.000Z",
-                                "originalPriceDisplay": "€4.49"
-                            },
-                            "offerLifecycleState": "Release",
-                            "price": {
-                                "currencyCode": "EUR",
-                                "decimalPrice": 0
-                            },
-                            "purchasePayload": {
-                                "offerId": "5f56a9d21cf94bb7b9af7dc03e12693e",
-                                "sandboxId": "b55da3b0bc01490088b8f982bbf7d54e"
-                            },
-                            "purchaseType": "Claim"
-                        },
-                        {
-                            "offerLifecycleState": "Release",
-                            "price": {
-                                "currencyCode": "EUR",
-                                "decimalPrice": 4.49
-                            },
-                            "priceDisplay": "€4.49",
-                            "purchasePayload": {
-                                "offerId": "5f56a9d21cf94bb7b9af7dc03e12693e",
-                                "sandboxId": "b55da3b0bc01490088b8f982bbf7d54e"
-                            },
-                            "purchaseType": "Purchase"
-                        }
-                    ],
-                    "systemSpecs": {
-                        "applicationVersion": "1.0.9",
-                        "platform": "ios",
-                        "systemRequirements": [
-                            {
-                                "minimum": "1.2 GB",
-                                "requirementType": "InstallSize",
-                                "title": "Installation size"
-                            },
-                            {
-                                "minimum": "1.2 GB",
-                                "requirementType": "DownloadSize",
-                                "title": "Download size"
-                            },
-                            {
-                                "minimum": "Requires iOS 13.0 or later.",
-                                "requirementType": "OS",
-                                "title": "OS version"
-                            }
-                        ]
-                    },
-                    "title": "Road Redemption - Full Game"
-                },
-                "offerId": "5f56a9d21cf94bb7b9af7dc03e12693e",
-                "sandboxId": "b55da3b0bc01490088b8f982bbf7d54e"
+                "offerId": "b6b6dd2a8c0a4a57b6ee2896520b5142",
+                "sandboxId": "630a4b97a55545bb9941aee38ec799db"
             }
         ],
         "size": "large",
@@ -3855,14 +3702,14 @@
                         "card16x9": {
                             "altText": "Firestone Online Idle RPG Offer",
                             "height": 1440,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/69576a28f7154fe9a0dce97508da5163/firestone-online-idle-rpg-oq9dq.png",
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/69576a28f7154fe9a0dce97508da5163/firestone-online-idle-rpg-13k2j.png",
                             "imageType": "OfferImageWide",
                             "width": 2560
                         },
                         "card3x4": {
                             "altText": "Download Firestone Online Idle RPG Offer",
                             "height": 1600,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/69576a28f7154fe9a0dce97508da5163/firestone-online-idle-rpg-1ps43.png",
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/69576a28f7154fe9a0dce97508da5163/firestone-online-idle-rpg-5lzus.png",
                             "imageType": "OfferImageTall",
                             "width": 1200
                         },
@@ -4757,56 +4604,56 @@
                             "gate": "no-gate"
                         },
                         "ageRating": {
-                            "ageControl": 16,
+                            "ageControl": 7,
                             "contentDescriptors": [
-                                "Strong Violence"
+                                "Fear"
                             ],
                             "interactiveElements": [],
-                            "ratingImage": "https://cdn1.epicgames.com/gameRating/gameRating/PEGI_16_192_192x192-da60f0bd1fe7cb1ac9d8a8bd5168ea96",
+                            "ratingImage": "https://cdn1.epicgames.com/gameRating/gameRating/PEGI_7_192_192x192-30e2e712d0682dad01add90a6ccbed5b",
                             "ratingSystem": "PEGI",
-                            "rectangularRatingImage": "https://cdn1.epicgames.com/salesEvent/salesEvent/PEGI-16_435x530-65760d498ce28374fb7ca3258ee1440c",
-                            "title": "PEGI 16"
+                            "rectangularRatingImage": "https://cdn1.epicgames.com/salesEvent/salesEvent/PEGI-7_435x530-9439a136999d3dd762c7a61c3b8c7683",
+                            "title": "PEGI 7"
                         },
                         "ratingType": "AgeRating"
                     },
                     "attention": {
                         "inAppPurchases": "None"
                     },
-                    "catalogItemId": "a0ae98041d0941abaf96f2f01c5e8c9e",
+                    "catalogItemId": "c8e561ca26c04743b2dea6ac17f802b4",
                     "categories": [
                         "games",
                         "games/edition",
                         "games/edition/base"
                     ],
                     "mapping": {
-                        "slug": "limbo-mobile-ios-396a20"
+                        "slug": "samorost-2-ios-990d45"
                     },
                     "media": {
                         "appIcon": {
                             "altText": "-",
                             "height": 512,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/8dd4bfecdb45403fbf7f838b7c52450c/limbo-mobile-icon-1ede3.png",
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/472b13536da144839f184bd67e9a8e25/samorost-2-icon-y03jk.png",
                             "imageType": "ProductIcon",
                             "width": 512
                         },
                         "card16x9": {
-                            "altText": "LIMBO Mobile Offer",
+                            "altText": "Samorost 2 Offer",
                             "height": 1440,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/8dd4bfecdb45403fbf7f838b7c52450c/limbo-mobile-gnbxz.jpg",
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/472b13536da144839f184bd67e9a8e25/samorost-2-5uwcx.jpg",
                             "imageType": "OfferImageWide",
                             "width": 2560
                         },
                         "card3x4": {
-                            "altText": "Download LIMBO Mobile Offer",
+                            "altText": "Download Samorost 2 Offer",
                             "height": 1600,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/8dd4bfecdb45403fbf7f838b7c52450c/limbo-mobile-kmmy0.jpg",
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/472b13536da144839f184bd67e9a8e25/samorost-2-1bhdh.jpg",
                             "imageType": "OfferImageTall",
                             "width": 1200
                         },
                         "coverImage": {
                             "altText": "-",
                             "height": 1440,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/8dd4bfecdb45403fbf7f838b7c52450c/limbo-mobile-w0ni8.jpg",
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/472b13536da144839f184bd67e9a8e25/samorost-2-sxej0.jpg",
                             "imageType": "coverImage",
                             "width": 2560
                         }
@@ -4816,41 +4663,41 @@
                             "offerLifecycleState": "Release",
                             "price": {
                                 "currencyCode": "EUR",
-                                "decimalPrice": 3.59
+                                "decimalPrice": 1.99
                             },
-                            "priceDisplay": "€3.59",
+                            "priceDisplay": "€1.99",
                             "purchasePayload": {
-                                "offerId": "4cae623d36184a8599a8994b1645f89b",
-                                "sandboxId": "d512cb4db7f54b33b89b37f1ad5c6dc6"
+                                "offerId": "a43b72dc81614884b02f43604ccd242d",
+                                "sandboxId": "3341d4dd5b8d44c3a372da3f10122485"
                             },
                             "purchaseType": "Purchase"
                         }
                     ],
                     "systemSpecs": {
-                        "applicationVersion": "1.0.1",
+                        "applicationVersion": "2.31.3",
                         "platform": "ios",
                         "systemRequirements": [
                             {
-                                "minimum": "140 MB",
+                                "minimum": "120 MB",
                                 "requirementType": "InstallSize",
                                 "title": "Installation size"
                             },
                             {
-                                "minimum": "118 MB",
+                                "minimum": "120 MB",
                                 "requirementType": "DownloadSize",
                                 "title": "Download size"
                             },
                             {
-                                "minimum": "13",
+                                "minimum": "12.0",
                                 "requirementType": "OS",
                                 "title": "OS version"
                             }
                         ]
                     },
-                    "title": "LIMBO"
+                    "title": "Samorost 2"
                 },
-                "offerId": "4cae623d36184a8599a8994b1645f89b",
-                "sandboxId": "d512cb4db7f54b33b89b37f1ad5c6dc6"
+                "offerId": "a43b72dc81614884b02f43604ccd242d",
+                "sandboxId": "3341d4dd5b8d44c3a372da3f10122485"
             },
             {
                 "content": {
