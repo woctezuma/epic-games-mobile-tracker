@@ -2703,22 +2703,22 @@
                             "gate": "no-gate"
                         },
                         "ageRating": {
-                            "ageControl": 7,
+                            "ageControl": 12,
                             "contentDescriptors": [
-                                "Fear"
+                                "Moderate Violence"
                             ],
                             "interactiveElements": [],
-                            "ratingImage": "https://cdn1.epicgames.com/gameRating/gameRating/PEGI_7_192_192x192-30e2e712d0682dad01add90a6ccbed5b",
+                            "ratingImage": "https://cdn1.epicgames.com/gameRating/gameRating/PEGI_12_192_192x192-afa4df43f131bc83eb380ccf22f8d904",
                             "ratingSystem": "PEGI",
-                            "rectangularRatingImage": "https://cdn1.epicgames.com/salesEvent/salesEvent/PEGI-7_435x530-9439a136999d3dd762c7a61c3b8c7683",
-                            "title": "PEGI 7"
+                            "rectangularRatingImage": "https://cdn1.epicgames.com/salesEvent/salesEvent/PEGI-12_436x530-0cd1f06607086f3cc1bc2b8643f21b0a",
+                            "title": "PEGI 12"
                         },
                         "ratingType": "AgeRating"
                     },
                     "attention": {
                         "inAppPurchases": "None"
                     },
-                    "catalogItemId": "d9a0de164e6449869d9ee7685485c4d1",
+                    "catalogItemId": "15f80e26c27242afb07172b565a5b4aa",
                     "categories": [
                         "freegames",
                         "games",
@@ -2726,34 +2726,34 @@
                         "games/edition/base"
                     ],
                     "mapping": {
-                        "slug": "samorost-2-android-96a371"
+                        "slug": "eastern-exorcist-android-8e99ad"
                     },
                     "media": {
                         "appIcon": {
                             "altText": "-",
                             "height": 512,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/472b13536da144839f184bd67e9a8e25/samorost-2-icon-y03jk.png",
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/aa3726b6b8a14b148b58992e8d2700b1/eastern-exorcist-icon-cklpe.png",
                             "imageType": "ProductIcon",
                             "width": 512
                         },
                         "card16x9": {
-                            "altText": "Samorost 2 Offer",
+                            "altText": "Eastern Exorcist Offer",
                             "height": 1440,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/472b13536da144839f184bd67e9a8e25/samorost-2-12rpr.jpg",
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/aa3726b6b8a14b148b58992e8d2700b1/eastern-exorcist-1ku0u.png",
                             "imageType": "OfferImageWide",
                             "width": 2560
                         },
                         "card3x4": {
-                            "altText": "Download Samorost 2 Offer",
+                            "altText": "Download Eastern Exorcist Offer",
                             "height": 1600,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/472b13536da144839f184bd67e9a8e25/samorost-2-1pcn1.jpg",
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/aa3726b6b8a14b148b58992e8d2700b1/eastern-exorcist-qy3jr.png",
                             "imageType": "OfferImageTall",
                             "width": 1200
                         },
                         "coverImage": {
                             "altText": "-",
                             "height": 1440,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/472b13536da144839f184bd67e9a8e25/samorost-2-sxej0.jpg",
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/aa3726b6b8a14b148b58992e8d2700b1/eastern-exorcist-1tt2b.png",
                             "imageType": "coverImage",
                             "width": 2560
                         }
@@ -2762,8 +2762,8 @@
                         {
                             "discount": {
                                 "discountAmountDisplay": "-100%",
-                                "discountEndDate": "2025-09-25T15:00:00.000Z",
-                                "originalPriceDisplay": "€1.99"
+                                "discountEndDate": "2025-10-02T15:00:00.000Z",
+                                "originalPriceDisplay": "€3.59"
                             },
                             "offerLifecycleState": "Release",
                             "price": {
@@ -2771,8 +2771,8 @@
                                 "decimalPrice": 0
                             },
                             "purchasePayload": {
-                                "offerId": "742b12c834ee47b5b43b78388cccad21",
-                                "sandboxId": "3341d4dd5b8d44c3a372da3f10122485"
+                                "offerId": "208ced5ba5334a21998d694cfd6a8c70",
+                                "sandboxId": "630a4b97a55545bb9941aee38ec799db"
                             },
                             "purchaseType": "Claim"
                         },
@@ -2780,163 +2780,41 @@
                             "offerLifecycleState": "Release",
                             "price": {
                                 "currencyCode": "EUR",
-                                "decimalPrice": 1.99
+                                "decimalPrice": 3.59
                             },
-                            "priceDisplay": "€1.99",
+                            "priceDisplay": "€3.59",
                             "purchasePayload": {
-                                "offerId": "742b12c834ee47b5b43b78388cccad21",
-                                "sandboxId": "3341d4dd5b8d44c3a372da3f10122485"
+                                "offerId": "208ced5ba5334a21998d694cfd6a8c70",
+                                "sandboxId": "630a4b97a55545bb9941aee38ec799db"
                             },
                             "purchaseType": "Purchase"
                         }
                     ],
                     "systemSpecs": {
-                        "applicationVersion": "2.42.2",
+                        "applicationVersion": "1.00.0",
                         "platform": "android",
                         "systemRequirements": [
                             {
-                                "minimum": "120 MB",
+                                "minimum": "1.17 GB",
                                 "requirementType": "InstallSize",
                                 "title": "Installation size"
                             },
                             {
-                                "minimum": "118.72 MB",
+                                "minimum": "1.21 GB",
                                 "requirementType": "DownloadSize",
                                 "title": "Download size"
                             },
                             {
-                                "minimum": "6.0",
+                                "minimum": "API level 22",
                                 "requirementType": "OS",
                                 "title": "OS version"
                             }
                         ]
                     },
-                    "title": "Samorost 2"
+                    "title": "Eastern Exorcist"
                 },
-                "offerId": "742b12c834ee47b5b43b78388cccad21",
-                "sandboxId": "3341d4dd5b8d44c3a372da3f10122485"
-            },
-            {
-                "content": {
-                    "ageRating": {
-                        "ageGate": {
-                            "gate": "age-gate"
-                        },
-                        "ageRating": {
-                            "ageControl": 18,
-                            "contentDescriptors": [
-                                "Extreme Violence",
-                                "Strong Language"
-                            ],
-                            "interactiveElements": [
-                                "In-Game Purchases"
-                            ],
-                            "ratingImage": "https://cdn1.epicgames.com/gameRating/gameRating/PEGI_18_192_192x192-d6a2111e4c05a18bc5ec235df88a7382",
-                            "ratingSystem": "PEGI",
-                            "rectangularRatingImage": "https://cdn1.epicgames.com/salesEvent/salesEvent/PEGI-18_436x530-f31bca6eb9a143791a8525f8b278462f",
-                            "title": "PEGI 18"
-                        },
-                        "ratingType": "AgeRating"
-                    },
-                    "attention": {
-                        "inAppPurchases": "None"
-                    },
-                    "catalogItemId": "",
-                    "categories": [
-                        "addons",
-                        "freegames",
-                        "addons/durable"
-                    ],
-                    "mapping": {
-                        "slug": "road-redemption-mobile-full-game-unlock-34a6aa"
-                    },
-                    "media": {
-                        "appIcon": {
-                            "altText": "-",
-                            "height": 512,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/cf29ae887bef439f9907d842fd14abf2/road-redemption-mobile-icon-ndocq.png",
-                            "imageType": "ProductIcon",
-                            "width": 512
-                        },
-                        "card16x9": {
-                            "altText": "Road Redemption Mobile Full Game Offer",
-                            "height": 1440,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/cf29ae887bef439f9907d842fd14abf2/road-redemption-mobile-1hdik.jpg",
-                            "imageType": "OfferImageWide",
-                            "width": 2560
-                        },
-                        "card3x4": {
-                            "altText": "Download Road Redemption Mobile Full Game Offer",
-                            "height": 1600,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/cf29ae887bef439f9907d842fd14abf2/road-redemption-mobile-927hs.jpg",
-                            "imageType": "OfferImageTall",
-                            "width": 1200
-                        },
-                        "coverImage": {
-                            "altText": "Road Redemption Mobile Full Game Offer",
-                            "height": 1440,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/cf29ae887bef439f9907d842fd14abf2/road-redemption-mobile-1hdik.jpg",
-                            "imageType": "OfferImageWide",
-                            "width": 2560
-                        }
-                    },
-                    "purchase": [
-                        {
-                            "discount": {
-                                "discountAmountDisplay": "-100%",
-                                "discountEndDate": "2025-09-25T15:00:00.000Z",
-                                "originalPriceDisplay": "€4.49"
-                            },
-                            "offerLifecycleState": "Release",
-                            "price": {
-                                "currencyCode": "EUR",
-                                "decimalPrice": 0
-                            },
-                            "purchasePayload": {
-                                "offerId": "5f56a9d21cf94bb7b9af7dc03e12693e",
-                                "sandboxId": "b55da3b0bc01490088b8f982bbf7d54e"
-                            },
-                            "purchaseType": "Claim"
-                        },
-                        {
-                            "offerLifecycleState": "Release",
-                            "price": {
-                                "currencyCode": "EUR",
-                                "decimalPrice": 4.49
-                            },
-                            "priceDisplay": "€4.49",
-                            "purchasePayload": {
-                                "offerId": "5f56a9d21cf94bb7b9af7dc03e12693e",
-                                "sandboxId": "b55da3b0bc01490088b8f982bbf7d54e"
-                            },
-                            "purchaseType": "Purchase"
-                        }
-                    ],
-                    "systemSpecs": {
-                        "applicationVersion": "10.11",
-                        "platform": "android",
-                        "systemRequirements": [
-                            {
-                                "minimum": "1.02 GB",
-                                "requirementType": "InstallSize",
-                                "title": "Installation size"
-                            },
-                            {
-                                "minimum": "1.33 GB",
-                                "requirementType": "DownloadSize",
-                                "title": "Download size"
-                            },
-                            {
-                                "minimum": "6.0",
-                                "requirementType": "OS",
-                                "title": "OS version"
-                            }
-                        ]
-                    },
-                    "title": "Road Redemption - Full Game"
-                },
-                "offerId": "5f56a9d21cf94bb7b9af7dc03e12693e",
-                "sandboxId": "b55da3b0bc01490088b8f982bbf7d54e"
+                "offerId": "208ced5ba5334a21998d694cfd6a8c70",
+                "sandboxId": "630a4b97a55545bb9941aee38ec799db"
             }
         ],
         "size": "large",
@@ -4477,19 +4355,6 @@
                     },
                     "purchase": [
                         {
-                            "offerLifecycleState": "Release",
-                            "price": {
-                                "currencyCode": "EUR",
-                                "decimalPrice": 4.99
-                            },
-                            "priceDisplay": "€4.99",
-                            "purchasePayload": {
-                                "offerId": "bcfcd88434964329b4ec80ee41ee68d4",
-                                "sandboxId": "628ac244f0cc438dbd3e11821b241a8b"
-                            },
-                            "purchaseType": "Purchase"
-                        },
-                        {
                             "discount": {
                                 "discountAmountDisplay": "-60%",
                                 "discountEndDate": "2025-10-08T15:00:00.000Z",
@@ -4915,19 +4780,6 @@
                         }
                     },
                     "purchase": [
-                        {
-                            "offerLifecycleState": "Release",
-                            "price": {
-                                "currencyCode": "EUR",
-                                "decimalPrice": 2.99
-                            },
-                            "priceDisplay": "€2.99",
-                            "purchasePayload": {
-                                "offerId": "c0c571041fd94e158a5b4f9d96753f6d",
-                                "sandboxId": "de6432ac525d47c8a2e649e4a75a3078"
-                            },
-                            "purchaseType": "Purchase"
-                        },
                         {
                             "discount": {
                                 "discountAmountDisplay": "-67%",
@@ -5981,19 +5833,6 @@
                         }
                     },
                     "purchase": [
-                        {
-                            "offerLifecycleState": "Release",
-                            "price": {
-                                "currencyCode": "EUR",
-                                "decimalPrice": 4.99
-                            },
-                            "priceDisplay": "€4.99",
-                            "purchasePayload": {
-                                "offerId": "7b0b95230dbb48908344b0e7ec90f0f3",
-                                "sandboxId": "788106ed2233439bbe0df94c27fcef9b"
-                            },
-                            "purchaseType": "Purchase"
-                        },
                         {
                             "discount": {
                                 "discountAmountDisplay": "-60%",
@@ -9342,57 +9181,56 @@
                             "gate": "no-gate"
                         },
                         "ageRating": {
-                            "ageControl": 12,
+                            "ageControl": 7,
                             "contentDescriptors": [
-                                "Moderate Violence"
+                                "Fear"
                             ],
                             "interactiveElements": [],
-                            "ratingImage": "https://cdn1.epicgames.com/gameRating/gameRating/PEGI_12_192_192x192-afa4df43f131bc83eb380ccf22f8d904",
+                            "ratingImage": "https://cdn1.epicgames.com/gameRating/gameRating/PEGI_7_192_192x192-30e2e712d0682dad01add90a6ccbed5b",
                             "ratingSystem": "PEGI",
-                            "rectangularRatingImage": "https://cdn1.epicgames.com/salesEvent/salesEvent/PEGI-12_436x530-0cd1f06607086f3cc1bc2b8643f21b0a",
-                            "title": "PEGI 12"
+                            "rectangularRatingImage": "https://cdn1.epicgames.com/salesEvent/salesEvent/PEGI-7_435x530-9439a136999d3dd762c7a61c3b8c7683",
+                            "title": "PEGI 7"
                         },
                         "ratingType": "AgeRating"
                     },
                     "attention": {
                         "inAppPurchases": "None"
                     },
-                    "catalogItemId": "15f80e26c27242afb07172b565a5b4aa",
+                    "catalogItemId": "d9a0de164e6449869d9ee7685485c4d1",
                     "categories": [
-                        "freegames",
                         "games",
                         "games/edition",
                         "games/edition/base"
                     ],
                     "mapping": {
-                        "slug": "eastern-exorcist-android-8e99ad"
+                        "slug": "samorost-2-android-96a371"
                     },
                     "media": {
                         "appIcon": {
                             "altText": "-",
                             "height": 512,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/aa3726b6b8a14b148b58992e8d2700b1/eastern-exorcist-icon-cklpe.png",
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/472b13536da144839f184bd67e9a8e25/samorost-2-icon-y03jk.png",
                             "imageType": "ProductIcon",
                             "width": 512
                         },
                         "card16x9": {
-                            "altText": "Eastern Exorcist Offer",
+                            "altText": "Samorost 2 Offer",
                             "height": 1440,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/aa3726b6b8a14b148b58992e8d2700b1/eastern-exorcist-1ku0u.png",
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/472b13536da144839f184bd67e9a8e25/samorost-2-12rpr.jpg",
                             "imageType": "OfferImageWide",
                             "width": 2560
                         },
                         "card3x4": {
-                            "altText": "Download Eastern Exorcist Offer",
+                            "altText": "Download Samorost 2 Offer",
                             "height": 1600,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/aa3726b6b8a14b148b58992e8d2700b1/eastern-exorcist-qy3jr.png",
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/472b13536da144839f184bd67e9a8e25/samorost-2-1pcn1.jpg",
                             "imageType": "OfferImageTall",
                             "width": 1200
                         },
                         "coverImage": {
                             "altText": "-",
                             "height": 1440,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/aa3726b6b8a14b148b58992e8d2700b1/eastern-exorcist-1tt2b.png",
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/472b13536da144839f184bd67e9a8e25/samorost-2-sxej0.jpg",
                             "imageType": "coverImage",
                             "width": 2560
                         }
@@ -9402,71 +9240,41 @@
                             "offerLifecycleState": "Release",
                             "price": {
                                 "currencyCode": "EUR",
-                                "decimalPrice": 3.59
+                                "decimalPrice": 1.99
                             },
-                            "priceDisplay": "€3.59",
+                            "priceDisplay": "€1.99",
                             "purchasePayload": {
-                                "offerId": "208ced5ba5334a21998d694cfd6a8c70",
-                                "sandboxId": "630a4b97a55545bb9941aee38ec799db"
-                            },
-                            "purchaseType": "Purchase"
-                        },
-                        {
-                            "discount": {
-                                "discountAmountDisplay": "-100%",
-                                "discountEndDate": "2025-10-02T15:00:00.000Z",
-                                "originalPriceDisplay": "€3.59"
-                            },
-                            "offerLifecycleState": "Release",
-                            "price": {
-                                "currencyCode": "EUR",
-                                "decimalPrice": 0
-                            },
-                            "purchasePayload": {
-                                "offerId": "208ced5ba5334a21998d694cfd6a8c70",
-                                "sandboxId": "630a4b97a55545bb9941aee38ec799db"
-                            },
-                            "purchaseType": "Claim"
-                        },
-                        {
-                            "offerLifecycleState": "Release",
-                            "price": {
-                                "currencyCode": "EUR",
-                                "decimalPrice": 3.59
-                            },
-                            "priceDisplay": "€3.59",
-                            "purchasePayload": {
-                                "offerId": "208ced5ba5334a21998d694cfd6a8c70",
-                                "sandboxId": "630a4b97a55545bb9941aee38ec799db"
+                                "offerId": "742b12c834ee47b5b43b78388cccad21",
+                                "sandboxId": "3341d4dd5b8d44c3a372da3f10122485"
                             },
                             "purchaseType": "Purchase"
                         }
                     ],
                     "systemSpecs": {
-                        "applicationVersion": "1.00.0",
+                        "applicationVersion": "2.42.2",
                         "platform": "android",
                         "systemRequirements": [
                             {
-                                "minimum": "1.17 GB",
+                                "minimum": "120 MB",
                                 "requirementType": "InstallSize",
                                 "title": "Installation size"
                             },
                             {
-                                "minimum": "1.21 GB",
+                                "minimum": "118.72 MB",
                                 "requirementType": "DownloadSize",
                                 "title": "Download size"
                             },
                             {
-                                "minimum": "API level 22",
+                                "minimum": "6.0",
                                 "requirementType": "OS",
                                 "title": "OS version"
                             }
                         ]
                     },
-                    "title": "Eastern Exorcist"
+                    "title": "Samorost 2"
                 },
-                "offerId": "208ced5ba5334a21998d694cfd6a8c70",
-                "sandboxId": "630a4b97a55545bb9941aee38ec799db"
+                "offerId": "742b12c834ee47b5b43b78388cccad21",
+                "sandboxId": "3341d4dd5b8d44c3a372da3f10122485"
             },
             {
                 "content": {
@@ -11182,19 +10990,6 @@
                     },
                     "purchase": [
                         {
-                            "offerLifecycleState": "Release",
-                            "price": {
-                                "currencyCode": "EUR",
-                                "decimalPrice": 4.99
-                            },
-                            "priceDisplay": "€4.99",
-                            "purchasePayload": {
-                                "offerId": "26cc69dd4fa54caa93288e25767f8c9c",
-                                "sandboxId": "5d24ed888f9542a09dc406f66705631a"
-                            },
-                            "purchaseType": "Purchase"
-                        },
-                        {
                             "discount": {
                                 "discountAmountDisplay": "-60%",
                                 "discountEndDate": "2025-10-08T15:00:00.000Z",
@@ -11639,19 +11434,6 @@
                     },
                     "purchase": [
                         {
-                            "offerLifecycleState": "Release",
-                            "price": {
-                                "currencyCode": "EUR",
-                                "decimalPrice": 7.99
-                            },
-                            "priceDisplay": "€7.99",
-                            "purchasePayload": {
-                                "offerId": "ed5b79630abd4a3ba1ec55cbe1a7fa27",
-                                "sandboxId": "6e7faac262f04035aeb848e660b2d18c"
-                            },
-                            "purchaseType": "Purchase"
-                        },
-                        {
                             "discount": {
                                 "discountAmountDisplay": "-88%",
                                 "discountEndDate": "2025-10-08T15:00:00.000Z",
@@ -11959,14 +11741,14 @@
                         "card16x9": {
                             "altText": "Firestone Online Idle RPG Offer",
                             "height": 1440,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/69576a28f7154fe9a0dce97508da5163/firestone-online-idle-rpg-17b2q.png",
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/69576a28f7154fe9a0dce97508da5163/firestone-online-idle-rpg-1nw0x.png",
                             "imageType": "OfferImageWide",
                             "width": 2560
                         },
                         "card3x4": {
                             "altText": "Download Firestone Online Idle RPG Offer",
                             "height": 1600,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/69576a28f7154fe9a0dce97508da5163/firestone-online-idle-rpg-i79kp.png",
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/69576a28f7154fe9a0dce97508da5163/firestone-online-idle-rpg-nr5w7.png",
                             "imageType": "OfferImageTall",
                             "width": 1200
                         },
