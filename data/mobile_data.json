@@ -763,6 +763,62 @@
         "store_url": "<https://store.epicgames.com/product/the-battle-of-polytopia-android-2acf81>",
         "title": "The Battle of Polytopia"
     },
+    "1-cdb8bfe1ad5944e7b77973f4b84416dc-2cb9a99516fa495baed71d9af45b10e1": {
+        "age_control": 7,
+        "catalog_item_id": "2628258624b44d688dbec6be0e03dff3",
+        "checkout_url": "<https://store.epicgames.com/purchase?offers=1-cdb8bfe1ad5944e7b77973f4b84416dc-2cb9a99516fa495baed71d9af45b10e1>",
+        "content_descriptors": [
+            "Mild Violence"
+        ],
+        "current_price": "0",
+        "discount": "-100%",
+        "download_size": "120",
+        "end_date": "2025-10-09T15:00:00.000Z",
+        "in_app_purchases": false,
+        "install_size": "120",
+        "interactive_elements": [],
+        "media": {
+            "OfferImageTall": "https://cdn1.epicgames.com/spt-assets/c9c97160d58f4e428cebd428f85333e4/doodle-devil-dark-side-1j1nw.png",
+            "OfferImageWide": "https://cdn1.epicgames.com/spt-assets/c9c97160d58f4e428cebd428f85333e4/doodle-devil-dark-side-6oc4z.png",
+            "ProductIcon": "https://cdn1.epicgames.com/spt-assets/c9c97160d58f4e428cebd428f85333e4/doodle-devil-dark-side-icon-mu0jd.png",
+            "coverImage": "https://cdn1.epicgames.com/spt-assets/c9c97160d58f4e428cebd428f85333e4/doodle-devil-dark-side-wo7h5.jpg"
+        },
+        "offer_id": "2cb9a99516fa495baed71d9af45b10e1",
+        "original_price": "2.19",
+        "platform": "ios",
+        "sandbox_id": "cdb8bfe1ad5944e7b77973f4b84416dc",
+        "slug": "doodle-devil-dark-side-ios-307eea",
+        "store_url": "<https://store.epicgames.com/product/doodle-devil-dark-side-ios-307eea>",
+        "title": "Doodle Devil: Dark Side"
+    },
+    "1-cdb8bfe1ad5944e7b77973f4b84416dc-ece5a60ad15846a5a385bf2c29bb4beb": {
+        "age_control": 7,
+        "catalog_item_id": "a5a167f29ab148ffa2db36b5d8d6ac0c",
+        "checkout_url": "<https://store.epicgames.com/purchase?offers=1-cdb8bfe1ad5944e7b77973f4b84416dc-ece5a60ad15846a5a385bf2c29bb4beb>",
+        "content_descriptors": [
+            "Mild Violence"
+        ],
+        "current_price": "0",
+        "discount": "-100%",
+        "download_size": "106.17 MB",
+        "end_date": "2025-10-09T15:00:00.000Z",
+        "in_app_purchases": false,
+        "install_size": "120",
+        "interactive_elements": [],
+        "media": {
+            "OfferImageTall": "https://cdn1.epicgames.com/spt-assets/c9c97160d58f4e428cebd428f85333e4/doodle-devil-dark-side-coz6v.png",
+            "OfferImageWide": "https://cdn1.epicgames.com/spt-assets/c9c97160d58f4e428cebd428f85333e4/doodle-devil-dark-side-1m4it.png",
+            "ProductIcon": "https://cdn1.epicgames.com/spt-assets/c9c97160d58f4e428cebd428f85333e4/doodle-devil-dark-side-icon-mu0jd.png",
+            "coverImage": "https://cdn1.epicgames.com/spt-assets/c9c97160d58f4e428cebd428f85333e4/doodle-devil-dark-side-wo7h5.jpg"
+        },
+        "offer_id": "ece5a60ad15846a5a385bf2c29bb4beb",
+        "original_price": "2.19",
+        "platform": "android",
+        "sandbox_id": "cdb8bfe1ad5944e7b77973f4b84416dc",
+        "slug": "doodle-devil-dark-side-android-2b0231",
+        "store_url": "<https://store.epicgames.com/product/doodle-devil-dark-side-android-2b0231>",
+        "title": "Doodle Devil: Dark Side"
+    },
     "1-d55b1ce868af425e9631c2d46c074ab9-1228d7af0cd34ceb8579a0c5d4802e54": {
         "age_control": 12,
         "catalog_item_id": "a11fabf3ba12446d831ac703e5a878ce",
