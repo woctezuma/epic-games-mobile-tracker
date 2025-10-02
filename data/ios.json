@@ -1944,13 +1944,13 @@
                         },
                         "card16x9": {
                             "height": 1440,
-                            "imageSrc": "https://cdn1.epicgames.com/offer/fn/FNBR_37-00_C6S4_EGS_Launcher_KeyArt_FNLogo_Carousel_PDP_2560x1440_logo_2560x1440-04348f5d3d52391f572e8c1050ddc737",
+                            "imageSrc": "https://cdn1.epicgames.com/offer/fn/FNECO_37-40_Refrigerator_FN_EGS_Launcher_Blades_2560x1440_2560x1440-4bcb03c198aff3067eeaef2d2fea02f0",
                             "imageType": "OfferImageWide",
                             "width": 2560
                         },
                         "card3x4": {
                             "height": 1600,
-                            "imageSrc": "https://cdn1.epicgames.com/offer/fn/FNBR_37-00_C6S4_EGS_Launcher_KeyArt_FNLogo_Blade_1200x1600_1200x1600-0924136c90b79f9006796f69f24a07f6",
+                            "imageSrc": "https://cdn1.epicgames.com/offer/fn/FNECO_37-40_Refrigerator_FN_EGS_Launcher_Blades_Portrait_1200x1600_1200x1600-4e3244eaf2fa7d523bab0525abbc3565",
                             "imageType": "OfferImageTall",
                             "width": 1200
                         },
@@ -2499,19 +2499,19 @@
                         },
                         "card16x9": {
                             "height": 1440,
-                            "imageSrc": "https://cdn1.epicgames.com/offer/fn/EN_FNFigment_37-00_C1S5_EGS_Launcher_KeyArt_Blade_2560x1440_2560x1440-8b8cf103ffa6656d23d16645e87577ae",
+                            "imageSrc": "https://cdn1.epicgames.com/offer/fn/EN_FNFigment_37-00_C1S6_EGS_Launcher_KeyArt_Carousel_PDP_2560x1440_logo_2560x1440-2d5c00219e6913395413201c3a2e797d",
                             "imageType": "OfferImageWide",
                             "width": 2560
                         },
                         "card3x4": {
                             "height": 1600,
-                            "imageSrc": "https://cdn1.epicgames.com/offer/fn/EN_FNFigment_37-00_C1S5_EGS_Launcher_KeyArt_Blade_1200x1600_1200x1600-eee939b79de59015c3f8b5d011373fc6",
+                            "imageSrc": "https://cdn1.epicgames.com/offer/fn/EN_FNFigment_37-00_C1S6_EGS_Launcher_KeyArt_Blade_1200x1600_1200x1600-47bcc2460eec25bf410a71d3449585d2",
                             "imageType": "OfferImageTall",
                             "width": 1200
                         },
                         "coverImage": {
                             "height": 1440,
-                            "imageSrc": "https://cdn1.epicgames.com/offer/fn/EN_FNFigment_37-00_C1S5_EGS_Launcher_KeyArt_Blade_2560x1440_2560x1440-8b8cf103ffa6656d23d16645e87577ae",
+                            "imageSrc": "https://cdn1.epicgames.com/offer/fn/EN_FNFigment_37-00_C1S6_EGS_Launcher_KeyArt_Carousel_PDP_2560x1440_logo_2560x1440-2d5c00219e6913395413201c3a2e797d",
                             "imageType": "OfferImageWide",
                             "width": 2560
                         }
