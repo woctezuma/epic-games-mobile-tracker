@@ -3837,19 +3837,6 @@
                     },
                     "purchase": [
                         {
-                            "offerLifecycleState": "Release",
-                            "price": {
-                                "currencyCode": "EUR",
-                                "decimalPrice": 4.49
-                            },
-                            "priceDisplay": "€4.49",
-                            "purchasePayload": {
-                                "offerId": "3771e1059f194cfa9964f5eb9789ff4c",
-                                "sandboxId": "0b8d22f6921241e5887b132935d571e4"
-                            },
-                            "purchaseType": "Purchase"
-                        },
-                        {
                             "discount": {
                                 "discountAmountDisplay": "-50%",
                                 "discountEndDate": "2025-10-14T15:00:00.000Z",
@@ -4792,24 +4779,6 @@
                         }
                     },
                     "purchase": [
-                        {
-                            "discount": {
-                                "discountAmountDisplay": "-70%",
-                                "discountEndDate": "2025-10-06T21:59:00.000Z",
-                                "originalPriceDisplay": "€6.29"
-                            },
-                            "offerLifecycleState": "Release",
-                            "price": {
-                                "currencyCode": "EUR",
-                                "decimalPrice": 1.88
-                            },
-                            "priceDisplay": "€1.88",
-                            "purchasePayload": {
-                                "offerId": "69bf90e246b7468680ab159748b2b099",
-                                "sandboxId": "23ef2d517b994f9abf319d8cb213b8c4"
-                            },
-                            "purchaseType": "Purchase"
-                        },
                         {
                             "offerLifecycleState": "Release",
                             "price": {
