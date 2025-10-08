@@ -763,6 +763,62 @@
         "store_url": "<https://store.epicgames.com/product/the-battle-of-polytopia-android-2acf81>",
         "title": "The Battle of Polytopia"
     },
+    "1-c9c21bdfd1684335a36174d859adee28-badc99d45a3946a6979b97cb7846af38": {
+        "age_control": 12,
+        "catalog_item_id": "6b2e33fde9f148a5a3010aec6765eac0",
+        "checkout_url": "<https://store.epicgames.com/purchase?offers=1-c9c21bdfd1684335a36174d859adee28-badc99d45a3946a6979b97cb7846af38>",
+        "content_descriptors": [
+            "Moderate Violence"
+        ],
+        "current_price": "0",
+        "discount": "-100%",
+        "download_size": "110mo",
+        "end_date": "2025-10-16T15:00:00.000Z",
+        "in_app_purchases": false,
+        "install_size": "110mo",
+        "interactive_elements": [],
+        "media": {
+            "OfferImageTall": "https://cdn1.epicgames.com/spt-assets/1fab5bdfae33477a94e6f0fea5e927c3/double-dragon-trilogy-ilm4a.jpg",
+            "OfferImageWide": "https://cdn1.epicgames.com/spt-assets/1fab5bdfae33477a94e6f0fea5e927c3/double-dragon-trilogy-g7ui1.jpg",
+            "ProductIcon": "https://cdn1.epicgames.com/spt-assets/1fab5bdfae33477a94e6f0fea5e927c3/double-dragon-trilogy-icon-lbxni.png",
+            "coverImage": "https://cdn1.epicgames.com/spt-assets/1fab5bdfae33477a94e6f0fea5e927c3/double-dragon-trilogy-63fjm.jpg"
+        },
+        "offer_id": "badc99d45a3946a6979b97cb7846af38",
+        "original_price": "2.69",
+        "platform": "ios",
+        "sandbox_id": "c9c21bdfd1684335a36174d859adee28",
+        "slug": "double-dragon-trilogy-ios-ae64d4",
+        "store_url": "<https://store.epicgames.com/product/double-dragon-trilogy-ios-ae64d4>",
+        "title": "Double Dragon Trilogy"
+    },
+    "1-c9c21bdfd1684335a36174d859adee28-e8c608fb68ac4ccb810882f4bae67c9e": {
+        "age_control": 12,
+        "catalog_item_id": "870551d2c5d84b28bb839ce347c60e9f",
+        "checkout_url": "<https://store.epicgames.com/purchase?offers=1-c9c21bdfd1684335a36174d859adee28-e8c608fb68ac4ccb810882f4bae67c9e>",
+        "content_descriptors": [
+            "Moderate Violence"
+        ],
+        "current_price": "0",
+        "discount": "-100%",
+        "download_size": "145.92 MB",
+        "end_date": "2025-10-16T15:00:00.000Z",
+        "in_app_purchases": false,
+        "install_size": "110mo",
+        "interactive_elements": [],
+        "media": {
+            "OfferImageTall": "https://cdn1.epicgames.com/spt-assets/1fab5bdfae33477a94e6f0fea5e927c3/double-dragon-trilogy-19t4p.jpg",
+            "OfferImageWide": "https://cdn1.epicgames.com/spt-assets/1fab5bdfae33477a94e6f0fea5e927c3/double-dragon-trilogy-1x25v.jpg",
+            "ProductIcon": "https://cdn1.epicgames.com/spt-assets/1fab5bdfae33477a94e6f0fea5e927c3/double-dragon-trilogy-icon-lbxni.png",
+            "coverImage": "https://cdn1.epicgames.com/spt-assets/1fab5bdfae33477a94e6f0fea5e927c3/double-dragon-trilogy-63fjm.jpg"
+        },
+        "offer_id": "e8c608fb68ac4ccb810882f4bae67c9e",
+        "original_price": "2.69",
+        "platform": "android",
+        "sandbox_id": "c9c21bdfd1684335a36174d859adee28",
+        "slug": "double-dragon-trilogy-android-aa344a",
+        "store_url": "<https://store.epicgames.com/product/double-dragon-trilogy-android-aa344a>",
+        "title": "Double Dragon Trilogy"
+    },
     "1-cdb8bfe1ad5944e7b77973f4b84416dc-2cb9a99516fa495baed71d9af45b10e1": {
         "age_control": 7,
         "catalog_item_id": "2628258624b44d688dbec6be0e03dff3",
