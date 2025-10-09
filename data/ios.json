@@ -84,19 +84,6 @@
                                 "sandboxId": "cdb8bfe1ad5944e7b77973f4b84416dc"
                             },
                             "purchaseType": "Claim"
-                        },
-                        {
-                            "offerLifecycleState": "Release",
-                            "price": {
-                                "currencyCode": "EUR",
-                                "decimalPrice": 2.19
-                            },
-                            "priceDisplay": "€2.19",
-                            "purchasePayload": {
-                                "offerId": "2cb9a99516fa495baed71d9af45b10e1",
-                                "sandboxId": "cdb8bfe1ad5944e7b77973f4b84416dc"
-                            },
-                            "purchaseType": "Purchase"
                         }
                     ],
                     "systemSpecs": {
@@ -152,7 +139,6 @@
                     },
                     "catalogItemId": "c73f2eeef43c4d1ca6690f8ca963937e",
                     "categories": [
-                        "freegames",
                         "games",
                         "games/edition",
                         "games/edition/base"
@@ -171,14 +157,14 @@
                         "card16x9": {
                             "altText": "Firestone Online Idle RPG Offer",
                             "height": 1440,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/69576a28f7154fe9a0dce97508da5163/firestone-online-idle-rpg-9gasf.png",
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/69576a28f7154fe9a0dce97508da5163/firestone-online-idle-rpg-ccrfs.png",
                             "imageType": "OfferImageWide",
                             "width": 2560
                         },
                         "card3x4": {
                             "altText": "Download Firestone Online Idle RPG Offer",
                             "height": 1600,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/69576a28f7154fe9a0dce97508da5163/firestone-online-idle-rpg-26kpr.png",
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/69576a28f7154fe9a0dce97508da5163/firestone-online-idle-rpg-nzi3l.png",
                             "imageType": "OfferImageTall",
                             "width": 1200
                         },
@@ -710,19 +696,6 @@
                         }
                     },
                     "purchase": [
-                        {
-                            "offerLifecycleState": "Release",
-                            "price": {
-                                "currencyCode": "EUR",
-                                "decimalPrice": 2.69
-                            },
-                            "priceDisplay": "€2.69",
-                            "purchasePayload": {
-                                "offerId": "badc99d45a3946a6979b97cb7846af38",
-                                "sandboxId": "c9c21bdfd1684335a36174d859adee28"
-                            },
-                            "purchaseType": "Purchase"
-                        },
                         {
                             "discount": {
                                 "discountAmountDisplay": "-100%",
