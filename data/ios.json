@@ -12,22 +12,22 @@
                             "gate": "no-gate"
                         },
                         "ageRating": {
-                            "ageControl": 7,
+                            "ageControl": 12,
                             "contentDescriptors": [
-                                "Mild Violence"
+                                "Moderate Violence"
                             ],
                             "interactiveElements": [],
-                            "ratingImage": "https://cdn1.epicgames.com/gameRating/gameRating/PEGI_7_192_192x192-30e2e712d0682dad01add90a6ccbed5b",
+                            "ratingImage": "https://cdn1.epicgames.com/gameRating/gameRating/PEGI_12_192_192x192-afa4df43f131bc83eb380ccf22f8d904",
                             "ratingSystem": "PEGI",
-                            "rectangularRatingImage": "https://cdn1.epicgames.com/salesEvent/salesEvent/PEGI-7_435x530-9439a136999d3dd762c7a61c3b8c7683",
-                            "title": "PEGI 7"
+                            "rectangularRatingImage": "https://cdn1.epicgames.com/salesEvent/salesEvent/PEGI-12_436x530-0cd1f06607086f3cc1bc2b8643f21b0a",
+                            "title": "PEGI 12"
                         },
                         "ratingType": "AgeRating"
                     },
                     "attention": {
                         "inAppPurchases": "None"
                     },
-                    "catalogItemId": "2628258624b44d688dbec6be0e03dff3",
+                    "catalogItemId": "6b2e33fde9f148a5a3010aec6765eac0",
                     "categories": [
                         "freegames",
                         "games",
@@ -35,34 +35,34 @@
                         "games/edition/base"
                     ],
                     "mapping": {
-                        "slug": "doodle-devil-dark-side-ios-307eea"
+                        "slug": "double-dragon-trilogy-ios-ae64d4"
                     },
                     "media": {
                         "appIcon": {
                             "altText": "-",
                             "height": 512,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/c9c97160d58f4e428cebd428f85333e4/doodle-devil-dark-side-icon-mu0jd.png",
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/1fab5bdfae33477a94e6f0fea5e927c3/double-dragon-trilogy-icon-lbxni.png",
                             "imageType": "ProductIcon",
                             "width": 512
                         },
                         "card16x9": {
-                            "altText": "Doodle Devil: Dark Side Offer",
+                            "altText": "Double Dragon Trilogy Offer",
                             "height": 1440,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/c9c97160d58f4e428cebd428f85333e4/doodle-devil-dark-side-6oc4z.png",
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/1fab5bdfae33477a94e6f0fea5e927c3/double-dragon-trilogy-g7ui1.jpg",
                             "imageType": "OfferImageWide",
                             "width": 2560
                         },
                         "card3x4": {
-                            "altText": "Download Doodle Devil: Dark Side Offer",
+                            "altText": "Download Double Dragon Trilogy Offer",
                             "height": 1600,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/c9c97160d58f4e428cebd428f85333e4/doodle-devil-dark-side-1j1nw.png",
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/1fab5bdfae33477a94e6f0fea5e927c3/double-dragon-trilogy-ilm4a.jpg",
                             "imageType": "OfferImageTall",
                             "width": 1200
                         },
                         "coverImage": {
                             "altText": "-",
                             "height": 1440,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/c9c97160d58f4e428cebd428f85333e4/doodle-devil-dark-side-wo7h5.jpg",
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/1fab5bdfae33477a94e6f0fea5e927c3/double-dragon-trilogy-63fjm.jpg",
                             "imageType": "coverImage",
                             "width": 2560
                         }
@@ -71,8 +71,8 @@
                         {
                             "discount": {
                                 "discountAmountDisplay": "-100%",
-                                "discountEndDate": "2025-10-09T15:00:00.000Z",
-                                "originalPriceDisplay": "€2.19"
+                                "discountEndDate": "2025-10-16T15:00:00.000Z",
+                                "originalPriceDisplay": "€2.69"
                             },
                             "offerLifecycleState": "Release",
                             "price": {
@@ -80,141 +80,50 @@
                                 "decimalPrice": 0
                             },
                             "purchasePayload": {
-                                "offerId": "2cb9a99516fa495baed71d9af45b10e1",
-                                "sandboxId": "cdb8bfe1ad5944e7b77973f4b84416dc"
+                                "offerId": "badc99d45a3946a6979b97cb7846af38",
+                                "sandboxId": "c9c21bdfd1684335a36174d859adee28"
                             },
                             "purchaseType": "Claim"
-                        }
-                    ],
-                    "systemSpecs": {
-                        "applicationVersion": "2.6.7",
-                        "platform": "ios",
-                        "systemRequirements": [
-                            {
-                                "minimum": "120",
-                                "requirementType": "InstallSize",
-                                "title": "Installation size"
-                            },
-                            {
-                                "minimum": "120",
-                                "requirementType": "DownloadSize",
-                                "title": "Download size"
-                            },
-                            {
-                                "minimum": "14",
-                                "requirementType": "OS",
-                                "title": "OS version"
-                            }
-                        ]
-                    },
-                    "title": "Doodle Devil: Dark Side"
-                },
-                "offerId": "2cb9a99516fa495baed71d9af45b10e1",
-                "sandboxId": "cdb8bfe1ad5944e7b77973f4b84416dc"
-            },
-            {
-                "content": {
-                    "ageRating": {
-                        "ageGate": {
-                            "gate": "no-gate"
                         },
-                        "ageRating": {
-                            "ageControl": 7,
-                            "contentDescriptors": [
-                                "Mild Violence"
-                            ],
-                            "interactiveElements": [
-                                "Users Interact",
-                                "In-Game Purchases (Includes Random Items)"
-                            ],
-                            "ratingImage": "https://cdn1.epicgames.com/gameRating/gameRating/PEGI_7_192_192x192-30e2e712d0682dad01add90a6ccbed5b",
-                            "ratingSystem": "PEGI",
-                            "rectangularRatingImage": "https://cdn1.epicgames.com/salesEvent/salesEvent/PEGI-7_435x530-9439a136999d3dd762c7a61c3b8c7683",
-                            "title": "PEGI 7"
-                        },
-                        "ratingType": "AgeRating"
-                    },
-                    "attention": {
-                        "inAppPurchases": "MaybeIncludesInAppPurchases"
-                    },
-                    "catalogItemId": "c73f2eeef43c4d1ca6690f8ca963937e",
-                    "categories": [
-                        "games",
-                        "games/edition",
-                        "games/edition/base"
-                    ],
-                    "mapping": {
-                        "slug": "firestone-online-idle-rpg-ios-b0619c"
-                    },
-                    "media": {
-                        "appIcon": {
-                            "altText": "-",
-                            "height": 512,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/69576a28f7154fe9a0dce97508da5163/firestone-online-idle-rpg-icon-1rop3.png",
-                            "imageType": "ProductIcon",
-                            "width": 512
-                        },
-                        "card16x9": {
-                            "altText": "Firestone Online Idle RPG Offer",
-                            "height": 1440,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/69576a28f7154fe9a0dce97508da5163/firestone-online-idle-rpg-ccrfs.png",
-                            "imageType": "OfferImageWide",
-                            "width": 2560
-                        },
-                        "card3x4": {
-                            "altText": "Download Firestone Online Idle RPG Offer",
-                            "height": 1600,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/69576a28f7154fe9a0dce97508da5163/firestone-online-idle-rpg-nzi3l.png",
-                            "imageType": "OfferImageTall",
-                            "width": 1200
-                        },
-                        "coverImage": {
-                            "altText": "-",
-                            "height": 1440,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/69576a28f7154fe9a0dce97508da5163/firestone-online-idle-rpg-1stnb.jpg",
-                            "imageType": "coverImage",
-                            "width": 2560
-                        }
-                    },
-                    "purchase": [
                         {
                             "offerLifecycleState": "Release",
                             "price": {
                                 "currencyCode": "EUR",
-                                "decimalPrice": 0
+                                "decimalPrice": 2.69
                             },
+                            "priceDisplay": "€2.69",
                             "purchasePayload": {
-                                "offerId": "b21bae1f16b5471682d9269502c7dafd",
-                                "sandboxId": "bda8d2133655435982b9118972792328"
+                                "offerId": "badc99d45a3946a6979b97cb7846af38",
+                                "sandboxId": "c9c21bdfd1684335a36174d859adee28"
                             },
-                            "purchaseType": "Claim"
+                            "purchaseType": "Purchase"
                         }
                     ],
                     "systemSpecs": {
-                        "applicationVersion": "2.66",
+                        "applicationVersion": "1.0.1",
                         "platform": "ios",
                         "systemRequirements": [
                             {
-                                "minimum": "250mb",
+                                "minimum": "110mo",
                                 "requirementType": "InstallSize",
                                 "title": "Installation size"
                             },
                             {
-                                "minimum": "150mb",
+                                "minimum": "110mo",
                                 "requirementType": "DownloadSize",
                                 "title": "Download size"
                             },
                             {
-                                "minimum": "13.0",
+                                "minimum": "10",
                                 "requirementType": "OS",
                                 "title": "OS version"
                             }
                         ]
                     },
-                    "title": "Firestone Online Idle RPG"
+                    "title": "Double Dragon Trilogy"
                 },
-                "offerId": "b21bae1f16b5471682d9269502c7dafd",
-                "sandboxId": "bda8d2133655435982b9118972792328"
+                "offerId": "badc99d45a3946a6979b97cb7846af38",
+                "sandboxId": "c9c21bdfd1684335a36174d859adee28"
             }
         ],
         "size": "large",
@@ -640,118 +549,100 @@
                             "gate": "no-gate"
                         },
                         "ageRating": {
-                            "ageControl": 12,
+                            "ageControl": 7,
                             "contentDescriptors": [
-                                "Moderate Violence"
+                                "Mild Violence"
                             ],
                             "interactiveElements": [],
-                            "ratingImage": "https://cdn1.epicgames.com/gameRating/gameRating/PEGI_12_192_192x192-afa4df43f131bc83eb380ccf22f8d904",
+                            "ratingImage": "https://cdn1.epicgames.com/gameRating/gameRating/PEGI_7_192_192x192-30e2e712d0682dad01add90a6ccbed5b",
                             "ratingSystem": "PEGI",
-                            "rectangularRatingImage": "https://cdn1.epicgames.com/salesEvent/salesEvent/PEGI-12_436x530-0cd1f06607086f3cc1bc2b8643f21b0a",
-                            "title": "PEGI 12"
+                            "rectangularRatingImage": "https://cdn1.epicgames.com/salesEvent/salesEvent/PEGI-7_435x530-9439a136999d3dd762c7a61c3b8c7683",
+                            "title": "PEGI 7"
                         },
                         "ratingType": "AgeRating"
                     },
                     "attention": {
                         "inAppPurchases": "None"
                     },
-                    "catalogItemId": "6b2e33fde9f148a5a3010aec6765eac0",
+                    "catalogItemId": "2628258624b44d688dbec6be0e03dff3",
                     "categories": [
-                        "freegames",
                         "games",
                         "games/edition",
                         "games/edition/base"
                     ],
                     "mapping": {
-                        "slug": "double-dragon-trilogy-ios-ae64d4"
+                        "slug": "doodle-devil-dark-side-ios-307eea"
                     },
                     "media": {
                         "appIcon": {
                             "altText": "-",
                             "height": 512,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/1fab5bdfae33477a94e6f0fea5e927c3/double-dragon-trilogy-icon-lbxni.png",
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/c9c97160d58f4e428cebd428f85333e4/doodle-devil-dark-side-icon-mu0jd.png",
                             "imageType": "ProductIcon",
                             "width": 512
                         },
                         "card16x9": {
-                            "altText": "Double Dragon Trilogy Offer",
+                            "altText": "Doodle Devil: Dark Side Offer",
                             "height": 1440,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/1fab5bdfae33477a94e6f0fea5e927c3/double-dragon-trilogy-g7ui1.jpg",
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/c9c97160d58f4e428cebd428f85333e4/doodle-devil-dark-side-6oc4z.png",
                             "imageType": "OfferImageWide",
                             "width": 2560
                         },
                         "card3x4": {
-                            "altText": "Download Double Dragon Trilogy Offer",
+                            "altText": "Download Doodle Devil: Dark Side Offer",
                             "height": 1600,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/1fab5bdfae33477a94e6f0fea5e927c3/double-dragon-trilogy-ilm4a.jpg",
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/c9c97160d58f4e428cebd428f85333e4/doodle-devil-dark-side-1j1nw.png",
                             "imageType": "OfferImageTall",
                             "width": 1200
                         },
                         "coverImage": {
                             "altText": "-",
                             "height": 1440,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/1fab5bdfae33477a94e6f0fea5e927c3/double-dragon-trilogy-63fjm.jpg",
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/c9c97160d58f4e428cebd428f85333e4/doodle-devil-dark-side-wo7h5.jpg",
                             "imageType": "coverImage",
                             "width": 2560
                         }
                     },
                     "purchase": [
                         {
-                            "discount": {
-                                "discountAmountDisplay": "-100%",
-                                "discountEndDate": "2025-10-16T15:00:00.000Z",
-                                "originalPriceDisplay": "€2.69"
-                            },
                             "offerLifecycleState": "Release",
                             "price": {
                                 "currencyCode": "EUR",
-                                "decimalPrice": 0
+                                "decimalPrice": 2.19
                             },
+                            "priceDisplay": "€2.19",
                             "purchasePayload": {
-                                "offerId": "badc99d45a3946a6979b97cb7846af38",
-                                "sandboxId": "c9c21bdfd1684335a36174d859adee28"
-                            },
-                            "purchaseType": "Claim"
-                        },
-                        {
-                            "offerLifecycleState": "Release",
-                            "price": {
-                                "currencyCode": "EUR",
-                                "decimalPrice": 2.69
-                            },
-                            "priceDisplay": "€2.69",
-                            "purchasePayload": {
-                                "offerId": "badc99d45a3946a6979b97cb7846af38",
-                                "sandboxId": "c9c21bdfd1684335a36174d859adee28"
+                                "offerId": "2cb9a99516fa495baed71d9af45b10e1",
+                                "sandboxId": "cdb8bfe1ad5944e7b77973f4b84416dc"
                             },
                             "purchaseType": "Purchase"
                         }
                     ],
                     "systemSpecs": {
-                        "applicationVersion": "1.0.1",
+                        "applicationVersion": "2.6.7",
                         "platform": "ios",
                         "systemRequirements": [
                             {
-                                "minimum": "110mo",
+                                "minimum": "120",
                                 "requirementType": "InstallSize",
                                 "title": "Installation size"
                             },
                             {
-                                "minimum": "110mo",
+                                "minimum": "120",
                                 "requirementType": "DownloadSize",
                                 "title": "Download size"
                             },
                             {
-                                "minimum": "10",
+                                "minimum": "14",
                                 "requirementType": "OS",
                                 "title": "OS version"
                             }
                         ]
                     },
-                    "title": "Double Dragon Trilogy"
+                    "title": "Doodle Devil: Dark Side"
                 },
-                "offerId": "badc99d45a3946a6979b97cb7846af38",
-                "sandboxId": "c9c21bdfd1684335a36174d859adee28"
+                "offerId": "2cb9a99516fa495baed71d9af45b10e1",
+                "sandboxId": "cdb8bfe1ad5944e7b77973f4b84416dc"
             },
             {
                 "content": {
@@ -3764,6 +3655,110 @@
                 },
                 "offerId": "dd07843b88f64ee898a4ea415c6dcb17",
                 "sandboxId": "7e508f543b05465abe3a935960eb70ac"
+            },
+            {
+                "content": {
+                    "ageRating": {
+                        "ageGate": {
+                            "gate": "no-gate"
+                        },
+                        "ageRating": {
+                            "ageControl": 7,
+                            "contentDescriptors": [
+                                "Mild Violence"
+                            ],
+                            "interactiveElements": [
+                                "Users Interact",
+                                "In-Game Purchases (Includes Random Items)"
+                            ],
+                            "ratingImage": "https://cdn1.epicgames.com/gameRating/gameRating/PEGI_7_192_192x192-30e2e712d0682dad01add90a6ccbed5b",
+                            "ratingSystem": "PEGI",
+                            "rectangularRatingImage": "https://cdn1.epicgames.com/salesEvent/salesEvent/PEGI-7_435x530-9439a136999d3dd762c7a61c3b8c7683",
+                            "title": "PEGI 7"
+                        },
+                        "ratingType": "AgeRating"
+                    },
+                    "attention": {
+                        "inAppPurchases": "MaybeIncludesInAppPurchases"
+                    },
+                    "catalogItemId": "c73f2eeef43c4d1ca6690f8ca963937e",
+                    "categories": [
+                        "games",
+                        "games/edition",
+                        "games/edition/base"
+                    ],
+                    "mapping": {
+                        "slug": "firestone-online-idle-rpg-ios-b0619c"
+                    },
+                    "media": {
+                        "appIcon": {
+                            "altText": "-",
+                            "height": 512,
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/69576a28f7154fe9a0dce97508da5163/firestone-online-idle-rpg-icon-1rop3.png",
+                            "imageType": "ProductIcon",
+                            "width": 512
+                        },
+                        "card16x9": {
+                            "altText": "Firestone Online Idle RPG Offer",
+                            "height": 1440,
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/69576a28f7154fe9a0dce97508da5163/firestone-online-idle-rpg-ccrfs.png",
+                            "imageType": "OfferImageWide",
+                            "width": 2560
+                        },
+                        "card3x4": {
+                            "altText": "Download Firestone Online Idle RPG Offer",
+                            "height": 1600,
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/69576a28f7154fe9a0dce97508da5163/firestone-online-idle-rpg-nzi3l.png",
+                            "imageType": "OfferImageTall",
+                            "width": 1200
+                        },
+                        "coverImage": {
+                            "altText": "-",
+                            "height": 1440,
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/69576a28f7154fe9a0dce97508da5163/firestone-online-idle-rpg-1stnb.jpg",
+                            "imageType": "coverImage",
+                            "width": 2560
+                        }
+                    },
+                    "purchase": [
+                        {
+                            "offerLifecycleState": "Release",
+                            "price": {
+                                "currencyCode": "EUR",
+                                "decimalPrice": 0
+                            },
+                            "purchasePayload": {
+                                "offerId": "b21bae1f16b5471682d9269502c7dafd",
+                                "sandboxId": "bda8d2133655435982b9118972792328"
+                            },
+                            "purchaseType": "Claim"
+                        }
+                    ],
+                    "systemSpecs": {
+                        "applicationVersion": "2.66",
+                        "platform": "ios",
+                        "systemRequirements": [
+                            {
+                                "minimum": "250mb",
+                                "requirementType": "InstallSize",
+                                "title": "Installation size"
+                            },
+                            {
+                                "minimum": "150mb",
+                                "requirementType": "DownloadSize",
+                                "title": "Download size"
+                            },
+                            {
+                                "minimum": "13.0",
+                                "requirementType": "OS",
+                                "title": "OS version"
+                            }
+                        ]
+                    },
+                    "title": "Firestone Online Idle RPG"
+                },
+                "offerId": "b21bae1f16b5471682d9269502c7dafd",
+                "sandboxId": "bda8d2133655435982b9118972792328"
             }
         ],
         "size": "small",
@@ -5836,6 +5831,24 @@
                         }
                     },
                     "purchase": [
+                        {
+                            "discount": {
+                                "discountAmountDisplay": "-80%",
+                                "discountEndDate": "2025-10-22T21:59:00.000Z",
+                                "originalPriceDisplay": "€6.29"
+                            },
+                            "offerLifecycleState": "Release",
+                            "price": {
+                                "currencyCode": "EUR",
+                                "decimalPrice": 1.25
+                            },
+                            "priceDisplay": "€1.25",
+                            "purchasePayload": {
+                                "offerId": "fb31edda814a4fe8b00cdd35840e75f8",
+                                "sandboxId": "601b5944b71c478fa38f18f36de45bf0"
+                            },
+                            "purchaseType": "Purchase"
+                        },
                         {
                             "offerLifecycleState": "Release",
                             "price": {
