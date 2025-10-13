@@ -750,7 +750,7 @@
             }
         ],
         "size": "medium",
-        "title": "Recently Added",
+        "title": "Featured",
         "topicId": "mobile-ios-carousel",
         "type": "featured"
     },
@@ -1991,7 +1991,7 @@
             }
         ],
         "size": "large",
-        "title": "Featured",
+        "title": "Recently Added",
         "topicId": "mobile-ios-featured-breaker",
         "type": "interactive"
     },
@@ -3003,7 +3003,7 @@
                         }
                     ],
                     "systemSpecs": {
-                        "applicationVersion": "4.4.4",
+                        "applicationVersion": "4.6.1",
                         "platform": "ios",
                         "systemRequirements": [
                             {
