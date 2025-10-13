@@ -770,7 +770,7 @@
             }
         ],
         "size": "medium",
-        "title": "Recently Added",
+        "title": "Featured",
         "topicId": "mobile-android-carousel",
         "type": "featured"
     },
@@ -1908,7 +1908,7 @@
             }
         ],
         "size": "large",
-        "title": "Featured",
+        "title": "Recently Added",
         "topicId": "mobile-android-featured-breaker",
         "type": "interactive"
     },
@@ -2920,7 +2920,7 @@
                         }
                     ],
                     "systemSpecs": {
-                        "applicationVersion": "4.6.1",
+                        "applicationVersion": "4.8.3",
                         "platform": "android",
                         "systemRequirements": [
                             {
@@ -2929,7 +2929,7 @@
                                 "title": "Installation size"
                             },
                             {
-                                "minimum": "1.96 GB",
+                                "minimum": "2.11 GB",
                                 "requirementType": "DownloadSize",
                                 "title": "Download size"
                             },
