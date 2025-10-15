@@ -763,6 +763,62 @@
         "store_url": "<https://store.epicgames.com/product/the-battle-of-polytopia-android-2acf81>",
         "title": "The Battle of Polytopia"
     },
+    "1-c62d7481ae1744dab7310c8f4e1e9548-04fd7f76cecc4eaf830b82e27ffe8a2b": {
+        "age_control": 7,
+        "catalog_item_id": "b78dcc2694ef4157899ab221977a3f01",
+        "checkout_url": "<https://store.epicgames.com/purchase?offers=1-c62d7481ae1744dab7310c8f4e1e9548-04fd7f76cecc4eaf830b82e27ffe8a2b>",
+        "content_descriptors": [
+            "Mild Violence"
+        ],
+        "current_price": "0",
+        "discount": "-100%",
+        "download_size": "857.90 MB",
+        "end_date": "2025-10-23T15:00:00.000Z",
+        "in_app_purchases": false,
+        "install_size": "1 GB",
+        "interactive_elements": [],
+        "media": {
+            "OfferImageTall": "https://cdn1.epicgames.com/spt-assets/b2c854d46f0f46de8b14e1178b7e85fc/samorost-3-wfdhq.jpg",
+            "OfferImageWide": "https://cdn1.epicgames.com/spt-assets/b2c854d46f0f46de8b14e1178b7e85fc/samorost-3-rla7k.jpg",
+            "ProductIcon": "https://cdn1.epicgames.com/spt-assets/b2c854d46f0f46de8b14e1178b7e85fc/samorost-3-icon-12q06.png",
+            "coverImage": "https://cdn1.epicgames.com/spt-assets/b2c854d46f0f46de8b14e1178b7e85fc/samorost-3-eb55r.jpg"
+        },
+        "offer_id": "04fd7f76cecc4eaf830b82e27ffe8a2b",
+        "original_price": "6.99",
+        "platform": "android",
+        "sandbox_id": "c62d7481ae1744dab7310c8f4e1e9548",
+        "slug": "samorost-3-android-0408e5",
+        "store_url": "<https://store.epicgames.com/product/samorost-3-android-0408e5>",
+        "title": "Samorost 3"
+    },
+    "1-c62d7481ae1744dab7310c8f4e1e9548-e606a3d3012b4610b9bdb1fbf691c5a8": {
+        "age_control": 7,
+        "catalog_item_id": "3c140232b170490a9e4b72b33323c8f7",
+        "checkout_url": "<https://store.epicgames.com/purchase?offers=1-c62d7481ae1744dab7310c8f4e1e9548-e606a3d3012b4610b9bdb1fbf691c5a8>",
+        "content_descriptors": [
+            "Mild Violence"
+        ],
+        "current_price": "0",
+        "discount": "-100%",
+        "download_size": "900 MB",
+        "end_date": "2025-10-23T15:00:00.000Z",
+        "in_app_purchases": false,
+        "install_size": "1 GB",
+        "interactive_elements": [],
+        "media": {
+            "OfferImageTall": "https://cdn1.epicgames.com/spt-assets/b2c854d46f0f46de8b14e1178b7e85fc/samorost-3-95ojz.jpg",
+            "OfferImageWide": "https://cdn1.epicgames.com/spt-assets/b2c854d46f0f46de8b14e1178b7e85fc/samorost-3-161p7.jpg",
+            "ProductIcon": "https://cdn1.epicgames.com/spt-assets/b2c854d46f0f46de8b14e1178b7e85fc/samorost-3-icon-12q06.png",
+            "coverImage": "https://cdn1.epicgames.com/spt-assets/b2c854d46f0f46de8b14e1178b7e85fc/samorost-3-eb55r.jpg"
+        },
+        "offer_id": "e606a3d3012b4610b9bdb1fbf691c5a8",
+        "original_price": "6.99",
+        "platform": "ios",
+        "sandbox_id": "c62d7481ae1744dab7310c8f4e1e9548",
+        "slug": "samorost-3-ios-06e52a",
+        "store_url": "<https://store.epicgames.com/product/samorost-3-ios-06e52a>",
+        "title": "Samorost 3"
+    },
     "1-c9c21bdfd1684335a36174d859adee28-badc99d45a3946a6979b97cb7846af38": {
         "age_control": 12,
         "catalog_item_id": "6b2e33fde9f148a5a3010aec6765eac0",
