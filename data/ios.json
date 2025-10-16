@@ -12,22 +12,22 @@
                             "gate": "no-gate"
                         },
                         "ageRating": {
-                            "ageControl": 12,
+                            "ageControl": 7,
                             "contentDescriptors": [
-                                "Moderate Violence"
+                                "Mild Violence"
                             ],
                             "interactiveElements": [],
-                            "ratingImage": "https://cdn1.epicgames.com/gameRating/gameRating/PEGI_12_192_192x192-afa4df43f131bc83eb380ccf22f8d904",
+                            "ratingImage": "https://cdn1.epicgames.com/gameRating/gameRating/PEGI_7_192_192x192-30e2e712d0682dad01add90a6ccbed5b",
                             "ratingSystem": "PEGI",
-                            "rectangularRatingImage": "https://cdn1.epicgames.com/salesEvent/salesEvent/PEGI-12_436x530-0cd1f06607086f3cc1bc2b8643f21b0a",
-                            "title": "PEGI 12"
+                            "rectangularRatingImage": "https://cdn1.epicgames.com/salesEvent/salesEvent/PEGI-7_435x530-9439a136999d3dd762c7a61c3b8c7683",
+                            "title": "PEGI 7"
                         },
                         "ratingType": "AgeRating"
                     },
                     "attention": {
                         "inAppPurchases": "None"
                     },
-                    "catalogItemId": "6b2e33fde9f148a5a3010aec6765eac0",
+                    "catalogItemId": "3c140232b170490a9e4b72b33323c8f7",
                     "categories": [
                         "freegames",
                         "games",
@@ -35,34 +35,34 @@
                         "games/edition/base"
                     ],
                     "mapping": {
-                        "slug": "double-dragon-trilogy-ios-ae64d4"
+                        "slug": "samorost-3-ios-06e52a"
                     },
                     "media": {
                         "appIcon": {
                             "altText": "-",
                             "height": 512,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/1fab5bdfae33477a94e6f0fea5e927c3/double-dragon-trilogy-icon-lbxni.png",
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/b2c854d46f0f46de8b14e1178b7e85fc/samorost-3-icon-12q06.png",
                             "imageType": "ProductIcon",
                             "width": 512
                         },
                         "card16x9": {
-                            "altText": "Double Dragon Trilogy Offer",
+                            "altText": "Samorost 3 Offer",
                             "height": 1440,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/1fab5bdfae33477a94e6f0fea5e927c3/double-dragon-trilogy-g7ui1.jpg",
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/b2c854d46f0f46de8b14e1178b7e85fc/samorost-3-161p7.jpg",
                             "imageType": "OfferImageWide",
                             "width": 2560
                         },
                         "card3x4": {
-                            "altText": "Download Double Dragon Trilogy Offer",
+                            "altText": "Download Samorost 3 Offer",
                             "height": 1600,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/1fab5bdfae33477a94e6f0fea5e927c3/double-dragon-trilogy-ilm4a.jpg",
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/b2c854d46f0f46de8b14e1178b7e85fc/samorost-3-95ojz.jpg",
                             "imageType": "OfferImageTall",
                             "width": 1200
                         },
                         "coverImage": {
                             "altText": "-",
                             "height": 1440,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/1fab5bdfae33477a94e6f0fea5e927c3/double-dragon-trilogy-63fjm.jpg",
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/b2c854d46f0f46de8b14e1178b7e85fc/samorost-3-eb55r.jpg",
                             "imageType": "coverImage",
                             "width": 2560
                         }
@@ -71,8 +71,8 @@
                         {
                             "discount": {
                                 "discountAmountDisplay": "-100%",
-                                "discountEndDate": "2025-10-16T15:00:00.000Z",
-                                "originalPriceDisplay": "€2.69"
+                                "discountEndDate": "2025-10-23T15:00:00.000Z",
+                                "originalPriceDisplay": "€6.99"
                             },
                             "offerLifecycleState": "Release",
                             "price": {
@@ -80,8 +80,8 @@
                                 "decimalPrice": 0
                             },
                             "purchasePayload": {
-                                "offerId": "badc99d45a3946a6979b97cb7846af38",
-                                "sandboxId": "c9c21bdfd1684335a36174d859adee28"
+                                "offerId": "e606a3d3012b4610b9bdb1fbf691c5a8",
+                                "sandboxId": "c62d7481ae1744dab7310c8f4e1e9548"
                             },
                             "purchaseType": "Claim"
                         },
@@ -89,41 +89,41 @@
                             "offerLifecycleState": "Release",
                             "price": {
                                 "currencyCode": "EUR",
-                                "decimalPrice": 2.69
+                                "decimalPrice": 6.99
                             },
-                            "priceDisplay": "€2.69",
+                            "priceDisplay": "€6.99",
                             "purchasePayload": {
-                                "offerId": "badc99d45a3946a6979b97cb7846af38",
-                                "sandboxId": "c9c21bdfd1684335a36174d859adee28"
+                                "offerId": "e606a3d3012b4610b9bdb1fbf691c5a8",
+                                "sandboxId": "c62d7481ae1744dab7310c8f4e1e9548"
                             },
                             "purchaseType": "Purchase"
                         }
                     ],
                     "systemSpecs": {
-                        "applicationVersion": "1.0.1",
+                        "applicationVersion": "1.472.0",
                         "platform": "ios",
                         "systemRequirements": [
                             {
-                                "minimum": "110mo",
+                                "minimum": "1 GB",
                                 "requirementType": "InstallSize",
                                 "title": "Installation size"
                             },
                             {
-                                "minimum": "110mo",
+                                "minimum": "900 MB",
                                 "requirementType": "DownloadSize",
                                 "title": "Download size"
                             },
                             {
-                                "minimum": "10",
+                                "minimum": "12.0",
                                 "requirementType": "OS",
                                 "title": "OS version"
                             }
                         ]
                     },
-                    "title": "Double Dragon Trilogy"
+                    "title": "Samorost 3"
                 },
-                "offerId": "badc99d45a3946a6979b97cb7846af38",
-                "sandboxId": "c9c21bdfd1684335a36174d859adee28"
+                "offerId": "e606a3d3012b4610b9bdb1fbf691c5a8",
+                "sandboxId": "c62d7481ae1744dab7310c8f4e1e9548"
             }
         ],
         "size": "large",
@@ -4603,6 +4603,108 @@
                             "gate": "no-gate"
                         },
                         "ageRating": {
+                            "ageControl": 12,
+                            "contentDescriptors": [
+                                "Moderate Violence"
+                            ],
+                            "interactiveElements": [],
+                            "ratingImage": "https://cdn1.epicgames.com/gameRating/gameRating/PEGI_12_192_192x192-afa4df43f131bc83eb380ccf22f8d904",
+                            "ratingSystem": "PEGI",
+                            "rectangularRatingImage": "https://cdn1.epicgames.com/salesEvent/salesEvent/PEGI-12_436x530-0cd1f06607086f3cc1bc2b8643f21b0a",
+                            "title": "PEGI 12"
+                        },
+                        "ratingType": "AgeRating"
+                    },
+                    "attention": {
+                        "inAppPurchases": "None"
+                    },
+                    "catalogItemId": "6b2e33fde9f148a5a3010aec6765eac0",
+                    "categories": [
+                        "games",
+                        "games/edition",
+                        "games/edition/base"
+                    ],
+                    "mapping": {
+                        "slug": "double-dragon-trilogy-ios-ae64d4"
+                    },
+                    "media": {
+                        "appIcon": {
+                            "altText": "-",
+                            "height": 512,
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/1fab5bdfae33477a94e6f0fea5e927c3/double-dragon-trilogy-icon-lbxni.png",
+                            "imageType": "ProductIcon",
+                            "width": 512
+                        },
+                        "card16x9": {
+                            "altText": "Double Dragon Trilogy Offer",
+                            "height": 1440,
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/1fab5bdfae33477a94e6f0fea5e927c3/double-dragon-trilogy-g7ui1.jpg",
+                            "imageType": "OfferImageWide",
+                            "width": 2560
+                        },
+                        "card3x4": {
+                            "altText": "Download Double Dragon Trilogy Offer",
+                            "height": 1600,
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/1fab5bdfae33477a94e6f0fea5e927c3/double-dragon-trilogy-ilm4a.jpg",
+                            "imageType": "OfferImageTall",
+                            "width": 1200
+                        },
+                        "coverImage": {
+                            "altText": "-",
+                            "height": 1440,
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/1fab5bdfae33477a94e6f0fea5e927c3/double-dragon-trilogy-63fjm.jpg",
+                            "imageType": "coverImage",
+                            "width": 2560
+                        }
+                    },
+                    "purchase": [
+                        {
+                            "offerLifecycleState": "Release",
+                            "price": {
+                                "currencyCode": "EUR",
+                                "decimalPrice": 2.69
+                            },
+                            "priceDisplay": "€2.69",
+                            "purchasePayload": {
+                                "offerId": "badc99d45a3946a6979b97cb7846af38",
+                                "sandboxId": "c9c21bdfd1684335a36174d859adee28"
+                            },
+                            "purchaseType": "Purchase"
+                        }
+                    ],
+                    "systemSpecs": {
+                        "applicationVersion": "1.0.1",
+                        "platform": "ios",
+                        "systemRequirements": [
+                            {
+                                "minimum": "110mo",
+                                "requirementType": "InstallSize",
+                                "title": "Installation size"
+                            },
+                            {
+                                "minimum": "110mo",
+                                "requirementType": "DownloadSize",
+                                "title": "Download size"
+                            },
+                            {
+                                "minimum": "10",
+                                "requirementType": "OS",
+                                "title": "OS version"
+                            }
+                        ]
+                    },
+                    "title": "Double Dragon Trilogy"
+                },
+                "offerId": "badc99d45a3946a6979b97cb7846af38",
+                "sandboxId": "c9c21bdfd1684335a36174d859adee28"
+            },
+            {
+                "content": {
+                    "ageRating": {
+                        "ageGate": {
+                            "gate": "no-gate"
+                        },
+                        "ageRating": {
                             "ageControl": 7,
                             "contentDescriptors": [
                                 "Fear"
@@ -5206,139 +5308,6 @@
                 },
                 "offerId": "29b150b77053448eb30e210edfcdc062",
                 "sandboxId": "0fd4edf223e64b249082e86bfd49483d"
-            },
-            {
-                "content": {
-                    "ageRating": {
-                        "ageGate": {
-                            "gate": "no-gate"
-                        },
-                        "ageRating": {
-                            "ageControl": 7,
-                            "contentDescriptors": [
-                                "Mild Violence"
-                            ],
-                            "interactiveElements": [],
-                            "ratingImage": "https://cdn1.epicgames.com/gameRating/gameRating/PEGI_7_192_192x192-30e2e712d0682dad01add90a6ccbed5b",
-                            "ratingSystem": "PEGI",
-                            "rectangularRatingImage": "https://cdn1.epicgames.com/salesEvent/salesEvent/PEGI-7_435x530-9439a136999d3dd762c7a61c3b8c7683",
-                            "title": "PEGI 7"
-                        },
-                        "ratingType": "AgeRating"
-                    },
-                    "attention": {
-                        "inAppPurchases": "None"
-                    },
-                    "catalogItemId": "3c140232b170490a9e4b72b33323c8f7",
-                    "categories": [
-                        "freegames",
-                        "games",
-                        "games/edition",
-                        "games/edition/base"
-                    ],
-                    "mapping": {
-                        "slug": "samorost-3-ios-06e52a"
-                    },
-                    "media": {
-                        "appIcon": {
-                            "altText": "-",
-                            "height": 512,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/b2c854d46f0f46de8b14e1178b7e85fc/samorost-3-icon-12q06.png",
-                            "imageType": "ProductIcon",
-                            "width": 512
-                        },
-                        "card16x9": {
-                            "altText": "Samorost 3 Offer",
-                            "height": 1440,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/b2c854d46f0f46de8b14e1178b7e85fc/samorost-3-161p7.jpg",
-                            "imageType": "OfferImageWide",
-                            "width": 2560
-                        },
-                        "card3x4": {
-                            "altText": "Download Samorost 3 Offer",
-                            "height": 1600,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/b2c854d46f0f46de8b14e1178b7e85fc/samorost-3-95ojz.jpg",
-                            "imageType": "OfferImageTall",
-                            "width": 1200
-                        },
-                        "coverImage": {
-                            "altText": "-",
-                            "height": 1440,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/b2c854d46f0f46de8b14e1178b7e85fc/samorost-3-eb55r.jpg",
-                            "imageType": "coverImage",
-                            "width": 2560
-                        }
-                    },
-                    "purchase": [
-                        {
-                            "offerLifecycleState": "Release",
-                            "price": {
-                                "currencyCode": "EUR",
-                                "decimalPrice": 6.99
-                            },
-                            "priceDisplay": "€6.99",
-                            "purchasePayload": {
-                                "offerId": "e606a3d3012b4610b9bdb1fbf691c5a8",
-                                "sandboxId": "c62d7481ae1744dab7310c8f4e1e9548"
-                            },
-                            "purchaseType": "Purchase"
-                        },
-                        {
-                            "discount": {
-                                "discountAmountDisplay": "-100%",
-                                "discountEndDate": "2025-10-23T15:00:00.000Z",
-                                "originalPriceDisplay": "€6.99"
-                            },
-                            "offerLifecycleState": "Release",
-                            "price": {
-                                "currencyCode": "EUR",
-                                "decimalPrice": 0
-                            },
-                            "purchasePayload": {
-                                "offerId": "e606a3d3012b4610b9bdb1fbf691c5a8",
-                                "sandboxId": "c62d7481ae1744dab7310c8f4e1e9548"
-                            },
-                            "purchaseType": "Claim"
-                        },
-                        {
-                            "offerLifecycleState": "Release",
-                            "price": {
-                                "currencyCode": "EUR",
-                                "decimalPrice": 6.99
-                            },
-                            "priceDisplay": "€6.99",
-                            "purchasePayload": {
-                                "offerId": "e606a3d3012b4610b9bdb1fbf691c5a8",
-                                "sandboxId": "c62d7481ae1744dab7310c8f4e1e9548"
-                            },
-                            "purchaseType": "Purchase"
-                        }
-                    ],
-                    "systemSpecs": {
-                        "applicationVersion": "1.472.0",
-                        "platform": "ios",
-                        "systemRequirements": [
-                            {
-                                "minimum": "1 GB",
-                                "requirementType": "InstallSize",
-                                "title": "Installation size"
-                            },
-                            {
-                                "minimum": "900 MB",
-                                "requirementType": "DownloadSize",
-                                "title": "Download size"
-                            },
-                            {
-                                "minimum": "12.0",
-                                "requirementType": "OS",
-                                "title": "OS version"
-                            }
-                        ]
-                    },
-                    "title": "Samorost 3"
-                },
-                "offerId": "e606a3d3012b4610b9bdb1fbf691c5a8",
-                "sandboxId": "c62d7481ae1744dab7310c8f4e1e9548"
             },
             {
                 "content": {
