@@ -11215,7 +11215,7 @@
                         }
                     ],
                     "systemSpecs": {
-                        "applicationVersion": "51.0",
+                        "applicationVersion": "51.1",
                         "platform": "android",
                         "systemRequirements": [
                             {
