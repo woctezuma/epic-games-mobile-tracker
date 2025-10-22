@@ -971,58 +971,57 @@
                             "gate": "no-gate"
                         },
                         "ageRating": {
-                            "ageControl": 16,
-                            "contentDescriptors": [
-                                "Strong Language"
-                            ],
+                            "ageControl": 3,
+                            "contentDescriptors": [],
                             "interactiveElements": [
+                                "Users Interact",
                                 "In-Game Purchases"
                             ],
-                            "ratingImage": "https://cdn1.epicgames.com/gameRating/gameRating/PEGI_16_192_192x192-da60f0bd1fe7cb1ac9d8a8bd5168ea96",
+                            "ratingImage": "https://cdn1.epicgames.com/gameRating/gameRating/PEGI_3_192_192x192-490b93ddf59fb4ac1148d1eb9083626a",
                             "ratingSystem": "PEGI",
-                            "rectangularRatingImage": "https://cdn1.epicgames.com/salesEvent/salesEvent/PEGI-16_435x530-65760d498ce28374fb7ca3258ee1440c",
-                            "title": "PEGI 16"
+                            "rectangularRatingImage": "https://cdn1.epicgames.com/salesEvent/salesEvent/PEGI-3_435x530-c931ab5bb4eb190f6e8e542081c49dc4",
+                            "title": "PEGI 3"
                         },
                         "ratingType": "AgeRating"
                     },
                     "attention": {
                         "inAppPurchases": "None"
                     },
-                    "catalogItemId": "230d84fe27094fbcb0b6f71c787339af",
+                    "catalogItemId": "5f2f92434a8c4914848629cccd13e208",
                     "categories": [
                         "games",
                         "games/edition",
                         "games/edition/base"
                     ],
                     "mapping": {
-                        "slug": "112-operator-ios-c9d3bc"
+                        "slug": "mr-racer-ios-f3db1c"
                     },
                     "media": {
                         "appIcon": {
                             "altText": "-",
                             "height": 512,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/6036e5ea111a448ea1b41d5ab3800d99/112-operator-icon-y4ugl.png",
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/9a81f51cb53441daa0adb2c3bd1d46dd/mr-racer-icon-1r7dt.png",
                             "imageType": "ProductIcon",
                             "width": 512
                         },
                         "card16x9": {
-                            "altText": "112 Operator Offer",
+                            "altText": "MR RACER : Premium Offer",
                             "height": 1440,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/6036e5ea111a448ea1b41d5ab3800d99/112-operator-k3rkv.jpg",
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/9a81f51cb53441daa0adb2c3bd1d46dd/mr-racer--premium-rob42.jpg",
                             "imageType": "OfferImageWide",
                             "width": 2560
                         },
                         "card3x4": {
-                            "altText": "Download 112 Operator Offer",
+                            "altText": "Download MR RACER Offer",
                             "height": 1600,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/6036e5ea111a448ea1b41d5ab3800d99/112-operator-1rf39.jpg",
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/9a81f51cb53441daa0adb2c3bd1d46dd/mr-racer-1ovq8.jpg",
                             "imageType": "OfferImageTall",
                             "width": 1200
                         },
                         "coverImage": {
                             "altText": "-",
                             "height": 1440,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/6036e5ea111a448ea1b41d5ab3800d99/112-operator-1htjd.jpg",
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/9a81f51cb53441daa0adb2c3bd1d46dd/mr-racer--premium-13qtq.jpg",
                             "imageType": "coverImage",
                             "width": 2560
                         }
@@ -1032,41 +1031,41 @@
                             "offerLifecycleState": "Release",
                             "price": {
                                 "currencyCode": "EUR",
-                                "decimalPrice": 8.99
+                                "decimalPrice": 4.49
                             },
-                            "priceDisplay": "€8.99",
+                            "priceDisplay": "€4.49",
                             "purchasePayload": {
-                                "offerId": "a96d48ca85e44dd1b868531eb6cebeaf",
-                                "sandboxId": "9f981e2c861e4a8fbd0eab89541ac8e6"
+                                "offerId": "3771e1059f194cfa9964f5eb9789ff4c",
+                                "sandboxId": "0b8d22f6921241e5887b132935d571e4"
                             },
                             "purchaseType": "Purchase"
                         }
                     ],
                     "systemSpecs": {
-                        "applicationVersion": "1.06.04",
+                        "applicationVersion": "1.5.6",
                         "platform": "ios",
                         "systemRequirements": [
                             {
-                                "minimum": "2 GB",
+                                "minimum": "80Mo",
                                 "requirementType": "InstallSize",
                                 "title": "Installation size"
                             },
                             {
-                                "minimum": "736.74 MB",
+                                "minimum": "80Mo",
                                 "requirementType": "DownloadSize",
                                 "title": "Download size"
                             },
                             {
-                                "minimum": "iOS 14",
+                                "minimum": "10",
                                 "requirementType": "OS",
                                 "title": "OS version"
                             }
                         ]
                     },
-                    "title": "112 Operator"
+                    "title": "MR RACER : Premium"
                 },
-                "offerId": "a96d48ca85e44dd1b868531eb6cebeaf",
-                "sandboxId": "9f981e2c861e4a8fbd0eab89541ac8e6"
+                "offerId": "3771e1059f194cfa9964f5eb9789ff4c",
+                "sandboxId": "0b8d22f6921241e5887b132935d571e4"
             },
             {
                 "content": {
@@ -1504,41 +1503,41 @@
                     "attention": {
                         "inAppPurchases": "None"
                     },
-                    "catalogItemId": "524c858c14d94dbbb9cbfda0fc49e679",
+                    "catalogItemId": "38f6fbcd4b46447d991a2c043f1021cc",
                     "categories": [
                         "games",
                         "games/edition",
                         "games/edition/base"
                     ],
                     "mapping": {
-                        "slug": "kotor-2-ios-1a65e3"
+                        "slug": "super-meat-boy-forever-mobile-ios-190ae0"
                     },
                     "media": {
                         "appIcon": {
                             "altText": "-",
                             "height": 512,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/903773004d514e2d99398698cec67f5c/kotor-2-icon-ugbr7.png",
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/671b8ba419e2433eac672283d53567b5/super-meat-boy-forever-mobile-icon-gv0j4.png",
                             "imageType": "ProductIcon",
                             "width": 512
                         },
                         "card16x9": {
-                            "altText": "KotOR 2 Offer",
+                            "altText": "Super Meat Boy Forever Mobile Offer",
                             "height": 1440,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/903773004d514e2d99398698cec67f5c/kotor-2-en2ul.png",
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/671b8ba419e2433eac672283d53567b5/super-meat-boy-forever-mobile-q3x27.jpg",
                             "imageType": "OfferImageWide",
                             "width": 2560
                         },
                         "card3x4": {
-                            "altText": "Download KotOR 2 Offer",
+                            "altText": "Download Super Meat Boy Forever Mobile Offer",
                             "height": 1600,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/903773004d514e2d99398698cec67f5c/kotor-2-bf89o.png",
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/671b8ba419e2433eac672283d53567b5/super-meat-boy-forever-mobile-1ul7h.jpg",
                             "imageType": "OfferImageTall",
                             "width": 1200
                         },
                         "coverImage": {
                             "altText": "-",
                             "height": 1440,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/903773004d514e2d99398698cec67f5c/kotor-2-n7l9f.png",
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/671b8ba419e2433eac672283d53567b5/super-meat-boy-forever-mobile-g1l2e.jpg",
                             "imageType": "coverImage",
                             "width": 2560
                         }
@@ -1548,41 +1547,41 @@
                             "offerLifecycleState": "Release",
                             "price": {
                                 "currencyCode": "EUR",
-                                "decimalPrice": 13.49
+                                "decimalPrice": 0.99
                             },
-                            "priceDisplay": "€13.49",
+                            "priceDisplay": "€0.99",
                             "purchasePayload": {
-                                "offerId": "9e52f37e06d04ec1bde77d1d321fd07a",
-                                "sandboxId": "6be6051edd0740e984b9c891791d6691"
+                                "offerId": "c7e04db93fe74b86b04ca988a91f9249",
+                                "sandboxId": "d408f663403d4e9f8ecdc3086ed0d7bc"
                             },
                             "purchaseType": "Purchase"
                         }
                     ],
                     "systemSpecs": {
-                        "applicationVersion": "2.0.3",
+                        "applicationVersion": "1.0",
                         "platform": "ios",
                         "systemRequirements": [
                             {
-                                "minimum": "3.88",
+                                "minimum": "981.25 MB",
                                 "requirementType": "InstallSize",
                                 "title": "Installation size"
                             },
                             {
-                                "minimum": "2.3",
+                                "minimum": "981.25 MB",
                                 "requirementType": "DownloadSize",
                                 "title": "Download size"
                             },
                             {
-                                "minimum": "iOS 11",
+                                "minimum": "18.0",
                                 "requirementType": "OS",
                                 "title": "OS version"
                             }
                         ]
                     },
-                    "title": "STAR WARS™ Knights of the Old Republic™ II - The Sith Lords™"
+                    "title": "Super Meat Boy Forever Mobile"
                 },
-                "offerId": "9e52f37e06d04ec1bde77d1d321fd07a",
-                "sandboxId": "6be6051edd0740e984b9c891791d6691"
+                "offerId": "c7e04db93fe74b86b04ca988a91f9249",
+                "sandboxId": "d408f663403d4e9f8ecdc3086ed0d7bc"
             },
             {
                 "content": {
@@ -3810,57 +3809,58 @@
                             "gate": "no-gate"
                         },
                         "ageRating": {
-                            "ageControl": 3,
-                            "contentDescriptors": [],
+                            "ageControl": 16,
+                            "contentDescriptors": [
+                                "Strong Language"
+                            ],
                             "interactiveElements": [
-                                "Users Interact",
                                 "In-Game Purchases"
                             ],
-                            "ratingImage": "https://cdn1.epicgames.com/gameRating/gameRating/PEGI_3_192_192x192-490b93ddf59fb4ac1148d1eb9083626a",
+                            "ratingImage": "https://cdn1.epicgames.com/gameRating/gameRating/PEGI_16_192_192x192-da60f0bd1fe7cb1ac9d8a8bd5168ea96",
                             "ratingSystem": "PEGI",
-                            "rectangularRatingImage": "https://cdn1.epicgames.com/salesEvent/salesEvent/PEGI-3_435x530-c931ab5bb4eb190f6e8e542081c49dc4",
-                            "title": "PEGI 3"
+                            "rectangularRatingImage": "https://cdn1.epicgames.com/salesEvent/salesEvent/PEGI-16_435x530-65760d498ce28374fb7ca3258ee1440c",
+                            "title": "PEGI 16"
                         },
                         "ratingType": "AgeRating"
                     },
                     "attention": {
                         "inAppPurchases": "None"
                     },
-                    "catalogItemId": "5f2f92434a8c4914848629cccd13e208",
+                    "catalogItemId": "230d84fe27094fbcb0b6f71c787339af",
                     "categories": [
                         "games",
                         "games/edition",
                         "games/edition/base"
                     ],
                     "mapping": {
-                        "slug": "mr-racer-ios-f3db1c"
+                        "slug": "112-operator-ios-c9d3bc"
                     },
                     "media": {
                         "appIcon": {
                             "altText": "-",
                             "height": 512,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/9a81f51cb53441daa0adb2c3bd1d46dd/mr-racer-icon-1r7dt.png",
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/6036e5ea111a448ea1b41d5ab3800d99/112-operator-icon-y4ugl.png",
                             "imageType": "ProductIcon",
                             "width": 512
                         },
                         "card16x9": {
-                            "altText": "MR RACER : Premium Offer",
+                            "altText": "112 Operator Offer",
                             "height": 1440,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/9a81f51cb53441daa0adb2c3bd1d46dd/mr-racer--premium-rob42.jpg",
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/6036e5ea111a448ea1b41d5ab3800d99/112-operator-k3rkv.jpg",
                             "imageType": "OfferImageWide",
                             "width": 2560
                         },
                         "card3x4": {
-                            "altText": "Download MR RACER Offer",
+                            "altText": "Download 112 Operator Offer",
                             "height": 1600,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/9a81f51cb53441daa0adb2c3bd1d46dd/mr-racer-1ovq8.jpg",
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/6036e5ea111a448ea1b41d5ab3800d99/112-operator-1rf39.jpg",
                             "imageType": "OfferImageTall",
                             "width": 1200
                         },
                         "coverImage": {
                             "altText": "-",
                             "height": 1440,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/9a81f51cb53441daa0adb2c3bd1d46dd/mr-racer--premium-13qtq.jpg",
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/6036e5ea111a448ea1b41d5ab3800d99/112-operator-1htjd.jpg",
                             "imageType": "coverImage",
                             "width": 2560
                         }
@@ -3870,41 +3870,41 @@
                             "offerLifecycleState": "Release",
                             "price": {
                                 "currencyCode": "EUR",
-                                "decimalPrice": 4.49
+                                "decimalPrice": 8.99
                             },
-                            "priceDisplay": "€4.49",
+                            "priceDisplay": "€8.99",
                             "purchasePayload": {
-                                "offerId": "3771e1059f194cfa9964f5eb9789ff4c",
-                                "sandboxId": "0b8d22f6921241e5887b132935d571e4"
+                                "offerId": "a96d48ca85e44dd1b868531eb6cebeaf",
+                                "sandboxId": "9f981e2c861e4a8fbd0eab89541ac8e6"
                             },
                             "purchaseType": "Purchase"
                         }
                     ],
                     "systemSpecs": {
-                        "applicationVersion": "1.5.6",
+                        "applicationVersion": "1.06.04",
                         "platform": "ios",
                         "systemRequirements": [
                             {
-                                "minimum": "80Mo",
+                                "minimum": "2 GB",
                                 "requirementType": "InstallSize",
                                 "title": "Installation size"
                             },
                             {
-                                "minimum": "80Mo",
+                                "minimum": "736.74 MB",
                                 "requirementType": "DownloadSize",
                                 "title": "Download size"
                             },
                             {
-                                "minimum": "10",
+                                "minimum": "iOS 14",
                                 "requirementType": "OS",
                                 "title": "OS version"
                             }
                         ]
                     },
-                    "title": "MR RACER : Premium"
+                    "title": "112 Operator"
                 },
-                "offerId": "3771e1059f194cfa9964f5eb9789ff4c",
-                "sandboxId": "0b8d22f6921241e5887b132935d571e4"
+                "offerId": "a96d48ca85e44dd1b868531eb6cebeaf",
+                "sandboxId": "9f981e2c861e4a8fbd0eab89541ac8e6"
             },
             {
                 "content": {
@@ -4049,41 +4049,41 @@
                     "attention": {
                         "inAppPurchases": "None"
                     },
-                    "catalogItemId": "38f6fbcd4b46447d991a2c043f1021cc",
+                    "catalogItemId": "524c858c14d94dbbb9cbfda0fc49e679",
                     "categories": [
                         "games",
                         "games/edition",
                         "games/edition/base"
                     ],
                     "mapping": {
-                        "slug": "super-meat-boy-forever-mobile-ios-190ae0"
+                        "slug": "kotor-2-ios-1a65e3"
                     },
                     "media": {
                         "appIcon": {
                             "altText": "-",
                             "height": 512,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/671b8ba419e2433eac672283d53567b5/super-meat-boy-forever-mobile-icon-gv0j4.png",
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/903773004d514e2d99398698cec67f5c/kotor-2-icon-ugbr7.png",
                             "imageType": "ProductIcon",
                             "width": 512
                         },
                         "card16x9": {
-                            "altText": "Super Meat Boy Forever Mobile Offer",
+                            "altText": "KotOR 2 Offer",
                             "height": 1440,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/671b8ba419e2433eac672283d53567b5/super-meat-boy-forever-mobile-q3x27.jpg",
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/903773004d514e2d99398698cec67f5c/kotor-2-en2ul.png",
                             "imageType": "OfferImageWide",
                             "width": 2560
                         },
                         "card3x4": {
-                            "altText": "Download Super Meat Boy Forever Mobile Offer",
+                            "altText": "Download KotOR 2 Offer",
                             "height": 1600,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/671b8ba419e2433eac672283d53567b5/super-meat-boy-forever-mobile-1ul7h.jpg",
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/903773004d514e2d99398698cec67f5c/kotor-2-bf89o.png",
                             "imageType": "OfferImageTall",
                             "width": 1200
                         },
                         "coverImage": {
                             "altText": "-",
                             "height": 1440,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/671b8ba419e2433eac672283d53567b5/super-meat-boy-forever-mobile-g1l2e.jpg",
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/903773004d514e2d99398698cec67f5c/kotor-2-n7l9f.png",
                             "imageType": "coverImage",
                             "width": 2560
                         }
@@ -4093,41 +4093,41 @@
                             "offerLifecycleState": "Release",
                             "price": {
                                 "currencyCode": "EUR",
-                                "decimalPrice": 0.99
+                                "decimalPrice": 13.49
                             },
-                            "priceDisplay": "€0.99",
+                            "priceDisplay": "€13.49",
                             "purchasePayload": {
-                                "offerId": "c7e04db93fe74b86b04ca988a91f9249",
-                                "sandboxId": "d408f663403d4e9f8ecdc3086ed0d7bc"
+                                "offerId": "9e52f37e06d04ec1bde77d1d321fd07a",
+                                "sandboxId": "6be6051edd0740e984b9c891791d6691"
                             },
                             "purchaseType": "Purchase"
                         }
                     ],
                     "systemSpecs": {
-                        "applicationVersion": "1.0",
+                        "applicationVersion": "2.0.3",
                         "platform": "ios",
                         "systemRequirements": [
                             {
-                                "minimum": "981.25 MB",
+                                "minimum": "3.88",
                                 "requirementType": "InstallSize",
                                 "title": "Installation size"
                             },
                             {
-                                "minimum": "981.25 MB",
+                                "minimum": "2.3",
                                 "requirementType": "DownloadSize",
                                 "title": "Download size"
                             },
                             {
-                                "minimum": "18.0",
+                                "minimum": "iOS 11",
                                 "requirementType": "OS",
                                 "title": "OS version"
                             }
                         ]
                     },
-                    "title": "Super Meat Boy Forever Mobile"
+                    "title": "STAR WARS™ Knights of the Old Republic™ II - The Sith Lords™"
                 },
-                "offerId": "c7e04db93fe74b86b04ca988a91f9249",
-                "sandboxId": "d408f663403d4e9f8ecdc3086ed0d7bc"
+                "offerId": "9e52f37e06d04ec1bde77d1d321fd07a",
+                "sandboxId": "6be6051edd0740e984b9c891791d6691"
             },
             {
                 "content": {
