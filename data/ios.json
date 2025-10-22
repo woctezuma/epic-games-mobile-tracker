@@ -12,138 +12,6 @@
                             "gate": "no-gate"
                         },
                         "ageRating": {
-                            "ageControl": 7,
-                            "contentDescriptors": [
-                                "Mild Violence"
-                            ],
-                            "interactiveElements": [],
-                            "ratingImage": "https://cdn1.epicgames.com/gameRating/gameRating/PEGI_7_192_192x192-30e2e712d0682dad01add90a6ccbed5b",
-                            "ratingSystem": "PEGI",
-                            "rectangularRatingImage": "https://cdn1.epicgames.com/salesEvent/salesEvent/PEGI-7_435x530-9439a136999d3dd762c7a61c3b8c7683",
-                            "title": "PEGI 7"
-                        },
-                        "ratingType": "AgeRating"
-                    },
-                    "attention": {
-                        "inAppPurchases": "None"
-                    },
-                    "catalogItemId": "3c140232b170490a9e4b72b33323c8f7",
-                    "categories": [
-                        "freegames",
-                        "games",
-                        "games/edition",
-                        "games/edition/base"
-                    ],
-                    "mapping": {
-                        "slug": "samorost-3-ios-06e52a"
-                    },
-                    "media": {
-                        "appIcon": {
-                            "altText": "-",
-                            "height": 512,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/b2c854d46f0f46de8b14e1178b7e85fc/samorost-3-icon-12q06.png",
-                            "imageType": "ProductIcon",
-                            "width": 512
-                        },
-                        "card16x9": {
-                            "altText": "Samorost 3 Offer",
-                            "height": 1440,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/b2c854d46f0f46de8b14e1178b7e85fc/samorost-3-161p7.jpg",
-                            "imageType": "OfferImageWide",
-                            "width": 2560
-                        },
-                        "card3x4": {
-                            "altText": "Download Samorost 3 Offer",
-                            "height": 1600,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/b2c854d46f0f46de8b14e1178b7e85fc/samorost-3-95ojz.jpg",
-                            "imageType": "OfferImageTall",
-                            "width": 1200
-                        },
-                        "coverImage": {
-                            "altText": "-",
-                            "height": 1440,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/b2c854d46f0f46de8b14e1178b7e85fc/samorost-3-eb55r.jpg",
-                            "imageType": "coverImage",
-                            "width": 2560
-                        }
-                    },
-                    "purchase": [
-                        {
-                            "discount": {
-                                "discountAmountDisplay": "-100%",
-                                "discountEndDate": "2025-10-23T15:00:00.000Z",
-                                "originalPriceDisplay": "€6.99"
-                            },
-                            "offerLifecycleState": "Release",
-                            "price": {
-                                "currencyCode": "EUR",
-                                "decimalPrice": 0
-                            },
-                            "purchasePayload": {
-                                "offerId": "e606a3d3012b4610b9bdb1fbf691c5a8",
-                                "sandboxId": "c62d7481ae1744dab7310c8f4e1e9548"
-                            },
-                            "purchaseType": "Claim"
-                        },
-                        {
-                            "offerLifecycleState": "Release",
-                            "price": {
-                                "currencyCode": "EUR",
-                                "decimalPrice": 6.99
-                            },
-                            "priceDisplay": "€6.99",
-                            "purchasePayload": {
-                                "offerId": "e606a3d3012b4610b9bdb1fbf691c5a8",
-                                "sandboxId": "c62d7481ae1744dab7310c8f4e1e9548"
-                            },
-                            "purchaseType": "Purchase"
-                        }
-                    ],
-                    "systemSpecs": {
-                        "applicationVersion": "1.472.0",
-                        "platform": "ios",
-                        "systemRequirements": [
-                            {
-                                "minimum": "1 GB",
-                                "requirementType": "InstallSize",
-                                "title": "Installation size"
-                            },
-                            {
-                                "minimum": "900 MB",
-                                "requirementType": "DownloadSize",
-                                "title": "Download size"
-                            },
-                            {
-                                "minimum": "12.0",
-                                "requirementType": "OS",
-                                "title": "OS version"
-                            }
-                        ]
-                    },
-                    "title": "Samorost 3"
-                },
-                "offerId": "e606a3d3012b4610b9bdb1fbf691c5a8",
-                "sandboxId": "c62d7481ae1744dab7310c8f4e1e9548"
-            }
-        ],
-        "size": "large",
-        "title": "Free Games",
-        "topicId": "mobile-ios-free-game",
-        "type": "freeGame"
-    },
-    {
-        "link": {
-            "linkText": "home page",
-            "src": "/"
-        },
-        "offers": [
-            {
-                "content": {
-                    "ageRating": {
-                        "ageGate": {
-                            "gate": "no-gate"
-                        },
-                        "ageRating": {
                             "ageControl": 3,
                             "contentDescriptors": [],
                             "interactiveElements": [],
@@ -159,9 +27,10 @@
                     },
                     "catalogItemId": "1a312a9dacff4264ae6aac0e00e3a95e",
                     "categories": [
-                        "games/edition/base",
+                        "freegames",
+                        "games",
                         "games/edition",
-                        "games"
+                        "games/edition/base"
                     ],
                     "mapping": {
                         "slug": "doodle-farm-breeds-and-beasts-ios-a11512"
@@ -197,6 +66,36 @@
                         }
                     },
                     "purchase": [
+                        {
+                            "offerLifecycleState": "Release",
+                            "price": {
+                                "currencyCode": "EUR",
+                                "decimalPrice": 2.19
+                            },
+                            "priceDisplay": "€2.19",
+                            "purchasePayload": {
+                                "offerId": "954d307005fa44edb85c80120b2e51e5",
+                                "sandboxId": "904f68c328364b1f98feb3b675ccf93d"
+                            },
+                            "purchaseType": "Purchase"
+                        },
+                        {
+                            "discount": {
+                                "discountAmountDisplay": "-100%",
+                                "discountEndDate": "2025-10-30T15:00:00.000Z",
+                                "originalPriceDisplay": "€2.19"
+                            },
+                            "offerLifecycleState": "Release",
+                            "price": {
+                                "currencyCode": "EUR",
+                                "decimalPrice": 0
+                            },
+                            "purchasePayload": {
+                                "offerId": "954d307005fa44edb85c80120b2e51e5",
+                                "sandboxId": "904f68c328364b1f98feb3b675ccf93d"
+                            },
+                            "purchaseType": "Claim"
+                        },
                         {
                             "offerLifecycleState": "Release",
                             "price": {
@@ -750,7 +649,7 @@
             }
         ],
         "size": "medium",
-        "title": "Featured",
+        "title": "",
         "topicId": "mobile-ios-carousel",
         "type": "featured"
     },
@@ -1991,7 +1890,7 @@
             }
         ],
         "size": "large",
-        "title": "Recently Added",
+        "title": "Featured",
         "topicId": "mobile-ios-featured-breaker",
         "type": "interactive"
     },
@@ -2918,6 +2817,138 @@
         "title": "Fortnite Experiences",
         "topicId": "mobile-ios-fn-exp",
         "type": "imageOnly"
+    },
+    {
+        "link": {
+            "linkText": "home page",
+            "src": "/"
+        },
+        "offers": [
+            {
+                "content": {
+                    "ageRating": {
+                        "ageGate": {
+                            "gate": "no-gate"
+                        },
+                        "ageRating": {
+                            "ageControl": 7,
+                            "contentDescriptors": [
+                                "Mild Violence"
+                            ],
+                            "interactiveElements": [],
+                            "ratingImage": "https://cdn1.epicgames.com/gameRating/gameRating/PEGI_7_192_192x192-30e2e712d0682dad01add90a6ccbed5b",
+                            "ratingSystem": "PEGI",
+                            "rectangularRatingImage": "https://cdn1.epicgames.com/salesEvent/salesEvent/PEGI-7_435x530-9439a136999d3dd762c7a61c3b8c7683",
+                            "title": "PEGI 7"
+                        },
+                        "ratingType": "AgeRating"
+                    },
+                    "attention": {
+                        "inAppPurchases": "None"
+                    },
+                    "catalogItemId": "3c140232b170490a9e4b72b33323c8f7",
+                    "categories": [
+                        "freegames",
+                        "games",
+                        "games/edition",
+                        "games/edition/base"
+                    ],
+                    "mapping": {
+                        "slug": "samorost-3-ios-06e52a"
+                    },
+                    "media": {
+                        "appIcon": {
+                            "altText": "-",
+                            "height": 512,
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/b2c854d46f0f46de8b14e1178b7e85fc/samorost-3-icon-12q06.png",
+                            "imageType": "ProductIcon",
+                            "width": 512
+                        },
+                        "card16x9": {
+                            "altText": "Samorost 3 Offer",
+                            "height": 1440,
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/b2c854d46f0f46de8b14e1178b7e85fc/samorost-3-161p7.jpg",
+                            "imageType": "OfferImageWide",
+                            "width": 2560
+                        },
+                        "card3x4": {
+                            "altText": "Download Samorost 3 Offer",
+                            "height": 1600,
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/b2c854d46f0f46de8b14e1178b7e85fc/samorost-3-95ojz.jpg",
+                            "imageType": "OfferImageTall",
+                            "width": 1200
+                        },
+                        "coverImage": {
+                            "altText": "-",
+                            "height": 1440,
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/b2c854d46f0f46de8b14e1178b7e85fc/samorost-3-eb55r.jpg",
+                            "imageType": "coverImage",
+                            "width": 2560
+                        }
+                    },
+                    "purchase": [
+                        {
+                            "discount": {
+                                "discountAmountDisplay": "-100%",
+                                "discountEndDate": "2025-10-23T15:00:00.000Z",
+                                "originalPriceDisplay": "€6.99"
+                            },
+                            "offerLifecycleState": "Release",
+                            "price": {
+                                "currencyCode": "EUR",
+                                "decimalPrice": 0
+                            },
+                            "purchasePayload": {
+                                "offerId": "e606a3d3012b4610b9bdb1fbf691c5a8",
+                                "sandboxId": "c62d7481ae1744dab7310c8f4e1e9548"
+                            },
+                            "purchaseType": "Claim"
+                        },
+                        {
+                            "offerLifecycleState": "Release",
+                            "price": {
+                                "currencyCode": "EUR",
+                                "decimalPrice": 6.99
+                            },
+                            "priceDisplay": "€6.99",
+                            "purchasePayload": {
+                                "offerId": "e606a3d3012b4610b9bdb1fbf691c5a8",
+                                "sandboxId": "c62d7481ae1744dab7310c8f4e1e9548"
+                            },
+                            "purchaseType": "Purchase"
+                        }
+                    ],
+                    "systemSpecs": {
+                        "applicationVersion": "1.472.0",
+                        "platform": "ios",
+                        "systemRequirements": [
+                            {
+                                "minimum": "1 GB",
+                                "requirementType": "InstallSize",
+                                "title": "Installation size"
+                            },
+                            {
+                                "minimum": "900 MB",
+                                "requirementType": "DownloadSize",
+                                "title": "Download size"
+                            },
+                            {
+                                "minimum": "12.0",
+                                "requirementType": "OS",
+                                "title": "OS version"
+                            }
+                        ]
+                    },
+                    "title": "Samorost 3"
+                },
+                "offerId": "e606a3d3012b4610b9bdb1fbf691c5a8",
+                "sandboxId": "c62d7481ae1744dab7310c8f4e1e9548"
+            }
+        ],
+        "size": "large",
+        "title": "Free Games",
+        "topicId": "mobile-ios-free-game",
+        "type": "freeGame"
     },
     {
         "link": {
@@ -5085,6 +5116,37 @@
                         }
                     },
                     "purchase": [
+                        {
+                            "offerLifecycleState": "Release",
+                            "price": {
+                                "currencyCode": "EUR",
+                                "decimalPrice": 6.29
+                            },
+                            "priceDisplay": "€6.29",
+                            "purchasePayload": {
+                                "offerId": "383fd6e2b6ed42e08973301540ba188b",
+                                "sandboxId": "d55b1ce868af425e9631c2d46c074ab9"
+                            },
+                            "purchaseType": "Purchase"
+                        },
+                        {
+                            "discount": {
+                                "discountAmountDisplay": "-80%",
+                                "discountEndDate": "2025-11-05T22:59:00.000Z",
+                                "originalPriceDisplay": "€6.29"
+                            },
+                            "offerLifecycleState": "Release",
+                            "price": {
+                                "currencyCode": "EUR",
+                                "decimalPrice": 1.25
+                            },
+                            "priceDisplay": "€1.25",
+                            "purchasePayload": {
+                                "offerId": "383fd6e2b6ed42e08973301540ba188b",
+                                "sandboxId": "d55b1ce868af425e9631c2d46c074ab9"
+                            },
+                            "purchaseType": "Purchase"
+                        },
                         {
                             "offerLifecycleState": "Release",
                             "price": {
