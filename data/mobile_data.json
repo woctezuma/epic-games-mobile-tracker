@@ -333,6 +333,64 @@
         "store_url": "<https://store.epicgames.com/product/samorost-2-ios-990d45>",
         "title": "Samorost 2"
     },
+    "1-4ebf21b7761e40cdb180d0604127e4a6-8300122ee9244c76b367d1b9187bb259": {
+        "age_control": 12,
+        "catalog_item_id": "87104a61adb74ecfa196add0fb6bc964",
+        "checkout_url": "<https://store.epicgames.com/purchase?offers=1-4ebf21b7761e40cdb180d0604127e4a6-8300122ee9244c76b367d1b9187bb259>",
+        "content_descriptors": [
+            "Horror",
+            "Moderate Violence"
+        ],
+        "current_price": "0",
+        "discount": "-100%",
+        "download_size": "503.67 MB",
+        "end_date": "2025-11-06T16:00:00.000Z",
+        "in_app_purchases": false,
+        "install_size": "636 MB",
+        "interactive_elements": [],
+        "media": {
+            "OfferImageTall": "https://cdn1.epicgames.com/spt-assets/0b1283e5bfa64ad48f3862b79abc20b9/bendy-and-the-ink-machine-hk1bf.png",
+            "OfferImageWide": "https://cdn1.epicgames.com/spt-assets/0b1283e5bfa64ad48f3862b79abc20b9/bendy-and-the-ink-machine-1yjc1.png",
+            "ProductIcon": "https://cdn1.epicgames.com/spt-assets/0b1283e5bfa64ad48f3862b79abc20b9/bendy-and-the-ink-machine-icon-nfg5r.png",
+            "coverImage": "https://cdn1.epicgames.com/spt-assets/0b1283e5bfa64ad48f3862b79abc20b9/bendy-and-the-ink-machine-p9ykp.png"
+        },
+        "offer_id": "8300122ee9244c76b367d1b9187bb259",
+        "original_price": "4.49",
+        "platform": "android",
+        "sandbox_id": "4ebf21b7761e40cdb180d0604127e4a6",
+        "slug": "bendy-and-the-ink-machine-android-4fc7c4",
+        "store_url": "<https://store.epicgames.com/product/bendy-and-the-ink-machine-android-4fc7c4>",
+        "title": "Bendy and the Ink Machine"
+    },
+    "1-4ebf21b7761e40cdb180d0604127e4a6-c88c077fcc404c29a98b4f83aa7d2e99": {
+        "age_control": 12,
+        "catalog_item_id": "117ea9d39c374c079fcaa33e7bd7521a",
+        "checkout_url": "<https://store.epicgames.com/purchase?offers=1-4ebf21b7761e40cdb180d0604127e4a6-c88c077fcc404c29a98b4f83aa7d2e99>",
+        "content_descriptors": [
+            "Horror",
+            "Moderate Violence"
+        ],
+        "current_price": "0",
+        "discount": "-100%",
+        "download_size": "547 MB",
+        "end_date": "2025-11-06T16:00:00.000Z",
+        "in_app_purchases": false,
+        "install_size": "1.24 GB",
+        "interactive_elements": [],
+        "media": {
+            "OfferImageTall": "https://cdn1.epicgames.com/spt-assets/0b1283e5bfa64ad48f3862b79abc20b9/bendy-and-the-ink-machine-86nm1.png",
+            "OfferImageWide": "https://cdn1.epicgames.com/spt-assets/0b1283e5bfa64ad48f3862b79abc20b9/bendy-and-the-ink-machine-1011v.png",
+            "ProductIcon": "https://cdn1.epicgames.com/spt-assets/0b1283e5bfa64ad48f3862b79abc20b9/bendy-and-the-ink-machine-icon-nfg5r.png",
+            "coverImage": "https://cdn1.epicgames.com/spt-assets/0b1283e5bfa64ad48f3862b79abc20b9/bendy-and-the-ink-machine-p9ykp.png"
+        },
+        "offer_id": "c88c077fcc404c29a98b4f83aa7d2e99",
+        "original_price": "4.49",
+        "platform": "ios",
+        "sandbox_id": "4ebf21b7761e40cdb180d0604127e4a6",
+        "slug": "bendy-and-the-ink-machine-ios-eece7b",
+        "store_url": "<https://store.epicgames.com/product/bendy-and-the-ink-machine-ios-eece7b>",
+        "title": "Bendy and the Ink Machine"
+    },
     "1-5118b091950743c2bf33185cbd9cd35f-06e80adf547443e1b0161f3c16e57883": {
         "age_control": 12,
         "catalog_item_id": "492f4236452245d7830bf5fe869817a6",
