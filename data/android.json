@@ -1066,137 +1066,6 @@
                             "gate": "no-gate"
                         },
                         "ageRating": {
-                            "ageControl": 3,
-                            "contentDescriptors": [],
-                            "interactiveElements": [],
-                            "ratingImage": "https://cdn1.epicgames.com/gameRating/gameRating/PEGI_3_192_192x192-490b93ddf59fb4ac1148d1eb9083626a",
-                            "ratingSystem": "PEGI",
-                            "rectangularRatingImage": "https://cdn1.epicgames.com/salesEvent/salesEvent/PEGI-3_435x530-c931ab5bb4eb190f6e8e542081c49dc4",
-                            "title": "PEGI 3"
-                        },
-                        "ratingType": "AgeRating"
-                    },
-                    "attention": {
-                        "inAppPurchases": "None"
-                    },
-                    "catalogItemId": "4d7d45a4365d4118bfb3df124269d5df",
-                    "categories": [
-                        "freegames",
-                        "games",
-                        "games/edition",
-                        "games/edition/base"
-                    ],
-                    "mapping": {
-                        "slug": "doodle-farm-breeds-and-beasts-android-9c6b12"
-                    },
-                    "media": {
-                        "appIcon": {
-                            "altText": "-",
-                            "height": 512,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/d228aef813e34ed080a86cc49ae640e2/doodle-farm-breeds-and-beasts-icon-1ocjz.png",
-                            "imageType": "ProductIcon",
-                            "width": 512
-                        },
-                        "card16x9": {
-                            "altText": "Doodle Farm: Breeds and Beasts Offer",
-                            "height": 1440,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/d228aef813e34ed080a86cc49ae640e2/doodle-farm-breeds-and-beasts-1gfzk.jpg",
-                            "imageType": "OfferImageWide",
-                            "width": 2560
-                        },
-                        "card3x4": {
-                            "altText": "Download Doodle Farm: Breeds and Beasts Offer",
-                            "height": 1600,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/d228aef813e34ed080a86cc49ae640e2/doodle-farm-breeds-and-beasts-fzvo7.png",
-                            "imageType": "OfferImageTall",
-                            "width": 1200
-                        },
-                        "coverImage": {
-                            "altText": "-",
-                            "height": 1440,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/d228aef813e34ed080a86cc49ae640e2/doodle-farm-breeds-and-beasts-1g0oh.jpg",
-                            "imageType": "coverImage",
-                            "width": 2560
-                        }
-                    },
-                    "purchase": [
-                        {
-                            "offerLifecycleState": "Release",
-                            "price": {
-                                "currencyCode": "EUR",
-                                "decimalPrice": 2.19
-                            },
-                            "priceDisplay": "€2.19",
-                            "purchasePayload": {
-                                "offerId": "517342bfb45d420ab0fb3e17628de37a",
-                                "sandboxId": "904f68c328364b1f98feb3b675ccf93d"
-                            },
-                            "purchaseType": "Purchase"
-                        },
-                        {
-                            "discount": {
-                                "discountAmountDisplay": "-100%",
-                                "discountEndDate": "2025-10-30T15:00:00.000Z",
-                                "originalPriceDisplay": "€2.19"
-                            },
-                            "offerLifecycleState": "Release",
-                            "price": {
-                                "currencyCode": "EUR",
-                                "decimalPrice": 0
-                            },
-                            "purchasePayload": {
-                                "offerId": "517342bfb45d420ab0fb3e17628de37a",
-                                "sandboxId": "904f68c328364b1f98feb3b675ccf93d"
-                            },
-                            "purchaseType": "Claim"
-                        },
-                        {
-                            "offerLifecycleState": "Release",
-                            "price": {
-                                "currencyCode": "EUR",
-                                "decimalPrice": 2.19
-                            },
-                            "priceDisplay": "€2.19",
-                            "purchasePayload": {
-                                "offerId": "517342bfb45d420ab0fb3e17628de37a",
-                                "sandboxId": "904f68c328364b1f98feb3b675ccf93d"
-                            },
-                            "purchaseType": "Purchase"
-                        }
-                    ],
-                    "systemSpecs": {
-                        "applicationVersion": "1.0.5",
-                        "platform": "android",
-                        "systemRequirements": [
-                            {
-                                "minimum": "100",
-                                "requirementType": "InstallSize",
-                                "title": "Installation size"
-                            },
-                            {
-                                "minimum": "84.77 MB",
-                                "requirementType": "DownloadSize",
-                                "title": "Download size"
-                            },
-                            {
-                                "minimum": "7.0",
-                                "requirementType": "OS",
-                                "title": "OS version"
-                            }
-                        ]
-                    },
-                    "title": "Doodle Farm: Breeds and Beasts"
-                },
-                "offerId": "517342bfb45d420ab0fb3e17628de37a",
-                "sandboxId": "904f68c328364b1f98feb3b675ccf93d"
-            },
-            {
-                "content": {
-                    "ageRating": {
-                        "ageGate": {
-                            "gate": "no-gate"
-                        },
-                        "ageRating": {
                             "ageControl": 7,
                             "contentDescriptors": [
                                 "Mild Violence"
@@ -1936,6 +1805,108 @@
                 },
                 "offerId": "10f88dd0ece144c3962a5ce05ebfb6be",
                 "sandboxId": "8fab06fadbc544a8a17b0cbfd6dde51c"
+            },
+            {
+                "content": {
+                    "ageRating": {
+                        "ageGate": {
+                            "gate": "no-gate"
+                        },
+                        "ageRating": {
+                            "ageControl": 3,
+                            "contentDescriptors": [],
+                            "interactiveElements": [
+                                "Users Interact",
+                                "In-Game Purchases (Includes Random Items)"
+                            ],
+                            "ratingImage": "https://cdn1.epicgames.com/gameRating/gameRating/PEGI_3_192_192x192-490b93ddf59fb4ac1148d1eb9083626a",
+                            "ratingSystem": "PEGI",
+                            "rectangularRatingImage": "https://cdn1.epicgames.com/salesEvent/salesEvent/PEGI-3_435x530-c931ab5bb4eb190f6e8e542081c49dc4",
+                            "title": "PEGI 3"
+                        },
+                        "ratingType": "AgeRating"
+                    },
+                    "attention": {
+                        "inAppPurchases": "MaybeIncludesInAppPurchases"
+                    },
+                    "catalogItemId": "4cadfc8471704b1997d2cd2bd9677484",
+                    "categories": [
+                        "games",
+                        "games/edition",
+                        "games/edition/base"
+                    ],
+                    "mapping": {
+                        "slug": "1212-android-f8a696"
+                    },
+                    "media": {
+                        "appIcon": {
+                            "altText": "-",
+                            "height": 512,
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/cb8173a84ad44774b2e355e53daea00b/nations-of-darkness-icon-1o95q.png",
+                            "imageType": "ProductIcon",
+                            "width": 512
+                        },
+                        "card16x9": {
+                            "altText": "Nations of Darkness Offer",
+                            "height": 1440,
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/cb8173a84ad44774b2e355e53daea00b/nations-of-darkness-vcgyz.png",
+                            "imageType": "OfferImageWide",
+                            "width": 2560
+                        },
+                        "card3x4": {
+                            "altText": "Download Nations of Darkness Offer",
+                            "height": 1600,
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/cb8173a84ad44774b2e355e53daea00b/nations-of-darkness-1oehn.png",
+                            "imageType": "OfferImageTall",
+                            "width": 1200
+                        },
+                        "coverImage": {
+                            "altText": "-",
+                            "height": 1440,
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/cb8173a84ad44774b2e355e53daea00b/nations-of-darkness-m11gq.jpg",
+                            "imageType": "coverImage",
+                            "width": 2560
+                        }
+                    },
+                    "purchase": [
+                        {
+                            "offerLifecycleState": "Release",
+                            "price": {
+                                "currencyCode": "EUR",
+                                "decimalPrice": 0
+                            },
+                            "purchasePayload": {
+                                "offerId": "d9ab14ff867e43c2911aa17fc145a800",
+                                "sandboxId": "7516c53e561c456495ae592cc9c02ae4"
+                            },
+                            "purchaseType": "Claim"
+                        }
+                    ],
+                    "systemSpecs": {
+                        "applicationVersion": "1.15.0",
+                        "platform": "android",
+                        "systemRequirements": [
+                            {
+                                "minimum": "175MB",
+                                "requirementType": "InstallSize",
+                                "title": "Installation size"
+                            },
+                            {
+                                "minimum": "194.59 MB",
+                                "requirementType": "DownloadSize",
+                                "title": "Download size"
+                            },
+                            {
+                                "minimum": "API level 22",
+                                "requirementType": "OS",
+                                "title": "OS version"
+                            }
+                        ]
+                    },
+                    "title": "Nations of Darkness"
+                },
+                "offerId": "d9ab14ff867e43c2911aa17fc145a800",
+                "sandboxId": "7516c53e561c456495ae592cc9c02ae4"
             }
         ],
         "size": "large",
@@ -2880,22 +2851,20 @@
                             "gate": "no-gate"
                         },
                         "ageRating": {
-                            "ageControl": 7,
-                            "contentDescriptors": [
-                                "Mild Violence"
-                            ],
+                            "ageControl": 3,
+                            "contentDescriptors": [],
                             "interactiveElements": [],
-                            "ratingImage": "https://cdn1.epicgames.com/gameRating/gameRating/PEGI_7_192_192x192-30e2e712d0682dad01add90a6ccbed5b",
+                            "ratingImage": "https://cdn1.epicgames.com/gameRating/gameRating/PEGI_3_192_192x192-490b93ddf59fb4ac1148d1eb9083626a",
                             "ratingSystem": "PEGI",
-                            "rectangularRatingImage": "https://cdn1.epicgames.com/salesEvent/salesEvent/PEGI-7_435x530-9439a136999d3dd762c7a61c3b8c7683",
-                            "title": "PEGI 7"
+                            "rectangularRatingImage": "https://cdn1.epicgames.com/salesEvent/salesEvent/PEGI-3_435x530-c931ab5bb4eb190f6e8e542081c49dc4",
+                            "title": "PEGI 3"
                         },
                         "ratingType": "AgeRating"
                     },
                     "attention": {
                         "inAppPurchases": "None"
                     },
-                    "catalogItemId": "b78dcc2694ef4157899ab221977a3f01",
+                    "catalogItemId": "4d7d45a4365d4118bfb3df124269d5df",
                     "categories": [
                         "freegames",
                         "games",
@@ -2903,34 +2872,34 @@
                         "games/edition/base"
                     ],
                     "mapping": {
-                        "slug": "samorost-3-android-0408e5"
+                        "slug": "doodle-farm-breeds-and-beasts-android-9c6b12"
                     },
                     "media": {
                         "appIcon": {
                             "altText": "-",
                             "height": 512,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/b2c854d46f0f46de8b14e1178b7e85fc/samorost-3-icon-12q06.png",
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/d228aef813e34ed080a86cc49ae640e2/doodle-farm-breeds-and-beasts-icon-1ocjz.png",
                             "imageType": "ProductIcon",
                             "width": 512
                         },
                         "card16x9": {
-                            "altText": "Samorost 3 Offer",
+                            "altText": "Doodle Farm: Breeds and Beasts Offer",
                             "height": 1440,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/b2c854d46f0f46de8b14e1178b7e85fc/samorost-3-rla7k.jpg",
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/d228aef813e34ed080a86cc49ae640e2/doodle-farm-breeds-and-beasts-1gfzk.jpg",
                             "imageType": "OfferImageWide",
                             "width": 2560
                         },
                         "card3x4": {
-                            "altText": "Download Samorost 3 Offer",
+                            "altText": "Download Doodle Farm: Breeds and Beasts Offer",
                             "height": 1600,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/b2c854d46f0f46de8b14e1178b7e85fc/samorost-3-wfdhq.jpg",
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/d228aef813e34ed080a86cc49ae640e2/doodle-farm-breeds-and-beasts-fzvo7.png",
                             "imageType": "OfferImageTall",
                             "width": 1200
                         },
                         "coverImage": {
                             "altText": "-",
                             "height": 1440,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/b2c854d46f0f46de8b14e1178b7e85fc/samorost-3-eb55r.jpg",
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/d228aef813e34ed080a86cc49ae640e2/doodle-farm-breeds-and-beasts-1g0oh.jpg",
                             "imageType": "coverImage",
                             "width": 2560
                         }
@@ -2939,8 +2908,8 @@
                         {
                             "discount": {
                                 "discountAmountDisplay": "-100%",
-                                "discountEndDate": "2025-10-23T15:00:00.000Z",
-                                "originalPriceDisplay": "€6.99"
+                                "discountEndDate": "2025-10-30T15:00:00.000Z",
+                                "originalPriceDisplay": "€2.19"
                             },
                             "offerLifecycleState": "Release",
                             "price": {
@@ -2948,8 +2917,8 @@
                                 "decimalPrice": 0
                             },
                             "purchasePayload": {
-                                "offerId": "04fd7f76cecc4eaf830b82e27ffe8a2b",
-                                "sandboxId": "c62d7481ae1744dab7310c8f4e1e9548"
+                                "offerId": "517342bfb45d420ab0fb3e17628de37a",
+                                "sandboxId": "904f68c328364b1f98feb3b675ccf93d"
                             },
                             "purchaseType": "Claim"
                         },
@@ -2957,41 +2926,41 @@
                             "offerLifecycleState": "Release",
                             "price": {
                                 "currencyCode": "EUR",
-                                "decimalPrice": 6.99
+                                "decimalPrice": 2.19
                             },
-                            "priceDisplay": "€6.99",
+                            "priceDisplay": "€2.19",
                             "purchasePayload": {
-                                "offerId": "04fd7f76cecc4eaf830b82e27ffe8a2b",
-                                "sandboxId": "c62d7481ae1744dab7310c8f4e1e9548"
+                                "offerId": "517342bfb45d420ab0fb3e17628de37a",
+                                "sandboxId": "904f68c328364b1f98feb3b675ccf93d"
                             },
                             "purchaseType": "Purchase"
                         }
                     ],
                     "systemSpecs": {
-                        "applicationVersion": "3.472.3",
+                        "applicationVersion": "1.0.5",
                         "platform": "android",
                         "systemRequirements": [
                             {
-                                "minimum": "1 GB",
+                                "minimum": "100",
                                 "requirementType": "InstallSize",
                                 "title": "Installation size"
                             },
                             {
-                                "minimum": "857.90 MB",
+                                "minimum": "84.77 MB",
                                 "requirementType": "DownloadSize",
                                 "title": "Download size"
                             },
                             {
-                                "minimum": "6.0",
+                                "minimum": "7.0",
                                 "requirementType": "OS",
                                 "title": "OS version"
                             }
                         ]
                     },
-                    "title": "Samorost 3"
+                    "title": "Doodle Farm: Breeds and Beasts"
                 },
-                "offerId": "04fd7f76cecc4eaf830b82e27ffe8a2b",
-                "sandboxId": "c62d7481ae1744dab7310c8f4e1e9548"
+                "offerId": "517342bfb45d420ab0fb3e17628de37a",
+                "sandboxId": "904f68c328364b1f98feb3b675ccf93d"
             }
         ],
         "size": "large",
@@ -4056,108 +4025,6 @@
                             "gate": "no-gate"
                         },
                         "ageRating": {
-                            "ageControl": 3,
-                            "contentDescriptors": [],
-                            "interactiveElements": [
-                                "Users Interact",
-                                "In-Game Purchases (Includes Random Items)"
-                            ],
-                            "ratingImage": "https://cdn1.epicgames.com/gameRating/gameRating/PEGI_3_192_192x192-490b93ddf59fb4ac1148d1eb9083626a",
-                            "ratingSystem": "PEGI",
-                            "rectangularRatingImage": "https://cdn1.epicgames.com/salesEvent/salesEvent/PEGI-3_435x530-c931ab5bb4eb190f6e8e542081c49dc4",
-                            "title": "PEGI 3"
-                        },
-                        "ratingType": "AgeRating"
-                    },
-                    "attention": {
-                        "inAppPurchases": "MaybeIncludesInAppPurchases"
-                    },
-                    "catalogItemId": "4cadfc8471704b1997d2cd2bd9677484",
-                    "categories": [
-                        "games",
-                        "games/edition",
-                        "games/edition/base"
-                    ],
-                    "mapping": {
-                        "slug": "1212-android-f8a696"
-                    },
-                    "media": {
-                        "appIcon": {
-                            "altText": "-",
-                            "height": 512,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/cb8173a84ad44774b2e355e53daea00b/nations-of-darkness-icon-1o95q.png",
-                            "imageType": "ProductIcon",
-                            "width": 512
-                        },
-                        "card16x9": {
-                            "altText": "Nations of Darkness Offer",
-                            "height": 1440,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/cb8173a84ad44774b2e355e53daea00b/nations-of-darkness-vcgyz.png",
-                            "imageType": "OfferImageWide",
-                            "width": 2560
-                        },
-                        "card3x4": {
-                            "altText": "Download Nations of Darkness Offer",
-                            "height": 1600,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/cb8173a84ad44774b2e355e53daea00b/nations-of-darkness-1oehn.png",
-                            "imageType": "OfferImageTall",
-                            "width": 1200
-                        },
-                        "coverImage": {
-                            "altText": "-",
-                            "height": 1440,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/cb8173a84ad44774b2e355e53daea00b/nations-of-darkness-m11gq.jpg",
-                            "imageType": "coverImage",
-                            "width": 2560
-                        }
-                    },
-                    "purchase": [
-                        {
-                            "offerLifecycleState": "Release",
-                            "price": {
-                                "currencyCode": "EUR",
-                                "decimalPrice": 0
-                            },
-                            "purchasePayload": {
-                                "offerId": "d9ab14ff867e43c2911aa17fc145a800",
-                                "sandboxId": "7516c53e561c456495ae592cc9c02ae4"
-                            },
-                            "purchaseType": "Claim"
-                        }
-                    ],
-                    "systemSpecs": {
-                        "applicationVersion": "1.15.0",
-                        "platform": "android",
-                        "systemRequirements": [
-                            {
-                                "minimum": "175MB",
-                                "requirementType": "InstallSize",
-                                "title": "Installation size"
-                            },
-                            {
-                                "minimum": "194.59 MB",
-                                "requirementType": "DownloadSize",
-                                "title": "Download size"
-                            },
-                            {
-                                "minimum": "API level 22",
-                                "requirementType": "OS",
-                                "title": "OS version"
-                            }
-                        ]
-                    },
-                    "title": "Nations of Darkness"
-                },
-                "offerId": "d9ab14ff867e43c2911aa17fc145a800",
-                "sandboxId": "7516c53e561c456495ae592cc9c02ae4"
-            },
-            {
-                "content": {
-                    "ageRating": {
-                        "ageGate": {
-                            "gate": "no-gate"
-                        },
-                        "ageRating": {
                             "ageControl": 7,
                             "contentDescriptors": [
                                 "Implied Violence"
@@ -4900,19 +4767,7 @@
                 },
                 "offerId": "a62f4e614a33493389f65cbf4b044898",
                 "sandboxId": "58655f84ec9a46c49b1dc70f9014efa2"
-            }
-        ],
-        "size": "large",
-        "title": "Paid Games",
-        "topicId": "mobile-android-genre-paid",
-        "type": "interactive"
-    },
-    {
-        "link": {
-            "linkText": "",
-            "src": ""
-        },
-        "offers": [
+            },
             {
                 "content": {
                     "ageRating": {
@@ -5012,6 +4867,120 @@
                 },
                 "offerId": "108fd31a4cec4d44bc3b69f666d2af82",
                 "sandboxId": "195babba4ee143cab291ed109668d10d"
+            }
+        ],
+        "size": "large",
+        "title": "Paid Games",
+        "topicId": "mobile-android-genre-paid",
+        "type": "interactive"
+    },
+    {
+        "link": {
+            "linkText": "",
+            "src": ""
+        },
+        "offers": [
+            {
+                "content": {
+                    "ageRating": {
+                        "ageGate": {
+                            "gate": "no-gate"
+                        },
+                        "ageRating": {
+                            "ageControl": 7,
+                            "contentDescriptors": [
+                                "Mild Violence"
+                            ],
+                            "interactiveElements": [],
+                            "ratingImage": "https://cdn1.epicgames.com/gameRating/gameRating/PEGI_7_192_192x192-30e2e712d0682dad01add90a6ccbed5b",
+                            "ratingSystem": "PEGI",
+                            "rectangularRatingImage": "https://cdn1.epicgames.com/salesEvent/salesEvent/PEGI-7_435x530-9439a136999d3dd762c7a61c3b8c7683",
+                            "title": "PEGI 7"
+                        },
+                        "ratingType": "AgeRating"
+                    },
+                    "attention": {
+                        "inAppPurchases": "None"
+                    },
+                    "catalogItemId": "b78dcc2694ef4157899ab221977a3f01",
+                    "categories": [
+                        "games",
+                        "games/edition",
+                        "games/edition/base"
+                    ],
+                    "mapping": {
+                        "slug": "samorost-3-android-0408e5"
+                    },
+                    "media": {
+                        "appIcon": {
+                            "altText": "-",
+                            "height": 512,
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/b2c854d46f0f46de8b14e1178b7e85fc/samorost-3-icon-12q06.png",
+                            "imageType": "ProductIcon",
+                            "width": 512
+                        },
+                        "card16x9": {
+                            "altText": "Samorost 3 Offer",
+                            "height": 1440,
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/b2c854d46f0f46de8b14e1178b7e85fc/samorost-3-rla7k.jpg",
+                            "imageType": "OfferImageWide",
+                            "width": 2560
+                        },
+                        "card3x4": {
+                            "altText": "Download Samorost 3 Offer",
+                            "height": 1600,
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/b2c854d46f0f46de8b14e1178b7e85fc/samorost-3-wfdhq.jpg",
+                            "imageType": "OfferImageTall",
+                            "width": 1200
+                        },
+                        "coverImage": {
+                            "altText": "-",
+                            "height": 1440,
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/b2c854d46f0f46de8b14e1178b7e85fc/samorost-3-eb55r.jpg",
+                            "imageType": "coverImage",
+                            "width": 2560
+                        }
+                    },
+                    "purchase": [
+                        {
+                            "offerLifecycleState": "Release",
+                            "price": {
+                                "currencyCode": "EUR",
+                                "decimalPrice": 6.99
+                            },
+                            "priceDisplay": "€6.99",
+                            "purchasePayload": {
+                                "offerId": "04fd7f76cecc4eaf830b82e27ffe8a2b",
+                                "sandboxId": "c62d7481ae1744dab7310c8f4e1e9548"
+                            },
+                            "purchaseType": "Purchase"
+                        }
+                    ],
+                    "systemSpecs": {
+                        "applicationVersion": "3.472.3",
+                        "platform": "android",
+                        "systemRequirements": [
+                            {
+                                "minimum": "1 GB",
+                                "requirementType": "InstallSize",
+                                "title": "Installation size"
+                            },
+                            {
+                                "minimum": "857.90 MB",
+                                "requirementType": "DownloadSize",
+                                "title": "Download size"
+                            },
+                            {
+                                "minimum": "6.0",
+                                "requirementType": "OS",
+                                "title": "OS version"
+                            }
+                        ]
+                    },
+                    "title": "Samorost 3"
+                },
+                "offerId": "04fd7f76cecc4eaf830b82e27ffe8a2b",
+                "sandboxId": "c62d7481ae1744dab7310c8f4e1e9548"
             },
             {
                 "content": {
@@ -6015,19 +5984,6 @@
                         }
                     },
                     "purchase": [
-                        {
-                            "offerLifecycleState": "Release",
-                            "price": {
-                                "currencyCode": "EUR",
-                                "decimalPrice": 4.99
-                            },
-                            "priceDisplay": "€4.99",
-                            "purchasePayload": {
-                                "offerId": "609b35c3aeb94ba193c2d2e3b4d3a056",
-                                "sandboxId": "f9c8275639794b62a3ef63e0d7903a02"
-                            },
-                            "purchaseType": "Purchase"
-                        },
                         {
                             "discount": {
                                 "discountAmountDisplay": "-50%",
@@ -7814,19 +7770,6 @@
                         }
                     },
                     "purchase": [
-                        {
-                            "offerLifecycleState": "Release",
-                            "price": {
-                                "currencyCode": "EUR",
-                                "decimalPrice": 4.99
-                            },
-                            "priceDisplay": "€4.99",
-                            "purchasePayload": {
-                                "offerId": "0e5d790f043b464689d9c2128d472fb5",
-                                "sandboxId": "6b98c6b6298b4282905ea8a66f1e8432"
-                            },
-                            "purchaseType": "Purchase"
-                        },
                         {
                             "discount": {
                                 "discountAmountDisplay": "-60%",
@@ -12782,19 +12725,6 @@
                         }
                     },
                     "purchase": [
-                        {
-                            "offerLifecycleState": "Release",
-                            "price": {
-                                "currencyCode": "EUR",
-                                "decimalPrice": 7.99
-                            },
-                            "priceDisplay": "€7.99",
-                            "purchasePayload": {
-                                "offerId": "d938a57551914db286757ebdf89b95f9",
-                                "sandboxId": "4b36452d205344bcb0f60f6a466ecd58"
-                            },
-                            "purchaseType": "Purchase"
-                        },
                         {
                             "discount": {
                                 "discountAmountDisplay": "-75%",
