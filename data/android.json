@@ -374,24 +374,6 @@
                     },
                     "purchase": [
                         {
-                            "discount": {
-                                "discountAmountDisplay": "-40%",
-                                "discountEndDate": "2025-10-28T04:00:00.000Z",
-                                "originalPriceDisplay": "€8.09"
-                            },
-                            "offerLifecycleState": "Release",
-                            "price": {
-                                "currencyCode": "EUR",
-                                "decimalPrice": 4.85
-                            },
-                            "priceDisplay": "€4.85",
-                            "purchasePayload": {
-                                "offerId": "fc39f9eeaf6b4385ba36813e3603eb3b",
-                                "sandboxId": "664593356629471bba5388cd9a61ed4d"
-                            },
-                            "purchaseType": "Purchase"
-                        },
-                        {
                             "offerLifecycleState": "Release",
                             "price": {
                                 "currencyCode": "EUR",
@@ -3259,7 +3241,7 @@
                         }
                     ],
                     "systemSpecs": {
-                        "applicationVersion": "1.9.50",
+                        "applicationVersion": "1.9.55",
                         "platform": "android",
                         "systemRequirements": [
                             {
@@ -3268,12 +3250,12 @@
                                 "title": "Installation size"
                             },
                             {
-                                "minimum": "239.67 MB",
+                                "minimum": "246.20 MB",
                                 "requirementType": "DownloadSize",
                                 "title": "Download size"
                             },
                             {
-                                "minimum": "6.0",
+                                "minimum": "8.0.0",
                                 "requirementType": "OS",
                                 "title": "OS version"
                             }
@@ -5332,9 +5314,9 @@
                     },
                     "catalogItemId": "77f705b20e2d475b8913fe15bcfb22cb",
                     "categories": [
-                        "games",
+                        "games/edition/base",
                         "games/edition",
-                        "games/edition/base"
+                        "games"
                     ],
                     "mapping": {
                         "slug": "groundskeeper-2-android-165afb"
@@ -6939,19 +6921,6 @@
                         }
                     },
                     "purchase": [
-                        {
-                            "offerLifecycleState": "Release",
-                            "price": {
-                                "currencyCode": "EUR",
-                                "decimalPrice": 3.59
-                            },
-                            "priceDisplay": "€3.59",
-                            "purchasePayload": {
-                                "offerId": "bb8f265529da44dd82ca1773168a3343",
-                                "sandboxId": "617c8303a6764a35b65f2925dfb23ef1"
-                            },
-                            "purchaseType": "Purchase"
-                        },
                         {
                             "discount": {
                                 "discountAmountDisplay": "-40%",
@@ -13518,24 +13487,6 @@
                         }
                     },
                     "purchase": [
-                        {
-                            "discount": {
-                                "discountAmountDisplay": "-80%",
-                                "discountEndDate": "2025-10-28T15:00:00.000Z",
-                                "originalPriceDisplay": "€4.49"
-                            },
-                            "offerLifecycleState": "Release",
-                            "price": {
-                                "currencyCode": "EUR",
-                                "decimalPrice": 0.89
-                            },
-                            "priceDisplay": "€0.89",
-                            "purchasePayload": {
-                                "offerId": "00ff828ca2d24334b2b649e87fc4370d",
-                                "sandboxId": "9a0c5c4c64404e698fbb56f757572216"
-                            },
-                            "purchaseType": "Purchase"
-                        },
                         {
                             "offerLifecycleState": "Release",
                             "price": {
