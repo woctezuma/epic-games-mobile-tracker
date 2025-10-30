@@ -115,23 +115,20 @@
                             "gate": "no-gate"
                         },
                         "ageRating": {
-                            "ageControl": 12,
-                            "contentDescriptors": [
-                                "Horror",
-                                "Moderate Violence"
-                            ],
+                            "ageControl": 3,
+                            "contentDescriptors": [],
                             "interactiveElements": [],
-                            "ratingImage": "https://cdn1.epicgames.com/gameRating/gameRating/PEGI_12_192_192x192-afa4df43f131bc83eb380ccf22f8d904",
+                            "ratingImage": "https://cdn1.epicgames.com/gameRating/gameRating/PEGI_3_192_192x192-490b93ddf59fb4ac1148d1eb9083626a",
                             "ratingSystem": "PEGI",
-                            "rectangularRatingImage": "https://cdn1.epicgames.com/salesEvent/salesEvent/PEGI-12_436x530-0cd1f06607086f3cc1bc2b8643f21b0a",
-                            "title": "PEGI 12"
+                            "rectangularRatingImage": "https://cdn1.epicgames.com/salesEvent/salesEvent/PEGI-3_435x530-c931ab5bb4eb190f6e8e542081c49dc4",
+                            "title": "PEGI 3"
                         },
                         "ratingType": "AgeRating"
                     },
                     "attention": {
                         "inAppPurchases": "None"
                     },
-                    "catalogItemId": "117ea9d39c374c079fcaa33e7bd7521a",
+                    "catalogItemId": "1a312a9dacff4264ae6aac0e00e3a95e",
                     "categories": [
                         "freegames",
                         "games",
@@ -139,34 +136,34 @@
                         "games/edition/base"
                     ],
                     "mapping": {
-                        "slug": "bendy-and-the-ink-machine-ios-eece7b"
+                        "slug": "doodle-farm-breeds-and-beasts-ios-a11512"
                     },
                     "media": {
                         "appIcon": {
                             "altText": "-",
                             "height": 512,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/0b1283e5bfa64ad48f3862b79abc20b9/bendy-and-the-ink-machine-icon-nfg5r.png",
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/d228aef813e34ed080a86cc49ae640e2/doodle-farm-breeds-and-beasts-icon-1ocjz.png",
                             "imageType": "ProductIcon",
                             "width": 512
                         },
                         "card16x9": {
-                            "altText": "Bendy and the Ink Machine Offer",
+                            "altText": "Doodle Farm: Breeds and Beasts Offer",
                             "height": 1440,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/0b1283e5bfa64ad48f3862b79abc20b9/bendy-and-the-ink-machine-1011v.png",
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/d228aef813e34ed080a86cc49ae640e2/doodle-farm-breeds-and-beasts-1yu34.jpg",
                             "imageType": "OfferImageWide",
                             "width": 2560
                         },
                         "card3x4": {
-                            "altText": "Download Bendy and the Ink Machine Offer",
+                            "altText": "Download Doodle Farm: Breeds and Beasts Offer",
                             "height": 1600,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/0b1283e5bfa64ad48f3862b79abc20b9/bendy-and-the-ink-machine-86nm1.png",
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/d228aef813e34ed080a86cc49ae640e2/doodle-farm-breeds-and-beasts-j5uq1.png",
                             "imageType": "OfferImageTall",
                             "width": 1200
                         },
                         "coverImage": {
                             "altText": "-",
                             "height": 1440,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/0b1283e5bfa64ad48f3862b79abc20b9/bendy-and-the-ink-machine-p9ykp.png",
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/d228aef813e34ed080a86cc49ae640e2/doodle-farm-breeds-and-beasts-1g0oh.jpg",
                             "imageType": "coverImage",
                             "width": 2560
                         }
@@ -176,71 +173,41 @@
                             "offerLifecycleState": "Release",
                             "price": {
                                 "currencyCode": "EUR",
-                                "decimalPrice": 4.49
+                                "decimalPrice": 2.19
                             },
-                            "priceDisplay": "€4.49",
+                            "priceDisplay": "€2.19",
                             "purchasePayload": {
-                                "offerId": "c88c077fcc404c29a98b4f83aa7d2e99",
-                                "sandboxId": "4ebf21b7761e40cdb180d0604127e4a6"
-                            },
-                            "purchaseType": "Purchase"
-                        },
-                        {
-                            "discount": {
-                                "discountAmountDisplay": "-100%",
-                                "discountEndDate": "2025-11-06T16:00:00.000Z",
-                                "originalPriceDisplay": "€4.49"
-                            },
-                            "offerLifecycleState": "Release",
-                            "price": {
-                                "currencyCode": "EUR",
-                                "decimalPrice": 0
-                            },
-                            "purchasePayload": {
-                                "offerId": "c88c077fcc404c29a98b4f83aa7d2e99",
-                                "sandboxId": "4ebf21b7761e40cdb180d0604127e4a6"
-                            },
-                            "purchaseType": "Claim"
-                        },
-                        {
-                            "offerLifecycleState": "Release",
-                            "price": {
-                                "currencyCode": "EUR",
-                                "decimalPrice": 4.49
-                            },
-                            "priceDisplay": "€4.49",
-                            "purchasePayload": {
-                                "offerId": "c88c077fcc404c29a98b4f83aa7d2e99",
-                                "sandboxId": "4ebf21b7761e40cdb180d0604127e4a6"
+                                "offerId": "954d307005fa44edb85c80120b2e51e5",
+                                "sandboxId": "904f68c328364b1f98feb3b675ccf93d"
                             },
                             "purchaseType": "Purchase"
                         }
                     ],
                     "systemSpecs": {
-                        "applicationVersion": "1.0.870",
+                        "applicationVersion": "1.0.5",
                         "platform": "ios",
                         "systemRequirements": [
                             {
-                                "minimum": "1.24 GB",
+                                "minimum": "100",
                                 "requirementType": "InstallSize",
                                 "title": "Installation size"
                             },
                             {
-                                "minimum": "547 MB",
+                                "minimum": "100",
                                 "requirementType": "DownloadSize",
                                 "title": "Download size"
                             },
                             {
-                                "minimum": "12.0",
+                                "minimum": "14",
                                 "requirementType": "OS",
                                 "title": "OS version"
                             }
                         ]
                     },
-                    "title": "Bendy and the Ink Machine"
+                    "title": "Doodle Farm: Breeds and Beasts"
                 },
-                "offerId": "c88c077fcc404c29a98b4f83aa7d2e99",
-                "sandboxId": "4ebf21b7761e40cdb180d0604127e4a6"
+                "offerId": "954d307005fa44edb85c80120b2e51e5",
+                "sandboxId": "904f68c328364b1f98feb3b675ccf93d"
             },
             {
                 "content": {
@@ -2851,20 +2818,23 @@
                             "gate": "no-gate"
                         },
                         "ageRating": {
-                            "ageControl": 3,
-                            "contentDescriptors": [],
+                            "ageControl": 12,
+                            "contentDescriptors": [
+                                "Horror",
+                                "Moderate Violence"
+                            ],
                             "interactiveElements": [],
-                            "ratingImage": "https://cdn1.epicgames.com/gameRating/gameRating/PEGI_3_192_192x192-490b93ddf59fb4ac1148d1eb9083626a",
+                            "ratingImage": "https://cdn1.epicgames.com/gameRating/gameRating/PEGI_12_192_192x192-afa4df43f131bc83eb380ccf22f8d904",
                             "ratingSystem": "PEGI",
-                            "rectangularRatingImage": "https://cdn1.epicgames.com/salesEvent/salesEvent/PEGI-3_435x530-c931ab5bb4eb190f6e8e542081c49dc4",
-                            "title": "PEGI 3"
+                            "rectangularRatingImage": "https://cdn1.epicgames.com/salesEvent/salesEvent/PEGI-12_436x530-0cd1f06607086f3cc1bc2b8643f21b0a",
+                            "title": "PEGI 12"
                         },
                         "ratingType": "AgeRating"
                     },
                     "attention": {
                         "inAppPurchases": "None"
                     },
-                    "catalogItemId": "1a312a9dacff4264ae6aac0e00e3a95e",
+                    "catalogItemId": "117ea9d39c374c079fcaa33e7bd7521a",
                     "categories": [
                         "freegames",
                         "games",
@@ -2872,34 +2842,34 @@
                         "games/edition/base"
                     ],
                     "mapping": {
-                        "slug": "doodle-farm-breeds-and-beasts-ios-a11512"
+                        "slug": "bendy-and-the-ink-machine-ios-eece7b"
                     },
                     "media": {
                         "appIcon": {
                             "altText": "-",
                             "height": 512,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/d228aef813e34ed080a86cc49ae640e2/doodle-farm-breeds-and-beasts-icon-1ocjz.png",
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/0b1283e5bfa64ad48f3862b79abc20b9/bendy-and-the-ink-machine-icon-nfg5r.png",
                             "imageType": "ProductIcon",
                             "width": 512
                         },
                         "card16x9": {
-                            "altText": "Doodle Farm: Breeds and Beasts Offer",
+                            "altText": "Bendy and the Ink Machine Offer",
                             "height": 1440,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/d228aef813e34ed080a86cc49ae640e2/doodle-farm-breeds-and-beasts-1yu34.jpg",
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/0b1283e5bfa64ad48f3862b79abc20b9/bendy-and-the-ink-machine-1011v.png",
                             "imageType": "OfferImageWide",
                             "width": 2560
                         },
                         "card3x4": {
-                            "altText": "Download Doodle Farm: Breeds and Beasts Offer",
+                            "altText": "Download Bendy and the Ink Machine Offer",
                             "height": 1600,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/d228aef813e34ed080a86cc49ae640e2/doodle-farm-breeds-and-beasts-j5uq1.png",
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/0b1283e5bfa64ad48f3862b79abc20b9/bendy-and-the-ink-machine-86nm1.png",
                             "imageType": "OfferImageTall",
                             "width": 1200
                         },
                         "coverImage": {
                             "altText": "-",
                             "height": 1440,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/d228aef813e34ed080a86cc49ae640e2/doodle-farm-breeds-and-beasts-1g0oh.jpg",
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/0b1283e5bfa64ad48f3862b79abc20b9/bendy-and-the-ink-machine-p9ykp.png",
                             "imageType": "coverImage",
                             "width": 2560
                         }
@@ -2908,8 +2878,8 @@
                         {
                             "discount": {
                                 "discountAmountDisplay": "-100%",
-                                "discountEndDate": "2025-10-30T15:00:00.000Z",
-                                "originalPriceDisplay": "€2.19"
+                                "discountEndDate": "2025-11-06T16:00:00.000Z",
+                                "originalPriceDisplay": "€4.49"
                             },
                             "offerLifecycleState": "Release",
                             "price": {
@@ -2917,8 +2887,8 @@
                                 "decimalPrice": 0
                             },
                             "purchasePayload": {
-                                "offerId": "954d307005fa44edb85c80120b2e51e5",
-                                "sandboxId": "904f68c328364b1f98feb3b675ccf93d"
+                                "offerId": "c88c077fcc404c29a98b4f83aa7d2e99",
+                                "sandboxId": "4ebf21b7761e40cdb180d0604127e4a6"
                             },
                             "purchaseType": "Claim"
                         },
@@ -2926,41 +2896,41 @@
                             "offerLifecycleState": "Release",
                             "price": {
                                 "currencyCode": "EUR",
-                                "decimalPrice": 2.19
+                                "decimalPrice": 4.49
                             },
-                            "priceDisplay": "€2.19",
+                            "priceDisplay": "€4.49",
                             "purchasePayload": {
-                                "offerId": "954d307005fa44edb85c80120b2e51e5",
-                                "sandboxId": "904f68c328364b1f98feb3b675ccf93d"
+                                "offerId": "c88c077fcc404c29a98b4f83aa7d2e99",
+                                "sandboxId": "4ebf21b7761e40cdb180d0604127e4a6"
                             },
                             "purchaseType": "Purchase"
                         }
                     ],
                     "systemSpecs": {
-                        "applicationVersion": "1.0.5",
+                        "applicationVersion": "1.0.870",
                         "platform": "ios",
                         "systemRequirements": [
                             {
-                                "minimum": "100",
+                                "minimum": "1.24 GB",
                                 "requirementType": "InstallSize",
                                 "title": "Installation size"
                             },
                             {
-                                "minimum": "100",
+                                "minimum": "547 MB",
                                 "requirementType": "DownloadSize",
                                 "title": "Download size"
                             },
                             {
-                                "minimum": "14",
+                                "minimum": "12.0",
                                 "requirementType": "OS",
                                 "title": "OS version"
                             }
                         ]
                     },
-                    "title": "Doodle Farm: Breeds and Beasts"
+                    "title": "Bendy and the Ink Machine"
                 },
-                "offerId": "954d307005fa44edb85c80120b2e51e5",
-                "sandboxId": "904f68c328364b1f98feb3b675ccf93d"
+                "offerId": "c88c077fcc404c29a98b4f83aa7d2e99",
+                "sandboxId": "4ebf21b7761e40cdb180d0604127e4a6"
             }
         ],
         "size": "large",
@@ -3646,21 +3616,21 @@
                         "card16x9": {
                             "altText": "Idle Champions of the Forgotten Realms Offer",
                             "height": 1440,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/a53f91e55c6840018cb5de0b204f1ad9/idle-champions-of-the-forgotten-realms-jcahf.jpg",
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/a53f91e55c6840018cb5de0b204f1ad9/idle-champions-of-the-forgotten-realms-pv6ao.png",
                             "imageType": "OfferImageWide",
                             "width": 2560
                         },
                         "card3x4": {
                             "altText": "Download Idle Champions of the Forgotten Realms Offer",
                             "height": 1600,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/a53f91e55c6840018cb5de0b204f1ad9/idle-champions-of-the-forgotten-realms-1e7ek.jpg",
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/a53f91e55c6840018cb5de0b204f1ad9/idle-champions-of-the-forgotten-realms-vzttd.png",
                             "imageType": "OfferImageTall",
                             "width": 1200
                         },
                         "coverImage": {
                             "altText": "-",
                             "height": 1440,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/a53f91e55c6840018cb5de0b204f1ad9/idle-champions-of-the-forgotten-realms-10jyu.jpg",
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/a53f91e55c6840018cb5de0b204f1ad9/idle-champions-of-the-forgotten-realms-1jluf.png",
                             "imageType": "coverImage",
                             "width": 2560
                         }
