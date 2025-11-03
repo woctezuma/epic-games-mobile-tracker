@@ -12,6 +12,99 @@
                             "gate": "no-gate"
                         },
                         "ageRating": {
+                            "ageControl": 0,
+                            "contentDescriptors": [],
+                            "interactiveElements": [
+                                "Users Interact",
+                                "In-App Purchases"
+                            ],
+                            "ratingImage": "https://cdn1.epicgames.com/gameRating/gameRating/PEGI_EXC_192_192x192-4b60638de38c759ed1cdb5c19a573256",
+                            "ratingSystem": "PEGI",
+                            "rectangularRatingImage": "https://cdn1.epicgames.com/salesEvent/salesEvent/PEGI-info_435x530-d763ff1e493324dfef7ffd688b61476a",
+                            "title": "PARENTAL GUIDANCE RECOMMENDED"
+                        },
+                        "ratingType": "AgeRating"
+                    },
+                    "attention": {
+                        "inAppPurchases": "IncludesInAppPurchases"
+                    },
+                    "catalogItemId": "4fe75bbc5a674f4f9b356b5c90567da5",
+                    "categories": [
+                        "games",
+                        "games/edition",
+                        "games/edition/base",
+                        "attention/in-app-purchases/supported",
+                        "applications"
+                    ],
+                    "mapping": {
+                        "slug": "fortnite-android"
+                    },
+                    "media": {
+                        "appIcon": {
+                            "altText": "-",
+                            "height": 512,
+                            "imageSrc": "https://cdn1.epicgames.com/offer/fn/FNBR_38-00_C6MS2_Mobile_KeyArt_AppIcons_FullBleed_Homer_1024x1024_1024x1024-16da15123a68998ff8eddd9703721eba",
+                            "imageType": "ProductIcon",
+                            "width": 512
+                        },
+                        "card16x9": {
+                            "height": 1440,
+                            "imageSrc": "https://cdn1.epicgames.com/offer/fn/FNBR_38-00_C6MS2_EGS_Launcher_FN_KeyArt_Blade_2560x1440_2560x1440-8527deb9952fab992dfabb7cdee48a54",
+                            "imageType": "OfferImageWide",
+                            "width": 2560
+                        },
+                        "card3x4": {
+                            "height": 1600,
+                            "imageSrc": "https://cdn1.epicgames.com/offer/fn/FNBR_38-00_C6MS2_EGS_Launcher_FN_KeyArt_Blade_1200x1600_1200x1600-6aea04d4241e11f924c91cbe18c42203",
+                            "imageType": "OfferImageTall",
+                            "width": 1200
+                        },
+                        "coverImage": {
+                            "altText": "-",
+                            "height": 1440,
+                            "imageSrc": "https://cdn1.epicgames.com/offer/fn/FNBR_38-00_C6MS2_EGS_Launcher_FN_KeyArt_Blade_2560x1440_2560x1440-8527deb9952fab992dfabb7cdee48a54",
+                            "imageType": "coverImage",
+                            "width": 2560
+                        }
+                    },
+                    "purchase": [
+                        {
+                            "offerLifecycleState": "Release",
+                            "price": {
+                                "currencyCode": "EUR",
+                                "decimalPrice": 0
+                            },
+                            "purchasePayload": {
+                                "offerId": "027c646e4b0445e28f9d9abd0326ba36",
+                                "sandboxId": "fn"
+                            },
+                            "purchaseType": "Claim"
+                        }
+                    ],
+                    "systemSpecs": {
+                        "platform": "android",
+                        "systemRequirements": [
+                            {
+                                "minimum": "Android 10.0 or higher",
+                                "recommended": "",
+                                "requirementType": "OS",
+                                "title": "OS version"
+                            }
+                        ],
+                        "technicalDetails": "Fortnite requires an internet connection, Android 10.0 or higher, 64 bit, 4GB of RAM and GPU: Adreno 530 or higher, Mali-G71 MP20, Mali-G72 MP12 or higher."
+                    },
+                    "title": "Fortnite"
+                },
+                "offerId": "027c646e4b0445e28f9d9abd0326ba36",
+                "sandboxId": "fn"
+            },
+            {
+                "content": {
+                    "ageRating": {
+                        "ageGate": {
+                            "gate": "no-gate"
+                        },
+                        "ageRating": {
                             "ageControl": 12,
                             "contentDescriptors": [],
                             "interactiveElements": [
@@ -1422,6 +1515,37 @@
                                 "sandboxId": "5f31cc1f56e04ea1aa991db29e53a148"
                             },
                             "purchaseType": "Purchase"
+                        },
+                        {
+                            "discount": {
+                                "discountAmountDisplay": "-20%",
+                                "discountEndDate": "2025-11-11T16:00:00.000Z",
+                                "originalPriceDisplay": "€0.99"
+                            },
+                            "offerLifecycleState": "Release",
+                            "price": {
+                                "currencyCode": "EUR",
+                                "decimalPrice": 0.79
+                            },
+                            "priceDisplay": "€0.79",
+                            "purchasePayload": {
+                                "offerId": "65369ba055884f85b6d7d927b31a78dd",
+                                "sandboxId": "5f31cc1f56e04ea1aa991db29e53a148"
+                            },
+                            "purchaseType": "Purchase"
+                        },
+                        {
+                            "offerLifecycleState": "Release",
+                            "price": {
+                                "currencyCode": "EUR",
+                                "decimalPrice": 0.99
+                            },
+                            "priceDisplay": "€0.99",
+                            "purchasePayload": {
+                                "offerId": "65369ba055884f85b6d7d927b31a78dd",
+                                "sandboxId": "5f31cc1f56e04ea1aa991db29e53a148"
+                            },
+                            "purchaseType": "Purchase"
                         }
                     ],
                     "systemSpecs": {
@@ -1875,99 +1999,6 @@
                             "gate": "no-gate"
                         },
                         "ageRating": {
-                            "ageControl": 0,
-                            "contentDescriptors": [],
-                            "interactiveElements": [
-                                "Users Interact",
-                                "In-App Purchases"
-                            ],
-                            "ratingImage": "https://cdn1.epicgames.com/gameRating/gameRating/PEGI_EXC_192_192x192-4b60638de38c759ed1cdb5c19a573256",
-                            "ratingSystem": "PEGI",
-                            "rectangularRatingImage": "https://cdn1.epicgames.com/salesEvent/salesEvent/PEGI-info_435x530-d763ff1e493324dfef7ffd688b61476a",
-                            "title": "PARENTAL GUIDANCE RECOMMENDED"
-                        },
-                        "ratingType": "AgeRating"
-                    },
-                    "attention": {
-                        "inAppPurchases": "IncludesInAppPurchases"
-                    },
-                    "catalogItemId": "4fe75bbc5a674f4f9b356b5c90567da5",
-                    "categories": [
-                        "games",
-                        "games/edition",
-                        "games/edition/base",
-                        "attention/in-app-purchases/supported",
-                        "applications"
-                    ],
-                    "mapping": {
-                        "slug": "fortnite-android"
-                    },
-                    "media": {
-                        "appIcon": {
-                            "altText": "-",
-                            "height": 512,
-                            "imageSrc": "https://cdn1.epicgames.com/offer/fn/FNBR_38-00_C6MS2_Mobile_KeyArt_AppIcons_FullBleed_Homer_1024x1024_1024x1024-16da15123a68998ff8eddd9703721eba",
-                            "imageType": "ProductIcon",
-                            "width": 512
-                        },
-                        "card16x9": {
-                            "height": 1440,
-                            "imageSrc": "https://cdn1.epicgames.com/offer/fn/FNBR_38-00_C6MS2_EGS_Launcher_FN_KeyArt_Blade_2560x1440_2560x1440-8527deb9952fab992dfabb7cdee48a54",
-                            "imageType": "OfferImageWide",
-                            "width": 2560
-                        },
-                        "card3x4": {
-                            "height": 1600,
-                            "imageSrc": "https://cdn1.epicgames.com/offer/fn/FNBR_38-00_C6MS2_EGS_Launcher_FN_KeyArt_Blade_1200x1600_1200x1600-6aea04d4241e11f924c91cbe18c42203",
-                            "imageType": "OfferImageTall",
-                            "width": 1200
-                        },
-                        "coverImage": {
-                            "altText": "-",
-                            "height": 1440,
-                            "imageSrc": "https://cdn1.epicgames.com/offer/fn/FNBR_38-00_C6MS2_EGS_Launcher_FN_KeyArt_Blade_2560x1440_2560x1440-8527deb9952fab992dfabb7cdee48a54",
-                            "imageType": "coverImage",
-                            "width": 2560
-                        }
-                    },
-                    "purchase": [
-                        {
-                            "offerLifecycleState": "Release",
-                            "price": {
-                                "currencyCode": "EUR",
-                                "decimalPrice": 0
-                            },
-                            "purchasePayload": {
-                                "offerId": "027c646e4b0445e28f9d9abd0326ba36",
-                                "sandboxId": "fn"
-                            },
-                            "purchaseType": "Claim"
-                        }
-                    ],
-                    "systemSpecs": {
-                        "platform": "android",
-                        "systemRequirements": [
-                            {
-                                "minimum": "Android 10.0 or higher",
-                                "recommended": "",
-                                "requirementType": "OS",
-                                "title": "OS version"
-                            }
-                        ],
-                        "technicalDetails": "Fortnite requires an internet connection, Android 10.0 or higher, 64 bit, 4GB of RAM and GPU: Adreno 530 or higher, Mali-G71 MP20, Mali-G72 MP12 or higher."
-                    },
-                    "title": "Fortnite"
-                },
-                "offerId": "027c646e4b0445e28f9d9abd0326ba36",
-                "sandboxId": "fn"
-            },
-            {
-                "content": {
-                    "ageRating": {
-                        "ageGate": {
-                            "gate": "no-gate"
-                        },
-                        "ageRating": {
                             "ageControl": 3,
                             "contentDescriptors": [],
                             "interactiveElements": [
@@ -2144,6 +2175,99 @@
                 },
                 "offerId": "8313f4090aa5460b9b71eba09bfe310e",
                 "sandboxId": "50118b7f954e450f8823df1614b24e80"
+            },
+            {
+                "content": {
+                    "ageRating": {
+                        "ageGate": {
+                            "gate": "no-gate"
+                        },
+                        "ageRating": {
+                            "ageControl": 0,
+                            "contentDescriptors": [],
+                            "interactiveElements": [
+                                "Users Interact",
+                                "In-App Purchases"
+                            ],
+                            "ratingImage": "https://cdn1.epicgames.com/gameRating/gameRating/PEGI_EXC_192_192x192-4b60638de38c759ed1cdb5c19a573256",
+                            "ratingSystem": "PEGI",
+                            "rectangularRatingImage": "https://cdn1.epicgames.com/salesEvent/salesEvent/PEGI-info_435x530-d763ff1e493324dfef7ffd688b61476a",
+                            "title": "PARENTAL GUIDANCE RECOMMENDED"
+                        },
+                        "ratingType": "AgeRating"
+                    },
+                    "attention": {
+                        "inAppPurchases": "IncludesInAppPurchases"
+                    },
+                    "catalogItemId": "4fe75bbc5a674f4f9b356b5c90567da5",
+                    "categories": [
+                        "games",
+                        "games/edition",
+                        "games/edition/base",
+                        "attention/in-app-purchases/supported",
+                        "applications"
+                    ],
+                    "mapping": {
+                        "slug": "fortnite-android"
+                    },
+                    "media": {
+                        "appIcon": {
+                            "altText": "-",
+                            "height": 512,
+                            "imageSrc": "https://cdn1.epicgames.com/offer/fn/FNBR_38-00_C6MS2_Mobile_KeyArt_AppIcons_FullBleed_Homer_1024x1024_1024x1024-16da15123a68998ff8eddd9703721eba",
+                            "imageType": "ProductIcon",
+                            "width": 512
+                        },
+                        "card16x9": {
+                            "height": 1440,
+                            "imageSrc": "https://cdn1.epicgames.com/offer/fn/FNBR_38-00_C6MS2_EGS_Launcher_FN_KeyArt_Blade_2560x1440_2560x1440-8527deb9952fab992dfabb7cdee48a54",
+                            "imageType": "OfferImageWide",
+                            "width": 2560
+                        },
+                        "card3x4": {
+                            "height": 1600,
+                            "imageSrc": "https://cdn1.epicgames.com/offer/fn/FNBR_38-00_C6MS2_EGS_Launcher_FN_KeyArt_Blade_1200x1600_1200x1600-6aea04d4241e11f924c91cbe18c42203",
+                            "imageType": "OfferImageTall",
+                            "width": 1200
+                        },
+                        "coverImage": {
+                            "altText": "-",
+                            "height": 1440,
+                            "imageSrc": "https://cdn1.epicgames.com/offer/fn/FNBR_38-00_C6MS2_EGS_Launcher_FN_KeyArt_Blade_2560x1440_2560x1440-8527deb9952fab992dfabb7cdee48a54",
+                            "imageType": "coverImage",
+                            "width": 2560
+                        }
+                    },
+                    "purchase": [
+                        {
+                            "offerLifecycleState": "Release",
+                            "price": {
+                                "currencyCode": "EUR",
+                                "decimalPrice": 0
+                            },
+                            "purchasePayload": {
+                                "offerId": "027c646e4b0445e28f9d9abd0326ba36",
+                                "sandboxId": "fn"
+                            },
+                            "purchaseType": "Claim"
+                        }
+                    ],
+                    "systemSpecs": {
+                        "platform": "android",
+                        "systemRequirements": [
+                            {
+                                "minimum": "Android 10.0 or higher",
+                                "recommended": "",
+                                "requirementType": "OS",
+                                "title": "OS version"
+                            }
+                        ],
+                        "technicalDetails": "Fortnite requires an internet connection, Android 10.0 or higher, 64 bit, 4GB of RAM and GPU: Adreno 530 or higher, Mali-G71 MP20, Mali-G72 MP12 or higher."
+                    },
+                    "title": "Fortnite"
+                },
+                "offerId": "027c646e4b0445e28f9d9abd0326ba36",
+                "sandboxId": "fn"
             }
         ],
         "size": "medium",
@@ -4032,24 +4156,6 @@
                     },
                     "purchase": [
                         {
-                            "discount": {
-                                "discountAmountDisplay": "-25%",
-                                "discountEndDate": "2025-11-03T16:00:00.000Z",
-                                "originalPriceDisplay": "€8.99"
-                            },
-                            "offerLifecycleState": "Release",
-                            "price": {
-                                "currencyCode": "EUR",
-                                "decimalPrice": 6.74
-                            },
-                            "priceDisplay": "€6.74",
-                            "purchasePayload": {
-                                "offerId": "81cd2738fb904aa692c3ba510d23d7b9",
-                                "sandboxId": "79c7bac7155c4d2e849394eaf3867245"
-                            },
-                            "purchaseType": "Purchase"
-                        },
-                        {
                             "offerLifecycleState": "Release",
                             "price": {
                                 "currencyCode": "EUR",
@@ -4679,6 +4785,37 @@
                         }
                     },
                     "purchase": [
+                        {
+                            "offerLifecycleState": "Release",
+                            "price": {
+                                "currencyCode": "EUR",
+                                "decimalPrice": 4.49
+                            },
+                            "priceDisplay": "€4.49",
+                            "purchasePayload": {
+                                "offerId": "a62f4e614a33493389f65cbf4b044898",
+                                "sandboxId": "58655f84ec9a46c49b1dc70f9014efa2"
+                            },
+                            "purchaseType": "Purchase"
+                        },
+                        {
+                            "discount": {
+                                "discountAmountDisplay": "-50%",
+                                "discountEndDate": "2025-11-11T16:00:00.000Z",
+                                "originalPriceDisplay": "€4.49"
+                            },
+                            "offerLifecycleState": "Release",
+                            "price": {
+                                "currencyCode": "EUR",
+                                "decimalPrice": 2.24
+                            },
+                            "priceDisplay": "€2.24",
+                            "purchasePayload": {
+                                "offerId": "a62f4e614a33493389f65cbf4b044898",
+                                "sandboxId": "58655f84ec9a46c49b1dc70f9014efa2"
+                            },
+                            "purchaseType": "Purchase"
+                        },
                         {
                             "offerLifecycleState": "Release",
                             "price": {
@@ -9012,6 +9149,37 @@
                                 "sandboxId": "39697c68e46b48d2b75e17bdc417d859"
                             },
                             "purchaseType": "Purchase"
+                        },
+                        {
+                            "discount": {
+                                "discountAmountDisplay": "-20%",
+                                "discountEndDate": "2025-11-11T16:00:00.000Z",
+                                "originalPriceDisplay": "€1.99"
+                            },
+                            "offerLifecycleState": "Release",
+                            "price": {
+                                "currencyCode": "EUR",
+                                "decimalPrice": 1.59
+                            },
+                            "priceDisplay": "€1.59",
+                            "purchasePayload": {
+                                "offerId": "18a651ae98d745eb8420f47bdb6406f3",
+                                "sandboxId": "39697c68e46b48d2b75e17bdc417d859"
+                            },
+                            "purchaseType": "Purchase"
+                        },
+                        {
+                            "offerLifecycleState": "Release",
+                            "price": {
+                                "currencyCode": "EUR",
+                                "decimalPrice": 1.99
+                            },
+                            "priceDisplay": "€1.99",
+                            "purchasePayload": {
+                                "offerId": "18a651ae98d745eb8420f47bdb6406f3",
+                                "sandboxId": "39697c68e46b48d2b75e17bdc417d859"
+                            },
+                            "purchaseType": "Purchase"
                         }
                     ],
                     "systemSpecs": {
@@ -9408,24 +9576,6 @@
                         }
                     },
                     "purchase": [
-                        {
-                            "discount": {
-                                "discountAmountDisplay": "-80%",
-                                "discountEndDate": "2025-11-03T16:00:00.000Z",
-                                "originalPriceDisplay": "€5.39"
-                            },
-                            "offerLifecycleState": "Release",
-                            "price": {
-                                "currencyCode": "EUR",
-                                "decimalPrice": 1.07
-                            },
-                            "priceDisplay": "€1.07",
-                            "purchasePayload": {
-                                "offerId": "34dc2b614e214cc29b71be833186f96c",
-                                "sandboxId": "109a4631336a475ca4e4a8a51cc6fe69"
-                            },
-                            "purchaseType": "Purchase"
-                        },
                         {
                             "offerLifecycleState": "Release",
                             "price": {
@@ -10272,6 +10422,37 @@
                                 "sandboxId": "d408f663403d4e9f8ecdc3086ed0d7bc"
                             },
                             "purchaseType": "Purchase"
+                        },
+                        {
+                            "discount": {
+                                "discountAmountDisplay": "-20%",
+                                "discountEndDate": "2025-11-11T16:00:00.000Z",
+                                "originalPriceDisplay": "€0.99"
+                            },
+                            "offerLifecycleState": "Release",
+                            "price": {
+                                "currencyCode": "EUR",
+                                "decimalPrice": 0.79
+                            },
+                            "priceDisplay": "€0.79",
+                            "purchasePayload": {
+                                "offerId": "9695a76e0fb34da488900c189dd8bb65",
+                                "sandboxId": "d408f663403d4e9f8ecdc3086ed0d7bc"
+                            },
+                            "purchaseType": "Purchase"
+                        },
+                        {
+                            "offerLifecycleState": "Release",
+                            "price": {
+                                "currencyCode": "EUR",
+                                "decimalPrice": 0.99
+                            },
+                            "priceDisplay": "€0.99",
+                            "purchasePayload": {
+                                "offerId": "9695a76e0fb34da488900c189dd8bb65",
+                                "sandboxId": "d408f663403d4e9f8ecdc3086ed0d7bc"
+                            },
+                            "purchaseType": "Purchase"
                         }
                     ],
                     "systemSpecs": {
@@ -11096,24 +11277,6 @@
                     },
                     "purchase": [
                         {
-                            "discount": {
-                                "discountAmountDisplay": "-80%",
-                                "discountEndDate": "2025-11-03T16:00:00.000Z",
-                                "originalPriceDisplay": "€5.39"
-                            },
-                            "offerLifecycleState": "Release",
-                            "price": {
-                                "currencyCode": "EUR",
-                                "decimalPrice": 1.07
-                            },
-                            "priceDisplay": "€1.07",
-                            "purchasePayload": {
-                                "offerId": "1692b4f15c1045a5968b8db5806d2867",
-                                "sandboxId": "270e1d648a5e4060b7b441615c4da4d9"
-                            },
-                            "purchaseType": "Purchase"
-                        },
-                        {
                             "offerLifecycleState": "Release",
                             "price": {
                                 "currencyCode": "EUR",
@@ -11230,7 +11393,7 @@
                         }
                     ],
                     "systemSpecs": {
-                        "applicationVersion": "51.1",
+                        "applicationVersion": "51.2",
                         "platform": "android",
                         "systemRequirements": [
                             {
@@ -11239,7 +11402,7 @@
                                 "title": "Installation size"
                             },
                             {
-                                "minimum": "140.61 MB",
+                                "minimum": "140.66 MB",
                                 "requirementType": "DownloadSize",
                                 "title": "Download size"
                             },
@@ -13642,24 +13805,6 @@
                         }
                     },
                     "purchase": [
-                        {
-                            "discount": {
-                                "discountAmountDisplay": "-80%",
-                                "discountEndDate": "2025-11-03T16:00:00.000Z",
-                                "originalPriceDisplay": "€5.39"
-                            },
-                            "offerLifecycleState": "Release",
-                            "price": {
-                                "currencyCode": "EUR",
-                                "decimalPrice": 1.07
-                            },
-                            "priceDisplay": "€1.07",
-                            "purchasePayload": {
-                                "offerId": "d856aca8b72040ba8f7a10a39cf11ce0",
-                                "sandboxId": "a3100205e194489088c7625c8c5c1596"
-                            },
-                            "purchaseType": "Purchase"
-                        },
                         {
                             "offerLifecycleState": "Release",
                             "price": {
