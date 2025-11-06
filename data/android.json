@@ -2913,10 +2913,12 @@
                         "ageRating": {
                             "ageControl": 12,
                             "contentDescriptors": [
-                                "Horror",
+                                "Mild Swearing",
                                 "Moderate Violence"
                             ],
-                            "interactiveElements": [],
+                            "interactiveElements": [
+                                "Digital Purchases"
+                            ],
                             "ratingImage": "https://cdn1.epicgames.com/gameRating/gameRating/PEGI_12_192_192x192-afa4df43f131bc83eb380ccf22f8d904",
                             "ratingSystem": "PEGI",
                             "rectangularRatingImage": "https://cdn1.epicgames.com/salesEvent/salesEvent/PEGI-12_436x530-0cd1f06607086f3cc1bc2b8643f21b0a",
@@ -2925,9 +2927,9 @@
                         "ratingType": "AgeRating"
                     },
                     "attention": {
-                        "inAppPurchases": "None"
+                        "inAppPurchases": "MaybeIncludesInAppPurchases"
                     },
-                    "catalogItemId": "87104a61adb74ecfa196add0fb6bc964",
+                    "catalogItemId": "554e4c764f5f432cac68cee5f04c7750",
                     "categories": [
                         "freegames",
                         "games",
@@ -2935,81 +2937,63 @@
                         "games/edition/base"
                     ],
                     "mapping": {
-                        "slug": "bendy-and-the-ink-machine-android-4fc7c4"
+                        "slug": "idle-champions-of-the-forgotten-realms-android-6df748"
                     },
                     "media": {
                         "appIcon": {
                             "altText": "-",
                             "height": 512,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/0b1283e5bfa64ad48f3862b79abc20b9/bendy-and-the-ink-machine-icon-nfg5r.png",
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/a53f91e55c6840018cb5de0b204f1ad9/idle-champions-of-the-forgotten-realms-icon-7q1rg.png",
                             "imageType": "ProductIcon",
                             "width": 512
                         },
                         "card16x9": {
-                            "altText": "Bendy and the Ink Machine Offer",
+                            "altText": "Idle Champions of the Forgotten Realms Offer",
                             "height": 1440,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/0b1283e5bfa64ad48f3862b79abc20b9/bendy-and-the-ink-machine-1yjc1.png",
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/a53f91e55c6840018cb5de0b204f1ad9/idle-champions-of-the-forgotten-realms-4z5vz.png",
                             "imageType": "OfferImageWide",
                             "width": 2560
                         },
                         "card3x4": {
-                            "altText": "Download Bendy and the Ink Machine Offer",
+                            "altText": "Download Idle Champions of the Forgotten Realms Offer",
                             "height": 1600,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/0b1283e5bfa64ad48f3862b79abc20b9/bendy-and-the-ink-machine-hk1bf.png",
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/a53f91e55c6840018cb5de0b204f1ad9/idle-champions-of-the-forgotten-realms-1xozn.png",
                             "imageType": "OfferImageTall",
                             "width": 1200
                         },
                         "coverImage": {
                             "altText": "-",
                             "height": 1440,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/0b1283e5bfa64ad48f3862b79abc20b9/bendy-and-the-ink-machine-p9ykp.png",
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/a53f91e55c6840018cb5de0b204f1ad9/idle-champions-of-the-forgotten-realms-9ia98.png",
                             "imageType": "coverImage",
                             "width": 2560
                         }
                     },
                     "purchase": [
                         {
-                            "discount": {
-                                "discountAmountDisplay": "-100%",
-                                "discountEndDate": "2025-11-06T16:00:00.000Z",
-                                "originalPriceDisplay": "€4.49"
-                            },
                             "offerLifecycleState": "Release",
                             "price": {
                                 "currencyCode": "EUR",
                                 "decimalPrice": 0
                             },
                             "purchasePayload": {
-                                "offerId": "8300122ee9244c76b367d1b9187bb259",
-                                "sandboxId": "4ebf21b7761e40cdb180d0604127e4a6"
+                                "offerId": "c9f2ce27f1c44ba9ad0cf4260f9e709e",
+                                "sandboxId": "7e508f543b05465abe3a935960eb70ac"
                             },
                             "purchaseType": "Claim"
-                        },
-                        {
-                            "offerLifecycleState": "Release",
-                            "price": {
-                                "currencyCode": "EUR",
-                                "decimalPrice": 4.49
-                            },
-                            "priceDisplay": "€4.49",
-                            "purchasePayload": {
-                                "offerId": "8300122ee9244c76b367d1b9187bb259",
-                                "sandboxId": "4ebf21b7761e40cdb180d0604127e4a6"
-                            },
-                            "purchaseType": "Purchase"
                         }
                     ],
                     "systemSpecs": {
-                        "applicationVersion": "1.0.900",
+                        "applicationVersion": "1.636.2",
                         "platform": "android",
                         "systemRequirements": [
                             {
-                                "minimum": "636 MB",
+                                "minimum": "430MB",
                                 "requirementType": "InstallSize",
                                 "title": "Installation size"
                             },
                             {
-                                "minimum": "503.67 MB",
+                                "minimum": "182.76 MB",
                                 "requirementType": "DownloadSize",
                                 "title": "Download size"
                             },
@@ -3020,10 +3004,10 @@
                             }
                         ]
                     },
-                    "title": "Bendy and the Ink Machine"
+                    "title": "Idle Champions of the Forgotten Realms"
                 },
-                "offerId": "8300122ee9244c76b367d1b9187bb259",
-                "sandboxId": "4ebf21b7761e40cdb180d0604127e4a6"
+                "offerId": "c9f2ce27f1c44ba9ad0cf4260f9e709e",
+                "sandboxId": "7e508f543b05465abe3a935960eb70ac"
             }
         ],
         "size": "large",
@@ -5257,12 +5241,10 @@
                         "ageRating": {
                             "ageControl": 12,
                             "contentDescriptors": [
-                                "Mild Swearing",
+                                "Horror",
                                 "Moderate Violence"
                             ],
-                            "interactiveElements": [
-                                "Digital Purchases"
-                            ],
+                            "interactiveElements": [],
                             "ratingImage": "https://cdn1.epicgames.com/gameRating/gameRating/PEGI_12_192_192x192-afa4df43f131bc83eb380ccf22f8d904",
                             "ratingSystem": "PEGI",
                             "rectangularRatingImage": "https://cdn1.epicgames.com/salesEvent/salesEvent/PEGI-12_436x530-0cd1f06607086f3cc1bc2b8643f21b0a",
@@ -5271,44 +5253,43 @@
                         "ratingType": "AgeRating"
                     },
                     "attention": {
-                        "inAppPurchases": "MaybeIncludesInAppPurchases"
+                        "inAppPurchases": "None"
                     },
-                    "catalogItemId": "554e4c764f5f432cac68cee5f04c7750",
+                    "catalogItemId": "87104a61adb74ecfa196add0fb6bc964",
                     "categories": [
-                        "freegames",
                         "games",
                         "games/edition",
                         "games/edition/base"
                     ],
                     "mapping": {
-                        "slug": "idle-champions-of-the-forgotten-realms-android-6df748"
+                        "slug": "bendy-and-the-ink-machine-android-4fc7c4"
                     },
                     "media": {
                         "appIcon": {
                             "altText": "-",
                             "height": 512,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/a53f91e55c6840018cb5de0b204f1ad9/idle-champions-of-the-forgotten-realms-icon-7q1rg.png",
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/0b1283e5bfa64ad48f3862b79abc20b9/bendy-and-the-ink-machine-icon-nfg5r.png",
                             "imageType": "ProductIcon",
                             "width": 512
                         },
                         "card16x9": {
-                            "altText": "Idle Champions of the Forgotten Realms Offer",
+                            "altText": "Bendy and the Ink Machine Offer",
                             "height": 1440,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/a53f91e55c6840018cb5de0b204f1ad9/idle-champions-of-the-forgotten-realms-4z5vz.png",
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/0b1283e5bfa64ad48f3862b79abc20b9/bendy-and-the-ink-machine-1yjc1.png",
                             "imageType": "OfferImageWide",
                             "width": 2560
                         },
                         "card3x4": {
-                            "altText": "Download Idle Champions of the Forgotten Realms Offer",
+                            "altText": "Download Bendy and the Ink Machine Offer",
                             "height": 1600,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/a53f91e55c6840018cb5de0b204f1ad9/idle-champions-of-the-forgotten-realms-1xozn.png",
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/0b1283e5bfa64ad48f3862b79abc20b9/bendy-and-the-ink-machine-hk1bf.png",
                             "imageType": "OfferImageTall",
                             "width": 1200
                         },
                         "coverImage": {
                             "altText": "-",
                             "height": 1440,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/a53f91e55c6840018cb5de0b204f1ad9/idle-champions-of-the-forgotten-realms-1jluf.png",
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/0b1283e5bfa64ad48f3862b79abc20b9/bendy-and-the-ink-machine-p9ykp.png",
                             "imageType": "coverImage",
                             "width": 2560
                         }
@@ -5318,26 +5299,27 @@
                             "offerLifecycleState": "Release",
                             "price": {
                                 "currencyCode": "EUR",
-                                "decimalPrice": 0
+                                "decimalPrice": 4.49
                             },
+                            "priceDisplay": "€4.49",
                             "purchasePayload": {
-                                "offerId": "c9f2ce27f1c44ba9ad0cf4260f9e709e",
-                                "sandboxId": "7e508f543b05465abe3a935960eb70ac"
+                                "offerId": "8300122ee9244c76b367d1b9187bb259",
+                                "sandboxId": "4ebf21b7761e40cdb180d0604127e4a6"
                             },
-                            "purchaseType": "Claim"
+                            "purchaseType": "Purchase"
                         }
                     ],
                     "systemSpecs": {
-                        "applicationVersion": "1.635",
+                        "applicationVersion": "1.0.900",
                         "platform": "android",
                         "systemRequirements": [
                             {
-                                "minimum": "430MB",
+                                "minimum": "636 MB",
                                 "requirementType": "InstallSize",
                                 "title": "Installation size"
                             },
                             {
-                                "minimum": "182.75 MB",
+                                "minimum": "503.67 MB",
                                 "requirementType": "DownloadSize",
                                 "title": "Download size"
                             },
@@ -5348,10 +5330,10 @@
                             }
                         ]
                     },
-                    "title": "Idle Champions of the Forgotten Realms"
+                    "title": "Bendy and the Ink Machine"
                 },
-                "offerId": "c9f2ce27f1c44ba9ad0cf4260f9e709e",
-                "sandboxId": "7e508f543b05465abe3a935960eb70ac"
+                "offerId": "8300122ee9244c76b367d1b9187bb259",
+                "sandboxId": "4ebf21b7761e40cdb180d0604127e4a6"
             },
             {
                 "content": {
@@ -7678,19 +7660,6 @@
                     },
                     "purchase": [
                         {
-                            "offerLifecycleState": "Release",
-                            "price": {
-                                "currencyCode": "EUR",
-                                "decimalPrice": 4.99
-                            },
-                            "priceDisplay": "€4.99",
-                            "purchasePayload": {
-                                "offerId": "4556ecf13e07411194e200aa7dff703e",
-                                "sandboxId": "cfc873292b2f4df1a94949ed72109f2b"
-                            },
-                            "purchaseType": "Purchase"
-                        },
-                        {
                             "discount": {
                                 "discountAmountDisplay": "-60%",
                                 "discountEndDate": "2025-11-19T16:00:00.000Z",
@@ -8337,19 +8306,6 @@
                     },
                     "purchase": [
                         {
-                            "offerLifecycleState": "Release",
-                            "price": {
-                                "currencyCode": "EUR",
-                                "decimalPrice": 4.99
-                            },
-                            "priceDisplay": "€4.99",
-                            "purchasePayload": {
-                                "offerId": "123b0ce76e9e401e8a35643a001bf9b5",
-                                "sandboxId": "886cd782adaa4ad6864ea8f603c3e19e"
-                            },
-                            "purchaseType": "Purchase"
-                        },
-                        {
                             "discount": {
                                 "discountAmountDisplay": "-80%",
                                 "discountEndDate": "2025-11-19T16:00:00.000Z",
@@ -8676,19 +8632,6 @@
                         }
                     },
                     "purchase": [
-                        {
-                            "offerLifecycleState": "Release",
-                            "price": {
-                                "currencyCode": "EUR",
-                                "decimalPrice": 2.99
-                            },
-                            "priceDisplay": "€2.99",
-                            "purchasePayload": {
-                                "offerId": "66e8ded38efe434c9a2e28c2aab33d99",
-                                "sandboxId": "75184e746fee49fd9b2928ea79ef1454"
-                            },
-                            "purchaseType": "Purchase"
-                        },
                         {
                             "discount": {
                                 "discountAmountDisplay": "-67%",
@@ -12266,6 +12209,37 @@
                                 "sandboxId": "5d24ed888f9542a09dc406f66705631a"
                             },
                             "purchaseType": "Purchase"
+                        },
+                        {
+                            "discount": {
+                                "discountAmountDisplay": "-60%",
+                                "discountEndDate": "2025-11-19T16:00:00.000Z",
+                                "originalPriceDisplay": "€4.99"
+                            },
+                            "offerLifecycleState": "Release",
+                            "price": {
+                                "currencyCode": "EUR",
+                                "decimalPrice": 1.99
+                            },
+                            "priceDisplay": "€1.99",
+                            "purchasePayload": {
+                                "offerId": "26cc69dd4fa54caa93288e25767f8c9c",
+                                "sandboxId": "5d24ed888f9542a09dc406f66705631a"
+                            },
+                            "purchaseType": "Purchase"
+                        },
+                        {
+                            "offerLifecycleState": "Release",
+                            "price": {
+                                "currencyCode": "EUR",
+                                "decimalPrice": 4.99
+                            },
+                            "priceDisplay": "€4.99",
+                            "purchasePayload": {
+                                "offerId": "26cc69dd4fa54caa93288e25767f8c9c",
+                                "sandboxId": "5d24ed888f9542a09dc406f66705631a"
+                            },
+                            "purchaseType": "Purchase"
                         }
                     ],
                     "systemSpecs": {
@@ -12561,19 +12535,6 @@
                         }
                     },
                     "purchase": [
-                        {
-                            "offerLifecycleState": "Release",
-                            "price": {
-                                "currencyCode": "EUR",
-                                "decimalPrice": 9.99
-                            },
-                            "priceDisplay": "€9.99",
-                            "purchasePayload": {
-                                "offerId": "8210fdfc329b443fbc9dcd52b63a56e9",
-                                "sandboxId": "e0e916451a4946508f7071c272d2e1f5"
-                            },
-                            "purchaseType": "Purchase"
-                        },
                         {
                             "discount": {
                                 "discountAmountDisplay": "-60%",
