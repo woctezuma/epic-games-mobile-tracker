@@ -1379,12 +1379,10 @@
                         "ageRating": {
                             "ageControl": 12,
                             "contentDescriptors": [
+                                "Horror",
                                 "Moderate Violence"
                             ],
-                            "interactiveElements": [
-                                "Users Interact",
-                                "In-Game Purchases"
-                            ],
+                            "interactiveElements": [],
                             "ratingImage": "https://cdn1.epicgames.com/gameRating/gameRating/PEGI_12_192_192x192-afa4df43f131bc83eb380ccf22f8d904",
                             "ratingSystem": "PEGI",
                             "rectangularRatingImage": "https://cdn1.epicgames.com/salesEvent/salesEvent/PEGI-12_436x530-0cd1f06607086f3cc1bc2b8643f21b0a",
@@ -1393,44 +1391,43 @@
                         "ratingType": "AgeRating"
                     },
                     "attention": {
-                        "inAppPurchases": "MaybeIncludesInAppPurchases"
+                        "inAppPurchases": "None"
                     },
-                    "catalogItemId": "492f4236452245d7830bf5fe869817a6",
+                    "catalogItemId": "117ea9d39c374c079fcaa33e7bd7521a",
                     "categories": [
-                        "freegames",
                         "games",
                         "games/edition",
                         "games/edition/base"
                     ],
                     "mapping": {
-                        "slug": "dc-heroes-united-ios-e2aad6"
+                        "slug": "bendy-and-the-ink-machine-ios-eece7b"
                     },
                     "media": {
                         "appIcon": {
                             "altText": "-",
                             "height": 512,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/6befcef760e94452937464dc57dc6c6a/dc-heroes-united-icon-1pb34.png",
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/0b1283e5bfa64ad48f3862b79abc20b9/bendy-and-the-ink-machine-icon-nfg5r.png",
                             "imageType": "ProductIcon",
                             "width": 512
                         },
                         "card16x9": {
-                            "altText": "DC Heroes United Offer",
+                            "altText": "Bendy and the Ink Machine Offer",
                             "height": 1440,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/6befcef760e94452937464dc57dc6c6a/dc-heroes-united-1ahu2.jpg",
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/0b1283e5bfa64ad48f3862b79abc20b9/bendy-and-the-ink-machine-1011v.png",
                             "imageType": "OfferImageWide",
                             "width": 2560
                         },
                         "card3x4": {
-                            "altText": "Download DC Heroes United Offer",
+                            "altText": "Download Bendy and the Ink Machine Offer",
                             "height": 1600,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/6befcef760e94452937464dc57dc6c6a/dc-heroes-united-8kh8f.jpg",
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/0b1283e5bfa64ad48f3862b79abc20b9/bendy-and-the-ink-machine-86nm1.png",
                             "imageType": "OfferImageTall",
                             "width": 1200
                         },
                         "coverImage": {
                             "altText": "-",
                             "height": 1440,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/6befcef760e94452937464dc57dc6c6a/dc-heroes-united-1b5sn.png",
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/0b1283e5bfa64ad48f3862b79abc20b9/bendy-and-the-ink-machine-p9ykp.png",
                             "imageType": "coverImage",
                             "width": 2560
                         }
@@ -1440,40 +1437,41 @@
                             "offerLifecycleState": "Release",
                             "price": {
                                 "currencyCode": "EUR",
-                                "decimalPrice": 0
+                                "decimalPrice": 4.49
                             },
+                            "priceDisplay": "€4.49",
                             "purchasePayload": {
-                                "offerId": "06e80adf547443e1b0161f3c16e57883",
-                                "sandboxId": "5118b091950743c2bf33185cbd9cd35f"
+                                "offerId": "c88c077fcc404c29a98b4f83aa7d2e99",
+                                "sandboxId": "4ebf21b7761e40cdb180d0604127e4a6"
                             },
-                            "purchaseType": "Claim"
+                            "purchaseType": "Purchase"
                         }
                     ],
                     "systemSpecs": {
-                        "applicationVersion": "1.0.53",
+                        "applicationVersion": "1.0.870",
                         "platform": "ios",
                         "systemRequirements": [
                             {
-                                "minimum": "135.2 MB",
+                                "minimum": "1.24 GB",
                                 "requirementType": "InstallSize",
                                 "title": "Installation size"
                             },
                             {
-                                "minimum": "135.2 MB",
+                                "minimum": "547 MB",
                                 "requirementType": "DownloadSize",
                                 "title": "Download size"
                             },
                             {
-                                "minimum": "iOS 16",
+                                "minimum": "12.0",
                                 "requirementType": "OS",
                                 "title": "OS version"
                             }
                         ]
                     },
-                    "title": "DC Heroes United"
+                    "title": "Bendy and the Ink Machine"
                 },
-                "offerId": "06e80adf547443e1b0161f3c16e57883",
-                "sandboxId": "5118b091950743c2bf33185cbd9cd35f"
+                "offerId": "c88c077fcc404c29a98b4f83aa7d2e99",
+                "sandboxId": "4ebf21b7761e40cdb180d0604127e4a6"
             },
             {
                 "content": {
@@ -2951,10 +2949,12 @@
                         "ageRating": {
                             "ageControl": 12,
                             "contentDescriptors": [
-                                "Horror",
+                                "Mild Swearing",
                                 "Moderate Violence"
                             ],
-                            "interactiveElements": [],
+                            "interactiveElements": [
+                                "Digital Purchases"
+                            ],
                             "ratingImage": "https://cdn1.epicgames.com/gameRating/gameRating/PEGI_12_192_192x192-afa4df43f131bc83eb380ccf22f8d904",
                             "ratingSystem": "PEGI",
                             "rectangularRatingImage": "https://cdn1.epicgames.com/salesEvent/salesEvent/PEGI-12_436x530-0cd1f06607086f3cc1bc2b8643f21b0a",
@@ -2963,9 +2963,9 @@
                         "ratingType": "AgeRating"
                     },
                     "attention": {
-                        "inAppPurchases": "None"
+                        "inAppPurchases": "MaybeIncludesInAppPurchases"
                     },
-                    "catalogItemId": "117ea9d39c374c079fcaa33e7bd7521a",
+                    "catalogItemId": "268753f532bc426fbdce80fc13a5d6e1",
                     "categories": [
                         "freegames",
                         "games",
@@ -2973,95 +2973,77 @@
                         "games/edition/base"
                     ],
                     "mapping": {
-                        "slug": "bendy-and-the-ink-machine-ios-eece7b"
+                        "slug": "idle-champions-of-the-forgotten-realms-ios-77e761"
                     },
                     "media": {
                         "appIcon": {
                             "altText": "-",
                             "height": 512,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/0b1283e5bfa64ad48f3862b79abc20b9/bendy-and-the-ink-machine-icon-nfg5r.png",
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/a53f91e55c6840018cb5de0b204f1ad9/idle-champions-of-the-forgotten-realms-icon-7q1rg.png",
                             "imageType": "ProductIcon",
                             "width": 512
                         },
                         "card16x9": {
-                            "altText": "Bendy and the Ink Machine Offer",
+                            "altText": "Idle Champions of the Forgotten Realms Offer",
                             "height": 1440,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/0b1283e5bfa64ad48f3862b79abc20b9/bendy-and-the-ink-machine-1011v.png",
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/a53f91e55c6840018cb5de0b204f1ad9/idle-champions-of-the-forgotten-realms-gc0ug.png",
                             "imageType": "OfferImageWide",
                             "width": 2560
                         },
                         "card3x4": {
-                            "altText": "Download Bendy and the Ink Machine Offer",
+                            "altText": "Download Idle Champions of the Forgotten Realms Offer",
                             "height": 1600,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/0b1283e5bfa64ad48f3862b79abc20b9/bendy-and-the-ink-machine-86nm1.png",
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/a53f91e55c6840018cb5de0b204f1ad9/idle-champions-of-the-forgotten-realms-1xms8.png",
                             "imageType": "OfferImageTall",
                             "width": 1200
                         },
                         "coverImage": {
                             "altText": "-",
                             "height": 1440,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/0b1283e5bfa64ad48f3862b79abc20b9/bendy-and-the-ink-machine-p9ykp.png",
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/a53f91e55c6840018cb5de0b204f1ad9/idle-champions-of-the-forgotten-realms-9ia98.png",
                             "imageType": "coverImage",
                             "width": 2560
                         }
                     },
                     "purchase": [
                         {
-                            "discount": {
-                                "discountAmountDisplay": "-100%",
-                                "discountEndDate": "2025-11-06T16:00:00.000Z",
-                                "originalPriceDisplay": "€4.49"
-                            },
                             "offerLifecycleState": "Release",
                             "price": {
                                 "currencyCode": "EUR",
                                 "decimalPrice": 0
                             },
                             "purchasePayload": {
-                                "offerId": "c88c077fcc404c29a98b4f83aa7d2e99",
-                                "sandboxId": "4ebf21b7761e40cdb180d0604127e4a6"
+                                "offerId": "dd07843b88f64ee898a4ea415c6dcb17",
+                                "sandboxId": "7e508f543b05465abe3a935960eb70ac"
                             },
                             "purchaseType": "Claim"
-                        },
-                        {
-                            "offerLifecycleState": "Release",
-                            "price": {
-                                "currencyCode": "EUR",
-                                "decimalPrice": 4.49
-                            },
-                            "priceDisplay": "€4.49",
-                            "purchasePayload": {
-                                "offerId": "c88c077fcc404c29a98b4f83aa7d2e99",
-                                "sandboxId": "4ebf21b7761e40cdb180d0604127e4a6"
-                            },
-                            "purchaseType": "Purchase"
                         }
                     ],
                     "systemSpecs": {
-                        "applicationVersion": "1.0.870",
+                        "applicationVersion": "1.598",
                         "platform": "ios",
                         "systemRequirements": [
                             {
-                                "minimum": "1.24 GB",
+                                "minimum": "430MB",
                                 "requirementType": "InstallSize",
                                 "title": "Installation size"
                             },
                             {
-                                "minimum": "547 MB",
+                                "minimum": "160MB",
                                 "requirementType": "DownloadSize",
                                 "title": "Download size"
                             },
                             {
-                                "minimum": "12.0",
+                                "minimum": "iOS 12.0",
                                 "requirementType": "OS",
                                 "title": "OS version"
                             }
                         ]
                     },
-                    "title": "Bendy and the Ink Machine"
+                    "title": "Idle Champions of the Forgotten Realms"
                 },
-                "offerId": "c88c077fcc404c29a98b4f83aa7d2e99",
-                "sandboxId": "4ebf21b7761e40cdb180d0604127e4a6"
+                "offerId": "dd07843b88f64ee898a4ea415c6dcb17",
+                "sandboxId": "7e508f543b05465abe3a935960eb70ac"
             }
         ],
         "size": "large",
@@ -3403,6 +3385,111 @@
                             "gate": "no-gate"
                         },
                         "ageRating": {
+                            "ageControl": 12,
+                            "contentDescriptors": [
+                                "Moderate Violence"
+                            ],
+                            "interactiveElements": [
+                                "Users Interact",
+                                "In-Game Purchases"
+                            ],
+                            "ratingImage": "https://cdn1.epicgames.com/gameRating/gameRating/PEGI_12_192_192x192-afa4df43f131bc83eb380ccf22f8d904",
+                            "ratingSystem": "PEGI",
+                            "rectangularRatingImage": "https://cdn1.epicgames.com/salesEvent/salesEvent/PEGI-12_436x530-0cd1f06607086f3cc1bc2b8643f21b0a",
+                            "title": "PEGI 12"
+                        },
+                        "ratingType": "AgeRating"
+                    },
+                    "attention": {
+                        "inAppPurchases": "MaybeIncludesInAppPurchases"
+                    },
+                    "catalogItemId": "492f4236452245d7830bf5fe869817a6",
+                    "categories": [
+                        "freegames",
+                        "games",
+                        "games/edition",
+                        "games/edition/base"
+                    ],
+                    "mapping": {
+                        "slug": "dc-heroes-united-ios-e2aad6"
+                    },
+                    "media": {
+                        "appIcon": {
+                            "altText": "-",
+                            "height": 512,
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/6befcef760e94452937464dc57dc6c6a/dc-heroes-united-icon-1pb34.png",
+                            "imageType": "ProductIcon",
+                            "width": 512
+                        },
+                        "card16x9": {
+                            "altText": "DC Heroes United Offer",
+                            "height": 1440,
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/6befcef760e94452937464dc57dc6c6a/dc-heroes-united-1ahu2.jpg",
+                            "imageType": "OfferImageWide",
+                            "width": 2560
+                        },
+                        "card3x4": {
+                            "altText": "Download DC Heroes United Offer",
+                            "height": 1600,
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/6befcef760e94452937464dc57dc6c6a/dc-heroes-united-8kh8f.jpg",
+                            "imageType": "OfferImageTall",
+                            "width": 1200
+                        },
+                        "coverImage": {
+                            "altText": "-",
+                            "height": 1440,
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/6befcef760e94452937464dc57dc6c6a/dc-heroes-united-1b5sn.png",
+                            "imageType": "coverImage",
+                            "width": 2560
+                        }
+                    },
+                    "purchase": [
+                        {
+                            "offerLifecycleState": "Release",
+                            "price": {
+                                "currencyCode": "EUR",
+                                "decimalPrice": 0
+                            },
+                            "purchasePayload": {
+                                "offerId": "06e80adf547443e1b0161f3c16e57883",
+                                "sandboxId": "5118b091950743c2bf33185cbd9cd35f"
+                            },
+                            "purchaseType": "Claim"
+                        }
+                    ],
+                    "systemSpecs": {
+                        "applicationVersion": "1.0.53",
+                        "platform": "ios",
+                        "systemRequirements": [
+                            {
+                                "minimum": "135.2 MB",
+                                "requirementType": "InstallSize",
+                                "title": "Installation size"
+                            },
+                            {
+                                "minimum": "135.2 MB",
+                                "requirementType": "DownloadSize",
+                                "title": "Download size"
+                            },
+                            {
+                                "minimum": "iOS 16",
+                                "requirementType": "OS",
+                                "title": "OS version"
+                            }
+                        ]
+                    },
+                    "title": "DC Heroes United"
+                },
+                "offerId": "06e80adf547443e1b0161f3c16e57883",
+                "sandboxId": "5118b091950743c2bf33185cbd9cd35f"
+            },
+            {
+                "content": {
+                    "ageRating": {
+                        "ageGate": {
+                            "gate": "no-gate"
+                        },
+                        "ageRating": {
                             "ageControl": 7,
                             "contentDescriptors": [
                                 "Mild Violence"
@@ -3700,111 +3787,6 @@
                 },
                 "offerId": "e75d1b2dbd5c47de8138419d848a899d",
                 "sandboxId": "ed52865b3add449eb9e7bd5528d1fc9f"
-            },
-            {
-                "content": {
-                    "ageRating": {
-                        "ageGate": {
-                            "gate": "no-gate"
-                        },
-                        "ageRating": {
-                            "ageControl": 12,
-                            "contentDescriptors": [
-                                "Mild Swearing",
-                                "Moderate Violence"
-                            ],
-                            "interactiveElements": [
-                                "Digital Purchases"
-                            ],
-                            "ratingImage": "https://cdn1.epicgames.com/gameRating/gameRating/PEGI_12_192_192x192-afa4df43f131bc83eb380ccf22f8d904",
-                            "ratingSystem": "PEGI",
-                            "rectangularRatingImage": "https://cdn1.epicgames.com/salesEvent/salesEvent/PEGI-12_436x530-0cd1f06607086f3cc1bc2b8643f21b0a",
-                            "title": "PEGI 12"
-                        },
-                        "ratingType": "AgeRating"
-                    },
-                    "attention": {
-                        "inAppPurchases": "MaybeIncludesInAppPurchases"
-                    },
-                    "catalogItemId": "268753f532bc426fbdce80fc13a5d6e1",
-                    "categories": [
-                        "freegames",
-                        "games",
-                        "games/edition",
-                        "games/edition/base"
-                    ],
-                    "mapping": {
-                        "slug": "idle-champions-of-the-forgotten-realms-ios-77e761"
-                    },
-                    "media": {
-                        "appIcon": {
-                            "altText": "-",
-                            "height": 512,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/a53f91e55c6840018cb5de0b204f1ad9/idle-champions-of-the-forgotten-realms-icon-7q1rg.png",
-                            "imageType": "ProductIcon",
-                            "width": 512
-                        },
-                        "card16x9": {
-                            "altText": "Idle Champions of the Forgotten Realms Offer",
-                            "height": 1440,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/a53f91e55c6840018cb5de0b204f1ad9/idle-champions-of-the-forgotten-realms-gc0ug.png",
-                            "imageType": "OfferImageWide",
-                            "width": 2560
-                        },
-                        "card3x4": {
-                            "altText": "Download Idle Champions of the Forgotten Realms Offer",
-                            "height": 1600,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/a53f91e55c6840018cb5de0b204f1ad9/idle-champions-of-the-forgotten-realms-1xms8.png",
-                            "imageType": "OfferImageTall",
-                            "width": 1200
-                        },
-                        "coverImage": {
-                            "altText": "-",
-                            "height": 1440,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/a53f91e55c6840018cb5de0b204f1ad9/idle-champions-of-the-forgotten-realms-1jluf.png",
-                            "imageType": "coverImage",
-                            "width": 2560
-                        }
-                    },
-                    "purchase": [
-                        {
-                            "offerLifecycleState": "Release",
-                            "price": {
-                                "currencyCode": "EUR",
-                                "decimalPrice": 0
-                            },
-                            "purchasePayload": {
-                                "offerId": "dd07843b88f64ee898a4ea415c6dcb17",
-                                "sandboxId": "7e508f543b05465abe3a935960eb70ac"
-                            },
-                            "purchaseType": "Claim"
-                        }
-                    ],
-                    "systemSpecs": {
-                        "applicationVersion": "1.598",
-                        "platform": "ios",
-                        "systemRequirements": [
-                            {
-                                "minimum": "430MB",
-                                "requirementType": "InstallSize",
-                                "title": "Installation size"
-                            },
-                            {
-                                "minimum": "160MB",
-                                "requirementType": "DownloadSize",
-                                "title": "Download size"
-                            },
-                            {
-                                "minimum": "iOS 12.0",
-                                "requirementType": "OS",
-                                "title": "OS version"
-                            }
-                        ]
-                    },
-                    "title": "Idle Champions of the Forgotten Realms"
-                },
-                "offerId": "dd07843b88f64ee898a4ea415c6dcb17",
-                "sandboxId": "7e508f543b05465abe3a935960eb70ac"
             },
             {
                 "content": {
