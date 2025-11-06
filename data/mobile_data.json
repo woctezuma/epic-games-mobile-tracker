@@ -509,6 +509,68 @@
         "store_url": "<https://store.epicgames.com/product/eastern-exorcist-ios-910c34>",
         "title": "Eastern Exorcist"
     },
+    "1-7e508f543b05465abe3a935960eb70ac-c9f2ce27f1c44ba9ad0cf4260f9e709e": {
+        "age_control": 12,
+        "catalog_item_id": "554e4c764f5f432cac68cee5f04c7750",
+        "checkout_url": "<https://store.epicgames.com/purchase?offers=1-7e508f543b05465abe3a935960eb70ac-c9f2ce27f1c44ba9ad0cf4260f9e709e>",
+        "content_descriptors": [
+            "Mild Swearing",
+            "Moderate Violence"
+        ],
+        "current_price": "0",
+        "discount": null,
+        "download_size": "182.75 MB",
+        "end_date": null,
+        "in_app_purchases": true,
+        "install_size": "430MB",
+        "interactive_elements": [
+            "Digital Purchases"
+        ],
+        "media": {
+            "OfferImageTall": "https://cdn1.epicgames.com/spt-assets/a53f91e55c6840018cb5de0b204f1ad9/idle-champions-of-the-forgotten-realms-1xozn.png",
+            "OfferImageWide": "https://cdn1.epicgames.com/spt-assets/a53f91e55c6840018cb5de0b204f1ad9/idle-champions-of-the-forgotten-realms-4z5vz.png",
+            "ProductIcon": "https://cdn1.epicgames.com/spt-assets/a53f91e55c6840018cb5de0b204f1ad9/idle-champions-of-the-forgotten-realms-icon-7q1rg.png",
+            "coverImage": "https://cdn1.epicgames.com/spt-assets/a53f91e55c6840018cb5de0b204f1ad9/idle-champions-of-the-forgotten-realms-1jluf.png"
+        },
+        "offer_id": "c9f2ce27f1c44ba9ad0cf4260f9e709e",
+        "original_price": "0",
+        "platform": "android",
+        "sandbox_id": "7e508f543b05465abe3a935960eb70ac",
+        "slug": "idle-champions-of-the-forgotten-realms-android-6df748",
+        "store_url": "<https://store.epicgames.com/product/idle-champions-of-the-forgotten-realms-android-6df748>",
+        "title": "Idle Champions of the Forgotten Realms"
+    },
+    "1-7e508f543b05465abe3a935960eb70ac-dd07843b88f64ee898a4ea415c6dcb17": {
+        "age_control": 12,
+        "catalog_item_id": "268753f532bc426fbdce80fc13a5d6e1",
+        "checkout_url": "<https://store.epicgames.com/purchase?offers=1-7e508f543b05465abe3a935960eb70ac-dd07843b88f64ee898a4ea415c6dcb17>",
+        "content_descriptors": [
+            "Mild Swearing",
+            "Moderate Violence"
+        ],
+        "current_price": "0",
+        "discount": null,
+        "download_size": "160MB",
+        "end_date": null,
+        "in_app_purchases": true,
+        "install_size": "430MB",
+        "interactive_elements": [
+            "Digital Purchases"
+        ],
+        "media": {
+            "OfferImageTall": "https://cdn1.epicgames.com/spt-assets/a53f91e55c6840018cb5de0b204f1ad9/idle-champions-of-the-forgotten-realms-1xms8.png",
+            "OfferImageWide": "https://cdn1.epicgames.com/spt-assets/a53f91e55c6840018cb5de0b204f1ad9/idle-champions-of-the-forgotten-realms-gc0ug.png",
+            "ProductIcon": "https://cdn1.epicgames.com/spt-assets/a53f91e55c6840018cb5de0b204f1ad9/idle-champions-of-the-forgotten-realms-icon-7q1rg.png",
+            "coverImage": "https://cdn1.epicgames.com/spt-assets/a53f91e55c6840018cb5de0b204f1ad9/idle-champions-of-the-forgotten-realms-1jluf.png"
+        },
+        "offer_id": "dd07843b88f64ee898a4ea415c6dcb17",
+        "original_price": "0",
+        "platform": "ios",
+        "sandbox_id": "7e508f543b05465abe3a935960eb70ac",
+        "slug": "idle-champions-of-the-forgotten-realms-ios-77e761",
+        "store_url": "<https://store.epicgames.com/product/idle-champions-of-the-forgotten-realms-ios-77e761>",
+        "title": "Idle Champions of the Forgotten Realms"
+    },
     "1-904f68c328364b1f98feb3b675ccf93d-517342bfb45d420ab0fb3e17628de37a": {
         "age_control": 3,
         "catalog_item_id": "4d7d45a4365d4118bfb3df124269d5df",
