@@ -2802,12 +2802,9 @@
                         "ageRating": {
                             "ageControl": 12,
                             "contentDescriptors": [
-                                "Mild Swearing",
                                 "Moderate Violence"
                             ],
-                            "interactiveElements": [
-                                "Digital Purchases"
-                            ],
+                            "interactiveElements": [],
                             "ratingImage": "https://cdn1.epicgames.com/gameRating/gameRating/PEGI_12_192_192x192-afa4df43f131bc83eb380ccf22f8d904",
                             "ratingSystem": "PEGI",
                             "rectangularRatingImage": "https://cdn1.epicgames.com/salesEvent/salesEvent/PEGI-12_436x530-0cd1f06607086f3cc1bc2b8643f21b0a",
@@ -2816,9 +2813,9 @@
                         "ratingType": "AgeRating"
                     },
                     "attention": {
-                        "inAppPurchases": "MaybeIncludesInAppPurchases"
+                        "inAppPurchases": "None"
                     },
-                    "catalogItemId": "268753f532bc426fbdce80fc13a5d6e1",
+                    "catalogItemId": "0f54a7ec1fe44113bf6e14712055b09c",
                     "categories": [
                         "freegames",
                         "games",
@@ -2826,77 +2823,95 @@
                         "games/edition/base"
                     ],
                     "mapping": {
-                        "slug": "idle-champions-of-the-forgotten-realms-ios-77e761"
+                        "slug": "scourgebringer-ios-65a7d4"
                     },
                     "media": {
                         "appIcon": {
                             "altText": "-",
                             "height": 512,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/a53f91e55c6840018cb5de0b204f1ad9/idle-champions-of-the-forgotten-realms-icon-7q1rg.png",
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/9adab56f7e8a48d6b5e137983460dbff/scourgebringer-icon-1dlpl.png",
                             "imageType": "ProductIcon",
                             "width": 512
                         },
                         "card16x9": {
-                            "altText": "Idle Champions of the Forgotten Realms Offer",
+                            "altText": "ScourgeBringer Offer",
                             "height": 1440,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/a53f91e55c6840018cb5de0b204f1ad9/idle-champions-of-the-forgotten-realms-gc0ug.png",
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/9adab56f7e8a48d6b5e137983460dbff/scourgebringer-17raf.png",
                             "imageType": "OfferImageWide",
                             "width": 2560
                         },
                         "card3x4": {
-                            "altText": "Download Idle Champions of the Forgotten Realms Offer",
+                            "altText": "Download ScourgeBringer Offer",
                             "height": 1600,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/a53f91e55c6840018cb5de0b204f1ad9/idle-champions-of-the-forgotten-realms-1xms8.png",
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/9adab56f7e8a48d6b5e137983460dbff/scourgebringer-wjod0.png",
                             "imageType": "OfferImageTall",
                             "width": 1200
                         },
                         "coverImage": {
                             "altText": "-",
                             "height": 1440,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/a53f91e55c6840018cb5de0b204f1ad9/idle-champions-of-the-forgotten-realms-9ia98.png",
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/9adab56f7e8a48d6b5e137983460dbff/scourgebringer-1mj9t.jpg",
                             "imageType": "coverImage",
                             "width": 2560
                         }
                     },
                     "purchase": [
                         {
+                            "discount": {
+                                "discountAmountDisplay": "-100%",
+                                "discountEndDate": "2025-11-20T16:00:00.000Z",
+                                "originalPriceDisplay": "€6.29"
+                            },
                             "offerLifecycleState": "Release",
                             "price": {
                                 "currencyCode": "EUR",
                                 "decimalPrice": 0
                             },
                             "purchasePayload": {
-                                "offerId": "dd07843b88f64ee898a4ea415c6dcb17",
-                                "sandboxId": "7e508f543b05465abe3a935960eb70ac"
+                                "offerId": "663cf323917a490ebce5eeeae6930fbd",
+                                "sandboxId": "c03a3687567a4cf3910ea5ec7279664e"
                             },
                             "purchaseType": "Claim"
+                        },
+                        {
+                            "offerLifecycleState": "Release",
+                            "price": {
+                                "currencyCode": "EUR",
+                                "decimalPrice": 6.29
+                            },
+                            "priceDisplay": "€6.29",
+                            "purchasePayload": {
+                                "offerId": "663cf323917a490ebce5eeeae6930fbd",
+                                "sandboxId": "c03a3687567a4cf3910ea5ec7279664e"
+                            },
+                            "purchaseType": "Purchase"
                         }
                     ],
                     "systemSpecs": {
-                        "applicationVersion": "1.598",
+                        "applicationVersion": "1.61.9",
                         "platform": "ios",
                         "systemRequirements": [
                             {
-                                "minimum": "430MB",
+                                "minimum": "161 MB",
                                 "requirementType": "InstallSize",
                                 "title": "Installation size"
                             },
                             {
-                                "minimum": "160MB",
+                                "minimum": "146 MB",
                                 "requirementType": "DownloadSize",
                                 "title": "Download size"
                             },
                             {
-                                "minimum": "iOS 12.0",
+                                "minimum": "11",
                                 "requirementType": "OS",
                                 "title": "OS version"
                             }
                         ]
                     },
-                    "title": "Idle Champions of the Forgotten Realms"
+                    "title": "ScourgeBringer"
                 },
-                "offerId": "dd07843b88f64ee898a4ea415c6dcb17",
-                "sandboxId": "7e508f543b05465abe3a935960eb70ac"
+                "offerId": "663cf323917a490ebce5eeeae6930fbd",
+                "sandboxId": "c03a3687567a4cf3910ea5ec7279664e"
             }
         ],
         "size": "large",
@@ -6519,6 +6534,110 @@
                 },
                 "offerId": "7341a6d951184e95bd7776b59fae0bc4",
                 "sandboxId": "e52b4d8cbcfd45ad95eff800ccc59d93"
+            },
+            {
+                "content": {
+                    "ageRating": {
+                        "ageGate": {
+                            "gate": "no-gate"
+                        },
+                        "ageRating": {
+                            "ageControl": 12,
+                            "contentDescriptors": [
+                                "Mild Swearing",
+                                "Moderate Violence"
+                            ],
+                            "interactiveElements": [
+                                "Digital Purchases"
+                            ],
+                            "ratingImage": "https://cdn1.epicgames.com/gameRating/gameRating/PEGI_12_192_192x192-afa4df43f131bc83eb380ccf22f8d904",
+                            "ratingSystem": "PEGI",
+                            "rectangularRatingImage": "https://cdn1.epicgames.com/salesEvent/salesEvent/PEGI-12_436x530-0cd1f06607086f3cc1bc2b8643f21b0a",
+                            "title": "PEGI 12"
+                        },
+                        "ratingType": "AgeRating"
+                    },
+                    "attention": {
+                        "inAppPurchases": "MaybeIncludesInAppPurchases"
+                    },
+                    "catalogItemId": "268753f532bc426fbdce80fc13a5d6e1",
+                    "categories": [
+                        "games",
+                        "games/edition",
+                        "games/edition/base"
+                    ],
+                    "mapping": {
+                        "slug": "idle-champions-of-the-forgotten-realms-ios-77e761"
+                    },
+                    "media": {
+                        "appIcon": {
+                            "altText": "-",
+                            "height": 512,
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/a53f91e55c6840018cb5de0b204f1ad9/idle-champions-of-the-forgotten-realms-icon-7q1rg.png",
+                            "imageType": "ProductIcon",
+                            "width": 512
+                        },
+                        "card16x9": {
+                            "altText": "Idle Champions of the Forgotten Realms Offer",
+                            "height": 1440,
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/a53f91e55c6840018cb5de0b204f1ad9/idle-champions-of-the-forgotten-realms-gc0ug.png",
+                            "imageType": "OfferImageWide",
+                            "width": 2560
+                        },
+                        "card3x4": {
+                            "altText": "Download Idle Champions of the Forgotten Realms Offer",
+                            "height": 1600,
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/a53f91e55c6840018cb5de0b204f1ad9/idle-champions-of-the-forgotten-realms-1xms8.png",
+                            "imageType": "OfferImageTall",
+                            "width": 1200
+                        },
+                        "coverImage": {
+                            "altText": "-",
+                            "height": 1440,
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/a53f91e55c6840018cb5de0b204f1ad9/idle-champions-of-the-forgotten-realms-9ia98.png",
+                            "imageType": "coverImage",
+                            "width": 2560
+                        }
+                    },
+                    "purchase": [
+                        {
+                            "offerLifecycleState": "Release",
+                            "price": {
+                                "currencyCode": "EUR",
+                                "decimalPrice": 0
+                            },
+                            "purchasePayload": {
+                                "offerId": "dd07843b88f64ee898a4ea415c6dcb17",
+                                "sandboxId": "7e508f543b05465abe3a935960eb70ac"
+                            },
+                            "purchaseType": "Claim"
+                        }
+                    ],
+                    "systemSpecs": {
+                        "applicationVersion": "1.598",
+                        "platform": "ios",
+                        "systemRequirements": [
+                            {
+                                "minimum": "430MB",
+                                "requirementType": "InstallSize",
+                                "title": "Installation size"
+                            },
+                            {
+                                "minimum": "160MB",
+                                "requirementType": "DownloadSize",
+                                "title": "Download size"
+                            },
+                            {
+                                "minimum": "iOS 12.0",
+                                "requirementType": "OS",
+                                "title": "OS version"
+                            }
+                        ]
+                    },
+                    "title": "Idle Champions of the Forgotten Realms"
+                },
+                "offerId": "dd07843b88f64ee898a4ea415c6dcb17",
+                "sandboxId": "7e508f543b05465abe3a935960eb70ac"
             }
         ],
         "size": "small",
