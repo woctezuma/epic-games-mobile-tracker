@@ -875,6 +875,62 @@
         "store_url": "<https://store.epicgames.com/product/firestone-online-idle-rpg-ios-b0619c>",
         "title": "Firestone Online Idle RPG"
     },
+    "1-c03a3687567a4cf3910ea5ec7279664e-663cf323917a490ebce5eeeae6930fbd": {
+        "age_control": 12,
+        "catalog_item_id": "0f54a7ec1fe44113bf6e14712055b09c",
+        "checkout_url": "<https://store.epicgames.com/purchase?offers=1-c03a3687567a4cf3910ea5ec7279664e-663cf323917a490ebce5eeeae6930fbd>",
+        "content_descriptors": [
+            "Moderate Violence"
+        ],
+        "current_price": "0",
+        "discount": "-100%",
+        "download_size": "146 MB",
+        "end_date": "2025-11-20T16:00:00.000Z",
+        "in_app_purchases": false,
+        "install_size": "161 MB",
+        "interactive_elements": [],
+        "media": {
+            "OfferImageTall": "https://cdn1.epicgames.com/spt-assets/9adab56f7e8a48d6b5e137983460dbff/scourgebringer-wjod0.png",
+            "OfferImageWide": "https://cdn1.epicgames.com/spt-assets/9adab56f7e8a48d6b5e137983460dbff/scourgebringer-17raf.png",
+            "ProductIcon": "https://cdn1.epicgames.com/spt-assets/9adab56f7e8a48d6b5e137983460dbff/scourgebringer-icon-1dlpl.png",
+            "coverImage": "https://cdn1.epicgames.com/spt-assets/9adab56f7e8a48d6b5e137983460dbff/scourgebringer-1mj9t.jpg"
+        },
+        "offer_id": "663cf323917a490ebce5eeeae6930fbd",
+        "original_price": "6.29",
+        "platform": "ios",
+        "sandbox_id": "c03a3687567a4cf3910ea5ec7279664e",
+        "slug": "scourgebringer-ios-65a7d4",
+        "store_url": "<https://store.epicgames.com/product/scourgebringer-ios-65a7d4>",
+        "title": "ScourgeBringer"
+    },
+    "1-c03a3687567a4cf3910ea5ec7279664e-e1d451b4c5c64d9980a1b32770a5dbef": {
+        "age_control": 12,
+        "catalog_item_id": "7b369b09a05243cca69c5520dba82221",
+        "checkout_url": "<https://store.epicgames.com/purchase?offers=1-c03a3687567a4cf3910ea5ec7279664e-e1d451b4c5c64d9980a1b32770a5dbef>",
+        "content_descriptors": [
+            "Moderate Violence"
+        ],
+        "current_price": "0",
+        "discount": "-100%",
+        "download_size": "188.84 MB",
+        "end_date": "2025-11-20T16:00:00.000Z",
+        "in_app_purchases": false,
+        "install_size": "162 MB",
+        "interactive_elements": [],
+        "media": {
+            "OfferImageTall": "https://cdn1.epicgames.com/spt-assets/9adab56f7e8a48d6b5e137983460dbff/scourgebringer-1iq60.png",
+            "OfferImageWide": "https://cdn1.epicgames.com/spt-assets/9adab56f7e8a48d6b5e137983460dbff/scourgebringer-144y5.png",
+            "ProductIcon": "https://cdn1.epicgames.com/spt-assets/9adab56f7e8a48d6b5e137983460dbff/scourgebringer-icon-1dlpl.png",
+            "coverImage": "https://cdn1.epicgames.com/spt-assets/9adab56f7e8a48d6b5e137983460dbff/scourgebringer-1mj9t.jpg"
+        },
+        "offer_id": "e1d451b4c5c64d9980a1b32770a5dbef",
+        "original_price": "6.29",
+        "platform": "android",
+        "sandbox_id": "c03a3687567a4cf3910ea5ec7279664e",
+        "slug": "scourgebringer-android-624437",
+        "store_url": "<https://store.epicgames.com/product/scourgebringer-android-624437>",
+        "title": "ScourgeBringer"
+    },
     "1-c28a4972ae574f27af0304e6ac625009-9d07ab4223af4a55a5e0b56103bd1345": {
         "age_control": 7,
         "catalog_item_id": "86a95712f3eb48b19bdbbf3ccdcc0d06",
