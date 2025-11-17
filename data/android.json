@@ -3453,7 +3453,7 @@
                         }
                     ],
                     "systemSpecs": {
-                        "applicationVersion": "2.15.0.15024",
+                        "applicationVersion": "2.15.1.15080",
                         "platform": "android",
                         "systemRequirements": [
                             {
@@ -3462,7 +3462,7 @@
                                 "title": "Installation size"
                             },
                             {
-                                "minimum": "156.98 MB",
+                                "minimum": "157.40 MB",
                                 "requirementType": "DownloadSize",
                                 "title": "Download size"
                             },
@@ -7315,6 +7315,7 @@
                         "ageRating": {
                             "ageControl": 12,
                             "contentDescriptors": [
+                                "Mild Swearing",
                                 "Moderate Violence"
                             ],
                             "interactiveElements": [],
@@ -10093,6 +10094,37 @@
                         }
                     },
                     "purchase": [
+                        {
+                            "offerLifecycleState": "Release",
+                            "price": {
+                                "currencyCode": "EUR",
+                                "decimalPrice": 1.79
+                            },
+                            "priceDisplay": "€1.79",
+                            "purchasePayload": {
+                                "offerId": "c910e34fc454401c90e0e9b88a67c110",
+                                "sandboxId": "f1e83e5944954920827fe315a151174d"
+                            },
+                            "purchaseType": "Purchase"
+                        },
+                        {
+                            "discount": {
+                                "discountAmountDisplay": "-70%",
+                                "discountEndDate": "2025-11-25T16:00:00.000Z",
+                                "originalPriceDisplay": "€1.79"
+                            },
+                            "offerLifecycleState": "Release",
+                            "price": {
+                                "currencyCode": "EUR",
+                                "decimalPrice": 0.53
+                            },
+                            "priceDisplay": "€0.53",
+                            "purchasePayload": {
+                                "offerId": "c910e34fc454401c90e0e9b88a67c110",
+                                "sandboxId": "f1e83e5944954920827fe315a151174d"
+                            },
+                            "purchaseType": "Purchase"
+                        },
                         {
                             "offerLifecycleState": "Release",
                             "price": {
