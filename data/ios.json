@@ -3631,7 +3631,7 @@
                         }
                     ],
                     "systemSpecs": {
-                        "applicationVersion": "1.42.0",
+                        "applicationVersion": "1.43.0",
                         "platform": "ios",
                         "systemRequirements": [
                             {
