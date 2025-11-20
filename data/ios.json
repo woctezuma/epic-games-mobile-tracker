@@ -16,9 +16,7 @@
                             "contentDescriptors": [
                                 "Moderate Violence"
                             ],
-                            "interactiveElements": [
-                                "In-Game Purchases (Includes Random Items)"
-                            ],
+                            "interactiveElements": [],
                             "ratingImage": "https://cdn1.epicgames.com/gameRating/gameRating/PEGI_12_192_192x192-afa4df43f131bc83eb380ccf22f8d904",
                             "ratingSystem": "PEGI",
                             "rectangularRatingImage": "https://cdn1.epicgames.com/salesEvent/salesEvent/PEGI-12_436x530-0cd1f06607086f3cc1bc2b8643f21b0a",
@@ -27,43 +25,43 @@
                         "ratingType": "AgeRating"
                     },
                     "attention": {
-                        "inAppPurchases": "MaybeIncludesInAppPurchases"
+                        "inAppPurchases": "None"
                     },
-                    "catalogItemId": "118930fd99ef480ab6e8eb176bedae5d",
+                    "catalogItemId": "0f54a7ec1fe44113bf6e14712055b09c",
                     "categories": [
                         "games",
                         "games/edition",
                         "games/edition/base"
                     ],
                     "mapping": {
-                        "slug": "shadow-fight-4-arena-ios-9829eb"
+                        "slug": "scourgebringer-ios-65a7d4"
                     },
                     "media": {
                         "appIcon": {
                             "altText": "-",
                             "height": 512,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/b16ec25c48934337ab7042b653c1653a/shadow-fight-4-arena-icon-1wrkj.png",
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/9adab56f7e8a48d6b5e137983460dbff/scourgebringer-icon-1dlpl.png",
                             "imageType": "ProductIcon",
                             "width": 512
                         },
                         "card16x9": {
-                            "altText": "Shadow Fight 4: Arena Offer",
+                            "altText": "ScourgeBringer Offer",
                             "height": 1440,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/b16ec25c48934337ab7042b653c1653a/shadow-fight-4-arena-s4187.png",
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/9adab56f7e8a48d6b5e137983460dbff/scourgebringer-17raf.png",
                             "imageType": "OfferImageWide",
                             "width": 2560
                         },
                         "card3x4": {
-                            "altText": "Download Shadow Fight 4: Arena Offer",
+                            "altText": "Download ScourgeBringer Offer",
                             "height": 1600,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/b16ec25c48934337ab7042b653c1653a/shadow-fight-4-arena-box0f.png",
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/9adab56f7e8a48d6b5e137983460dbff/scourgebringer-wjod0.png",
                             "imageType": "OfferImageTall",
                             "width": 1200
                         },
                         "coverImage": {
                             "altText": "-",
                             "height": 1440,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/b16ec25c48934337ab7042b653c1653a/shadow-fight-4-arena-v9sdk.jpg",
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/9adab56f7e8a48d6b5e137983460dbff/scourgebringer-1mj9t.jpg",
                             "imageType": "coverImage",
                             "width": 2560
                         }
@@ -73,40 +71,41 @@
                             "offerLifecycleState": "Release",
                             "price": {
                                 "currencyCode": "EUR",
-                                "decimalPrice": 0
+                                "decimalPrice": 6.29
                             },
+                            "priceDisplay": "€6.29",
                             "purchasePayload": {
-                                "offerId": "22716276a5274724b93456c50f68c52f",
-                                "sandboxId": "439f55536b4345f98a9b5c155a462c57"
+                                "offerId": "663cf323917a490ebce5eeeae6930fbd",
+                                "sandboxId": "c03a3687567a4cf3910ea5ec7279664e"
                             },
-                            "purchaseType": "Claim"
+                            "purchaseType": "Purchase"
                         }
                     ],
                     "systemSpecs": {
-                        "applicationVersion": "1.9.33",
+                        "applicationVersion": "1.61.9",
                         "platform": "ios",
                         "systemRequirements": [
                             {
-                                "minimum": "350",
+                                "minimum": "161 MB",
                                 "requirementType": "InstallSize",
                                 "title": "Installation size"
                             },
                             {
-                                "minimum": "150",
+                                "minimum": "146 MB",
                                 "requirementType": "DownloadSize",
                                 "title": "Download size"
                             },
                             {
-                                "minimum": "13.0",
+                                "minimum": "11",
                                 "requirementType": "OS",
                                 "title": "OS version"
                             }
                         ]
                     },
-                    "title": "Shadow Fight 4: Arena"
+                    "title": "ScourgeBringer"
                 },
-                "offerId": "22716276a5274724b93456c50f68c52f",
-                "sandboxId": "439f55536b4345f98a9b5c155a462c57"
+                "offerId": "663cf323917a490ebce5eeeae6930fbd",
+                "sandboxId": "c03a3687567a4cf3910ea5ec7279664e"
             },
             {
                 "content": {
@@ -2800,22 +2799,22 @@
                             "gate": "no-gate"
                         },
                         "ageRating": {
-                            "ageControl": 12,
+                            "ageControl": 7,
                             "contentDescriptors": [
-                                "Moderate Violence"
+                                "Mild Violence"
                             ],
                             "interactiveElements": [],
-                            "ratingImage": "https://cdn1.epicgames.com/gameRating/gameRating/PEGI_12_192_192x192-afa4df43f131bc83eb380ccf22f8d904",
+                            "ratingImage": "https://cdn1.epicgames.com/gameRating/gameRating/PEGI_7_192_192x192-30e2e712d0682dad01add90a6ccbed5b",
                             "ratingSystem": "PEGI",
-                            "rectangularRatingImage": "https://cdn1.epicgames.com/salesEvent/salesEvent/PEGI-12_436x530-0cd1f06607086f3cc1bc2b8643f21b0a",
-                            "title": "PEGI 12"
+                            "rectangularRatingImage": "https://cdn1.epicgames.com/salesEvent/salesEvent/PEGI-7_435x530-9439a136999d3dd762c7a61c3b8c7683",
+                            "title": "PEGI 7"
                         },
                         "ratingType": "AgeRating"
                     },
                     "attention": {
                         "inAppPurchases": "None"
                     },
-                    "catalogItemId": "0f54a7ec1fe44113bf6e14712055b09c",
+                    "catalogItemId": "e489803ed7ad4b7f952c72ecea4a1ea8",
                     "categories": [
                         "freegames",
                         "games",
@@ -2823,34 +2822,34 @@
                         "games/edition/base"
                     ],
                     "mapping": {
-                        "slug": "scourgebringer-ios-65a7d4"
+                        "slug": "zoeti-ios-1810be"
                     },
                     "media": {
                         "appIcon": {
                             "altText": "-",
                             "height": 512,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/9adab56f7e8a48d6b5e137983460dbff/scourgebringer-icon-1dlpl.png",
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/78af28ae56cb41e69cbca318bbc180e3/zoeti-icon-10wgq.png",
                             "imageType": "ProductIcon",
                             "width": 512
                         },
                         "card16x9": {
-                            "altText": "ScourgeBringer Offer",
+                            "altText": "Zoeti Offer",
                             "height": 1440,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/9adab56f7e8a48d6b5e137983460dbff/scourgebringer-17raf.png",
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/78af28ae56cb41e69cbca318bbc180e3/zoeti-1l3mz.jpg",
                             "imageType": "OfferImageWide",
                             "width": 2560
                         },
                         "card3x4": {
-                            "altText": "Download ScourgeBringer Offer",
+                            "altText": "Download Zoeti Offer",
                             "height": 1600,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/9adab56f7e8a48d6b5e137983460dbff/scourgebringer-wjod0.png",
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/78af28ae56cb41e69cbca318bbc180e3/zoeti-pjb8d.jpg",
                             "imageType": "OfferImageTall",
                             "width": 1200
                         },
                         "coverImage": {
                             "altText": "-",
                             "height": 1440,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/9adab56f7e8a48d6b5e137983460dbff/scourgebringer-1mj9t.jpg",
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/78af28ae56cb41e69cbca318bbc180e3/zoeti-15yn3.png",
                             "imageType": "coverImage",
                             "width": 2560
                         }
@@ -2859,8 +2858,8 @@
                         {
                             "discount": {
                                 "discountAmountDisplay": "-100%",
-                                "discountEndDate": "2025-11-20T16:00:00.000Z",
-                                "originalPriceDisplay": "€6.29"
+                                "discountEndDate": "2025-11-27T16:00:00.000Z",
+                                "originalPriceDisplay": "€7.19"
                             },
                             "offerLifecycleState": "Release",
                             "price": {
@@ -2868,8 +2867,8 @@
                                 "decimalPrice": 0
                             },
                             "purchasePayload": {
-                                "offerId": "663cf323917a490ebce5eeeae6930fbd",
-                                "sandboxId": "c03a3687567a4cf3910ea5ec7279664e"
+                                "offerId": "21ff0ff313b74f60802323aa367c1b39",
+                                "sandboxId": "1a7cbda7efe7435dabda1af662aeb1ba"
                             },
                             "purchaseType": "Claim"
                         },
@@ -2877,41 +2876,41 @@
                             "offerLifecycleState": "Release",
                             "price": {
                                 "currencyCode": "EUR",
-                                "decimalPrice": 6.29
+                                "decimalPrice": 7.19
                             },
-                            "priceDisplay": "€6.29",
+                            "priceDisplay": "€7.19",
                             "purchasePayload": {
-                                "offerId": "663cf323917a490ebce5eeeae6930fbd",
-                                "sandboxId": "c03a3687567a4cf3910ea5ec7279664e"
+                                "offerId": "21ff0ff313b74f60802323aa367c1b39",
+                                "sandboxId": "1a7cbda7efe7435dabda1af662aeb1ba"
                             },
                             "purchaseType": "Purchase"
                         }
                     ],
                     "systemSpecs": {
-                        "applicationVersion": "1.61.9",
+                        "applicationVersion": "1.2.5",
                         "platform": "ios",
                         "systemRequirements": [
                             {
-                                "minimum": "161 MB",
+                                "minimum": "489",
                                 "requirementType": "InstallSize",
                                 "title": "Installation size"
                             },
                             {
-                                "minimum": "146 MB",
+                                "minimum": "804",
                                 "requirementType": "DownloadSize",
                                 "title": "Download size"
                             },
                             {
-                                "minimum": "11",
+                                "minimum": "12.0",
                                 "requirementType": "OS",
                                 "title": "OS version"
                             }
                         ]
                     },
-                    "title": "ScourgeBringer"
+                    "title": "Zoeti"
                 },
-                "offerId": "663cf323917a490ebce5eeeae6930fbd",
-                "sandboxId": "c03a3687567a4cf3910ea5ec7279664e"
+                "offerId": "21ff0ff313b74f60802323aa367c1b39",
+                "sandboxId": "1a7cbda7efe7435dabda1af662aeb1ba"
             }
         ],
         "size": "large",
@@ -2925,6 +2924,109 @@
             "src": "/"
         },
         "offers": [
+            {
+                "content": {
+                    "ageRating": {
+                        "ageGate": {
+                            "gate": "no-gate"
+                        },
+                        "ageRating": {
+                            "ageControl": 12,
+                            "contentDescriptors": [
+                                "Moderate Violence"
+                            ],
+                            "interactiveElements": [
+                                "In-Game Purchases (Includes Random Items)"
+                            ],
+                            "ratingImage": "https://cdn1.epicgames.com/gameRating/gameRating/PEGI_12_192_192x192-afa4df43f131bc83eb380ccf22f8d904",
+                            "ratingSystem": "PEGI",
+                            "rectangularRatingImage": "https://cdn1.epicgames.com/salesEvent/salesEvent/PEGI-12_436x530-0cd1f06607086f3cc1bc2b8643f21b0a",
+                            "title": "PEGI 12"
+                        },
+                        "ratingType": "AgeRating"
+                    },
+                    "attention": {
+                        "inAppPurchases": "MaybeIncludesInAppPurchases"
+                    },
+                    "catalogItemId": "118930fd99ef480ab6e8eb176bedae5d",
+                    "categories": [
+                        "games",
+                        "games/edition",
+                        "games/edition/base"
+                    ],
+                    "mapping": {
+                        "slug": "shadow-fight-4-arena-ios-9829eb"
+                    },
+                    "media": {
+                        "appIcon": {
+                            "altText": "-",
+                            "height": 512,
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/b16ec25c48934337ab7042b653c1653a/shadow-fight-4-arena-icon-1wrkj.png",
+                            "imageType": "ProductIcon",
+                            "width": 512
+                        },
+                        "card16x9": {
+                            "altText": "Shadow Fight 4: Arena Offer",
+                            "height": 1440,
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/b16ec25c48934337ab7042b653c1653a/shadow-fight-4-arena-s4187.png",
+                            "imageType": "OfferImageWide",
+                            "width": 2560
+                        },
+                        "card3x4": {
+                            "altText": "Download Shadow Fight 4: Arena Offer",
+                            "height": 1600,
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/b16ec25c48934337ab7042b653c1653a/shadow-fight-4-arena-box0f.png",
+                            "imageType": "OfferImageTall",
+                            "width": 1200
+                        },
+                        "coverImage": {
+                            "altText": "-",
+                            "height": 1440,
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/b16ec25c48934337ab7042b653c1653a/shadow-fight-4-arena-v9sdk.jpg",
+                            "imageType": "coverImage",
+                            "width": 2560
+                        }
+                    },
+                    "purchase": [
+                        {
+                            "offerLifecycleState": "Release",
+                            "price": {
+                                "currencyCode": "EUR",
+                                "decimalPrice": 0
+                            },
+                            "purchasePayload": {
+                                "offerId": "22716276a5274724b93456c50f68c52f",
+                                "sandboxId": "439f55536b4345f98a9b5c155a462c57"
+                            },
+                            "purchaseType": "Claim"
+                        }
+                    ],
+                    "systemSpecs": {
+                        "applicationVersion": "1.9.33",
+                        "platform": "ios",
+                        "systemRequirements": [
+                            {
+                                "minimum": "350",
+                                "requirementType": "InstallSize",
+                                "title": "Installation size"
+                            },
+                            {
+                                "minimum": "150",
+                                "requirementType": "DownloadSize",
+                                "title": "Download size"
+                            },
+                            {
+                                "minimum": "13.0",
+                                "requirementType": "OS",
+                                "title": "OS version"
+                            }
+                        ]
+                    },
+                    "title": "Shadow Fight 4: Arena"
+                },
+                "offerId": "22716276a5274724b93456c50f68c52f",
+                "sandboxId": "439f55536b4345f98a9b5c155a462c57"
+            },
             {
                 "content": {
                     "ageRating": {
@@ -3129,110 +3231,6 @@
                 },
                 "offerId": "063d5cd65bd7412c8db0c242be8bd53b",
                 "sandboxId": "1884b723aba444f9961c148f655ca14c"
-            },
-            {
-                "content": {
-                    "ageRating": {
-                        "ageGate": {
-                            "gate": "age-gate"
-                        },
-                        "ageRating": {
-                            "ageControl": 18,
-                            "contentDescriptors": [
-                                "Extreme Violence",
-                                "Strong Language"
-                            ],
-                            "interactiveElements": [
-                                "In-Game Purchases"
-                            ],
-                            "ratingImage": "https://cdn1.epicgames.com/gameRating/gameRating/PEGI_18_192_192x192-d6a2111e4c05a18bc5ec235df88a7382",
-                            "ratingSystem": "PEGI",
-                            "rectangularRatingImage": "https://cdn1.epicgames.com/salesEvent/salesEvent/PEGI-18_436x530-f31bca6eb9a143791a8525f8b278462f",
-                            "title": "PEGI 18"
-                        },
-                        "ratingType": "AgeRating"
-                    },
-                    "attention": {
-                        "inAppPurchases": "MaybeIncludesInAppPurchases"
-                    },
-                    "catalogItemId": "6b6494fb87bd42439535ab3b638aba2d",
-                    "categories": [
-                        "games",
-                        "games/edition",
-                        "games/edition/base"
-                    ],
-                    "mapping": {
-                        "slug": "road-redemption-mobile-ios-18d1e0"
-                    },
-                    "media": {
-                        "appIcon": {
-                            "altText": "-",
-                            "height": 512,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/cf29ae887bef439f9907d842fd14abf2/road-redemption-mobile-icon-ndocq.png",
-                            "imageType": "ProductIcon",
-                            "width": 512
-                        },
-                        "card16x9": {
-                            "altText": "Road Redemption Mobile Offer",
-                            "height": 1440,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/cf29ae887bef439f9907d842fd14abf2/road-redemption-mobile-1pkux.jpg",
-                            "imageType": "OfferImageWide",
-                            "width": 2560
-                        },
-                        "card3x4": {
-                            "altText": "Download Road Redemption Mobile Offer",
-                            "height": 1600,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/cf29ae887bef439f9907d842fd14abf2/road-redemption-mobile-1vxdq.png",
-                            "imageType": "OfferImageTall",
-                            "width": 1200
-                        },
-                        "coverImage": {
-                            "altText": "-",
-                            "height": 1440,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/cf29ae887bef439f9907d842fd14abf2/road-redemption-mobile-1i2vz.jpg",
-                            "imageType": "coverImage",
-                            "width": 2560
-                        }
-                    },
-                    "purchase": [
-                        {
-                            "offerLifecycleState": "Release",
-                            "price": {
-                                "currencyCode": "EUR",
-                                "decimalPrice": 0
-                            },
-                            "purchasePayload": {
-                                "offerId": "59b4c50196e14daeb0857eca8c4450db",
-                                "sandboxId": "b55da3b0bc01490088b8f982bbf7d54e"
-                            },
-                            "purchaseType": "Claim"
-                        }
-                    ],
-                    "systemSpecs": {
-                        "applicationVersion": "1.0.9",
-                        "platform": "ios",
-                        "systemRequirements": [
-                            {
-                                "minimum": "1.2 GB",
-                                "requirementType": "InstallSize",
-                                "title": "Installation size"
-                            },
-                            {
-                                "minimum": "1.2 GB",
-                                "requirementType": "DownloadSize",
-                                "title": "Download size"
-                            },
-                            {
-                                "minimum": "Requires iOS 13.0 or later.",
-                                "requirementType": "OS",
-                                "title": "OS version"
-                            }
-                        ]
-                    },
-                    "title": "Road Redemption Mobile"
-                },
-                "offerId": "59b4c50196e14daeb0857eca8c4450db",
-                "sandboxId": "b55da3b0bc01490088b8f982bbf7d54e"
             }
         ],
         "size": "medium",
@@ -6638,6 +6636,110 @@
                 },
                 "offerId": "dd07843b88f64ee898a4ea415c6dcb17",
                 "sandboxId": "7e508f543b05465abe3a935960eb70ac"
+            },
+            {
+                "content": {
+                    "ageRating": {
+                        "ageGate": {
+                            "gate": "age-gate"
+                        },
+                        "ageRating": {
+                            "ageControl": 18,
+                            "contentDescriptors": [
+                                "Extreme Violence",
+                                "Strong Language"
+                            ],
+                            "interactiveElements": [
+                                "In-Game Purchases"
+                            ],
+                            "ratingImage": "https://cdn1.epicgames.com/gameRating/gameRating/PEGI_18_192_192x192-d6a2111e4c05a18bc5ec235df88a7382",
+                            "ratingSystem": "PEGI",
+                            "rectangularRatingImage": "https://cdn1.epicgames.com/salesEvent/salesEvent/PEGI-18_436x530-f31bca6eb9a143791a8525f8b278462f",
+                            "title": "PEGI 18"
+                        },
+                        "ratingType": "AgeRating"
+                    },
+                    "attention": {
+                        "inAppPurchases": "MaybeIncludesInAppPurchases"
+                    },
+                    "catalogItemId": "6b6494fb87bd42439535ab3b638aba2d",
+                    "categories": [
+                        "games",
+                        "games/edition",
+                        "games/edition/base"
+                    ],
+                    "mapping": {
+                        "slug": "road-redemption-mobile-ios-18d1e0"
+                    },
+                    "media": {
+                        "appIcon": {
+                            "altText": "-",
+                            "height": 512,
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/cf29ae887bef439f9907d842fd14abf2/road-redemption-mobile-icon-ndocq.png",
+                            "imageType": "ProductIcon",
+                            "width": 512
+                        },
+                        "card16x9": {
+                            "altText": "Road Redemption Mobile Offer",
+                            "height": 1440,
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/cf29ae887bef439f9907d842fd14abf2/road-redemption-mobile-1pkux.jpg",
+                            "imageType": "OfferImageWide",
+                            "width": 2560
+                        },
+                        "card3x4": {
+                            "altText": "Download Road Redemption Mobile Offer",
+                            "height": 1600,
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/cf29ae887bef439f9907d842fd14abf2/road-redemption-mobile-1vxdq.png",
+                            "imageType": "OfferImageTall",
+                            "width": 1200
+                        },
+                        "coverImage": {
+                            "altText": "-",
+                            "height": 1440,
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/cf29ae887bef439f9907d842fd14abf2/road-redemption-mobile-1i2vz.jpg",
+                            "imageType": "coverImage",
+                            "width": 2560
+                        }
+                    },
+                    "purchase": [
+                        {
+                            "offerLifecycleState": "Release",
+                            "price": {
+                                "currencyCode": "EUR",
+                                "decimalPrice": 0
+                            },
+                            "purchasePayload": {
+                                "offerId": "59b4c50196e14daeb0857eca8c4450db",
+                                "sandboxId": "b55da3b0bc01490088b8f982bbf7d54e"
+                            },
+                            "purchaseType": "Claim"
+                        }
+                    ],
+                    "systemSpecs": {
+                        "applicationVersion": "1.0.9",
+                        "platform": "ios",
+                        "systemRequirements": [
+                            {
+                                "minimum": "1.2 GB",
+                                "requirementType": "InstallSize",
+                                "title": "Installation size"
+                            },
+                            {
+                                "minimum": "1.2 GB",
+                                "requirementType": "DownloadSize",
+                                "title": "Download size"
+                            },
+                            {
+                                "minimum": "Requires iOS 13.0 or later.",
+                                "requirementType": "OS",
+                                "title": "OS version"
+                            }
+                        ]
+                    },
+                    "title": "Road Redemption Mobile"
+                },
+                "offerId": "59b4c50196e14daeb0857eca8c4450db",
+                "sandboxId": "b55da3b0bc01490088b8f982bbf7d54e"
             }
         ],
         "size": "small",
