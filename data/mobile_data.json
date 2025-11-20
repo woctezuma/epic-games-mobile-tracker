@@ -221,6 +221,62 @@
         "store_url": "<https://store.epicgames.com/product/figment2-creed-valley-android-e5f2c9>",
         "title": "Figment 2: Creed Valley"
     },
+    "1-1a7cbda7efe7435dabda1af662aeb1ba-21ff0ff313b74f60802323aa367c1b39": {
+        "age_control": 7,
+        "catalog_item_id": "e489803ed7ad4b7f952c72ecea4a1ea8",
+        "checkout_url": "<https://store.epicgames.com/purchase?offers=1-1a7cbda7efe7435dabda1af662aeb1ba-21ff0ff313b74f60802323aa367c1b39>",
+        "content_descriptors": [
+            "Mild Violence"
+        ],
+        "current_price": "0",
+        "discount": "-100%",
+        "download_size": "804",
+        "end_date": "2025-11-27T16:00:00.000Z",
+        "in_app_purchases": false,
+        "install_size": "489",
+        "interactive_elements": [],
+        "media": {
+            "OfferImageTall": "https://cdn1.epicgames.com/spt-assets/78af28ae56cb41e69cbca318bbc180e3/zoeti-pjb8d.jpg",
+            "OfferImageWide": "https://cdn1.epicgames.com/spt-assets/78af28ae56cb41e69cbca318bbc180e3/zoeti-1l3mz.jpg",
+            "ProductIcon": "https://cdn1.epicgames.com/spt-assets/78af28ae56cb41e69cbca318bbc180e3/zoeti-icon-10wgq.png",
+            "coverImage": "https://cdn1.epicgames.com/spt-assets/78af28ae56cb41e69cbca318bbc180e3/zoeti-15yn3.png"
+        },
+        "offer_id": "21ff0ff313b74f60802323aa367c1b39",
+        "original_price": "7.19",
+        "platform": "ios",
+        "sandbox_id": "1a7cbda7efe7435dabda1af662aeb1ba",
+        "slug": "zoeti-ios-1810be",
+        "store_url": "<https://store.epicgames.com/product/zoeti-ios-1810be>",
+        "title": "Zoeti"
+    },
+    "1-1a7cbda7efe7435dabda1af662aeb1ba-e6905c376f5740aebd2aa5991c22a4f2": {
+        "age_control": 7,
+        "catalog_item_id": "ddd571cfecbe410886567c5a3ced626a",
+        "checkout_url": "<https://store.epicgames.com/purchase?offers=1-1a7cbda7efe7435dabda1af662aeb1ba-e6905c376f5740aebd2aa5991c22a4f2>",
+        "content_descriptors": [
+            "Mild Violence"
+        ],
+        "current_price": "0",
+        "discount": "-100%",
+        "download_size": "340.42 MB",
+        "end_date": "2025-11-27T16:00:00.000Z",
+        "in_app_purchases": false,
+        "install_size": "340",
+        "interactive_elements": [],
+        "media": {
+            "OfferImageTall": "https://cdn1.epicgames.com/spt-assets/78af28ae56cb41e69cbca318bbc180e3/zoeti-1klr8.jpg",
+            "OfferImageWide": "https://cdn1.epicgames.com/spt-assets/78af28ae56cb41e69cbca318bbc180e3/zoeti-1lndf.jpg",
+            "ProductIcon": "https://cdn1.epicgames.com/spt-assets/78af28ae56cb41e69cbca318bbc180e3/zoeti-icon-10wgq.png",
+            "coverImage": "https://cdn1.epicgames.com/spt-assets/78af28ae56cb41e69cbca318bbc180e3/zoeti-15yn3.png"
+        },
+        "offer_id": "e6905c376f5740aebd2aa5991c22a4f2",
+        "original_price": "7.19",
+        "platform": "android",
+        "sandbox_id": "1a7cbda7efe7435dabda1af662aeb1ba",
+        "slug": "zoeti-android-15ba72",
+        "store_url": "<https://store.epicgames.com/product/zoeti-android-15ba72>",
+        "title": "Zoeti"
+    },
     "1-270e1d648a5e4060b7b441615c4da4d9-1692b4f15c1045a5968b8db5806d2867": {
         "age_control": 12,
         "catalog_item_id": "d8044498b96b4788ab6910da7a34118e",
