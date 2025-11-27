@@ -509,6 +509,64 @@
         "store_url": "<https://store.epicgames.com/product/dc-heroes-united-android-de4bc2>",
         "title": "DC Heroes United"
     },
+    "1-60525048f11c46b88bb6d7492ce7b67d-4d48de8a4b0b4f1a8d8d8c046ded5051": {
+        "age_control": 12,
+        "catalog_item_id": "198a2dfea59a4af4be265ea4cb6b4635",
+        "checkout_url": "<https://store.epicgames.com/purchase?offers=1-60525048f11c46b88bb6d7492ce7b67d-4d48de8a4b0b4f1a8d8d8c046ded5051>",
+        "content_descriptors": [
+            "Moderate Violence",
+            "Mild Swearing"
+        ],
+        "current_price": "0",
+        "discount": "-100%",
+        "download_size": "218 MB",
+        "end_date": "2025-12-04T16:00:00.000Z",
+        "in_app_purchases": false,
+        "install_size": "354 MB",
+        "interactive_elements": [],
+        "media": {
+            "OfferImageTall": "https://cdn1.epicgames.com/spt-assets/5159c30d2bba476484db4f9c97beb47e/universe-for-sale-f48o5.jpg",
+            "OfferImageWide": "https://cdn1.epicgames.com/spt-assets/5159c30d2bba476484db4f9c97beb47e/universe-for-sale-17erh.jpg",
+            "ProductIcon": "https://cdn1.epicgames.com/spt-assets/5159c30d2bba476484db4f9c97beb47e/universe-for-sale-icon-1drtr.png",
+            "coverImage": "https://cdn1.epicgames.com/spt-assets/5159c30d2bba476484db4f9c97beb47e/universe-for-sale-am63u.png"
+        },
+        "offer_id": "4d48de8a4b0b4f1a8d8d8c046ded5051",
+        "original_price": "6.29",
+        "platform": "ios",
+        "sandbox_id": "60525048f11c46b88bb6d7492ce7b67d",
+        "slug": "universe-for-sale-ios-475e80",
+        "store_url": "<https://store.epicgames.com/product/universe-for-sale-ios-475e80>",
+        "title": "Universe for Sale"
+    },
+    "1-60525048f11c46b88bb6d7492ce7b67d-ed2a750bddc142f59eac4b62a07ce850": {
+        "age_control": 12,
+        "catalog_item_id": "8a86c9d9ed204ac1b6bc11c8b1d150bb",
+        "checkout_url": "<https://store.epicgames.com/purchase?offers=1-60525048f11c46b88bb6d7492ce7b67d-ed2a750bddc142f59eac4b62a07ce850>",
+        "content_descriptors": [
+            "Moderate Violence",
+            "Mild Swearing"
+        ],
+        "current_price": "0",
+        "discount": "-100%",
+        "download_size": "295.39 MB",
+        "end_date": "2025-12-04T16:00:00.000Z",
+        "in_app_purchases": false,
+        "install_size": "289 MB",
+        "interactive_elements": [],
+        "media": {
+            "OfferImageTall": "https://cdn1.epicgames.com/spt-assets/5159c30d2bba476484db4f9c97beb47e/universe-for-sale-1h9u5.jpg",
+            "OfferImageWide": "https://cdn1.epicgames.com/spt-assets/5159c30d2bba476484db4f9c97beb47e/universe-for-sale-1eih3.jpg",
+            "ProductIcon": "https://cdn1.epicgames.com/spt-assets/5159c30d2bba476484db4f9c97beb47e/universe-for-sale-icon-1drtr.png",
+            "coverImage": "https://cdn1.epicgames.com/spt-assets/5159c30d2bba476484db4f9c97beb47e/universe-for-sale-am63u.png"
+        },
+        "offer_id": "ed2a750bddc142f59eac4b62a07ce850",
+        "original_price": "6.29",
+        "platform": "android",
+        "sandbox_id": "60525048f11c46b88bb6d7492ce7b67d",
+        "slug": "universe-for-sale-android-43d88e",
+        "store_url": "<https://store.epicgames.com/product/universe-for-sale-android-43d88e>",
+        "title": "Universe for Sale"
+    },
     "1-630a4b97a55545bb9941aee38ec799db-208ced5ba5334a21998d694cfd6a8c70": {
         "age_control": 12,
         "catalog_item_id": "15f80e26c27242afb07172b565a5b4aa",
