@@ -12,54 +12,57 @@
                             "gate": "no-gate"
                         },
                         "ageRating": {
-                            "ageControl": 3,
-                            "contentDescriptors": [],
+                            "ageControl": 12,
+                            "contentDescriptors": [
+                                "Moderate Violence",
+                                "Mild Swearing"
+                            ],
                             "interactiveElements": [],
-                            "ratingImage": "https://cdn1.epicgames.com/gameRating/gameRating/PEGI_3_192_192x192-490b93ddf59fb4ac1148d1eb9083626a",
+                            "ratingImage": "https://cdn1.epicgames.com/gameRating/gameRating/PEGI_12_192_192x192-afa4df43f131bc83eb380ccf22f8d904",
                             "ratingSystem": "PEGI",
-                            "rectangularRatingImage": "https://cdn1.epicgames.com/salesEvent/salesEvent/PEGI-3_435x530-c931ab5bb4eb190f6e8e542081c49dc4",
-                            "title": "PEGI 3"
+                            "rectangularRatingImage": "https://cdn1.epicgames.com/salesEvent/salesEvent/PEGI-12_436x530-0cd1f06607086f3cc1bc2b8643f21b0a",
+                            "title": "PEGI 12"
                         },
                         "ratingType": "AgeRating"
                     },
                     "attention": {
                         "inAppPurchases": "None"
                     },
-                    "catalogItemId": "411287659c85481d9bffe31f40832e9e",
+                    "catalogItemId": "198a2dfea59a4af4be265ea4cb6b4635",
                     "categories": [
                         "games",
                         "games/edition",
                         "games/edition/base"
                     ],
                     "mapping": {
-                        "slug": "phil-faily-vs-rev-heads-ios-406b38"
+                        "slug": "universe-for-sale-ios-475e80"
                     },
                     "media": {
                         "appIcon": {
                             "altText": "-",
                             "height": 512,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/2c65291b2883403f8ed1da73fa026c58/phil-faily-vs-rev-heads-icon-7mlwa.png",
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/5159c30d2bba476484db4f9c97beb47e/universe-for-sale-icon-1drtr.png",
                             "imageType": "ProductIcon",
                             "width": 512
                         },
                         "card16x9": {
-                            "altText": "Phil Faily vs Rev Heads Offer",
+                            "altText": "Universe for Sale Offer",
                             "height": 1440,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/2c65291b2883403f8ed1da73fa026c58/phil-faily-vs-rev-heads-wmz50.png",
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/5159c30d2bba476484db4f9c97beb47e/universe-for-sale-17erh.jpg",
                             "imageType": "OfferImageWide",
                             "width": 2560
                         },
                         "card3x4": {
-                            "altText": "Download Phil Faily vs Rev Heads Offer",
+                            "altText": "Download Universe for Sale Offer",
                             "height": 1600,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/2c65291b2883403f8ed1da73fa026c58/phil-faily-vs-rev-heads-15fkq.png",
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/5159c30d2bba476484db4f9c97beb47e/universe-for-sale-f48o5.jpg",
                             "imageType": "OfferImageTall",
                             "width": 1200
                         },
                         "coverImage": {
                             "altText": "-",
                             "height": 1440,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/2c65291b2883403f8ed1da73fa026c58/phil-faily-vs-rev-heads-120a5.png",
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/5159c30d2bba476484db4f9c97beb47e/universe-for-sale-am63u.png",
                             "imageType": "coverImage",
                             "width": 2560
                         }
@@ -69,41 +72,41 @@
                             "offerLifecycleState": "Release",
                             "price": {
                                 "currencyCode": "EUR",
-                                "decimalPrice": 2.69
+                                "decimalPrice": 6.29
                             },
-                            "priceDisplay": "€2.69",
+                            "priceDisplay": "€6.29",
                             "purchasePayload": {
-                                "offerId": "158171d5815049f1aa44b86c37974c0f",
-                                "sandboxId": "93814314483c41148abbbd540920447b"
+                                "offerId": "4d48de8a4b0b4f1a8d8d8c046ded5051",
+                                "sandboxId": "60525048f11c46b88bb6d7492ce7b67d"
                             },
                             "purchaseType": "Purchase"
                         }
                     ],
                     "systemSpecs": {
-                        "applicationVersion": "1.0",
+                        "applicationVersion": "1.4.1",
                         "platform": "ios",
                         "systemRequirements": [
                             {
-                                "minimum": "250 MB",
+                                "minimum": "354 MB",
                                 "requirementType": "InstallSize",
                                 "title": "Installation size"
                             },
                             {
-                                "minimum": "130 MB",
+                                "minimum": "218 MB",
                                 "requirementType": "DownloadSize",
                                 "title": "Download size"
                             },
                             {
-                                "minimum": "13.0",
+                                "minimum": "15.6",
                                 "requirementType": "OS",
                                 "title": "OS version"
                             }
                         ]
                     },
-                    "title": "Phil Faily vs Rev Heads"
+                    "title": "Universe for Sale"
                 },
-                "offerId": "158171d5815049f1aa44b86c37974c0f",
-                "sandboxId": "93814314483c41148abbbd540920447b"
+                "offerId": "4d48de8a4b0b4f1a8d8d8c046ded5051",
+                "sandboxId": "60525048f11c46b88bb6d7492ce7b67d"
             },
             {
                 "content": {
@@ -206,6 +209,106 @@
                 },
                 "offerId": "21ff0ff313b74f60802323aa367c1b39",
                 "sandboxId": "1a7cbda7efe7435dabda1af662aeb1ba"
+            },
+            {
+                "content": {
+                    "ageRating": {
+                        "ageGate": {
+                            "gate": "no-gate"
+                        },
+                        "ageRating": {
+                            "ageControl": 3,
+                            "contentDescriptors": [],
+                            "interactiveElements": [],
+                            "ratingImage": "https://cdn1.epicgames.com/gameRating/gameRating/PEGI_3_192_192x192-490b93ddf59fb4ac1148d1eb9083626a",
+                            "ratingSystem": "PEGI",
+                            "rectangularRatingImage": "https://cdn1.epicgames.com/salesEvent/salesEvent/PEGI-3_435x530-c931ab5bb4eb190f6e8e542081c49dc4",
+                            "title": "PEGI 3"
+                        },
+                        "ratingType": "AgeRating"
+                    },
+                    "attention": {
+                        "inAppPurchases": "None"
+                    },
+                    "catalogItemId": "411287659c85481d9bffe31f40832e9e",
+                    "categories": [
+                        "games",
+                        "games/edition",
+                        "games/edition/base"
+                    ],
+                    "mapping": {
+                        "slug": "phil-faily-vs-rev-heads-ios-406b38"
+                    },
+                    "media": {
+                        "appIcon": {
+                            "altText": "-",
+                            "height": 512,
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/2c65291b2883403f8ed1da73fa026c58/phil-faily-vs-rev-heads-icon-7mlwa.png",
+                            "imageType": "ProductIcon",
+                            "width": 512
+                        },
+                        "card16x9": {
+                            "altText": "Phil Faily vs Rev Heads Offer",
+                            "height": 1440,
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/2c65291b2883403f8ed1da73fa026c58/phil-faily-vs-rev-heads-wmz50.png",
+                            "imageType": "OfferImageWide",
+                            "width": 2560
+                        },
+                        "card3x4": {
+                            "altText": "Download Phil Faily vs Rev Heads Offer",
+                            "height": 1600,
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/2c65291b2883403f8ed1da73fa026c58/phil-faily-vs-rev-heads-15fkq.png",
+                            "imageType": "OfferImageTall",
+                            "width": 1200
+                        },
+                        "coverImage": {
+                            "altText": "-",
+                            "height": 1440,
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/2c65291b2883403f8ed1da73fa026c58/phil-faily-vs-rev-heads-120a5.png",
+                            "imageType": "coverImage",
+                            "width": 2560
+                        }
+                    },
+                    "purchase": [
+                        {
+                            "offerLifecycleState": "Release",
+                            "price": {
+                                "currencyCode": "EUR",
+                                "decimalPrice": 2.69
+                            },
+                            "priceDisplay": "€2.69",
+                            "purchasePayload": {
+                                "offerId": "158171d5815049f1aa44b86c37974c0f",
+                                "sandboxId": "93814314483c41148abbbd540920447b"
+                            },
+                            "purchaseType": "Purchase"
+                        }
+                    ],
+                    "systemSpecs": {
+                        "applicationVersion": "1.0",
+                        "platform": "ios",
+                        "systemRequirements": [
+                            {
+                                "minimum": "250 MB",
+                                "requirementType": "InstallSize",
+                                "title": "Installation size"
+                            },
+                            {
+                                "minimum": "130 MB",
+                                "requirementType": "DownloadSize",
+                                "title": "Download size"
+                            },
+                            {
+                                "minimum": "13.0",
+                                "requirementType": "OS",
+                                "title": "OS version"
+                            }
+                        ]
+                    },
+                    "title": "Phil Faily vs Rev Heads"
+                },
+                "offerId": "158171d5815049f1aa44b86c37974c0f",
+                "sandboxId": "93814314483c41148abbbd540920447b"
             },
             {
                 "content": {
@@ -513,7 +616,19 @@
                 },
                 "offerId": "4d6e9f56a0e04a5b96261bc8824c6f29",
                 "sandboxId": "5039feb6ca5845fd82101c890117ebc6"
-            },
+            }
+        ],
+        "size": "xLarge",
+        "title": "",
+        "topicId": "mobile-ios-carousel",
+        "type": "featured"
+    },
+    {
+        "link": {
+            "linkText": "home page",
+            "src": "/"
+        },
+        "offers": [
             {
                 "content": {
                     "ageRating": {
@@ -815,19 +930,7 @@
                 },
                 "offerId": "e3659cda5ccb4d269744aadf311bb65c",
                 "sandboxId": "db665435888341f69ec556d5408e7798"
-            }
-        ],
-        "size": "xLarge",
-        "title": "",
-        "topicId": "mobile-ios-carousel",
-        "type": "featured"
-    },
-    {
-        "link": {
-            "linkText": "home page",
-            "src": "/"
-        },
-        "offers": [
+            },
             {
                 "content": {
                     "ageRating": {
@@ -1747,316 +1850,6 @@
                 },
                 "offerId": "7ccc83b2ce2046c2bfcd38b52c0b6073",
                 "sandboxId": "5d6924bd68114aab9e48f1ed17ce1883"
-            },
-            {
-                "content": {
-                    "ageRating": {
-                        "ageGate": {
-                            "gate": "no-gate"
-                        },
-                        "ageRating": {
-                            "ageControl": 12,
-                            "contentDescriptors": [
-                                "Mild Swearing",
-                                "Sexual Innuendo"
-                            ],
-                            "interactiveElements": [
-                                "In-Game Purchases"
-                            ],
-                            "ratingImage": "https://cdn1.epicgames.com/gameRating/gameRating/PEGI_12_192_192x192-afa4df43f131bc83eb380ccf22f8d904",
-                            "ratingSystem": "PEGI",
-                            "rectangularRatingImage": "https://cdn1.epicgames.com/salesEvent/salesEvent/PEGI-12_436x530-0cd1f06607086f3cc1bc2b8643f21b0a",
-                            "title": "PEGI 12"
-                        },
-                        "ratingType": "AgeRating"
-                    },
-                    "attention": {
-                        "inAppPurchases": "None"
-                    },
-                    "catalogItemId": "6eb4b55f86c14c77afbe3dd1318b9382",
-                    "categories": [
-                        "games",
-                        "games/edition",
-                        "games/edition/base"
-                    ],
-                    "mapping": {
-                        "slug": "loop-hero-ios-11b3f5"
-                    },
-                    "media": {
-                        "appIcon": {
-                            "altText": "-",
-                            "height": 512,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/351c399d9b45407187ce31e635063e8b/loop-hero-icon-1hxtp.png",
-                            "imageType": "ProductIcon",
-                            "width": 512
-                        },
-                        "card16x9": {
-                            "altText": "Loop Hero Offer",
-                            "height": 1440,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/351c399d9b45407187ce31e635063e8b/loop-hero-zeuc3.jpg",
-                            "imageType": "OfferImageWide",
-                            "width": 2560
-                        },
-                        "card3x4": {
-                            "altText": "Download Loop Hero Offer",
-                            "height": 1600,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/351c399d9b45407187ce31e635063e8b/loop-hero-kiw3l.jpg",
-                            "imageType": "OfferImageTall",
-                            "width": 1200
-                        },
-                        "coverImage": {
-                            "altText": "-",
-                            "height": 1440,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/351c399d9b45407187ce31e635063e8b/loop-hero-ygtre.jpg",
-                            "imageType": "coverImage",
-                            "width": 2560
-                        }
-                    },
-                    "purchase": [
-                        {
-                            "offerLifecycleState": "Release",
-                            "price": {
-                                "currencyCode": "EUR",
-                                "decimalPrice": 6.29
-                            },
-                            "priceDisplay": "€6.29",
-                            "purchasePayload": {
-                                "offerId": "ffe8cbf5a0bf47bb87002e72ded896eb",
-                                "sandboxId": "15e6cccd4204432aa767b06ac1a25382"
-                            },
-                            "purchaseType": "Purchase"
-                        }
-                    ],
-                    "systemSpecs": {
-                        "applicationVersion": "1.0.8",
-                        "platform": "ios",
-                        "systemRequirements": [
-                            {
-                                "minimum": "228 MB",
-                                "requirementType": "InstallSize",
-                                "title": "Installation size"
-                            },
-                            {
-                                "minimum": "194 MB",
-                                "requirementType": "DownloadSize",
-                                "title": "Download size"
-                            },
-                            {
-                                "minimum": "15",
-                                "requirementType": "OS",
-                                "title": "OS version"
-                            }
-                        ]
-                    },
-                    "title": "Loop Hero"
-                },
-                "offerId": "ffe8cbf5a0bf47bb87002e72ded896eb",
-                "sandboxId": "15e6cccd4204432aa767b06ac1a25382"
-            },
-            {
-                "content": {
-                    "ageRating": {
-                        "ageGate": {
-                            "gate": "no-gate"
-                        },
-                        "ageRating": {
-                            "ageControl": 12,
-                            "contentDescriptors": [
-                                "Mild Swearing",
-                                "Moderate Violence"
-                            ],
-                            "interactiveElements": [],
-                            "ratingImage": "https://cdn1.epicgames.com/gameRating/gameRating/PEGI_12_192_192x192-afa4df43f131bc83eb380ccf22f8d904",
-                            "ratingSystem": "PEGI",
-                            "rectangularRatingImage": "https://cdn1.epicgames.com/salesEvent/salesEvent/PEGI-12_436x530-0cd1f06607086f3cc1bc2b8643f21b0a",
-                            "title": "PEGI 12"
-                        },
-                        "ratingType": "AgeRating"
-                    },
-                    "attention": {
-                        "inAppPurchases": "None"
-                    },
-                    "catalogItemId": "38f6fbcd4b46447d991a2c043f1021cc",
-                    "categories": [
-                        "games",
-                        "games/edition",
-                        "games/edition/base"
-                    ],
-                    "mapping": {
-                        "slug": "super-meat-boy-forever-mobile-ios-190ae0"
-                    },
-                    "media": {
-                        "appIcon": {
-                            "altText": "-",
-                            "height": 512,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/671b8ba419e2433eac672283d53567b5/super-meat-boy-forever-mobile-icon-gv0j4.png",
-                            "imageType": "ProductIcon",
-                            "width": 512
-                        },
-                        "card16x9": {
-                            "altText": "Super Meat Boy Forever Mobile Offer",
-                            "height": 1440,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/671b8ba419e2433eac672283d53567b5/super-meat-boy-forever-mobile-q3x27.jpg",
-                            "imageType": "OfferImageWide",
-                            "width": 2560
-                        },
-                        "card3x4": {
-                            "altText": "Download Super Meat Boy Forever Mobile Offer",
-                            "height": 1600,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/671b8ba419e2433eac672283d53567b5/super-meat-boy-forever-mobile-1ul7h.jpg",
-                            "imageType": "OfferImageTall",
-                            "width": 1200
-                        },
-                        "coverImage": {
-                            "altText": "-",
-                            "height": 1440,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/671b8ba419e2433eac672283d53567b5/super-meat-boy-forever-mobile-g1l2e.jpg",
-                            "imageType": "coverImage",
-                            "width": 2560
-                        }
-                    },
-                    "purchase": [
-                        {
-                            "offerLifecycleState": "Release",
-                            "price": {
-                                "currencyCode": "EUR",
-                                "decimalPrice": 0.99
-                            },
-                            "priceDisplay": "€0.99",
-                            "purchasePayload": {
-                                "offerId": "c7e04db93fe74b86b04ca988a91f9249",
-                                "sandboxId": "d408f663403d4e9f8ecdc3086ed0d7bc"
-                            },
-                            "purchaseType": "Purchase"
-                        }
-                    ],
-                    "systemSpecs": {
-                        "applicationVersion": "1.0",
-                        "platform": "ios",
-                        "systemRequirements": [
-                            {
-                                "minimum": "981.25 MB",
-                                "requirementType": "InstallSize",
-                                "title": "Installation size"
-                            },
-                            {
-                                "minimum": "981.25 MB",
-                                "requirementType": "DownloadSize",
-                                "title": "Download size"
-                            },
-                            {
-                                "minimum": "18.0",
-                                "requirementType": "OS",
-                                "title": "OS version"
-                            }
-                        ]
-                    },
-                    "title": "Super Meat Boy Forever Mobile"
-                },
-                "offerId": "c7e04db93fe74b86b04ca988a91f9249",
-                "sandboxId": "d408f663403d4e9f8ecdc3086ed0d7bc"
-            },
-            {
-                "content": {
-                    "ageRating": {
-                        "ageGate": {
-                            "gate": "no-gate"
-                        },
-                        "ageRating": {
-                            "ageControl": 16,
-                            "contentDescriptors": [
-                                "Strong Violence"
-                            ],
-                            "interactiveElements": [],
-                            "ratingImage": "https://cdn1.epicgames.com/gameRating/gameRating/PEGI_16_192_192x192-da60f0bd1fe7cb1ac9d8a8bd5168ea96",
-                            "ratingSystem": "PEGI",
-                            "rectangularRatingImage": "https://cdn1.epicgames.com/salesEvent/salesEvent/PEGI-16_435x530-65760d498ce28374fb7ca3258ee1440c",
-                            "title": "PEGI 16"
-                        },
-                        "ratingType": "AgeRating"
-                    },
-                    "attention": {
-                        "inAppPurchases": "None"
-                    },
-                    "catalogItemId": "a0ae98041d0941abaf96f2f01c5e8c9e",
-                    "categories": [
-                        "games",
-                        "games/edition",
-                        "games/edition/base"
-                    ],
-                    "mapping": {
-                        "slug": "limbo-mobile-ios-396a20"
-                    },
-                    "media": {
-                        "appIcon": {
-                            "altText": "-",
-                            "height": 512,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/8dd4bfecdb45403fbf7f838b7c52450c/limbo-mobile-icon-1ede3.png",
-                            "imageType": "ProductIcon",
-                            "width": 512
-                        },
-                        "card16x9": {
-                            "altText": "LIMBO Mobile Offer",
-                            "height": 1440,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/8dd4bfecdb45403fbf7f838b7c52450c/limbo-mobile-gnbxz.jpg",
-                            "imageType": "OfferImageWide",
-                            "width": 2560
-                        },
-                        "card3x4": {
-                            "altText": "Download LIMBO Mobile Offer",
-                            "height": 1600,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/8dd4bfecdb45403fbf7f838b7c52450c/limbo-mobile-kmmy0.jpg",
-                            "imageType": "OfferImageTall",
-                            "width": 1200
-                        },
-                        "coverImage": {
-                            "altText": "-",
-                            "height": 1440,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/8dd4bfecdb45403fbf7f838b7c52450c/limbo-mobile-w0ni8.jpg",
-                            "imageType": "coverImage",
-                            "width": 2560
-                        }
-                    },
-                    "purchase": [
-                        {
-                            "offerLifecycleState": "Release",
-                            "price": {
-                                "currencyCode": "EUR",
-                                "decimalPrice": 3.59
-                            },
-                            "priceDisplay": "€3.59",
-                            "purchasePayload": {
-                                "offerId": "4cae623d36184a8599a8994b1645f89b",
-                                "sandboxId": "d512cb4db7f54b33b89b37f1ad5c6dc6"
-                            },
-                            "purchaseType": "Purchase"
-                        }
-                    ],
-                    "systemSpecs": {
-                        "applicationVersion": "1.0.1",
-                        "platform": "ios",
-                        "systemRequirements": [
-                            {
-                                "minimum": "140 MB",
-                                "requirementType": "InstallSize",
-                                "title": "Installation size"
-                            },
-                            {
-                                "minimum": "118 MB",
-                                "requirementType": "DownloadSize",
-                                "title": "Download size"
-                            },
-                            {
-                                "minimum": "13",
-                                "requirementType": "OS",
-                                "title": "OS version"
-                            }
-                        ]
-                    },
-                    "title": "LIMBO"
-                },
-                "offerId": "4cae623d36184a8599a8994b1645f89b",
-                "sandboxId": "d512cb4db7f54b33b89b37f1ad5c6dc6"
             }
         ],
         "size": "large",
@@ -3001,23 +2794,22 @@
                             "gate": "no-gate"
                         },
                         "ageRating": {
-                            "ageControl": 12,
+                            "ageControl": 7,
                             "contentDescriptors": [
-                                "Moderate Violence",
-                                "Mild Swearing"
+                                "Fear"
                             ],
                             "interactiveElements": [],
-                            "ratingImage": "https://cdn1.epicgames.com/gameRating/gameRating/PEGI_12_192_192x192-afa4df43f131bc83eb380ccf22f8d904",
+                            "ratingImage": "https://cdn1.epicgames.com/gameRating/gameRating/PEGI_7_192_192x192-30e2e712d0682dad01add90a6ccbed5b",
                             "ratingSystem": "PEGI",
-                            "rectangularRatingImage": "https://cdn1.epicgames.com/salesEvent/salesEvent/PEGI-12_436x530-0cd1f06607086f3cc1bc2b8643f21b0a",
-                            "title": "PEGI 12"
+                            "rectangularRatingImage": "https://cdn1.epicgames.com/salesEvent/salesEvent/PEGI-7_435x530-9439a136999d3dd762c7a61c3b8c7683",
+                            "title": "PEGI 7"
                         },
                         "ratingType": "AgeRating"
                     },
                     "attention": {
                         "inAppPurchases": "None"
                     },
-                    "catalogItemId": "198a2dfea59a4af4be265ea4cb6b4635",
+                    "catalogItemId": "95b7e911cb8c41959e82a09eb9b0b14e",
                     "categories": [
                         "freegames",
                         "games",
@@ -3025,34 +2817,34 @@
                         "games/edition/base"
                     ],
                     "mapping": {
-                        "slug": "universe-for-sale-ios-475e80"
+                        "slug": "the-darkside-detective-ios-f97bd7"
                     },
                     "media": {
                         "appIcon": {
                             "altText": "-",
                             "height": 512,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/5159c30d2bba476484db4f9c97beb47e/universe-for-sale-icon-1drtr.png",
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/f91b4d1e5d1348b4a4ad37de00258464/the-darkside-detective-icon-1tvfm.png",
                             "imageType": "ProductIcon",
                             "width": 512
                         },
                         "card16x9": {
-                            "altText": "Universe for Sale Offer",
+                            "altText": "The Darkside Detective Offer",
                             "height": 1440,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/5159c30d2bba476484db4f9c97beb47e/universe-for-sale-17erh.jpg",
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/f91b4d1e5d1348b4a4ad37de00258464/the-darkside-detective-11bpl.jpg",
                             "imageType": "OfferImageWide",
                             "width": 2560
                         },
                         "card3x4": {
-                            "altText": "Download Universe for Sale Offer",
+                            "altText": "Download The Darkside Detective Offer",
                             "height": 1600,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/5159c30d2bba476484db4f9c97beb47e/universe-for-sale-f48o5.jpg",
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/f91b4d1e5d1348b4a4ad37de00258464/the-darkside-detective-1b48j.jpg",
                             "imageType": "OfferImageTall",
                             "width": 1200
                         },
                         "coverImage": {
                             "altText": "-",
                             "height": 1440,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/5159c30d2bba476484db4f9c97beb47e/universe-for-sale-am63u.png",
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/f91b4d1e5d1348b4a4ad37de00258464/the-darkside-detective-1900y.png",
                             "imageType": "coverImage",
                             "width": 2560
                         }
@@ -3061,7 +2853,7 @@
                         {
                             "discount": {
                                 "discountAmountDisplay": "-100%",
-                                "discountEndDate": "2025-12-04T16:00:00.000Z",
+                                "discountEndDate": "2025-12-11T16:00:00.000Z",
                                 "originalPriceDisplay": "€6.29"
                             },
                             "offerLifecycleState": "Release",
@@ -3070,8 +2862,8 @@
                                 "decimalPrice": 0
                             },
                             "purchasePayload": {
-                                "offerId": "4d48de8a4b0b4f1a8d8d8c046ded5051",
-                                "sandboxId": "60525048f11c46b88bb6d7492ce7b67d"
+                                "offerId": "393541e1178848c1be12b9b5744bdff4",
+                                "sandboxId": "29857990e5434b7db5dd026ef18dbc96"
                             },
                             "purchaseType": "Claim"
                         },
@@ -3083,37 +2875,37 @@
                             },
                             "priceDisplay": "€6.29",
                             "purchasePayload": {
-                                "offerId": "4d48de8a4b0b4f1a8d8d8c046ded5051",
-                                "sandboxId": "60525048f11c46b88bb6d7492ce7b67d"
+                                "offerId": "393541e1178848c1be12b9b5744bdff4",
+                                "sandboxId": "29857990e5434b7db5dd026ef18dbc96"
                             },
                             "purchaseType": "Purchase"
                         }
                     ],
                     "systemSpecs": {
-                        "applicationVersion": "1.4.1",
+                        "applicationVersion": "1.0.2.1",
                         "platform": "ios",
                         "systemRequirements": [
                             {
-                                "minimum": "354 MB",
+                                "minimum": "1.04 GB",
                                 "requirementType": "InstallSize",
                                 "title": "Installation size"
                             },
                             {
-                                "minimum": "218 MB",
+                                "minimum": "188 MB",
                                 "requirementType": "DownloadSize",
                                 "title": "Download size"
                             },
                             {
-                                "minimum": "15.6",
+                                "minimum": "12.0",
                                 "requirementType": "OS",
                                 "title": "OS version"
                             }
                         ]
                     },
-                    "title": "Universe for Sale"
+                    "title": "The Darkside Detective"
                 },
-                "offerId": "4d48de8a4b0b4f1a8d8d8c046ded5051",
-                "sandboxId": "60525048f11c46b88bb6d7492ce7b67d"
+                "offerId": "393541e1178848c1be12b9b5744bdff4",
+                "sandboxId": "29857990e5434b7db5dd026ef18dbc96"
             }
         ],
         "size": "large",
@@ -3980,6 +3772,316 @@
                             "gate": "no-gate"
                         },
                         "ageRating": {
+                            "ageControl": 12,
+                            "contentDescriptors": [
+                                "Mild Swearing",
+                                "Sexual Innuendo"
+                            ],
+                            "interactiveElements": [
+                                "In-Game Purchases"
+                            ],
+                            "ratingImage": "https://cdn1.epicgames.com/gameRating/gameRating/PEGI_12_192_192x192-afa4df43f131bc83eb380ccf22f8d904",
+                            "ratingSystem": "PEGI",
+                            "rectangularRatingImage": "https://cdn1.epicgames.com/salesEvent/salesEvent/PEGI-12_436x530-0cd1f06607086f3cc1bc2b8643f21b0a",
+                            "title": "PEGI 12"
+                        },
+                        "ratingType": "AgeRating"
+                    },
+                    "attention": {
+                        "inAppPurchases": "None"
+                    },
+                    "catalogItemId": "6eb4b55f86c14c77afbe3dd1318b9382",
+                    "categories": [
+                        "games",
+                        "games/edition",
+                        "games/edition/base"
+                    ],
+                    "mapping": {
+                        "slug": "loop-hero-ios-11b3f5"
+                    },
+                    "media": {
+                        "appIcon": {
+                            "altText": "-",
+                            "height": 512,
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/351c399d9b45407187ce31e635063e8b/loop-hero-icon-1hxtp.png",
+                            "imageType": "ProductIcon",
+                            "width": 512
+                        },
+                        "card16x9": {
+                            "altText": "Loop Hero Offer",
+                            "height": 1440,
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/351c399d9b45407187ce31e635063e8b/loop-hero-zeuc3.jpg",
+                            "imageType": "OfferImageWide",
+                            "width": 2560
+                        },
+                        "card3x4": {
+                            "altText": "Download Loop Hero Offer",
+                            "height": 1600,
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/351c399d9b45407187ce31e635063e8b/loop-hero-kiw3l.jpg",
+                            "imageType": "OfferImageTall",
+                            "width": 1200
+                        },
+                        "coverImage": {
+                            "altText": "-",
+                            "height": 1440,
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/351c399d9b45407187ce31e635063e8b/loop-hero-ygtre.jpg",
+                            "imageType": "coverImage",
+                            "width": 2560
+                        }
+                    },
+                    "purchase": [
+                        {
+                            "offerLifecycleState": "Release",
+                            "price": {
+                                "currencyCode": "EUR",
+                                "decimalPrice": 6.29
+                            },
+                            "priceDisplay": "€6.29",
+                            "purchasePayload": {
+                                "offerId": "ffe8cbf5a0bf47bb87002e72ded896eb",
+                                "sandboxId": "15e6cccd4204432aa767b06ac1a25382"
+                            },
+                            "purchaseType": "Purchase"
+                        }
+                    ],
+                    "systemSpecs": {
+                        "applicationVersion": "1.0.8",
+                        "platform": "ios",
+                        "systemRequirements": [
+                            {
+                                "minimum": "228 MB",
+                                "requirementType": "InstallSize",
+                                "title": "Installation size"
+                            },
+                            {
+                                "minimum": "194 MB",
+                                "requirementType": "DownloadSize",
+                                "title": "Download size"
+                            },
+                            {
+                                "minimum": "15",
+                                "requirementType": "OS",
+                                "title": "OS version"
+                            }
+                        ]
+                    },
+                    "title": "Loop Hero"
+                },
+                "offerId": "ffe8cbf5a0bf47bb87002e72ded896eb",
+                "sandboxId": "15e6cccd4204432aa767b06ac1a25382"
+            },
+            {
+                "content": {
+                    "ageRating": {
+                        "ageGate": {
+                            "gate": "no-gate"
+                        },
+                        "ageRating": {
+                            "ageControl": 12,
+                            "contentDescriptors": [
+                                "Mild Swearing",
+                                "Moderate Violence"
+                            ],
+                            "interactiveElements": [],
+                            "ratingImage": "https://cdn1.epicgames.com/gameRating/gameRating/PEGI_12_192_192x192-afa4df43f131bc83eb380ccf22f8d904",
+                            "ratingSystem": "PEGI",
+                            "rectangularRatingImage": "https://cdn1.epicgames.com/salesEvent/salesEvent/PEGI-12_436x530-0cd1f06607086f3cc1bc2b8643f21b0a",
+                            "title": "PEGI 12"
+                        },
+                        "ratingType": "AgeRating"
+                    },
+                    "attention": {
+                        "inAppPurchases": "None"
+                    },
+                    "catalogItemId": "38f6fbcd4b46447d991a2c043f1021cc",
+                    "categories": [
+                        "games",
+                        "games/edition",
+                        "games/edition/base"
+                    ],
+                    "mapping": {
+                        "slug": "super-meat-boy-forever-mobile-ios-190ae0"
+                    },
+                    "media": {
+                        "appIcon": {
+                            "altText": "-",
+                            "height": 512,
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/671b8ba419e2433eac672283d53567b5/super-meat-boy-forever-mobile-icon-gv0j4.png",
+                            "imageType": "ProductIcon",
+                            "width": 512
+                        },
+                        "card16x9": {
+                            "altText": "Super Meat Boy Forever Mobile Offer",
+                            "height": 1440,
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/671b8ba419e2433eac672283d53567b5/super-meat-boy-forever-mobile-q3x27.jpg",
+                            "imageType": "OfferImageWide",
+                            "width": 2560
+                        },
+                        "card3x4": {
+                            "altText": "Download Super Meat Boy Forever Mobile Offer",
+                            "height": 1600,
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/671b8ba419e2433eac672283d53567b5/super-meat-boy-forever-mobile-1ul7h.jpg",
+                            "imageType": "OfferImageTall",
+                            "width": 1200
+                        },
+                        "coverImage": {
+                            "altText": "-",
+                            "height": 1440,
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/671b8ba419e2433eac672283d53567b5/super-meat-boy-forever-mobile-g1l2e.jpg",
+                            "imageType": "coverImage",
+                            "width": 2560
+                        }
+                    },
+                    "purchase": [
+                        {
+                            "offerLifecycleState": "Release",
+                            "price": {
+                                "currencyCode": "EUR",
+                                "decimalPrice": 0.99
+                            },
+                            "priceDisplay": "€0.99",
+                            "purchasePayload": {
+                                "offerId": "c7e04db93fe74b86b04ca988a91f9249",
+                                "sandboxId": "d408f663403d4e9f8ecdc3086ed0d7bc"
+                            },
+                            "purchaseType": "Purchase"
+                        }
+                    ],
+                    "systemSpecs": {
+                        "applicationVersion": "1.0",
+                        "platform": "ios",
+                        "systemRequirements": [
+                            {
+                                "minimum": "981.25 MB",
+                                "requirementType": "InstallSize",
+                                "title": "Installation size"
+                            },
+                            {
+                                "minimum": "981.25 MB",
+                                "requirementType": "DownloadSize",
+                                "title": "Download size"
+                            },
+                            {
+                                "minimum": "18.0",
+                                "requirementType": "OS",
+                                "title": "OS version"
+                            }
+                        ]
+                    },
+                    "title": "Super Meat Boy Forever Mobile"
+                },
+                "offerId": "c7e04db93fe74b86b04ca988a91f9249",
+                "sandboxId": "d408f663403d4e9f8ecdc3086ed0d7bc"
+            },
+            {
+                "content": {
+                    "ageRating": {
+                        "ageGate": {
+                            "gate": "no-gate"
+                        },
+                        "ageRating": {
+                            "ageControl": 16,
+                            "contentDescriptors": [
+                                "Strong Violence"
+                            ],
+                            "interactiveElements": [],
+                            "ratingImage": "https://cdn1.epicgames.com/gameRating/gameRating/PEGI_16_192_192x192-da60f0bd1fe7cb1ac9d8a8bd5168ea96",
+                            "ratingSystem": "PEGI",
+                            "rectangularRatingImage": "https://cdn1.epicgames.com/salesEvent/salesEvent/PEGI-16_435x530-65760d498ce28374fb7ca3258ee1440c",
+                            "title": "PEGI 16"
+                        },
+                        "ratingType": "AgeRating"
+                    },
+                    "attention": {
+                        "inAppPurchases": "None"
+                    },
+                    "catalogItemId": "a0ae98041d0941abaf96f2f01c5e8c9e",
+                    "categories": [
+                        "games",
+                        "games/edition",
+                        "games/edition/base"
+                    ],
+                    "mapping": {
+                        "slug": "limbo-mobile-ios-396a20"
+                    },
+                    "media": {
+                        "appIcon": {
+                            "altText": "-",
+                            "height": 512,
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/8dd4bfecdb45403fbf7f838b7c52450c/limbo-mobile-icon-1ede3.png",
+                            "imageType": "ProductIcon",
+                            "width": 512
+                        },
+                        "card16x9": {
+                            "altText": "LIMBO Mobile Offer",
+                            "height": 1440,
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/8dd4bfecdb45403fbf7f838b7c52450c/limbo-mobile-gnbxz.jpg",
+                            "imageType": "OfferImageWide",
+                            "width": 2560
+                        },
+                        "card3x4": {
+                            "altText": "Download LIMBO Mobile Offer",
+                            "height": 1600,
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/8dd4bfecdb45403fbf7f838b7c52450c/limbo-mobile-kmmy0.jpg",
+                            "imageType": "OfferImageTall",
+                            "width": 1200
+                        },
+                        "coverImage": {
+                            "altText": "-",
+                            "height": 1440,
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/8dd4bfecdb45403fbf7f838b7c52450c/limbo-mobile-w0ni8.jpg",
+                            "imageType": "coverImage",
+                            "width": 2560
+                        }
+                    },
+                    "purchase": [
+                        {
+                            "offerLifecycleState": "Release",
+                            "price": {
+                                "currencyCode": "EUR",
+                                "decimalPrice": 3.59
+                            },
+                            "priceDisplay": "€3.59",
+                            "purchasePayload": {
+                                "offerId": "4cae623d36184a8599a8994b1645f89b",
+                                "sandboxId": "d512cb4db7f54b33b89b37f1ad5c6dc6"
+                            },
+                            "purchaseType": "Purchase"
+                        }
+                    ],
+                    "systemSpecs": {
+                        "applicationVersion": "1.0.1",
+                        "platform": "ios",
+                        "systemRequirements": [
+                            {
+                                "minimum": "140 MB",
+                                "requirementType": "InstallSize",
+                                "title": "Installation size"
+                            },
+                            {
+                                "minimum": "118 MB",
+                                "requirementType": "DownloadSize",
+                                "title": "Download size"
+                            },
+                            {
+                                "minimum": "13",
+                                "requirementType": "OS",
+                                "title": "OS version"
+                            }
+                        ]
+                    },
+                    "title": "LIMBO"
+                },
+                "offerId": "4cae623d36184a8599a8994b1645f89b",
+                "sandboxId": "d512cb4db7f54b33b89b37f1ad5c6dc6"
+            },
+            {
+                "content": {
+                    "ageRating": {
+                        "ageGate": {
+                            "gate": "no-gate"
+                        },
+                        "ageRating": {
                             "ageControl": 3,
                             "contentDescriptors": [],
                             "interactiveElements": [],
@@ -4483,7 +4585,19 @@
                 },
                 "offerId": "9e52f37e06d04ec1bde77d1d321fd07a",
                 "sandboxId": "6be6051edd0740e984b9c891791d6691"
-            },
+            }
+        ],
+        "size": "large",
+        "title": "Paid Games",
+        "topicId": "mobile-ios-genre-paid",
+        "type": "interactive"
+    },
+    {
+        "link": {
+            "linkText": "home page",
+            "src": "/"
+        },
+        "offers": [
             {
                 "content": {
                     "ageRating": {
@@ -4785,19 +4899,7 @@
                 },
                 "offerId": "bd766cffe7014304813797383f8a03ce",
                 "sandboxId": "092bbf0d7e2449c08271cae2fb791cf2"
-            }
-        ],
-        "size": "large",
-        "title": "Paid Games",
-        "topicId": "mobile-ios-genre-paid",
-        "type": "interactive"
-    },
-    {
-        "link": {
-            "linkText": "home page",
-            "src": "/"
-        },
-        "offers": [
+            },
             {
                 "content": {
                     "ageRating": {
