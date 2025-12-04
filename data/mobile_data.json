@@ -333,6 +333,62 @@
         "store_url": "<https://store.epicgames.com/product/figment-ios-982b04>",
         "title": "Figment"
     },
+    "1-29857990e5434b7db5dd026ef18dbc96-393541e1178848c1be12b9b5744bdff4": {
+        "age_control": 7,
+        "catalog_item_id": "95b7e911cb8c41959e82a09eb9b0b14e",
+        "checkout_url": "<https://store.epicgames.com/purchase?offers=1-29857990e5434b7db5dd026ef18dbc96-393541e1178848c1be12b9b5744bdff4>",
+        "content_descriptors": [
+            "Fear"
+        ],
+        "current_price": "0",
+        "discount": "-100%",
+        "download_size": "188 MB",
+        "end_date": "2025-12-11T16:00:00.000Z",
+        "in_app_purchases": false,
+        "install_size": "1.04 GB",
+        "interactive_elements": [],
+        "media": {
+            "OfferImageTall": "https://cdn1.epicgames.com/spt-assets/f91b4d1e5d1348b4a4ad37de00258464/the-darkside-detective-1b48j.jpg",
+            "OfferImageWide": "https://cdn1.epicgames.com/spt-assets/f91b4d1e5d1348b4a4ad37de00258464/the-darkside-detective-11bpl.jpg",
+            "ProductIcon": "https://cdn1.epicgames.com/spt-assets/f91b4d1e5d1348b4a4ad37de00258464/the-darkside-detective-icon-1tvfm.png",
+            "coverImage": "https://cdn1.epicgames.com/spt-assets/f91b4d1e5d1348b4a4ad37de00258464/the-darkside-detective-1900y.png"
+        },
+        "offer_id": "393541e1178848c1be12b9b5744bdff4",
+        "original_price": "6.29",
+        "platform": "ios",
+        "sandbox_id": "29857990e5434b7db5dd026ef18dbc96",
+        "slug": "the-darkside-detective-ios-f97bd7",
+        "store_url": "<https://store.epicgames.com/product/the-darkside-detective-ios-f97bd7>",
+        "title": "The Darkside Detective"
+    },
+    "1-29857990e5434b7db5dd026ef18dbc96-e3ce0a3591bf4bb3b819cb710f18b920": {
+        "age_control": 7,
+        "catalog_item_id": "2ced881f30b0452699aaf11bfcd0cafe",
+        "checkout_url": "<https://store.epicgames.com/purchase?offers=1-29857990e5434b7db5dd026ef18dbc96-e3ce0a3591bf4bb3b819cb710f18b920>",
+        "content_descriptors": [
+            "Fear"
+        ],
+        "current_price": "0",
+        "discount": "-100%",
+        "download_size": "192.98 MB",
+        "end_date": "2025-12-11T16:00:00.000Z",
+        "in_app_purchases": false,
+        "install_size": "194.2 MB",
+        "interactive_elements": [],
+        "media": {
+            "OfferImageTall": "https://cdn1.epicgames.com/spt-assets/f91b4d1e5d1348b4a4ad37de00258464/the-darkside-detective-fl1od.jpg",
+            "OfferImageWide": "https://cdn1.epicgames.com/spt-assets/f91b4d1e5d1348b4a4ad37de00258464/the-darkside-detective-130gy.jpg",
+            "ProductIcon": "https://cdn1.epicgames.com/spt-assets/f91b4d1e5d1348b4a4ad37de00258464/the-darkside-detective-icon-1tvfm.png",
+            "coverImage": "https://cdn1.epicgames.com/spt-assets/f91b4d1e5d1348b4a4ad37de00258464/the-darkside-detective-1900y.png"
+        },
+        "offer_id": "e3ce0a3591bf4bb3b819cb710f18b920",
+        "original_price": "6.29",
+        "platform": "android",
+        "sandbox_id": "29857990e5434b7db5dd026ef18dbc96",
+        "slug": "the-darkside-detective-android-f088bb",
+        "store_url": "<https://store.epicgames.com/product/the-darkside-detective-android-f088bb>",
+        "title": "The Darkside Detective"
+    },
     "1-3341d4dd5b8d44c3a372da3f10122485-742b12c834ee47b5b43b78388cccad21": {
         "age_control": 7,
         "catalog_item_id": "d9a0de164e6449869d9ee7685485c4d1",
