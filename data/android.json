@@ -1837,109 +1837,6 @@
                 },
                 "offerId": "b173757d7b4a429a9fcf97a15c38fc8c",
                 "sandboxId": "36a6893d17254a028b35ba5414f1cd1c"
-            },
-            {
-                "content": {
-                    "ageRating": {
-                        "ageGate": {
-                            "gate": "no-gate"
-                        },
-                        "ageRating": {
-                            "ageControl": 7,
-                            "contentDescriptors": [
-                                "Mild Violence"
-                            ],
-                            "interactiveElements": [
-                                "In-Game Purchases (Includes Random Items)"
-                            ],
-                            "ratingImage": "https://cdn1.epicgames.com/gameRating/gameRating/PEGI_7_192_192x192-30e2e712d0682dad01add90a6ccbed5b",
-                            "ratingSystem": "PEGI",
-                            "rectangularRatingImage": "https://cdn1.epicgames.com/salesEvent/salesEvent/PEGI-7_435x530-9439a136999d3dd762c7a61c3b8c7683",
-                            "title": "PEGI 7"
-                        },
-                        "ratingType": "AgeRating"
-                    },
-                    "attention": {
-                        "inAppPurchases": "MaybeIncludesInAppPurchases"
-                    },
-                    "catalogItemId": "300359ef2d134daca1f5721abbe3c067",
-                    "categories": [
-                        "games",
-                        "games/edition",
-                        "games/edition/base"
-                    ],
-                    "mapping": {
-                        "slug": "hexapolis-android-9f47ce"
-                    },
-                    "media": {
-                        "appIcon": {
-                            "altText": "-",
-                            "height": 512,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/0fb5727a764c492aad586057f463192c/hexapolis-icon-zf4rk.png",
-                            "imageType": "ProductIcon",
-                            "width": 512
-                        },
-                        "card16x9": {
-                            "altText": "Hexapolis Offer",
-                            "height": 1440,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/0fb5727a764c492aad586057f463192c/hexapolis-11tz6.png",
-                            "imageType": "OfferImageWide",
-                            "width": 2560
-                        },
-                        "card3x4": {
-                            "altText": "Download Hexapolis Offer",
-                            "height": 1600,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/0fb5727a764c492aad586057f463192c/hexapolis-1rwlo.png",
-                            "imageType": "OfferImageTall",
-                            "width": 1200
-                        },
-                        "coverImage": {
-                            "altText": "-",
-                            "height": 1440,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/0fb5727a764c492aad586057f463192c/hexapolis-1i0vh.png",
-                            "imageType": "coverImage",
-                            "width": 2560
-                        }
-                    },
-                    "purchase": [
-                        {
-                            "offerLifecycleState": "Release",
-                            "price": {
-                                "currencyCode": "EUR",
-                                "decimalPrice": 0
-                            },
-                            "purchasePayload": {
-                                "offerId": "7e71b5283ff34ae59d4371313a6ec8b8",
-                                "sandboxId": "020806b1208f402196fba978723faa4d"
-                            },
-                            "purchaseType": "Claim"
-                        }
-                    ],
-                    "systemSpecs": {
-                        "applicationVersion": "2.08.04",
-                        "platform": "android",
-                        "systemRequirements": [
-                            {
-                                "minimum": "150",
-                                "requirementType": "InstallSize",
-                                "title": "Installation size"
-                            },
-                            {
-                                "minimum": "155.30 MB",
-                                "requirementType": "DownloadSize",
-                                "title": "Download size"
-                            },
-                            {
-                                "minimum": "7.0",
-                                "requirementType": "OS",
-                                "title": "OS version"
-                            }
-                        ]
-                    },
-                    "title": "Hexapolis: Turn-based strategy"
-                },
-                "offerId": "7e71b5283ff34ae59d4371313a6ec8b8",
-                "sandboxId": "020806b1208f402196fba978723faa4d"
             }
         ],
         "size": "large",
@@ -4674,57 +4571,56 @@
                             "gate": "no-gate"
                         },
                         "ageRating": {
-                            "ageControl": 3,
-                            "contentDescriptors": [],
-                            "interactiveElements": [
-                                "Users Interact",
-                                "In-Game Purchases (Includes Random Items)"
+                            "ageControl": 16,
+                            "contentDescriptors": [
+                                "Strong Violence"
                             ],
-                            "ratingImage": "https://cdn1.epicgames.com/gameRating/gameRating/PEGI_3_192_192x192-490b93ddf59fb4ac1148d1eb9083626a",
+                            "interactiveElements": [],
+                            "ratingImage": "https://cdn1.epicgames.com/gameRating/gameRating/PEGI_16_192_192x192-da60f0bd1fe7cb1ac9d8a8bd5168ea96",
                             "ratingSystem": "PEGI",
-                            "rectangularRatingImage": "https://cdn1.epicgames.com/salesEvent/salesEvent/PEGI-3_435x530-c931ab5bb4eb190f6e8e542081c49dc4",
-                            "title": "PEGI 3"
+                            "rectangularRatingImage": "https://cdn1.epicgames.com/salesEvent/salesEvent/PEGI-16_435x530-65760d498ce28374fb7ca3258ee1440c",
+                            "title": "PEGI 16"
                         },
                         "ratingType": "AgeRating"
                     },
                     "attention": {
-                        "inAppPurchases": "MaybeIncludesInAppPurchases"
+                        "inAppPurchases": "None"
                     },
-                    "catalogItemId": "4cadfc8471704b1997d2cd2bd9677484",
+                    "catalogItemId": "3ccfdc4735be4b0d95886b0135180e3c",
                     "categories": [
                         "games",
                         "games/edition",
                         "games/edition/base"
                     ],
                     "mapping": {
-                        "slug": "1212-android-f8a696"
+                        "slug": "carrion-ios-android-184e18"
                     },
                     "media": {
                         "appIcon": {
                             "altText": "-",
                             "height": 512,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/cb8173a84ad44774b2e355e53daea00b/nations-of-darkness-icon-1o95q.png",
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/ea7941cc3762462ca756629fc37b6303/carrion-mobile-icon-fxpns.png",
                             "imageType": "ProductIcon",
                             "width": 512
                         },
                         "card16x9": {
-                            "altText": "Nations of Darkness Offer",
+                            "altText": "Carrion Mobile Offer",
                             "height": 1440,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/cb8173a84ad44774b2e355e53daea00b/nations-of-darkness-vcgyz.png",
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/ea7941cc3762462ca756629fc37b6303/carrion-mobile-5g1dw.jpg",
                             "imageType": "OfferImageWide",
                             "width": 2560
                         },
                         "card3x4": {
-                            "altText": "Download Nations of Darkness Offer",
+                            "altText": "Download Carrion Mobile Offer",
                             "height": 1600,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/cb8173a84ad44774b2e355e53daea00b/nations-of-darkness-1oehn.png",
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/ea7941cc3762462ca756629fc37b6303/carrion-mobile-1tgyv.png",
                             "imageType": "OfferImageTall",
                             "width": 1200
                         },
                         "coverImage": {
                             "altText": "-",
                             "height": 1440,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/cb8173a84ad44774b2e355e53daea00b/nations-of-darkness-m11gq.jpg",
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/ea7941cc3762462ca756629fc37b6303/carrion-mobile-2t6ja.jpg",
                             "imageType": "coverImage",
                             "width": 2560
                         }
@@ -4734,40 +4630,41 @@
                             "offerLifecycleState": "Release",
                             "price": {
                                 "currencyCode": "EUR",
-                                "decimalPrice": 0
+                                "decimalPrice": 6.29
                             },
+                            "priceDisplay": "€6.29",
                             "purchasePayload": {
-                                "offerId": "d9ab14ff867e43c2911aa17fc145a800",
-                                "sandboxId": "7516c53e561c456495ae592cc9c02ae4"
+                                "offerId": "70944660d2bb4800975802c714e99193",
+                                "sandboxId": "710b0610e09249bdb0ceb663a54f82ba"
                             },
-                            "purchaseType": "Claim"
+                            "purchaseType": "Purchase"
                         }
                     ],
                     "systemSpecs": {
-                        "applicationVersion": "1.18.3",
+                        "applicationVersion": "1.0.0",
                         "platform": "android",
                         "systemRequirements": [
                             {
-                                "minimum": "175MB",
+                                "minimum": "135MB",
                                 "requirementType": "InstallSize",
                                 "title": "Installation size"
                             },
                             {
-                                "minimum": "205.46 MB",
+                                "minimum": "134.99 MB",
                                 "requirementType": "DownloadSize",
                                 "title": "Download size"
                             },
                             {
-                                "minimum": "API level 22",
+                                "minimum": "6.0",
                                 "requirementType": "OS",
                                 "title": "OS version"
                             }
                         ]
                     },
-                    "title": "Nations of Darkness"
+                    "title": "Carrion"
                 },
-                "offerId": "d9ab14ff867e43c2911aa17fc145a800",
-                "sandboxId": "7516c53e561c456495ae592cc9c02ae4"
+                "offerId": "70944660d2bb4800975802c714e99193",
+                "sandboxId": "710b0610e09249bdb0ceb663a54f82ba"
             },
             {
                 "content": {
@@ -5193,56 +5090,57 @@
                             "gate": "no-gate"
                         },
                         "ageRating": {
-                            "ageControl": 16,
-                            "contentDescriptors": [
-                                "Strong Violence"
+                            "ageControl": 3,
+                            "contentDescriptors": [],
+                            "interactiveElements": [
+                                "Users Interact",
+                                "In-Game Purchases (Includes Random Items)"
                             ],
-                            "interactiveElements": [],
-                            "ratingImage": "https://cdn1.epicgames.com/gameRating/gameRating/PEGI_16_192_192x192-da60f0bd1fe7cb1ac9d8a8bd5168ea96",
+                            "ratingImage": "https://cdn1.epicgames.com/gameRating/gameRating/PEGI_3_192_192x192-490b93ddf59fb4ac1148d1eb9083626a",
                             "ratingSystem": "PEGI",
-                            "rectangularRatingImage": "https://cdn1.epicgames.com/salesEvent/salesEvent/PEGI-16_435x530-65760d498ce28374fb7ca3258ee1440c",
-                            "title": "PEGI 16"
+                            "rectangularRatingImage": "https://cdn1.epicgames.com/salesEvent/salesEvent/PEGI-3_435x530-c931ab5bb4eb190f6e8e542081c49dc4",
+                            "title": "PEGI 3"
                         },
                         "ratingType": "AgeRating"
                     },
                     "attention": {
-                        "inAppPurchases": "None"
+                        "inAppPurchases": "MaybeIncludesInAppPurchases"
                     },
-                    "catalogItemId": "3ccfdc4735be4b0d95886b0135180e3c",
+                    "catalogItemId": "4cadfc8471704b1997d2cd2bd9677484",
                     "categories": [
                         "games",
                         "games/edition",
                         "games/edition/base"
                     ],
                     "mapping": {
-                        "slug": "carrion-ios-android-184e18"
+                        "slug": "1212-android-f8a696"
                     },
                     "media": {
                         "appIcon": {
                             "altText": "-",
                             "height": 512,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/ea7941cc3762462ca756629fc37b6303/carrion-mobile-icon-fxpns.png",
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/cb8173a84ad44774b2e355e53daea00b/nations-of-darkness-icon-1o95q.png",
                             "imageType": "ProductIcon",
                             "width": 512
                         },
                         "card16x9": {
-                            "altText": "Carrion Mobile Offer",
+                            "altText": "Nations of Darkness Offer",
                             "height": 1440,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/ea7941cc3762462ca756629fc37b6303/carrion-mobile-5g1dw.jpg",
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/cb8173a84ad44774b2e355e53daea00b/nations-of-darkness-vcgyz.png",
                             "imageType": "OfferImageWide",
                             "width": 2560
                         },
                         "card3x4": {
-                            "altText": "Download Carrion Mobile Offer",
+                            "altText": "Download Nations of Darkness Offer",
                             "height": 1600,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/ea7941cc3762462ca756629fc37b6303/carrion-mobile-1tgyv.png",
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/cb8173a84ad44774b2e355e53daea00b/nations-of-darkness-1oehn.png",
                             "imageType": "OfferImageTall",
                             "width": 1200
                         },
                         "coverImage": {
                             "altText": "-",
                             "height": 1440,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/ea7941cc3762462ca756629fc37b6303/carrion-mobile-2t6ja.jpg",
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/cb8173a84ad44774b2e355e53daea00b/nations-of-darkness-m11gq.jpg",
                             "imageType": "coverImage",
                             "width": 2560
                         }
@@ -5252,41 +5150,40 @@
                             "offerLifecycleState": "Release",
                             "price": {
                                 "currencyCode": "EUR",
-                                "decimalPrice": 6.29
+                                "decimalPrice": 0
                             },
-                            "priceDisplay": "€6.29",
                             "purchasePayload": {
-                                "offerId": "70944660d2bb4800975802c714e99193",
-                                "sandboxId": "710b0610e09249bdb0ceb663a54f82ba"
+                                "offerId": "d9ab14ff867e43c2911aa17fc145a800",
+                                "sandboxId": "7516c53e561c456495ae592cc9c02ae4"
                             },
-                            "purchaseType": "Purchase"
+                            "purchaseType": "Claim"
                         }
                     ],
                     "systemSpecs": {
-                        "applicationVersion": "1.0.0",
+                        "applicationVersion": "1.18.3",
                         "platform": "android",
                         "systemRequirements": [
                             {
-                                "minimum": "135MB",
+                                "minimum": "175MB",
                                 "requirementType": "InstallSize",
                                 "title": "Installation size"
                             },
                             {
-                                "minimum": "134.99 MB",
+                                "minimum": "205.60 MB",
                                 "requirementType": "DownloadSize",
                                 "title": "Download size"
                             },
                             {
-                                "minimum": "6.0",
+                                "minimum": "API level 22",
                                 "requirementType": "OS",
                                 "title": "OS version"
                             }
                         ]
                     },
-                    "title": "Carrion"
+                    "title": "Nations of Darkness"
                 },
-                "offerId": "70944660d2bb4800975802c714e99193",
-                "sandboxId": "710b0610e09249bdb0ceb663a54f82ba"
+                "offerId": "d9ab14ff867e43c2911aa17fc145a800",
+                "sandboxId": "7516c53e561c456495ae592cc9c02ae4"
             },
             {
                 "content": {
@@ -13805,19 +13702,6 @@
                         }
                     },
                     "purchase": [
-                        {
-                            "offerLifecycleState": "Release",
-                            "price": {
-                                "currencyCode": "EUR",
-                                "decimalPrice": 7.99
-                            },
-                            "priceDisplay": "€7.99",
-                            "purchasePayload": {
-                                "offerId": "d938a57551914db286757ebdf89b95f9",
-                                "sandboxId": "4b36452d205344bcb0f60f6a466ecd58"
-                            },
-                            "purchaseType": "Purchase"
-                        },
                         {
                             "discount": {
                                 "discountAmountDisplay": "-88%",
