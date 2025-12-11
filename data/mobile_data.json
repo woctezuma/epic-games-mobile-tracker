@@ -565,6 +565,62 @@
         "store_url": "<https://store.epicgames.com/product/dc-heroes-united-android-de4bc2>",
         "title": "DC Heroes United"
     },
+    "1-56c52cefc7eb49d59d60cf8ba253c634-0c47d249fb9e4898a3cbf7b62be40a41": {
+        "age_control": 16,
+        "catalog_item_id": "8c6637ba536a4823a2b3f4b0745c0ed9",
+        "checkout_url": "<https://store.epicgames.com/purchase?offers=1-56c52cefc7eb49d59d60cf8ba253c634-0c47d249fb9e4898a3cbf7b62be40a41>",
+        "content_descriptors": [
+            "Strong Violence"
+        ],
+        "current_price": "0",
+        "discount": "-100%",
+        "download_size": "1.86 GB",
+        "end_date": "2025-12-18T16:00:00.000Z",
+        "in_app_purchases": false,
+        "install_size": "2GB",
+        "interactive_elements": [],
+        "media": {
+            "OfferImageTall": "https://cdn1.epicgames.com/spt-assets/697909f81fb44bcbade50cc93d2e78d2/dead-cells-e4e0g.png",
+            "OfferImageWide": "https://cdn1.epicgames.com/spt-assets/697909f81fb44bcbade50cc93d2e78d2/dead-cells-yi5ph.png",
+            "ProductIcon": "https://cdn1.epicgames.com/spt-assets/697909f81fb44bcbade50cc93d2e78d2/dead-cells-icon-1lk1f.png",
+            "coverImage": "https://cdn1.epicgames.com/spt-assets/697909f81fb44bcbade50cc93d2e78d2/dead-cells-g73ga.png"
+        },
+        "offer_id": "0c47d249fb9e4898a3cbf7b62be40a41",
+        "original_price": "8.99",
+        "platform": "android",
+        "sandbox_id": "56c52cefc7eb49d59d60cf8ba253c634",
+        "slug": "dead-cells-android-eb6382",
+        "store_url": "<https://store.epicgames.com/product/dead-cells-android-eb6382>",
+        "title": "Dead Cells"
+    },
+    "1-56c52cefc7eb49d59d60cf8ba253c634-a37f7ab547004bfcbf4197da22973e11": {
+        "age_control": 16,
+        "catalog_item_id": "eeffc4762a974d18bf5b78a0222c206e",
+        "checkout_url": "<https://store.epicgames.com/purchase?offers=1-56c52cefc7eb49d59d60cf8ba253c634-a37f7ab547004bfcbf4197da22973e11>",
+        "content_descriptors": [
+            "Strong Violence"
+        ],
+        "current_price": "0",
+        "discount": "-100%",
+        "download_size": "1.3GB",
+        "end_date": "2025-12-18T16:00:00.000Z",
+        "in_app_purchases": false,
+        "install_size": "2GB",
+        "interactive_elements": [],
+        "media": {
+            "OfferImageTall": "https://cdn1.epicgames.com/spt-assets/697909f81fb44bcbade50cc93d2e78d2/dead-cells-1pltb.png",
+            "OfferImageWide": "https://cdn1.epicgames.com/spt-assets/697909f81fb44bcbade50cc93d2e78d2/dead-cells-9h1tz.png",
+            "ProductIcon": "https://cdn1.epicgames.com/spt-assets/697909f81fb44bcbade50cc93d2e78d2/dead-cells-icon-1lk1f.png",
+            "coverImage": "https://cdn1.epicgames.com/spt-assets/697909f81fb44bcbade50cc93d2e78d2/dead-cells-g73ga.png"
+        },
+        "offer_id": "a37f7ab547004bfcbf4197da22973e11",
+        "original_price": "8.09",
+        "platform": "ios",
+        "sandbox_id": "56c52cefc7eb49d59d60cf8ba253c634",
+        "slug": "dead-cells-ios-edfc55",
+        "store_url": "<https://store.epicgames.com/product/dead-cells-ios-edfc55>",
+        "title": "Dead Cells"
+    },
     "1-60525048f11c46b88bb6d7492ce7b67d-4d48de8a4b0b4f1a8d8d8c046ded5051": {
         "age_control": 12,
         "catalog_item_id": "198a2dfea59a4af4be265ea4cb6b4635",
