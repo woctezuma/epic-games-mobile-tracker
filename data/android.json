@@ -5176,7 +5176,7 @@
                         }
                     ],
                     "systemSpecs": {
-                        "applicationVersion": "11.1.1.9",
+                        "applicationVersion": "11.2.1.1",
                         "platform": "android",
                         "systemRequirements": [
                             {
@@ -5185,7 +5185,7 @@
                                 "title": "Installation size"
                             },
                             {
-                                "minimum": "522.33 MB",
+                                "minimum": "562.40 MB",
                                 "requirementType": "DownloadSize",
                                 "title": "Download size"
                             },
