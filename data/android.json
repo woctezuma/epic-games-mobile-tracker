@@ -232,9 +232,9 @@
                     },
                     "catalogItemId": "ee2142baa91a42b69f3ac120d1a706b3",
                     "categories": [
-                        "games",
+                        "games/edition/base",
                         "games/edition",
-                        "games/edition/base"
+                        "games"
                     ],
                     "mapping": {
                         "slug": "anchor-panic-android-af3a83"
