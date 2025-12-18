@@ -12,6 +12,108 @@
                             "gate": "no-gate"
                         },
                         "ageRating": {
+                            "ageControl": 16,
+                            "contentDescriptors": [
+                                "Strong Violence"
+                            ],
+                            "interactiveElements": [],
+                            "ratingImage": "https://cdn1.epicgames.com/gameRating/gameRating/PEGI_16_192_192x192-da60f0bd1fe7cb1ac9d8a8bd5168ea96",
+                            "ratingSystem": "PEGI",
+                            "rectangularRatingImage": "https://cdn1.epicgames.com/salesEvent/salesEvent/PEGI-16_435x530-65760d498ce28374fb7ca3258ee1440c",
+                            "title": "PEGI 16"
+                        },
+                        "ratingType": "AgeRating"
+                    },
+                    "attention": {
+                        "inAppPurchases": "None"
+                    },
+                    "catalogItemId": "eeffc4762a974d18bf5b78a0222c206e",
+                    "categories": [
+                        "games",
+                        "games/edition",
+                        "games/edition/base"
+                    ],
+                    "mapping": {
+                        "slug": "dead-cells-ios-edfc55"
+                    },
+                    "media": {
+                        "appIcon": {
+                            "altText": "-",
+                            "height": 512,
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/697909f81fb44bcbade50cc93d2e78d2/dead-cells-icon-1lk1f.png",
+                            "imageType": "ProductIcon",
+                            "width": 512
+                        },
+                        "card16x9": {
+                            "altText": "Dead Cells Offer",
+                            "height": 1440,
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/697909f81fb44bcbade50cc93d2e78d2/dead-cells-9h1tz.png",
+                            "imageType": "OfferImageWide",
+                            "width": 2560
+                        },
+                        "card3x4": {
+                            "altText": "Download Dead Cells Offer",
+                            "height": 1600,
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/697909f81fb44bcbade50cc93d2e78d2/dead-cells-1pltb.png",
+                            "imageType": "OfferImageTall",
+                            "width": 1200
+                        },
+                        "coverImage": {
+                            "altText": "-",
+                            "height": 1440,
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/697909f81fb44bcbade50cc93d2e78d2/dead-cells-g73ga.png",
+                            "imageType": "coverImage",
+                            "width": 2560
+                        }
+                    },
+                    "purchase": [
+                        {
+                            "offerLifecycleState": "Release",
+                            "price": {
+                                "currencyCode": "EUR",
+                                "decimalPrice": 8.09
+                            },
+                            "priceDisplay": "€8.09",
+                            "purchasePayload": {
+                                "offerId": "a37f7ab547004bfcbf4197da22973e11",
+                                "sandboxId": "56c52cefc7eb49d59d60cf8ba253c634"
+                            },
+                            "purchaseType": "Purchase"
+                        }
+                    ],
+                    "systemSpecs": {
+                        "applicationVersion": "3.5.11",
+                        "platform": "ios",
+                        "systemRequirements": [
+                            {
+                                "minimum": "2GB",
+                                "requirementType": "InstallSize",
+                                "title": "Installation size"
+                            },
+                            {
+                                "minimum": "1.3GB",
+                                "requirementType": "DownloadSize",
+                                "title": "Download size"
+                            },
+                            {
+                                "minimum": "12",
+                                "requirementType": "OS",
+                                "title": "OS version"
+                            }
+                        ]
+                    },
+                    "title": "Dead Cells"
+                },
+                "offerId": "a37f7ab547004bfcbf4197da22973e11",
+                "sandboxId": "56c52cefc7eb49d59d60cf8ba253c634"
+            },
+            {
+                "content": {
+                    "ageRating": {
+                        "ageGate": {
+                            "gate": "no-gate"
+                        },
+                        "ageRating": {
                             "ageControl": 12,
                             "contentDescriptors": [
                                 "Mild Swearing"
@@ -4243,22 +4345,22 @@
                             "gate": "no-gate"
                         },
                         "ageRating": {
-                            "ageControl": 16,
+                            "ageControl": 12,
                             "contentDescriptors": [
-                                "Strong Violence"
+                                "Mild Swearing"
                             ],
                             "interactiveElements": [],
-                            "ratingImage": "https://cdn1.epicgames.com/gameRating/gameRating/PEGI_16_192_192x192-da60f0bd1fe7cb1ac9d8a8bd5168ea96",
+                            "ratingImage": "https://cdn1.epicgames.com/gameRating/gameRating/PEGI_12_192_192x192-afa4df43f131bc83eb380ccf22f8d904",
                             "ratingSystem": "PEGI",
-                            "rectangularRatingImage": "https://cdn1.epicgames.com/salesEvent/salesEvent/PEGI-16_435x530-65760d498ce28374fb7ca3258ee1440c",
-                            "title": "PEGI 16"
+                            "rectangularRatingImage": "https://cdn1.epicgames.com/salesEvent/salesEvent/PEGI-12_436x530-0cd1f06607086f3cc1bc2b8643f21b0a",
+                            "title": "PEGI 12"
                         },
                         "ratingType": "AgeRating"
                     },
                     "attention": {
                         "inAppPurchases": "None"
                     },
-                    "catalogItemId": "eeffc4762a974d18bf5b78a0222c206e",
+                    "catalogItemId": "2dee09541b6747e9b8b87af9436c892b",
                     "categories": [
                         "freegames",
                         "games",
@@ -4266,34 +4368,34 @@
                         "games/edition/base"
                     ],
                     "mapping": {
-                        "slug": "dead-cells-ios-edfc55"
+                        "slug": "shotgun-king-ios-386641"
                     },
                     "media": {
                         "appIcon": {
                             "altText": "-",
                             "height": 512,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/697909f81fb44bcbade50cc93d2e78d2/dead-cells-icon-1lk1f.png",
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/dffb5863c83548419a4e7f902b51d40a/shotgun-king-icon-b4m8i.png",
                             "imageType": "ProductIcon",
                             "width": 512
                         },
                         "card16x9": {
-                            "altText": "Dead Cells Offer",
+                            "altText": "Shotgun King Offer",
                             "height": 1440,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/697909f81fb44bcbade50cc93d2e78d2/dead-cells-9h1tz.png",
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/dffb5863c83548419a4e7f902b51d40a/shotgun-king-1hgx8.png",
                             "imageType": "OfferImageWide",
                             "width": 2560
                         },
                         "card3x4": {
-                            "altText": "Download Dead Cells Offer",
+                            "altText": "Download Shotgun King Offer",
                             "height": 1600,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/697909f81fb44bcbade50cc93d2e78d2/dead-cells-1pltb.png",
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/dffb5863c83548419a4e7f902b51d40a/shotgun-king-1r6nx.png",
                             "imageType": "OfferImageTall",
                             "width": 1200
                         },
                         "coverImage": {
                             "altText": "-",
                             "height": 1440,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/697909f81fb44bcbade50cc93d2e78d2/dead-cells-g73ga.png",
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/dffb5863c83548419a4e7f902b51d40a/shotgun-king-ekefq.png",
                             "imageType": "coverImage",
                             "width": 2560
                         }
@@ -4302,8 +4404,8 @@
                         {
                             "discount": {
                                 "discountAmountDisplay": "-100%",
-                                "discountEndDate": "2025-12-18T16:00:00.000Z",
-                                "originalPriceDisplay": "€8.09"
+                                "discountEndDate": "2025-12-25T16:00:00.000Z",
+                                "originalPriceDisplay": "€6.29"
                             },
                             "offerLifecycleState": "Release",
                             "price": {
@@ -4311,8 +4413,8 @@
                                 "decimalPrice": 0
                             },
                             "purchasePayload": {
-                                "offerId": "a37f7ab547004bfcbf4197da22973e11",
-                                "sandboxId": "56c52cefc7eb49d59d60cf8ba253c634"
+                                "offerId": "5f1fa293e5c8417283e5c039ba218a5c",
+                                "sandboxId": "ce6f60f1c65644da87de06399935eac6"
                             },
                             "purchaseType": "Claim"
                         },
@@ -4320,41 +4422,41 @@
                             "offerLifecycleState": "Release",
                             "price": {
                                 "currencyCode": "EUR",
-                                "decimalPrice": 8.09
+                                "decimalPrice": 6.29
                             },
-                            "priceDisplay": "€8.09",
+                            "priceDisplay": "€6.29",
                             "purchasePayload": {
-                                "offerId": "a37f7ab547004bfcbf4197da22973e11",
-                                "sandboxId": "56c52cefc7eb49d59d60cf8ba253c634"
+                                "offerId": "5f1fa293e5c8417283e5c039ba218a5c",
+                                "sandboxId": "ce6f60f1c65644da87de06399935eac6"
                             },
                             "purchaseType": "Purchase"
                         }
                     ],
                     "systemSpecs": {
-                        "applicationVersion": "3.5.11",
+                        "applicationVersion": "1.0.0",
                         "platform": "ios",
                         "systemRequirements": [
                             {
-                                "minimum": "2GB",
+                                "minimum": "500 MB",
                                 "requirementType": "InstallSize",
                                 "title": "Installation size"
                             },
                             {
-                                "minimum": "1.3GB",
+                                "minimum": "500 MB",
                                 "requirementType": "DownloadSize",
                                 "title": "Download size"
                             },
                             {
-                                "minimum": "12",
+                                "minimum": "16.0",
                                 "requirementType": "OS",
                                 "title": "OS version"
                             }
                         ]
                     },
-                    "title": "Dead Cells"
+                    "title": "Shotgun King: The Final Checkmate"
                 },
-                "offerId": "a37f7ab547004bfcbf4197da22973e11",
-                "sandboxId": "56c52cefc7eb49d59d60cf8ba253c634"
+                "offerId": "5f1fa293e5c8417283e5c039ba218a5c",
+                "sandboxId": "ce6f60f1c65644da87de06399935eac6"
             }
         ],
         "size": "large",
