@@ -1385,6 +1385,62 @@
         "store_url": "<https://store.epicgames.com/product/doodle-devil-dark-side-android-2b0231>",
         "title": "Doodle Devil: Dark Side"
     },
+    "1-ce6f60f1c65644da87de06399935eac6-5f1fa293e5c8417283e5c039ba218a5c": {
+        "age_control": 12,
+        "catalog_item_id": "2dee09541b6747e9b8b87af9436c892b",
+        "checkout_url": "<https://store.epicgames.com/purchase?offers=1-ce6f60f1c65644da87de06399935eac6-5f1fa293e5c8417283e5c039ba218a5c>",
+        "content_descriptors": [
+            "Mild Swearing"
+        ],
+        "current_price": "0",
+        "discount": "-100%",
+        "download_size": "500 MB",
+        "end_date": "2025-12-25T16:00:00.000Z",
+        "in_app_purchases": false,
+        "install_size": "500 MB",
+        "interactive_elements": [],
+        "media": {
+            "OfferImageTall": "https://cdn1.epicgames.com/spt-assets/dffb5863c83548419a4e7f902b51d40a/shotgun-king-1r6nx.png",
+            "OfferImageWide": "https://cdn1.epicgames.com/spt-assets/dffb5863c83548419a4e7f902b51d40a/shotgun-king-1hgx8.png",
+            "ProductIcon": "https://cdn1.epicgames.com/spt-assets/dffb5863c83548419a4e7f902b51d40a/shotgun-king-icon-b4m8i.png",
+            "coverImage": "https://cdn1.epicgames.com/spt-assets/dffb5863c83548419a4e7f902b51d40a/shotgun-king-ekefq.png"
+        },
+        "offer_id": "5f1fa293e5c8417283e5c039ba218a5c",
+        "original_price": "6.29",
+        "platform": "ios",
+        "sandbox_id": "ce6f60f1c65644da87de06399935eac6",
+        "slug": "shotgun-king-ios-386641",
+        "store_url": "<https://store.epicgames.com/product/shotgun-king-ios-386641>",
+        "title": "Shotgun King: The Final Checkmate"
+    },
+    "1-ce6f60f1c65644da87de06399935eac6-bcf9a1a9466a456195619d12c1e08841": {
+        "age_control": 12,
+        "catalog_item_id": "07e8d3a612614107859706598eef116d",
+        "checkout_url": "<https://store.epicgames.com/purchase?offers=1-ce6f60f1c65644da87de06399935eac6-bcf9a1a9466a456195619d12c1e08841>",
+        "content_descriptors": [
+            "Mild Swearing"
+        ],
+        "current_price": "0",
+        "discount": "-100%",
+        "download_size": "236.06 MB",
+        "end_date": "2025-12-25T16:00:00.000Z",
+        "in_app_purchases": false,
+        "install_size": "280 MB",
+        "interactive_elements": [],
+        "media": {
+            "OfferImageTall": "https://cdn1.epicgames.com/spt-assets/dffb5863c83548419a4e7f902b51d40a/shotgun-king-mba9b.png",
+            "OfferImageWide": "https://cdn1.epicgames.com/spt-assets/dffb5863c83548419a4e7f902b51d40a/shotgun-king-10bhu.png",
+            "ProductIcon": "https://cdn1.epicgames.com/spt-assets/dffb5863c83548419a4e7f902b51d40a/shotgun-king-icon-b4m8i.png",
+            "coverImage": "https://cdn1.epicgames.com/spt-assets/dffb5863c83548419a4e7f902b51d40a/shotgun-king-ekefq.png"
+        },
+        "offer_id": "bcf9a1a9466a456195619d12c1e08841",
+        "original_price": "6.29",
+        "platform": "android",
+        "sandbox_id": "ce6f60f1c65644da87de06399935eac6",
+        "slug": "shotgun-king-android-74f556",
+        "store_url": "<https://store.epicgames.com/product/shotgun-king-android-74f556>",
+        "title": "Shotgun King: The Final Checkmate"
+    },
     "1-d55b1ce868af425e9631c2d46c074ab9-1228d7af0cd34ceb8579a0c5d4802e54": {
         "age_control": 12,
         "catalog_item_id": "a11fabf3ba12446d831ac703e5a878ce",
