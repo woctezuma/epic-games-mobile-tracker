@@ -4888,21 +4888,21 @@
                         }
                     ],
                     "systemSpecs": {
-                        "applicationVersion": "1.0.53",
+                        "applicationVersion": "1.0.180",
                         "platform": "ios",
                         "systemRequirements": [
                             {
-                                "minimum": "135.2 MB",
+                                "minimum": "257 MB",
                                 "requirementType": "InstallSize",
                                 "title": "Installation size"
                             },
                             {
-                                "minimum": "135.2 MB",
+                                "minimum": "132 MB",
                                 "requirementType": "DownloadSize",
                                 "title": "Download size"
                             },
                             {
-                                "minimum": "iOS 16",
+                                "minimum": "iOS 17",
                                 "requirementType": "OS",
                                 "title": "OS version"
                             }
