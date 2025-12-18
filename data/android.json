@@ -5163,7 +5163,7 @@
                         }
                     ],
                     "systemSpecs": {
-                        "applicationVersion": "11.2.1.1",
+                        "applicationVersion": "11.2.1.2",
                         "platform": "android",
                         "systemRequirements": [
                             {
@@ -8261,21 +8261,21 @@
                         "card16x9": {
                             "altText": "Arena Breakout Offer",
                             "height": 1440,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/8917c7fc5edb486b9993837d85e1bc42/arena-breakout-p246x.jpg",
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/8917c7fc5edb486b9993837d85e1bc42/arena-breakout-1gp6e.jpg",
                             "imageType": "OfferImageWide",
                             "width": 2560
                         },
                         "card3x4": {
                             "altText": "Download Arena Breakout Offer",
                             "height": 1600,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/8917c7fc5edb486b9993837d85e1bc42/arena-breakout-1o9h8.png",
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/8917c7fc5edb486b9993837d85e1bc42/arena-breakout-1tqm5.jpg",
                             "imageType": "OfferImageTall",
                             "width": 1200
                         },
                         "coverImage": {
                             "altText": "-",
                             "height": 1440,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/8917c7fc5edb486b9993837d85e1bc42/arena-breakout-pr9ms.jpg",
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/8917c7fc5edb486b9993837d85e1bc42/arena-breakout-t4s2n.jpg",
                             "imageType": "coverImage",
                             "width": 2560
                         }
@@ -8295,7 +8295,7 @@
                         }
                     ],
                     "systemSpecs": {
-                        "applicationVersion": "1.0.215.215",
+                        "applicationVersion": "1.0.223.223",
                         "platform": "android",
                         "systemRequirements": [
                             {
@@ -8304,12 +8304,12 @@
                                 "title": "Installation size"
                             },
                             {
-                                "minimum": "1.09 GB",
+                                "minimum": "1.13 GB",
                                 "requirementType": "DownloadSize",
                                 "title": "Download size"
                             },
                             {
-                                "minimum": "API level 21",
+                                "minimum": "6.0",
                                 "requirementType": "OS",
                                 "title": "OS version"
                             }
