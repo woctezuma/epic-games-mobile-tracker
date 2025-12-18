@@ -5268,11 +5268,11 @@
                         }
                     ],
                     "systemSpecs": {
-                        "applicationVersion": "1.0.179",
+                        "applicationVersion": "1.0.180",
                         "platform": "android",
                         "systemRequirements": [
                             {
-                                "minimum": "135.2 MB",
+                                "minimum": "257 MB",
                                 "requirementType": "InstallSize",
                                 "title": "Installation size"
                             },
