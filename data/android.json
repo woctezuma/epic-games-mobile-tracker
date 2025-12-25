@@ -1992,6 +1992,37 @@
                                 "sandboxId": "a960e43e21e44727a838a69987e75c40"
                             },
                             "purchaseType": "Purchase"
+                        },
+                        {
+                            "discount": {
+                                "discountAmountDisplay": "-75%",
+                                "discountEndDate": "2026-01-07T16:00:00.000Z",
+                                "originalPriceDisplay": "€3.99"
+                            },
+                            "offerLifecycleState": "Release",
+                            "price": {
+                                "currencyCode": "EUR",
+                                "decimalPrice": 0.99
+                            },
+                            "priceDisplay": "€0.99",
+                            "purchasePayload": {
+                                "offerId": "7a94969b76a041068c402b7ab0f6a1cb",
+                                "sandboxId": "a960e43e21e44727a838a69987e75c40"
+                            },
+                            "purchaseType": "Purchase"
+                        },
+                        {
+                            "offerLifecycleState": "Release",
+                            "price": {
+                                "currencyCode": "EUR",
+                                "decimalPrice": 3.99
+                            },
+                            "priceDisplay": "€3.99",
+                            "purchasePayload": {
+                                "offerId": "7a94969b76a041068c402b7ab0f6a1cb",
+                                "sandboxId": "a960e43e21e44727a838a69987e75c40"
+                            },
+                            "purchaseType": "Purchase"
                         }
                     ],
                     "systemSpecs": {
@@ -5663,6 +5694,37 @@
                                 "sandboxId": "6729bc4b193a4272bae15c2dca81b193"
                             },
                             "purchaseType": "Purchase"
+                        },
+                        {
+                            "discount": {
+                                "discountAmountDisplay": "-67%",
+                                "discountEndDate": "2026-01-07T16:00:00.000Z",
+                                "originalPriceDisplay": "€2.99"
+                            },
+                            "offerLifecycleState": "Release",
+                            "price": {
+                                "currencyCode": "EUR",
+                                "decimalPrice": 0.98
+                            },
+                            "priceDisplay": "€0.98",
+                            "purchasePayload": {
+                                "offerId": "7b439be916bd4d8985c25e891fe0b34b",
+                                "sandboxId": "6729bc4b193a4272bae15c2dca81b193"
+                            },
+                            "purchaseType": "Purchase"
+                        },
+                        {
+                            "offerLifecycleState": "Release",
+                            "price": {
+                                "currencyCode": "EUR",
+                                "decimalPrice": 2.99
+                            },
+                            "priceDisplay": "€2.99",
+                            "purchasePayload": {
+                                "offerId": "7b439be916bd4d8985c25e891fe0b34b",
+                                "sandboxId": "6729bc4b193a4272bae15c2dca81b193"
+                            },
+                            "purchaseType": "Purchase"
                         }
                     ],
                     "systemSpecs": {
@@ -7624,6 +7686,7 @@
                     },
                     "catalogItemId": "5977703732a64dce88104e5be90e8e2b",
                     "categories": [
+                        "freegames",
                         "games",
                         "games/edition",
                         "games/edition/base"
@@ -7662,6 +7725,36 @@
                         }
                     },
                     "purchase": [
+                        {
+                            "offerLifecycleState": "Release",
+                            "price": {
+                                "currencyCode": "EUR",
+                                "decimalPrice": 2.99
+                            },
+                            "priceDisplay": "€2.99",
+                            "purchasePayload": {
+                                "offerId": "9667d66729ab41a0baf52570873c8472",
+                                "sandboxId": "e6abebfda00f45e2b3b9ba79970bc511"
+                            },
+                            "purchaseType": "Purchase"
+                        },
+                        {
+                            "discount": {
+                                "discountAmountDisplay": "-100%",
+                                "discountEndDate": "2026-01-01T16:00:00.000Z",
+                                "originalPriceDisplay": "€2.99"
+                            },
+                            "offerLifecycleState": "Release",
+                            "price": {
+                                "currencyCode": "EUR",
+                                "decimalPrice": 0
+                            },
+                            "purchasePayload": {
+                                "offerId": "9667d66729ab41a0baf52570873c8472",
+                                "sandboxId": "e6abebfda00f45e2b3b9ba79970bc511"
+                            },
+                            "purchaseType": "Claim"
+                        },
                         {
                             "offerLifecycleState": "Release",
                             "price": {
@@ -8848,9 +8941,10 @@
                     },
                     "catalogItemId": "06eb7870688a4e4b87ea67542a7dfb09",
                     "categories": [
-                        "games/edition/base",
+                        "freegames",
+                        "games",
                         "games/edition",
-                        "games"
+                        "games/edition/base"
                     ],
                     "mapping": {
                         "slug": "monument-valley-android-1046b9"
@@ -8886,6 +8980,36 @@
                         }
                     },
                     "purchase": [
+                        {
+                            "offerLifecycleState": "Release",
+                            "price": {
+                                "currencyCode": "EUR",
+                                "decimalPrice": 2.99
+                            },
+                            "priceDisplay": "€2.99",
+                            "purchasePayload": {
+                                "offerId": "c56a936e7e6c41be9ed688da42713bf5",
+                                "sandboxId": "e236e73a294b462d85715f5ba23a6346"
+                            },
+                            "purchaseType": "Purchase"
+                        },
+                        {
+                            "discount": {
+                                "discountAmountDisplay": "-100%",
+                                "discountEndDate": "2026-01-01T16:00:00.000Z",
+                                "originalPriceDisplay": "€2.99"
+                            },
+                            "offerLifecycleState": "Release",
+                            "price": {
+                                "currencyCode": "EUR",
+                                "decimalPrice": 0
+                            },
+                            "purchasePayload": {
+                                "offerId": "c56a936e7e6c41be9ed688da42713bf5",
+                                "sandboxId": "e236e73a294b462d85715f5ba23a6346"
+                            },
+                            "purchaseType": "Claim"
+                        },
                         {
                             "offerLifecycleState": "Release",
                             "price": {
@@ -14035,6 +14159,37 @@
                         }
                     },
                     "purchase": [
+                        {
+                            "offerLifecycleState": "Release",
+                            "price": {
+                                "currencyCode": "EUR",
+                                "decimalPrice": 9.99
+                            },
+                            "priceDisplay": "€9.99",
+                            "purchasePayload": {
+                                "offerId": "4db605b1fd864f098fc6cefaa87de4a1",
+                                "sandboxId": "f0757a2ab13941d89476cfa09df9a545"
+                            },
+                            "purchaseType": "Purchase"
+                        },
+                        {
+                            "discount": {
+                                "discountAmountDisplay": "-50%",
+                                "discountEndDate": "2026-01-07T16:00:00.000Z",
+                                "originalPriceDisplay": "€9.99"
+                            },
+                            "offerLifecycleState": "Release",
+                            "price": {
+                                "currencyCode": "EUR",
+                                "decimalPrice": 4.99
+                            },
+                            "priceDisplay": "€4.99",
+                            "purchasePayload": {
+                                "offerId": "4db605b1fd864f098fc6cefaa87de4a1",
+                                "sandboxId": "f0757a2ab13941d89476cfa09df9a545"
+                            },
+                            "purchaseType": "Purchase"
+                        },
                         {
                             "offerLifecycleState": "Release",
                             "price": {
