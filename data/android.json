@@ -14,6 +14,107 @@
                         "ageRating": {
                             "ageControl": 3,
                             "contentDescriptors": [],
+                            "interactiveElements": [
+                                "In-Game Purchases"
+                            ],
+                            "ratingImage": "https://cdn1.epicgames.com/gameRating/gameRating/PEGI_3_192_192x192-490b93ddf59fb4ac1148d1eb9083626a",
+                            "ratingSystem": "PEGI",
+                            "rectangularRatingImage": "https://cdn1.epicgames.com/salesEvent/salesEvent/PEGI-3_435x530-c931ab5bb4eb190f6e8e542081c49dc4",
+                            "title": "PEGI 3"
+                        },
+                        "ratingType": "AgeRating"
+                    },
+                    "attention": {
+                        "inAppPurchases": "MaybeIncludesInAppPurchases"
+                    },
+                    "catalogItemId": "0b239ef992154ebd83e0162b5cb5896a",
+                    "categories": [
+                        "games",
+                        "games/edition",
+                        "games/edition/base"
+                    ],
+                    "mapping": {
+                        "slug": "wandering-space-android-87ad4a"
+                    },
+                    "media": {
+                        "appIcon": {
+                            "altText": "-",
+                            "height": 512,
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/784de46473324b00b816238f1efb759f/wandering-space-icon-arqod.png",
+                            "imageType": "ProductIcon",
+                            "width": 512
+                        },
+                        "card16x9": {
+                            "altText": "Wandering Space Offer",
+                            "height": 1440,
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/784de46473324b00b816238f1efb759f/wandering-space-1vtc5.jpg",
+                            "imageType": "OfferImageWide",
+                            "width": 2560
+                        },
+                        "card3x4": {
+                            "altText": "Download Wandering Space Offer",
+                            "height": 1600,
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/784de46473324b00b816238f1efb759f/wandering-space-y7x8f.jpg",
+                            "imageType": "OfferImageTall",
+                            "width": 1200
+                        },
+                        "coverImage": {
+                            "altText": "-",
+                            "height": 1440,
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/784de46473324b00b816238f1efb759f/wandering-space-1rdqw.jpg",
+                            "imageType": "coverImage",
+                            "width": 2560
+                        }
+                    },
+                    "purchase": [
+                        {
+                            "offerLifecycleState": "Release",
+                            "price": {
+                                "currencyCode": "EUR",
+                                "decimalPrice": 0
+                            },
+                            "purchasePayload": {
+                                "offerId": "90d8e7dce35645a6a5741d22a6787cbd",
+                                "sandboxId": "e5edaf4e050545aeb027af0f707349e8"
+                            },
+                            "purchaseType": "Claim"
+                        }
+                    ],
+                    "systemSpecs": {
+                        "applicationVersion": "1.15",
+                        "platform": "android",
+                        "systemRequirements": [
+                            {
+                                "minimum": "66.3MB",
+                                "requirementType": "InstallSize",
+                                "title": "Installation size"
+                            },
+                            {
+                                "minimum": "63.26 MB",
+                                "requirementType": "DownloadSize",
+                                "title": "Download size"
+                            },
+                            {
+                                "minimum": "7.0",
+                                "requirementType": "OS",
+                                "title": "OS version"
+                            }
+                        ]
+                    },
+                    "title": "Wandering Space"
+                },
+                "offerId": "90d8e7dce35645a6a5741d22a6787cbd",
+                "sandboxId": "e5edaf4e050545aeb027af0f707349e8"
+            },
+            {
+                "content": {
+                    "ageRating": {
+                        "ageGate": {
+                            "gate": "no-gate"
+                        },
+                        "ageRating": {
+                            "ageControl": 3,
+                            "contentDescriptors": [],
                             "interactiveElements": [],
                             "ratingImage": "https://cdn1.epicgames.com/gameRating/gameRating/PEGI_3_192_192x192-490b93ddf59fb4ac1148d1eb9083626a",
                             "ratingSystem": "PEGI",
@@ -712,7 +813,19 @@
                 },
                 "offerId": "f16ec14a58964f39a9b147e285e300be",
                 "sandboxId": "8bab7f6cfa5e4715a3db897a0139da21"
-            },
+            }
+        ],
+        "size": "xLarge",
+        "title": "",
+        "topicId": "mobile-android-carousel",
+        "type": "featured"
+    },
+    {
+        "link": {
+            "linkText": "home page",
+            "src": "/"
+        },
+        "offers": [
             {
                 "content": {
                     "ageRating": {
@@ -736,41 +849,41 @@
                     "attention": {
                         "inAppPurchases": "MaybeIncludesInAppPurchases"
                     },
-                    "catalogItemId": "ee2142baa91a42b69f3ac120d1a706b3",
+                    "catalogItemId": "4cadfc8471704b1997d2cd2bd9677484",
                     "categories": [
-                        "games/edition/base",
+                        "games",
                         "games/edition",
-                        "games"
+                        "games/edition/base"
                     ],
                     "mapping": {
-                        "slug": "anchor-panic-android-af3a83"
+                        "slug": "1212-android-f8a696"
                     },
                     "media": {
                         "appIcon": {
                             "altText": "-",
                             "height": 512,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/84c542f50edb441c9aeb6263ac585c2d/anchor-panic-icon-rdebz.png",
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/cb8173a84ad44774b2e355e53daea00b/nations-of-darkness-icon-1o95q.png",
                             "imageType": "ProductIcon",
                             "width": 512
                         },
                         "card16x9": {
-                            "altText": "Anchor Panic Offer",
+                            "altText": "Nations of Darkness Offer",
                             "height": 1440,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/84c542f50edb441c9aeb6263ac585c2d/anchor-panic-tc9i7.jpg",
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/cb8173a84ad44774b2e355e53daea00b/nations-of-darkness-vcgyz.png",
                             "imageType": "OfferImageWide",
                             "width": 2560
                         },
                         "card3x4": {
-                            "altText": "Download Anchor Panic Offer",
+                            "altText": "Download Nations of Darkness Offer",
                             "height": 1600,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/84c542f50edb441c9aeb6263ac585c2d/anchor-panic-1xtsc.jpg",
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/cb8173a84ad44774b2e355e53daea00b/nations-of-darkness-1oehn.png",
                             "imageType": "OfferImageTall",
                             "width": 1200
                         },
                         "coverImage": {
                             "altText": "-",
                             "height": 1440,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/84c542f50edb441c9aeb6263ac585c2d/anchor-panic-942gr.jpg",
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/cb8173a84ad44774b2e355e53daea00b/nations-of-darkness-m11gq.jpg",
                             "imageType": "coverImage",
                             "width": 2560
                         }
@@ -783,50 +896,38 @@
                                 "decimalPrice": 0
                             },
                             "purchasePayload": {
-                                "offerId": "40573f2428924edba642b59f58329e7b",
-                                "sandboxId": "c7767a51dc82443ca3286237d81531dc"
+                                "offerId": "d9ab14ff867e43c2911aa17fc145a800",
+                                "sandboxId": "7516c53e561c456495ae592cc9c02ae4"
                             },
                             "purchaseType": "Claim"
                         }
                     ],
                     "systemSpecs": {
-                        "applicationVersion": "1.3.0",
+                        "applicationVersion": "1.18.3",
                         "platform": "android",
                         "systemRequirements": [
                             {
-                                "minimum": "335MB",
+                                "minimum": "175MB",
                                 "requirementType": "InstallSize",
                                 "title": "Installation size"
                             },
                             {
-                                "minimum": "327.50 MB",
+                                "minimum": "205.60 MB",
                                 "requirementType": "DownloadSize",
                                 "title": "Download size"
                             },
                             {
-                                "minimum": "8.0.0",
+                                "minimum": "API level 22",
                                 "requirementType": "OS",
                                 "title": "OS version"
                             }
                         ]
                     },
-                    "title": "Anchor Panic"
+                    "title": "Nations of Darkness"
                 },
-                "offerId": "40573f2428924edba642b59f58329e7b",
-                "sandboxId": "c7767a51dc82443ca3286237d81531dc"
-            }
-        ],
-        "size": "xLarge",
-        "title": "",
-        "topicId": "mobile-android-carousel",
-        "type": "featured"
-    },
-    {
-        "link": {
-            "linkText": "home page",
-            "src": "/"
-        },
-        "offers": [
+                "offerId": "d9ab14ff867e43c2911aa17fc145a800",
+                "sandboxId": "7516c53e561c456495ae592cc9c02ae4"
+            },
             {
                 "content": {
                     "ageRating": {
@@ -1914,128 +2015,6 @@
                 },
                 "offerId": "a9b298ce3ef642b1ad0067496f5fa523",
                 "sandboxId": "966b40d2d476458294d4fa6709a10533"
-            },
-            {
-                "content": {
-                    "ageRating": {
-                        "ageGate": {
-                            "gate": "no-gate"
-                        },
-                        "ageRating": {
-                            "ageControl": 7,
-                            "contentDescriptors": [
-                                "Mild Violence"
-                            ],
-                            "interactiveElements": [
-                                "In-Game Purchases"
-                            ],
-                            "ratingImage": "https://cdn1.epicgames.com/gameRating/gameRating/PEGI_7_192_192x192-30e2e712d0682dad01add90a6ccbed5b",
-                            "ratingSystem": "PEGI",
-                            "rectangularRatingImage": "https://cdn1.epicgames.com/salesEvent/salesEvent/PEGI-7_435x530-9439a136999d3dd762c7a61c3b8c7683",
-                            "title": "PEGI 7"
-                        },
-                        "ratingType": "AgeRating"
-                    },
-                    "attention": {
-                        "inAppPurchases": "None"
-                    },
-                    "catalogItemId": "642974473c3b497b810e17de8a814f9f",
-                    "categories": [
-                        "games/edition/base",
-                        "games/edition",
-                        "games"
-                    ],
-                    "mapping": {
-                        "slug": "1941-frozen-front-android-dd91f0"
-                    },
-                    "media": {
-                        "appIcon": {
-                            "altText": "-",
-                            "height": 512,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/0bf478363828418b8108c7c88d759fb1/1941-frozen-front-icon-14yyi.png",
-                            "imageType": "ProductIcon",
-                            "width": 512
-                        },
-                        "card16x9": {
-                            "altText": "1941 Frozen Front Offer",
-                            "height": 1440,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/0bf478363828418b8108c7c88d759fb1/1941-frozen-front-1v318.jpg",
-                            "imageType": "OfferImageWide",
-                            "width": 2560
-                        },
-                        "card3x4": {
-                            "altText": "Download 1941 Frozen Front Offer",
-                            "height": 1600,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/0bf478363828418b8108c7c88d759fb1/1941-frozen-front-1ws6h.jpg",
-                            "imageType": "OfferImageTall",
-                            "width": 1200
-                        },
-                        "coverImage": {
-                            "altText": "-",
-                            "height": 1440,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/0bf478363828418b8108c7c88d759fb1/1941-frozen-front-i34i4.jpg",
-                            "imageType": "coverImage",
-                            "width": 2560
-                        }
-                    },
-                    "purchase": [
-                        {
-                            "discount": {
-                                "discountAmountDisplay": "-75%",
-                                "discountEndDate": "2026-01-07T16:00:00.000Z",
-                                "originalPriceDisplay": "€3.99"
-                            },
-                            "offerLifecycleState": "Release",
-                            "price": {
-                                "currencyCode": "EUR",
-                                "decimalPrice": 0.99
-                            },
-                            "priceDisplay": "€0.99",
-                            "purchasePayload": {
-                                "offerId": "7a94969b76a041068c402b7ab0f6a1cb",
-                                "sandboxId": "a960e43e21e44727a838a69987e75c40"
-                            },
-                            "purchaseType": "Purchase"
-                        },
-                        {
-                            "offerLifecycleState": "Release",
-                            "price": {
-                                "currencyCode": "EUR",
-                                "decimalPrice": 3.99
-                            },
-                            "priceDisplay": "€3.99",
-                            "purchasePayload": {
-                                "offerId": "7a94969b76a041068c402b7ab0f6a1cb",
-                                "sandboxId": "a960e43e21e44727a838a69987e75c40"
-                            },
-                            "purchaseType": "Purchase"
-                        }
-                    ],
-                    "systemSpecs": {
-                        "applicationVersion": "1.12.13",
-                        "platform": "android",
-                        "systemRequirements": [
-                            {
-                                "minimum": "110 MB",
-                                "requirementType": "InstallSize",
-                                "title": "Installation size"
-                            },
-                            {
-                                "minimum": "110.81 MB",
-                                "requirementType": "DownloadSize",
-                                "title": "Download size"
-                            },
-                            {
-                                "minimum": "6.0",
-                                "requirementType": "OS",
-                                "title": "OS version"
-                            }
-                        ]
-                    },
-                    "title": "1941 Frozen Front"
-                },
-                "offerId": "7a94969b76a041068c402b7ab0f6a1cb",
-                "sandboxId": "a960e43e21e44727a838a69987e75c40"
             }
         ],
         "size": "large",
@@ -6589,6 +6568,108 @@
                             "gate": "no-gate"
                         },
                         "ageRating": {
+                            "ageControl": 3,
+                            "contentDescriptors": [],
+                            "interactiveElements": [
+                                "Users Interact",
+                                "In-Game Purchases (Includes Random Items)"
+                            ],
+                            "ratingImage": "https://cdn1.epicgames.com/gameRating/gameRating/PEGI_3_192_192x192-490b93ddf59fb4ac1148d1eb9083626a",
+                            "ratingSystem": "PEGI",
+                            "rectangularRatingImage": "https://cdn1.epicgames.com/salesEvent/salesEvent/PEGI-3_435x530-c931ab5bb4eb190f6e8e542081c49dc4",
+                            "title": "PEGI 3"
+                        },
+                        "ratingType": "AgeRating"
+                    },
+                    "attention": {
+                        "inAppPurchases": "MaybeIncludesInAppPurchases"
+                    },
+                    "catalogItemId": "ee2142baa91a42b69f3ac120d1a706b3",
+                    "categories": [
+                        "games/edition/base",
+                        "games/edition",
+                        "games"
+                    ],
+                    "mapping": {
+                        "slug": "anchor-panic-android-af3a83"
+                    },
+                    "media": {
+                        "appIcon": {
+                            "altText": "-",
+                            "height": 512,
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/84c542f50edb441c9aeb6263ac585c2d/anchor-panic-icon-rdebz.png",
+                            "imageType": "ProductIcon",
+                            "width": 512
+                        },
+                        "card16x9": {
+                            "altText": "Anchor Panic Offer",
+                            "height": 1440,
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/84c542f50edb441c9aeb6263ac585c2d/anchor-panic-tc9i7.jpg",
+                            "imageType": "OfferImageWide",
+                            "width": 2560
+                        },
+                        "card3x4": {
+                            "altText": "Download Anchor Panic Offer",
+                            "height": 1600,
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/84c542f50edb441c9aeb6263ac585c2d/anchor-panic-1xtsc.jpg",
+                            "imageType": "OfferImageTall",
+                            "width": 1200
+                        },
+                        "coverImage": {
+                            "altText": "-",
+                            "height": 1440,
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/84c542f50edb441c9aeb6263ac585c2d/anchor-panic-942gr.jpg",
+                            "imageType": "coverImage",
+                            "width": 2560
+                        }
+                    },
+                    "purchase": [
+                        {
+                            "offerLifecycleState": "Release",
+                            "price": {
+                                "currencyCode": "EUR",
+                                "decimalPrice": 0
+                            },
+                            "purchasePayload": {
+                                "offerId": "40573f2428924edba642b59f58329e7b",
+                                "sandboxId": "c7767a51dc82443ca3286237d81531dc"
+                            },
+                            "purchaseType": "Claim"
+                        }
+                    ],
+                    "systemSpecs": {
+                        "applicationVersion": "1.3.0",
+                        "platform": "android",
+                        "systemRequirements": [
+                            {
+                                "minimum": "335MB",
+                                "requirementType": "InstallSize",
+                                "title": "Installation size"
+                            },
+                            {
+                                "minimum": "327.50 MB",
+                                "requirementType": "DownloadSize",
+                                "title": "Download size"
+                            },
+                            {
+                                "minimum": "8.0.0",
+                                "requirementType": "OS",
+                                "title": "OS version"
+                            }
+                        ]
+                    },
+                    "title": "Anchor Panic"
+                },
+                "offerId": "40573f2428924edba642b59f58329e7b",
+                "sandboxId": "c7767a51dc82443ca3286237d81531dc"
+            },
+            {
+                "content": {
+                    "ageRating": {
+                        "ageGate": {
+                            "gate": "no-gate"
+                        },
+                        "ageRating": {
                             "ageControl": 12,
                             "contentDescriptors": [
                                 "Moderate Violence",
@@ -7422,100 +7503,120 @@
                             "gate": "no-gate"
                         },
                         "ageRating": {
-                            "ageControl": 3,
-                            "contentDescriptors": [],
-                            "interactiveElements": [
-                                "Users Interact",
-                                "In-Game Purchases (Includes Random Items)"
+                            "ageControl": 7,
+                            "contentDescriptors": [
+                                "Mild Violence"
                             ],
-                            "ratingImage": "https://cdn1.epicgames.com/gameRating/gameRating/PEGI_3_192_192x192-490b93ddf59fb4ac1148d1eb9083626a",
+                            "interactiveElements": [
+                                "In-Game Purchases"
+                            ],
+                            "ratingImage": "https://cdn1.epicgames.com/gameRating/gameRating/PEGI_7_192_192x192-30e2e712d0682dad01add90a6ccbed5b",
                             "ratingSystem": "PEGI",
-                            "rectangularRatingImage": "https://cdn1.epicgames.com/salesEvent/salesEvent/PEGI-3_435x530-c931ab5bb4eb190f6e8e542081c49dc4",
-                            "title": "PEGI 3"
+                            "rectangularRatingImage": "https://cdn1.epicgames.com/salesEvent/salesEvent/PEGI-7_435x530-9439a136999d3dd762c7a61c3b8c7683",
+                            "title": "PEGI 7"
                         },
                         "ratingType": "AgeRating"
                     },
                     "attention": {
-                        "inAppPurchases": "MaybeIncludesInAppPurchases"
+                        "inAppPurchases": "None"
                     },
-                    "catalogItemId": "4cadfc8471704b1997d2cd2bd9677484",
+                    "catalogItemId": "642974473c3b497b810e17de8a814f9f",
                     "categories": [
-                        "games",
+                        "games/edition/base",
                         "games/edition",
-                        "games/edition/base"
+                        "games"
                     ],
                     "mapping": {
-                        "slug": "1212-android-f8a696"
+                        "slug": "1941-frozen-front-android-dd91f0"
                     },
                     "media": {
                         "appIcon": {
                             "altText": "-",
                             "height": 512,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/cb8173a84ad44774b2e355e53daea00b/nations-of-darkness-icon-1o95q.png",
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/0bf478363828418b8108c7c88d759fb1/1941-frozen-front-icon-14yyi.png",
                             "imageType": "ProductIcon",
                             "width": 512
                         },
                         "card16x9": {
-                            "altText": "Nations of Darkness Offer",
+                            "altText": "1941 Frozen Front Offer",
                             "height": 1440,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/cb8173a84ad44774b2e355e53daea00b/nations-of-darkness-vcgyz.png",
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/0bf478363828418b8108c7c88d759fb1/1941-frozen-front-1v318.jpg",
                             "imageType": "OfferImageWide",
                             "width": 2560
                         },
                         "card3x4": {
-                            "altText": "Download Nations of Darkness Offer",
+                            "altText": "Download 1941 Frozen Front Offer",
                             "height": 1600,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/cb8173a84ad44774b2e355e53daea00b/nations-of-darkness-1oehn.png",
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/0bf478363828418b8108c7c88d759fb1/1941-frozen-front-1ws6h.jpg",
                             "imageType": "OfferImageTall",
                             "width": 1200
                         },
                         "coverImage": {
                             "altText": "-",
                             "height": 1440,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/cb8173a84ad44774b2e355e53daea00b/nations-of-darkness-m11gq.jpg",
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/0bf478363828418b8108c7c88d759fb1/1941-frozen-front-i34i4.jpg",
                             "imageType": "coverImage",
                             "width": 2560
                         }
                     },
                     "purchase": [
                         {
+                            "discount": {
+                                "discountAmountDisplay": "-75%",
+                                "discountEndDate": "2026-01-07T16:00:00.000Z",
+                                "originalPriceDisplay": "€3.99"
+                            },
                             "offerLifecycleState": "Release",
                             "price": {
                                 "currencyCode": "EUR",
-                                "decimalPrice": 0
+                                "decimalPrice": 0.99
                             },
+                            "priceDisplay": "€0.99",
                             "purchasePayload": {
-                                "offerId": "d9ab14ff867e43c2911aa17fc145a800",
-                                "sandboxId": "7516c53e561c456495ae592cc9c02ae4"
+                                "offerId": "7a94969b76a041068c402b7ab0f6a1cb",
+                                "sandboxId": "a960e43e21e44727a838a69987e75c40"
                             },
-                            "purchaseType": "Claim"
+                            "purchaseType": "Purchase"
+                        },
+                        {
+                            "offerLifecycleState": "Release",
+                            "price": {
+                                "currencyCode": "EUR",
+                                "decimalPrice": 3.99
+                            },
+                            "priceDisplay": "€3.99",
+                            "purchasePayload": {
+                                "offerId": "7a94969b76a041068c402b7ab0f6a1cb",
+                                "sandboxId": "a960e43e21e44727a838a69987e75c40"
+                            },
+                            "purchaseType": "Purchase"
                         }
                     ],
                     "systemSpecs": {
-                        "applicationVersion": "1.18.3",
+                        "applicationVersion": "1.12.13",
                         "platform": "android",
                         "systemRequirements": [
                             {
-                                "minimum": "175MB",
+                                "minimum": "110 MB",
                                 "requirementType": "InstallSize",
                                 "title": "Installation size"
                             },
                             {
-                                "minimum": "205.60 MB",
+                                "minimum": "110.81 MB",
                                 "requirementType": "DownloadSize",
                                 "title": "Download size"
                             },
                             {
-                                "minimum": "API level 22",
+                                "minimum": "6.0",
                                 "requirementType": "OS",
                                 "title": "OS version"
                             }
                         ]
                     },
-                    "title": "Nations of Darkness"
+                    "title": "1941 Frozen Front"
                 },
-                "offerId": "d9ab14ff867e43c2911aa17fc145a800",
-                "sandboxId": "7516c53e561c456495ae592cc9c02ae4"
+                "offerId": "7a94969b76a041068c402b7ab0f6a1cb",
+                "sandboxId": "a960e43e21e44727a838a69987e75c40"
             },
             {
                 "content": {
