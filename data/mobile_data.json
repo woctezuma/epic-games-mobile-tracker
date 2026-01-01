@@ -621,6 +621,62 @@
         "store_url": "<https://store.epicgames.com/product/dead-cells-ios-edfc55>",
         "title": "Dead Cells"
     },
+    "1-5b63da9584554295a2a70dd9544b4d93-7c342674dbcb423588479134f5e92e16": {
+        "age_control": 12,
+        "catalog_item_id": "cdb7d2e60dd4495e884cafc1d055eaba",
+        "checkout_url": "<https://store.epicgames.com/purchase?offers=1-5b63da9584554295a2a70dd9544b4d93-7c342674dbcb423588479134f5e92e16>",
+        "content_descriptors": [
+            "Mild Swearing"
+        ],
+        "current_price": "0",
+        "discount": "-100%",
+        "download_size": "1.33 GB",
+        "end_date": "2026-01-08T16:00:00.000Z",
+        "in_app_purchases": false,
+        "install_size": "1,13 GB",
+        "interactive_elements": [],
+        "media": {
+            "OfferImageTall": "https://cdn1.epicgames.com/spt-assets/cf279cf29eba4e14b93c898ef502239c/skul-the-hero-slayer-9br7w.jpg",
+            "OfferImageWide": "https://cdn1.epicgames.com/spt-assets/cf279cf29eba4e14b93c898ef502239c/skul-the-hero-slayer-emsg3.jpg",
+            "ProductIcon": "https://cdn1.epicgames.com/spt-assets/cf279cf29eba4e14b93c898ef502239c/skul-the-hero-slayer-icon-7m821.png",
+            "coverImage": "https://cdn1.epicgames.com/spt-assets/cf279cf29eba4e14b93c898ef502239c/skul-the-hero-slayer-1nz1u.jpg"
+        },
+        "offer_id": "7c342674dbcb423588479134f5e92e16",
+        "original_price": "7.19",
+        "platform": "android",
+        "sandbox_id": "5b63da9584554295a2a70dd9544b4d93",
+        "slug": "skul-the-hero-slayer-android-0d2aed",
+        "store_url": "<https://store.epicgames.com/product/skul-the-hero-slayer-android-0d2aed>",
+        "title": "Skul: The Hero Slayer"
+    },
+    "1-5b63da9584554295a2a70dd9544b4d93-c2b42bd4beaa432e99b29f6b8e47c7ce": {
+        "age_control": 12,
+        "catalog_item_id": "75930fd5edd44c678904b172f2a46a71",
+        "checkout_url": "<https://store.epicgames.com/purchase?offers=1-5b63da9584554295a2a70dd9544b4d93-c2b42bd4beaa432e99b29f6b8e47c7ce>",
+        "content_descriptors": [
+            "Mild Swearing"
+        ],
+        "current_price": "0",
+        "discount": "-100%",
+        "download_size": "2,14 GB",
+        "end_date": "2026-01-08T16:00:00.000Z",
+        "in_app_purchases": false,
+        "install_size": "2,14GB",
+        "interactive_elements": [],
+        "media": {
+            "OfferImageTall": "https://cdn1.epicgames.com/spt-assets/cf279cf29eba4e14b93c898ef502239c/skul-the-hero-slayer-m9oml.jpg",
+            "OfferImageWide": "https://cdn1.epicgames.com/spt-assets/cf279cf29eba4e14b93c898ef502239c/skul-the-hero-slayer-pqlzo.jpg",
+            "ProductIcon": "https://cdn1.epicgames.com/spt-assets/cf279cf29eba4e14b93c898ef502239c/skul-the-hero-slayer-icon-7m821.png",
+            "coverImage": "https://cdn1.epicgames.com/spt-assets/cf279cf29eba4e14b93c898ef502239c/skul-the-hero-slayer-1nz1u.jpg"
+        },
+        "offer_id": "c2b42bd4beaa432e99b29f6b8e47c7ce",
+        "original_price": "7.19",
+        "platform": "ios",
+        "sandbox_id": "5b63da9584554295a2a70dd9544b4d93",
+        "slug": "skul-the-hero-slayer-ios-699ae8",
+        "store_url": "<https://store.epicgames.com/product/skul-the-hero-slayer-ios-699ae8>",
+        "title": "Skul: The Hero Slayer"
+    },
     "1-60525048f11c46b88bb6d7492ce7b67d-4d48de8a4b0b4f1a8d8d8c046ded5051": {
         "age_control": 12,
         "catalog_item_id": "198a2dfea59a4af4be265ea4cb6b4635",
