@@ -1095,6 +1095,58 @@
         "store_url": "<https://store.epicgames.com/product/road-redemption-mobile-full-game-unlock-34a6aa>",
         "title": "Road Redemption - Full Game"
     },
+    "1-bd304830208f4c42a56f1ac6ad5eecd6-a810e4372e48455c95b6488e275a46ac": {
+        "age_control": 3,
+        "catalog_item_id": "fecc56b0f15f4de08fff1abcf64b4638",
+        "checkout_url": "<https://store.epicgames.com/purchase?offers=1-bd304830208f4c42a56f1ac6ad5eecd6-a810e4372e48455c95b6488e275a46ac>",
+        "content_descriptors": [],
+        "current_price": "0",
+        "discount": "-100%",
+        "download_size": "140.86 MB",
+        "end_date": "2026-01-15T16:00:00.000Z",
+        "in_app_purchases": false,
+        "install_size": "96.48 MB",
+        "interactive_elements": [],
+        "media": {
+            "OfferImageTall": "https://cdn1.epicgames.com/spt-assets/c0ee39442aff4a9198e0b1df04087e8d/bouncemasters-1s5ti.png",
+            "OfferImageWide": "https://cdn1.epicgames.com/spt-assets/c0ee39442aff4a9198e0b1df04087e8d/bouncemasters-1yx25.png",
+            "ProductIcon": "https://cdn1.epicgames.com/spt-assets/c0ee39442aff4a9198e0b1df04087e8d/bouncemasters-icon-greiv.png",
+            "coverImage": "https://cdn1.epicgames.com/spt-assets/c0ee39442aff4a9198e0b1df04087e8d/bouncemasters-1687t.png"
+        },
+        "offer_id": "a810e4372e48455c95b6488e275a46ac",
+        "original_price": "2.19",
+        "platform": "android",
+        "sandbox_id": "bd304830208f4c42a56f1ac6ad5eecd6",
+        "slug": "bouncemasters-android-ebc0b1",
+        "store_url": "<https://store.epicgames.com/product/bouncemasters-android-ebc0b1>",
+        "title": "Bouncemasters"
+    },
+    "1-bd304830208f4c42a56f1ac6ad5eecd6-e6e5809aeaef4891b722a7e2c0d64403": {
+        "age_control": 3,
+        "catalog_item_id": "49f496d9d906455dbe2840b3eabd3def",
+        "checkout_url": "<https://store.epicgames.com/purchase?offers=1-bd304830208f4c42a56f1ac6ad5eecd6-e6e5809aeaef4891b722a7e2c0d64403>",
+        "content_descriptors": [],
+        "current_price": "0",
+        "discount": "-100%",
+        "download_size": "291 MB",
+        "end_date": "2026-01-15T16:00:00.000Z",
+        "in_app_purchases": false,
+        "install_size": "145 MB",
+        "interactive_elements": [],
+        "media": {
+            "OfferImageTall": "https://cdn1.epicgames.com/spt-assets/c0ee39442aff4a9198e0b1df04087e8d/bouncemasters-zqqoq.png",
+            "OfferImageWide": "https://cdn1.epicgames.com/spt-assets/c0ee39442aff4a9198e0b1df04087e8d/bouncemasters-1ek3v.png",
+            "ProductIcon": "https://cdn1.epicgames.com/spt-assets/c0ee39442aff4a9198e0b1df04087e8d/bouncemasters-icon-greiv.png",
+            "coverImage": "https://cdn1.epicgames.com/spt-assets/c0ee39442aff4a9198e0b1df04087e8d/bouncemasters-1687t.png"
+        },
+        "offer_id": "e6e5809aeaef4891b722a7e2c0d64403",
+        "original_price": "2.19",
+        "platform": "ios",
+        "sandbox_id": "bd304830208f4c42a56f1ac6ad5eecd6",
+        "slug": "bouncemasters-ios-e86970",
+        "store_url": "<https://store.epicgames.com/product/bouncemasters-ios-e86970>",
+        "title": "Bouncemasters"
+    },
     "1-bda8d2133655435982b9118972792328-079984d920864c7bb9f0c5f3c066907c": {
         "age_control": 7,
         "catalog_item_id": "fa311c526d554653a025da7f52ec5a8c",
