@@ -6704,9 +6704,9 @@
                             "offerLifecycleState": "Release",
                             "price": {
                                 "currencyCode": "EUR",
-                                "decimalPrice": 6.99
+                                "decimalPrice": 9.99
                             },
-                            "priceDisplay": "€6.99",
+                            "priceDisplay": "€9.99",
                             "purchasePayload": {
                                 "offerId": "7341a6d951184e95bd7776b59fae0bc4",
                                 "sandboxId": "e52b4d8cbcfd45ad95eff800ccc59d93"
@@ -6806,9 +6806,9 @@
                             "offerLifecycleState": "Release",
                             "price": {
                                 "currencyCode": "EUR",
-                                "decimalPrice": 6.99
+                                "decimalPrice": 9.99
                             },
-                            "priceDisplay": "€6.99",
+                            "priceDisplay": "€9.99",
                             "purchasePayload": {
                                 "offerId": "e606a3d3012b4610b9bdb1fbf691c5a8",
                                 "sandboxId": "c62d7481ae1744dab7310c8f4e1e9548"
