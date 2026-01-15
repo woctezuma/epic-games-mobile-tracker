@@ -503,6 +503,64 @@
         "store_url": "<https://store.epicgames.com/product/bendy-and-the-ink-machine-ios-eece7b>",
         "title": "Bendy and the Ink Machine"
     },
+    "1-5039feb6ca5845fd82101c890117ebc6-4d6e9f56a0e04a5b96261bc8824c6f29": {
+        "age_control": 12,
+        "catalog_item_id": "6106569827ad4e6ca7f1b079625d3b70",
+        "checkout_url": "<https://store.epicgames.com/purchase?offers=1-5039feb6ca5845fd82101c890117ebc6-4d6e9f56a0e04a5b96261bc8824c6f29>",
+        "content_descriptors": [],
+        "current_price": "0",
+        "discount": "-100%",
+        "download_size": "181.31 MB",
+        "end_date": "2026-01-22T16:00:00.000Z",
+        "in_app_purchases": false,
+        "install_size": "180MB",
+        "interactive_elements": [
+            "In-App Purchases",
+            "Users Interact"
+        ],
+        "media": {
+            "OfferImageTall": "https://cdn1.epicgames.com/spt-assets/63dd97c2c58d47e195b51b2663337c9a/dumb-ways-to-die-q3nel.png",
+            "OfferImageWide": "https://cdn1.epicgames.com/spt-assets/63dd97c2c58d47e195b51b2663337c9a/dumb-ways-to-die-5662e.png",
+            "ProductIcon": "https://cdn1.epicgames.com/spt-assets/63dd97c2c58d47e195b51b2663337c9a/dumb-ways-to-die-icon-2y059.png",
+            "coverImage": "https://cdn1.epicgames.com/spt-assets/63dd97c2c58d47e195b51b2663337c9a/dumb-ways-to-die-10lb1.png"
+        },
+        "offer_id": "4d6e9f56a0e04a5b96261bc8824c6f29",
+        "original_price": "4.49",
+        "platform": "ios",
+        "sandbox_id": "5039feb6ca5845fd82101c890117ebc6",
+        "slug": "dumb-ways-to-die-ios-5f556d",
+        "store_url": "<https://store.epicgames.com/product/dumb-ways-to-die-ios-5f556d>",
+        "title": "Dumb Ways to Die"
+    },
+    "1-5039feb6ca5845fd82101c890117ebc6-f50087830db94d1680b590168b3f2d2c": {
+        "age_control": 12,
+        "catalog_item_id": "4be6b015d9454d9691bd8093a40f13da",
+        "checkout_url": "<https://store.epicgames.com/purchase?offers=1-5039feb6ca5845fd82101c890117ebc6-f50087830db94d1680b590168b3f2d2c>",
+        "content_descriptors": [],
+        "current_price": "0",
+        "discount": "-100%",
+        "download_size": "185.10 MB",
+        "end_date": "2026-01-22T16:00:00.000Z",
+        "in_app_purchases": false,
+        "install_size": "180MB",
+        "interactive_elements": [
+            "In-App Purchases",
+            "Users Interact"
+        ],
+        "media": {
+            "OfferImageTall": "https://cdn1.epicgames.com/spt-assets/63dd97c2c58d47e195b51b2663337c9a/dumb-ways-to-die-14ag5.png",
+            "OfferImageWide": "https://cdn1.epicgames.com/spt-assets/63dd97c2c58d47e195b51b2663337c9a/dumb-ways-to-die-zvhqg.png",
+            "ProductIcon": "https://cdn1.epicgames.com/spt-assets/63dd97c2c58d47e195b51b2663337c9a/dumb-ways-to-die-icon-2y059.png",
+            "coverImage": "https://cdn1.epicgames.com/spt-assets/63dd97c2c58d47e195b51b2663337c9a/dumb-ways-to-die-10lb1.png"
+        },
+        "offer_id": "f50087830db94d1680b590168b3f2d2c",
+        "original_price": "4.49",
+        "platform": "android",
+        "sandbox_id": "5039feb6ca5845fd82101c890117ebc6",
+        "slug": "dumb-ways-to-die-android-625b0c",
+        "store_url": "<https://store.epicgames.com/product/dumb-ways-to-die-android-625b0c>",
+        "title": "Dumb Ways to Die"
+    },
     "1-5118b091950743c2bf33185cbd9cd35f-06e80adf547443e1b0161f3c16e57883": {
         "age_control": 12,
         "catalog_item_id": "492f4236452245d7830bf5fe869817a6",
