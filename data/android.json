@@ -11168,6 +11168,37 @@
                                 "sandboxId": "f1e83e5944954920827fe315a151174d"
                             },
                             "purchaseType": "Purchase"
+                        },
+                        {
+                            "discount": {
+                                "discountAmountDisplay": "-70%",
+                                "discountEndDate": "2026-01-27T16:00:00.000Z",
+                                "originalPriceDisplay": "€1.79"
+                            },
+                            "offerLifecycleState": "Release",
+                            "price": {
+                                "currencyCode": "EUR",
+                                "decimalPrice": 0.53
+                            },
+                            "priceDisplay": "€0.53",
+                            "purchasePayload": {
+                                "offerId": "c910e34fc454401c90e0e9b88a67c110",
+                                "sandboxId": "f1e83e5944954920827fe315a151174d"
+                            },
+                            "purchaseType": "Purchase"
+                        },
+                        {
+                            "offerLifecycleState": "Release",
+                            "price": {
+                                "currencyCode": "EUR",
+                                "decimalPrice": 1.79
+                            },
+                            "priceDisplay": "€1.79",
+                            "purchasePayload": {
+                                "offerId": "c910e34fc454401c90e0e9b88a67c110",
+                                "sandboxId": "f1e83e5944954920827fe315a151174d"
+                            },
+                            "purchaseType": "Purchase"
                         }
                     ],
                     "systemSpecs": {
@@ -12111,7 +12142,7 @@
                         }
                     ],
                     "systemSpecs": {
-                        "applicationVersion": "3.6.4",
+                        "applicationVersion": "3.7.2",
                         "platform": "android",
                         "systemRequirements": [
                             {
@@ -12120,7 +12151,7 @@
                                 "title": "Installation size"
                             },
                             {
-                                "minimum": "384.32 MB",
+                                "minimum": "387.52 MB",
                                 "requirementType": "DownloadSize",
                                 "title": "Download size"
                             },
