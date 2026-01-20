@@ -11157,19 +11157,6 @@
                     },
                     "purchase": [
                         {
-                            "offerLifecycleState": "Release",
-                            "price": {
-                                "currencyCode": "EUR",
-                                "decimalPrice": 1.79
-                            },
-                            "priceDisplay": "€1.79",
-                            "purchasePayload": {
-                                "offerId": "c910e34fc454401c90e0e9b88a67c110",
-                                "sandboxId": "f1e83e5944954920827fe315a151174d"
-                            },
-                            "purchaseType": "Purchase"
-                        },
-                        {
                             "discount": {
                                 "discountAmountDisplay": "-70%",
                                 "discountEndDate": "2026-01-27T16:00:00.000Z",
@@ -11289,24 +11276,6 @@
                         }
                     },
                     "purchase": [
-                        {
-                            "discount": {
-                                "discountAmountDisplay": "-70%",
-                                "discountEndDate": "2026-01-20T16:00:00.000Z",
-                                "originalPriceDisplay": "€1.79"
-                            },
-                            "offerLifecycleState": "Release",
-                            "price": {
-                                "currencyCode": "EUR",
-                                "decimalPrice": 0.53
-                            },
-                            "priceDisplay": "€0.53",
-                            "purchasePayload": {
-                                "offerId": "aba7f125fa5648a09ef7efc70d693adb",
-                                "sandboxId": "6df8eed41dff4a8bb168dfe9eb8d3101"
-                            },
-                            "purchaseType": "Purchase"
-                        },
                         {
                             "offerLifecycleState": "Release",
                             "price": {
@@ -12472,6 +12441,110 @@
                 },
                 "offerId": "271ef11942544bc4a8de0f944eabf432",
                 "sandboxId": "58a95ff4faba464f937e70e5d3023942"
+            },
+            {
+                "content": {
+                    "ageRating": {
+                        "ageGate": {
+                            "gate": "no-gate"
+                        },
+                        "ageRating": {
+                            "ageControl": 12,
+                            "contentDescriptors": [
+                                "Moderate Violence"
+                            ],
+                            "interactiveElements": [
+                                "Users Interact"
+                            ],
+                            "ratingImage": "https://cdn1.epicgames.com/gameRating/gameRating/PEGI_12_192_192x192-afa4df43f131bc83eb380ccf22f8d904",
+                            "ratingSystem": "PEGI",
+                            "rectangularRatingImage": "https://cdn1.epicgames.com/salesEvent/salesEvent/PEGI-12_436x530-0cd1f06607086f3cc1bc2b8643f21b0a",
+                            "title": "PEGI 12"
+                        },
+                        "ratingType": "AgeRating"
+                    },
+                    "attention": {
+                        "inAppPurchases": "None"
+                    },
+                    "catalogItemId": "3db1bb1c2a1b49af96f09b6bcd8eecce",
+                    "categories": [
+                        "games",
+                        "games/edition",
+                        "games/edition/base"
+                    ],
+                    "mapping": {
+                        "slug": "bogx-android-0b7cfa"
+                    },
+                    "media": {
+                        "appIcon": {
+                            "altText": "-",
+                            "height": 512,
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/557fb2a2e101498bb9fe6998ee36154b/bogx-icon-1gxj7.png",
+                            "imageType": "ProductIcon",
+                            "width": 512
+                        },
+                        "card16x9": {
+                            "altText": "Blade of God X Offer",
+                            "height": 1440,
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/557fb2a2e101498bb9fe6998ee36154b/blade-of-god-x-mwm3g.jpg",
+                            "imageType": "OfferImageWide",
+                            "width": 2560
+                        },
+                        "card3x4": {
+                            "altText": "Download Blade of God X Offer",
+                            "height": 1600,
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/557fb2a2e101498bb9fe6998ee36154b/blade-of-god-x-nchu2.jpg",
+                            "imageType": "OfferImageTall",
+                            "width": 1200
+                        },
+                        "coverImage": {
+                            "altText": "-",
+                            "height": 1440,
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/557fb2a2e101498bb9fe6998ee36154b/blade-of-god-x-110qf.jpg",
+                            "imageType": "coverImage",
+                            "width": 2560
+                        }
+                    },
+                    "purchase": [
+                        {
+                            "offerLifecycleState": "Release",
+                            "price": {
+                                "currencyCode": "EUR",
+                                "decimalPrice": 8.99
+                            },
+                            "priceDisplay": "€8.99",
+                            "purchasePayload": {
+                                "offerId": "5d3fdecd6876414484da74b512c9c71e",
+                                "sandboxId": "1c26f99d58a94ae08d094d5911ba7883"
+                            },
+                            "purchaseType": "Purchase"
+                        }
+                    ],
+                    "systemSpecs": {
+                        "applicationVersion": "2.4.0",
+                        "platform": "android",
+                        "systemRequirements": [
+                            {
+                                "minimum": "5G",
+                                "requirementType": "InstallSize",
+                                "title": "Installation size"
+                            },
+                            {
+                                "minimum": "3.82 GB",
+                                "requirementType": "DownloadSize",
+                                "title": "Download size"
+                            },
+                            {
+                                "minimum": "6.0",
+                                "requirementType": "OS",
+                                "title": "OS version"
+                            }
+                        ]
+                    },
+                    "title": "Blade of God X: Orisols"
+                },
+                "offerId": "5d3fdecd6876414484da74b512c9c71e",
+                "sandboxId": "1c26f99d58a94ae08d094d5911ba7883"
             },
             {
                 "content": {
