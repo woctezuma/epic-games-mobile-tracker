@@ -82,7 +82,7 @@
                         }
                     ],
                     "systemSpecs": {
-                        "applicationVersion": "11.10.0",
+                        "applicationVersion": "11.10.1",
                         "platform": "android",
                         "systemRequirements": [
                             {
