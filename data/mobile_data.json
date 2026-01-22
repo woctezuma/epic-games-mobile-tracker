@@ -503,6 +503,58 @@
         "store_url": "<https://store.epicgames.com/product/bendy-and-the-ink-machine-ios-eece7b>",
         "title": "Bendy and the Ink Machine"
     },
+    "1-4ff8a9b45e4444b4a4be8f0290da9400-87b71e31476b4d4c9f9b06a6d05b4adc": {
+        "age_control": 3,
+        "catalog_item_id": "9297f7d012064c2fbcbdf423ada542e9",
+        "checkout_url": "<https://store.epicgames.com/purchase?offers=1-4ff8a9b45e4444b4a4be8f0290da9400-87b71e31476b4d4c9f9b06a6d05b4adc>",
+        "content_descriptors": [],
+        "current_price": "0",
+        "discount": "-100%",
+        "download_size": "94",
+        "end_date": "2026-02-05T16:00:00.000Z",
+        "in_app_purchases": false,
+        "install_size": "250",
+        "interactive_elements": [],
+        "media": {
+            "OfferImageTall": "https://cdn1.epicgames.com/spt-assets/cfd10bcf6a2a4d33b4cf9d44e26cedf7/faily-brakes-2-1f94l.png",
+            "OfferImageWide": "https://cdn1.epicgames.com/spt-assets/cfd10bcf6a2a4d33b4cf9d44e26cedf7/faily-brakes-2-16gq2.png",
+            "ProductIcon": "https://cdn1.epicgames.com/spt-assets/cfd10bcf6a2a4d33b4cf9d44e26cedf7/faily-brakes-2-icon-ghk39.png",
+            "coverImage": "https://cdn1.epicgames.com/spt-assets/cfd10bcf6a2a4d33b4cf9d44e26cedf7/faily-brakes-2-1ivtn.png"
+        },
+        "offer_id": "87b71e31476b4d4c9f9b06a6d05b4adc",
+        "original_price": "1.79",
+        "platform": "ios",
+        "sandbox_id": "4ff8a9b45e4444b4a4be8f0290da9400",
+        "slug": "faily-brakes-2-ios-ab39ae",
+        "store_url": "<https://store.epicgames.com/product/faily-brakes-2-ios-ab39ae>",
+        "title": "Faily Brakes 2"
+    },
+    "1-4ff8a9b45e4444b4a4be8f0290da9400-b44a8cbb2f774fbeb7f9f71cdc50d90b": {
+        "age_control": 3,
+        "catalog_item_id": "5a7a615516484457a4b08656b3bc56ee",
+        "checkout_url": "<https://store.epicgames.com/purchase?offers=1-4ff8a9b45e4444b4a4be8f0290da9400-b44a8cbb2f774fbeb7f9f71cdc50d90b>",
+        "content_descriptors": [],
+        "current_price": "0",
+        "discount": "-100%",
+        "download_size": "148.95 MB",
+        "end_date": "2026-02-05T16:00:00.000Z",
+        "in_app_purchases": false,
+        "install_size": "250",
+        "interactive_elements": [],
+        "media": {
+            "OfferImageTall": "https://cdn1.epicgames.com/spt-assets/cfd10bcf6a2a4d33b4cf9d44e26cedf7/faily-brakes-2-pgcv9.png",
+            "OfferImageWide": "https://cdn1.epicgames.com/spt-assets/cfd10bcf6a2a4d33b4cf9d44e26cedf7/faily-brakes-2-11ala.png",
+            "ProductIcon": "https://cdn1.epicgames.com/spt-assets/cfd10bcf6a2a4d33b4cf9d44e26cedf7/faily-brakes-2-icon-ghk39.png",
+            "coverImage": "https://cdn1.epicgames.com/spt-assets/cfd10bcf6a2a4d33b4cf9d44e26cedf7/faily-brakes-2-1ivtn.png"
+        },
+        "offer_id": "b44a8cbb2f774fbeb7f9f71cdc50d90b",
+        "original_price": "1.79",
+        "platform": "android",
+        "sandbox_id": "4ff8a9b45e4444b4a4be8f0290da9400",
+        "slug": "faily-brakes-2-android-a5e0d1",
+        "store_url": "<https://store.epicgames.com/product/faily-brakes-2-android-a5e0d1>",
+        "title": "Faily Brakes 2"
+    },
     "1-5039feb6ca5845fd82101c890117ebc6-4d6e9f56a0e04a5b96261bc8824c6f29": {
         "age_control": 12,
         "catalog_item_id": "6106569827ad4e6ca7f1b079625d3b70",
@@ -1070,6 +1122,62 @@
         "slug": "112-operator-android-979286",
         "store_url": "<https://store.epicgames.com/product/112-operator-android-979286>",
         "title": "112 Operator"
+    },
+    "1-a3100205e194489088c7625c8c5c1596-d856aca8b72040ba8f7a10a39cf11ce0": {
+        "age_control": 12,
+        "catalog_item_id": "fc99b3f9c865468aba51c2593f06422f",
+        "checkout_url": "<https://store.epicgames.com/purchase?offers=1-a3100205e194489088c7625c8c5c1596-d856aca8b72040ba8f7a10a39cf11ce0>",
+        "content_descriptors": [
+            "Mild Swearing"
+        ],
+        "current_price": "0",
+        "discount": "-100%",
+        "download_size": "677.65 MB",
+        "end_date": "2026-01-29T16:00:00.000Z",
+        "in_app_purchases": false,
+        "install_size": "767 MB",
+        "interactive_elements": [],
+        "media": {
+            "OfferImageTall": "https://cdn1.epicgames.com/spt-assets/5f711e24b6534e32981f910a38e20756/the-forest-quartet-1owgj.png",
+            "OfferImageWide": "https://cdn1.epicgames.com/spt-assets/5f711e24b6534e32981f910a38e20756/the-forest-quartet-yn57t.jpg",
+            "ProductIcon": "https://cdn1.epicgames.com/spt-assets/5f711e24b6534e32981f910a38e20756/the-forest-quartet-icon-jkt9p.png",
+            "coverImage": "https://cdn1.epicgames.com/spt-assets/5f711e24b6534e32981f910a38e20756/the-forest-quartet-1vquc.jpg"
+        },
+        "offer_id": "d856aca8b72040ba8f7a10a39cf11ce0",
+        "original_price": "5.39",
+        "platform": "android",
+        "sandbox_id": "a3100205e194489088c7625c8c5c1596",
+        "slug": "forest-quartet-android-eb07b9",
+        "store_url": "<https://store.epicgames.com/product/forest-quartet-android-eb07b9>",
+        "title": "The Forest Quartet"
+    },
+    "1-a3100205e194489088c7625c8c5c1596-de6c8b3a03474e82a25a4fa4081cb16f": {
+        "age_control": 12,
+        "catalog_item_id": "57f371cccdca4b59bb4e24213ee6c211",
+        "checkout_url": "<https://store.epicgames.com/purchase?offers=1-a3100205e194489088c7625c8c5c1596-de6c8b3a03474e82a25a4fa4081cb16f>",
+        "content_descriptors": [
+            "Mild Swearing"
+        ],
+        "current_price": "0",
+        "discount": "-100%",
+        "download_size": "742 MB",
+        "end_date": "2026-01-29T16:00:00.000Z",
+        "in_app_purchases": false,
+        "install_size": "1.38 GB",
+        "interactive_elements": [],
+        "media": {
+            "OfferImageTall": "https://cdn1.epicgames.com/spt-assets/5f711e24b6534e32981f910a38e20756/the-forest-quartet-1nk8d.png",
+            "OfferImageWide": "https://cdn1.epicgames.com/spt-assets/5f711e24b6534e32981f910a38e20756/the-forest-quartet-1dvpn.jpg",
+            "ProductIcon": "https://cdn1.epicgames.com/spt-assets/5f711e24b6534e32981f910a38e20756/the-forest-quartet-icon-jkt9p.png",
+            "coverImage": "https://cdn1.epicgames.com/spt-assets/5f711e24b6534e32981f910a38e20756/the-forest-quartet-1vquc.jpg"
+        },
+        "offer_id": "de6c8b3a03474e82a25a4fa4081cb16f",
+        "original_price": "5.39",
+        "platform": "ios",
+        "sandbox_id": "a3100205e194489088c7625c8c5c1596",
+        "slug": "forest-quartet-ios-eea63c",
+        "store_url": "<https://store.epicgames.com/product/forest-quartet-ios-eea63c>",
+        "title": "The Forest Quartet"
     },
     "1-b0545d64f90248208a5dd6f213f4dde7-72c821408de74fed9a90f374c4825991": {
         "age_control": 3,
