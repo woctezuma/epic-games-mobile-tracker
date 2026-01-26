@@ -1822,12 +1822,21 @@
                             "purchaseType": "Purchase"
                         },
                         {
-                            "offerEffectivenessState": "Effective",
+                            "discount": {
+                                "discountAmountDisplay": "-100%",
+                                "discountEndDate": "2026-02-05T16:00:00.000Z",
+                                "originalPriceDisplay": "€1.79"
+                            },
+                            "offerLifecycleState": "Release",
+                            "price": {
+                                "currencyCode": "EUR",
+                                "decimalPrice": 0
+                            },
                             "purchasePayload": {
                                 "offerId": "87b71e31476b4d4c9f9b06a6d05b4adc",
                                 "sandboxId": "4ff8a9b45e4444b4a4be8f0290da9400"
                             },
-                            "purchaseType": "Unavailable"
+                            "purchaseType": "Claim"
                         },
                         {
                             "offerLifecycleState": "Release",
