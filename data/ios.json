@@ -1754,55 +1754,56 @@
                             "gate": "no-gate"
                         },
                         "ageRating": {
-                            "ageControl": 3,
-                            "contentDescriptors": [],
+                            "ageControl": 12,
+                            "contentDescriptors": [
+                                "Mild Swearing"
+                            ],
                             "interactiveElements": [],
-                            "ratingImage": "https://cdn1.epicgames.com/gameRating/gameRating/PEGI_3_192_192x192-490b93ddf59fb4ac1148d1eb9083626a",
+                            "ratingImage": "https://cdn1.epicgames.com/gameRating/gameRating/PEGI_12_192_192x192-afa4df43f131bc83eb380ccf22f8d904",
                             "ratingSystem": "PEGI",
-                            "rectangularRatingImage": "https://cdn1.epicgames.com/salesEvent/salesEvent/PEGI-3_435x530-c931ab5bb4eb190f6e8e542081c49dc4",
-                            "title": "PEGI 3"
+                            "rectangularRatingImage": "https://cdn1.epicgames.com/salesEvent/salesEvent/PEGI-12_436x530-0cd1f06607086f3cc1bc2b8643f21b0a",
+                            "title": "PEGI 12"
                         },
                         "ratingType": "AgeRating"
                     },
                     "attention": {
                         "inAppPurchases": "None"
                     },
-                    "catalogItemId": "9297f7d012064c2fbcbdf423ada542e9",
+                    "catalogItemId": "57f371cccdca4b59bb4e24213ee6c211",
                     "categories": [
-                        "freegames",
                         "games",
                         "games/edition",
                         "games/edition/base"
                     ],
                     "mapping": {
-                        "slug": "faily-brakes-2-ios-ab39ae"
+                        "slug": "forest-quartet-ios-eea63c"
                     },
                     "media": {
                         "appIcon": {
                             "altText": "-",
                             "height": 512,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/cfd10bcf6a2a4d33b4cf9d44e26cedf7/faily-brakes-2-icon-ghk39.png",
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/5f711e24b6534e32981f910a38e20756/the-forest-quartet-icon-jkt9p.png",
                             "imageType": "ProductIcon",
                             "width": 512
                         },
                         "card16x9": {
-                            "altText": "Faily Brakes 2 Offer",
+                            "altText": "The Forest Quartet Offer",
                             "height": 1440,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/cfd10bcf6a2a4d33b4cf9d44e26cedf7/faily-brakes-2-16gq2.png",
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/5f711e24b6534e32981f910a38e20756/the-forest-quartet-1dvpn.jpg",
                             "imageType": "OfferImageWide",
                             "width": 2560
                         },
                         "card3x4": {
-                            "altText": "Download Faily Brakes 2 Offer",
+                            "altText": "Download The Forest Quartet Offer",
                             "height": 1600,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/cfd10bcf6a2a4d33b4cf9d44e26cedf7/faily-brakes-2-1f94l.png",
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/5f711e24b6534e32981f910a38e20756/the-forest-quartet-1nk8d.png",
                             "imageType": "OfferImageTall",
                             "width": 1200
                         },
                         "coverImage": {
                             "altText": "-",
                             "height": 1440,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/cfd10bcf6a2a4d33b4cf9d44e26cedf7/faily-brakes-2-1ivtn.png",
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/5f711e24b6534e32981f910a38e20756/the-forest-quartet-1vquc.jpg",
                             "imageType": "coverImage",
                             "width": 2560
                         }
@@ -1812,71 +1813,41 @@
                             "offerLifecycleState": "Release",
                             "price": {
                                 "currencyCode": "EUR",
-                                "decimalPrice": 1.79
+                                "decimalPrice": 5.39
                             },
-                            "priceDisplay": "€1.79",
+                            "priceDisplay": "€5.39",
                             "purchasePayload": {
-                                "offerId": "87b71e31476b4d4c9f9b06a6d05b4adc",
-                                "sandboxId": "4ff8a9b45e4444b4a4be8f0290da9400"
-                            },
-                            "purchaseType": "Purchase"
-                        },
-                        {
-                            "discount": {
-                                "discountAmountDisplay": "-100%",
-                                "discountEndDate": "2026-02-05T16:00:00.000Z",
-                                "originalPriceDisplay": "€1.79"
-                            },
-                            "offerLifecycleState": "Release",
-                            "price": {
-                                "currencyCode": "EUR",
-                                "decimalPrice": 0
-                            },
-                            "purchasePayload": {
-                                "offerId": "87b71e31476b4d4c9f9b06a6d05b4adc",
-                                "sandboxId": "4ff8a9b45e4444b4a4be8f0290da9400"
-                            },
-                            "purchaseType": "Claim"
-                        },
-                        {
-                            "offerLifecycleState": "Release",
-                            "price": {
-                                "currencyCode": "EUR",
-                                "decimalPrice": 1.79
-                            },
-                            "priceDisplay": "€1.79",
-                            "purchasePayload": {
-                                "offerId": "87b71e31476b4d4c9f9b06a6d05b4adc",
-                                "sandboxId": "4ff8a9b45e4444b4a4be8f0290da9400"
+                                "offerId": "de6c8b3a03474e82a25a4fa4081cb16f",
+                                "sandboxId": "a3100205e194489088c7625c8c5c1596"
                             },
                             "purchaseType": "Purchase"
                         }
                     ],
                     "systemSpecs": {
-                        "applicationVersion": "1.0",
+                        "applicationVersion": "1.0.1",
                         "platform": "ios",
                         "systemRequirements": [
                             {
-                                "minimum": "250",
+                                "minimum": "1.38 GB",
                                 "requirementType": "InstallSize",
                                 "title": "Installation size"
                             },
                             {
-                                "minimum": "94",
+                                "minimum": "742 MB",
                                 "requirementType": "DownloadSize",
                                 "title": "Download size"
                             },
                             {
-                                "minimum": "13.0",
+                                "minimum": "15.0",
                                 "requirementType": "OS",
                                 "title": "OS version"
                             }
                         ]
                     },
-                    "title": "Faily Brakes 2"
+                    "title": "The Forest Quartet"
                 },
-                "offerId": "87b71e31476b4d4c9f9b06a6d05b4adc",
-                "sandboxId": "4ff8a9b45e4444b4a4be8f0290da9400"
+                "offerId": "de6c8b3a03474e82a25a4fa4081cb16f",
+                "sandboxId": "a3100205e194489088c7625c8c5c1596"
             },
             {
                 "content": {
@@ -3129,22 +3100,20 @@
                             "gate": "no-gate"
                         },
                         "ageRating": {
-                            "ageControl": 12,
-                            "contentDescriptors": [
-                                "Mild Swearing"
-                            ],
+                            "ageControl": 3,
+                            "contentDescriptors": [],
                             "interactiveElements": [],
-                            "ratingImage": "https://cdn1.epicgames.com/gameRating/gameRating/PEGI_12_192_192x192-afa4df43f131bc83eb380ccf22f8d904",
+                            "ratingImage": "https://cdn1.epicgames.com/gameRating/gameRating/PEGI_3_192_192x192-490b93ddf59fb4ac1148d1eb9083626a",
                             "ratingSystem": "PEGI",
-                            "rectangularRatingImage": "https://cdn1.epicgames.com/salesEvent/salesEvent/PEGI-12_436x530-0cd1f06607086f3cc1bc2b8643f21b0a",
-                            "title": "PEGI 12"
+                            "rectangularRatingImage": "https://cdn1.epicgames.com/salesEvent/salesEvent/PEGI-3_435x530-c931ab5bb4eb190f6e8e542081c49dc4",
+                            "title": "PEGI 3"
                         },
                         "ratingType": "AgeRating"
                     },
                     "attention": {
                         "inAppPurchases": "None"
                     },
-                    "catalogItemId": "57f371cccdca4b59bb4e24213ee6c211",
+                    "catalogItemId": "9297f7d012064c2fbcbdf423ada542e9",
                     "categories": [
                         "freegames",
                         "games",
@@ -3152,34 +3121,34 @@
                         "games/edition/base"
                     ],
                     "mapping": {
-                        "slug": "forest-quartet-ios-eea63c"
+                        "slug": "faily-brakes-2-ios-ab39ae"
                     },
                     "media": {
                         "appIcon": {
                             "altText": "-",
                             "height": 512,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/5f711e24b6534e32981f910a38e20756/the-forest-quartet-icon-jkt9p.png",
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/cfd10bcf6a2a4d33b4cf9d44e26cedf7/faily-brakes-2-icon-ghk39.png",
                             "imageType": "ProductIcon",
                             "width": 512
                         },
                         "card16x9": {
-                            "altText": "The Forest Quartet Offer",
+                            "altText": "Faily Brakes 2 Offer",
                             "height": 1440,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/5f711e24b6534e32981f910a38e20756/the-forest-quartet-1dvpn.jpg",
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/cfd10bcf6a2a4d33b4cf9d44e26cedf7/faily-brakes-2-16gq2.png",
                             "imageType": "OfferImageWide",
                             "width": 2560
                         },
                         "card3x4": {
-                            "altText": "Download The Forest Quartet Offer",
+                            "altText": "Download Faily Brakes 2 Offer",
                             "height": 1600,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/5f711e24b6534e32981f910a38e20756/the-forest-quartet-1nk8d.png",
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/cfd10bcf6a2a4d33b4cf9d44e26cedf7/faily-brakes-2-1f94l.png",
                             "imageType": "OfferImageTall",
                             "width": 1200
                         },
                         "coverImage": {
                             "altText": "-",
                             "height": 1440,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/5f711e24b6534e32981f910a38e20756/the-forest-quartet-1vquc.jpg",
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/cfd10bcf6a2a4d33b4cf9d44e26cedf7/faily-brakes-2-1ivtn.png",
                             "imageType": "coverImage",
                             "width": 2560
                         }
@@ -3188,8 +3157,8 @@
                         {
                             "discount": {
                                 "discountAmountDisplay": "-100%",
-                                "discountEndDate": "2026-01-29T16:00:00.000Z",
-                                "originalPriceDisplay": "€5.39"
+                                "discountEndDate": "2026-02-05T16:00:00.000Z",
+                                "originalPriceDisplay": "€1.79"
                             },
                             "offerLifecycleState": "Release",
                             "price": {
@@ -3197,8 +3166,8 @@
                                 "decimalPrice": 0
                             },
                             "purchasePayload": {
-                                "offerId": "de6c8b3a03474e82a25a4fa4081cb16f",
-                                "sandboxId": "a3100205e194489088c7625c8c5c1596"
+                                "offerId": "87b71e31476b4d4c9f9b06a6d05b4adc",
+                                "sandboxId": "4ff8a9b45e4444b4a4be8f0290da9400"
                             },
                             "purchaseType": "Claim"
                         },
@@ -3206,41 +3175,41 @@
                             "offerLifecycleState": "Release",
                             "price": {
                                 "currencyCode": "EUR",
-                                "decimalPrice": 5.39
+                                "decimalPrice": 1.79
                             },
-                            "priceDisplay": "€5.39",
+                            "priceDisplay": "€1.79",
                             "purchasePayload": {
-                                "offerId": "de6c8b3a03474e82a25a4fa4081cb16f",
-                                "sandboxId": "a3100205e194489088c7625c8c5c1596"
+                                "offerId": "87b71e31476b4d4c9f9b06a6d05b4adc",
+                                "sandboxId": "4ff8a9b45e4444b4a4be8f0290da9400"
                             },
                             "purchaseType": "Purchase"
                         }
                     ],
                     "systemSpecs": {
-                        "applicationVersion": "1.0.1",
+                        "applicationVersion": "1.0",
                         "platform": "ios",
                         "systemRequirements": [
                             {
-                                "minimum": "1.38 GB",
+                                "minimum": "250",
                                 "requirementType": "InstallSize",
                                 "title": "Installation size"
                             },
                             {
-                                "minimum": "742 MB",
+                                "minimum": "94",
                                 "requirementType": "DownloadSize",
                                 "title": "Download size"
                             },
                             {
-                                "minimum": "15.0",
+                                "minimum": "13.0",
                                 "requirementType": "OS",
                                 "title": "OS version"
                             }
                         ]
                     },
-                    "title": "The Forest Quartet"
+                    "title": "Faily Brakes 2"
                 },
-                "offerId": "de6c8b3a03474e82a25a4fa4081cb16f",
-                "sandboxId": "a3100205e194489088c7625c8c5c1596"
+                "offerId": "87b71e31476b4d4c9f9b06a6d05b4adc",
+                "sandboxId": "4ff8a9b45e4444b4a4be8f0290da9400"
             }
         ],
         "size": "large",
