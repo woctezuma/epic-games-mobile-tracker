@@ -3432,20 +3432,20 @@
                 "content": {
                     "ageRating": {
                         "ageGate": {
-                            "gate": "age-gate"
+                            "gate": "no-gate"
                         },
                         "ageRating": {
-                            "ageControl": 18,
+                            "ageControl": 16,
                             "contentDescriptors": [
-                                "Extreme Violence"
+                                "Strong Violence"
                             ],
                             "interactiveElements": [
-                                "Users Interact"
+                                "In-Game Purchases"
                             ],
-                            "ratingImage": "https://cdn1.epicgames.com/gameRating/gameRating/PEGI_18_192_192x192-d6a2111e4c05a18bc5ec235df88a7382",
+                            "ratingImage": "https://cdn1.epicgames.com/gameRating/gameRating/PEGI_16_192_192x192-da60f0bd1fe7cb1ac9d8a8bd5168ea96",
                             "ratingSystem": "PEGI",
-                            "rectangularRatingImage": "https://cdn1.epicgames.com/salesEvent/salesEvent/PEGI-18_436x530-f31bca6eb9a143791a8525f8b278462f",
-                            "title": "PEGI 18"
+                            "rectangularRatingImage": "https://cdn1.epicgames.com/salesEvent/salesEvent/PEGI-16_435x530-65760d498ce28374fb7ca3258ee1440c",
+                            "title": "PEGI 16"
                         },
                         "ratingType": "AgeRating"
                     },
