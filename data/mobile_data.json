@@ -963,6 +963,62 @@
         "store_url": "<https://store.epicgames.com/product/idle-champions-of-the-forgotten-realms-ios-77e761>",
         "title": "Idle Champions of the Forgotten Realms"
     },
+    "1-87375f89fc4c4c7a8c681cf21febee06-b27e3f1c1d2b43fd8b1e9bf67243d837": {
+        "age_control": 12,
+        "catalog_item_id": "ab26c2496120437daa3e9237edba6c41",
+        "checkout_url": "<https://store.epicgames.com/purchase?offers=1-87375f89fc4c4c7a8c681cf21febee06-b27e3f1c1d2b43fd8b1e9bf67243d837>",
+        "content_descriptors": [
+            "Mild Swearing"
+        ],
+        "current_price": "0",
+        "discount": "-100%",
+        "download_size": "354 MB",
+        "end_date": "2026-02-19T16:00:00.000Z",
+        "in_app_purchases": false,
+        "install_size": "1.44GB",
+        "interactive_elements": [],
+        "media": {
+            "OfferImageTall": "https://cdn1.epicgames.com/spt-assets/0638bcc62d9f4ba2a53eb9093c54be31/the-darkside-detective-a-fumble-in-the-dark-v19kh.jpg",
+            "OfferImageWide": "https://cdn1.epicgames.com/spt-assets/0638bcc62d9f4ba2a53eb9093c54be31/the-darkside-detective-a-fumble-in-the-dark-xt0ho.jpg",
+            "ProductIcon": "https://cdn1.epicgames.com/spt-assets/0638bcc62d9f4ba2a53eb9093c54be31/the-darkside-detective-a-fumble-in-the-dark-icon-fnctf.png",
+            "coverImage": "https://cdn1.epicgames.com/spt-assets/0638bcc62d9f4ba2a53eb9093c54be31/the-darkside-detective-a-fumble-in-the-dark-1qi5i.png"
+        },
+        "offer_id": "b27e3f1c1d2b43fd8b1e9bf67243d837",
+        "original_price": "6.29",
+        "platform": "ios",
+        "sandbox_id": "87375f89fc4c4c7a8c681cf21febee06",
+        "slug": "the-darkside-detective-a-fumble-in-the-dark-ios-1519b7",
+        "store_url": "<https://store.epicgames.com/product/the-darkside-detective-a-fumble-in-the-dark-ios-1519b7>",
+        "title": "The Darkside Detective A Fumble in the Dark"
+    },
+    "1-87375f89fc4c4c7a8c681cf21febee06-f324420336d342b098893e628af66a97": {
+        "age_control": 12,
+        "catalog_item_id": "fd4604ade8b2483592a117052d67d8b7",
+        "checkout_url": "<https://store.epicgames.com/purchase?offers=1-87375f89fc4c4c7a8c681cf21febee06-f324420336d342b098893e628af66a97>",
+        "content_descriptors": [
+            "Mild Swearing"
+        ],
+        "current_price": "0",
+        "discount": "-100%",
+        "download_size": "347.15 MB",
+        "end_date": "2026-02-19T16:00:00.000Z",
+        "in_app_purchases": false,
+        "install_size": "347 MB",
+        "interactive_elements": [],
+        "media": {
+            "OfferImageTall": "https://cdn1.epicgames.com/spt-assets/0638bcc62d9f4ba2a53eb9093c54be31/the-darkside-detective-a-fumble-in-the-dark-ll4sh.jpg",
+            "OfferImageWide": "https://cdn1.epicgames.com/spt-assets/0638bcc62d9f4ba2a53eb9093c54be31/the-darkside-detective-a-fumble-in-the-dark-16c34.jpg",
+            "ProductIcon": "https://cdn1.epicgames.com/spt-assets/0638bcc62d9f4ba2a53eb9093c54be31/the-darkside-detective-a-fumble-in-the-dark-icon-fnctf.png",
+            "coverImage": "https://cdn1.epicgames.com/spt-assets/0638bcc62d9f4ba2a53eb9093c54be31/the-darkside-detective-a-fumble-in-the-dark-1qi5i.png"
+        },
+        "offer_id": "f324420336d342b098893e628af66a97",
+        "original_price": "6.29",
+        "platform": "android",
+        "sandbox_id": "87375f89fc4c4c7a8c681cf21febee06",
+        "slug": "the-darkside-detective-a-fumble-in-the-dark-android-125a49",
+        "store_url": "<https://store.epicgames.com/product/the-darkside-detective-a-fumble-in-the-dark-android-125a49>",
+        "title": "The Darkside Detective A Fumble in the Dark"
+    },
     "1-904f68c328364b1f98feb3b675ccf93d-517342bfb45d420ab0fb3e17628de37a": {
         "age_control": 3,
         "catalog_item_id": "4d7d45a4365d4118bfb3df124269d5df",
