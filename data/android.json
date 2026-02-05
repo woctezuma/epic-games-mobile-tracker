@@ -893,7 +893,7 @@
                         }
                     ],
                     "systemSpecs": {
-                        "applicationVersion": "1.1.19-epic",
+                        "applicationVersion": "1.1.21-epic",
                         "platform": "android",
                         "systemRequirements": [
                             {
@@ -902,7 +902,7 @@
                                 "title": "Installation size"
                             },
                             {
-                                "minimum": "239.81 MB",
+                                "minimum": "239.94 MB",
                                 "requirementType": "DownloadSize",
                                 "title": "Download size"
                             },
