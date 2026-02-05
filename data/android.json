@@ -2178,13 +2178,13 @@
                         },
                         "card16x9": {
                             "height": 1440,
-                            "imageSrc": "https://cdn1.epicgames.com/offer/fn/FNBR_39-20_Safflower_MSEE_EGS_Launcher_KeyArt_Blade_2560x1440_2560x1440-14bf1993c63f451f80cbb780b9c19feb",
+                            "imageSrc": "https://cdn1.epicgames.com/offer/fn/FNECO_39-40_LoveAndLegends_EGS_Launcher_KeyArt_Blade_2560x1440_2560x1440-53faccd255eb47d9acbae9412f4473f8",
                             "imageType": "OfferImageWide",
                             "width": 2560
                         },
                         "card3x4": {
                             "height": 1600,
-                            "imageSrc": "https://cdn1.epicgames.com/offer/fn/FNBR_39-20_Safflower_MSEE_EGS_Launcher_KeyArt_Blade_1200x1600_1200x1600-405316a1bdcb4c08bd558faf5ad90279",
+                            "imageSrc": "https://cdn1.epicgames.com/offer/fn/FNECO_39-40_LoveAndLegends_EGS_Launcher_KeyArt_Blade_1200x1600_1200x1600-9dde84a208594932a0e71083df3d2900",
                             "imageType": "OfferImageTall",
                             "width": 1200
                         },
@@ -2555,19 +2555,19 @@
                         },
                         "card16x9": {
                             "height": 1440,
-                            "imageSrc": "https://cdn1.epicgames.com/offer/fn/FNSP_39-00_ChimeCurl_EGS_Blades_2560x1440_2560x1440-431dba8fcdb7f41cf077809080260ea7",
+                            "imageSrc": "https://cdn1.epicgames.com/offer/fn/FNSP_39-40_ForestJean_EGS_Launcher_KeyArt_Blade_2560x1440_2560x1440-34ac23ab36b4486f8ed8253f1a410426",
                             "imageType": "OfferImageWide",
                             "width": 2560
                         },
                         "card3x4": {
                             "height": 1600,
-                            "imageSrc": "https://cdn1.epicgames.com/offer/fn/FNSP_39-00_ChimeCurl_EGS_Blades_1200x1600_1200x1600-8d852a4faeadf20bf5361773c9c6c9ba",
+                            "imageSrc": "https://cdn1.epicgames.com/offer/fn/FNSP_39-40_ForestJean_EGS_Launcher_KeyArt_Blade_1200x1600_1200x1600-f7d6e3e6cfae4021a3b2204919240c4b",
                             "imageType": "OfferImageTall",
                             "width": 1200
                         },
                         "coverImage": {
                             "height": 1440,
-                            "imageSrc": "https://cdn1.epicgames.com/offer/fn/FNSP_39-00_ChimeCurl_EGS_Blades_2560x1440_2560x1440-431dba8fcdb7f41cf077809080260ea7",
+                            "imageSrc": "https://cdn1.epicgames.com/offer/fn/FNSP_39-40_ForestJean_EGS_Launcher_KeyArt_Blade_2560x1440_2560x1440-34ac23ab36b4486f8ed8253f1a410426",
                             "imageType": "OfferImageWide",
                             "width": 2560
                         }
