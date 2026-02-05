@@ -7975,7 +7975,7 @@
                         }
                     ],
                     "systemSpecs": {
-                        "applicationVersion": "1.3.6",
+                        "applicationVersion": "1.4.1",
                         "platform": "android",
                         "systemRequirements": [
                             {
@@ -7984,12 +7984,12 @@
                                 "title": "Installation size"
                             },
                             {
-                                "minimum": "64.29 MB",
+                                "minimum": "168.21 MB",
                                 "requirementType": "DownloadSize",
                                 "title": "Download size"
                             },
                             {
-                                "minimum": "API level 21",
+                                "minimum": "6.0",
                                 "requirementType": "OS",
                                 "title": "OS version"
                             }
