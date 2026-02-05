@@ -3144,7 +3144,7 @@
                     "attention": {
                         "inAppPurchases": "None"
                     },
-                    "catalogItemId": "9297f7d012064c2fbcbdf423ada542e9",
+                    "catalogItemId": "05431c5a8cf1425fa57d1f4a6b9dbc83",
                     "categories": [
                         "freegames",
                         "games",
@@ -3152,34 +3152,34 @@
                         "games/edition/base"
                     ],
                     "mapping": {
-                        "slug": "faily-brakes-2-ios-ab39ae"
+                        "slug": "botany-manor-ios-971c19"
                     },
                     "media": {
                         "appIcon": {
                             "altText": "-",
                             "height": 512,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/cfd10bcf6a2a4d33b4cf9d44e26cedf7/faily-brakes-2-icon-ghk39.png",
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/42d56a88c22d4eaa8977bf5528a2396b/botany-manor-icon-10rse.png",
                             "imageType": "ProductIcon",
                             "width": 512
                         },
                         "card16x9": {
-                            "altText": "Faily Brakes 2 Offer",
+                            "altText": "Botany Manor Offer",
                             "height": 1440,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/cfd10bcf6a2a4d33b4cf9d44e26cedf7/faily-brakes-2-16gq2.png",
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/42d56a88c22d4eaa8977bf5528a2396b/botany-manor-muo9u.jpg",
                             "imageType": "OfferImageWide",
                             "width": 2560
                         },
                         "card3x4": {
-                            "altText": "Download Faily Brakes 2 Offer",
+                            "altText": "Download Botany Manor Offer",
                             "height": 1600,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/cfd10bcf6a2a4d33b4cf9d44e26cedf7/faily-brakes-2-1f94l.png",
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/42d56a88c22d4eaa8977bf5528a2396b/botany-manor-1sjko.jpg",
                             "imageType": "OfferImageTall",
                             "width": 1200
                         },
                         "coverImage": {
                             "altText": "-",
                             "height": 1440,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/cfd10bcf6a2a4d33b4cf9d44e26cedf7/faily-brakes-2-1ivtn.png",
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/42d56a88c22d4eaa8977bf5528a2396b/botany-manor-11lkx.png",
                             "imageType": "coverImage",
                             "width": 2560
                         }
@@ -3188,8 +3188,8 @@
                         {
                             "discount": {
                                 "discountAmountDisplay": "-100%",
-                                "discountEndDate": "2026-02-05T16:00:00.000Z",
-                                "originalPriceDisplay": "€1.79"
+                                "discountEndDate": "2026-02-12T16:00:00.000Z",
+                                "originalPriceDisplay": "€4.49"
                             },
                             "offerLifecycleState": "Release",
                             "price": {
@@ -3197,8 +3197,8 @@
                                 "decimalPrice": 0
                             },
                             "purchasePayload": {
-                                "offerId": "87b71e31476b4d4c9f9b06a6d05b4adc",
-                                "sandboxId": "4ff8a9b45e4444b4a4be8f0290da9400"
+                                "offerId": "c82823ab18da4d2cb4a710f82ddf750f",
+                                "sandboxId": "969bbfac9e7840a986c1d594ccd55c01"
                             },
                             "purchaseType": "Claim"
                         },
@@ -3206,41 +3206,41 @@
                             "offerLifecycleState": "Release",
                             "price": {
                                 "currencyCode": "EUR",
-                                "decimalPrice": 1.79
+                                "decimalPrice": 4.49
                             },
-                            "priceDisplay": "€1.79",
+                            "priceDisplay": "€4.49",
                             "purchasePayload": {
-                                "offerId": "87b71e31476b4d4c9f9b06a6d05b4adc",
-                                "sandboxId": "4ff8a9b45e4444b4a4be8f0290da9400"
+                                "offerId": "c82823ab18da4d2cb4a710f82ddf750f",
+                                "sandboxId": "969bbfac9e7840a986c1d594ccd55c01"
                             },
                             "purchaseType": "Purchase"
                         }
                     ],
                     "systemSpecs": {
-                        "applicationVersion": "1.0",
+                        "applicationVersion": " 1.0.1",
                         "platform": "ios",
                         "systemRequirements": [
                             {
-                                "minimum": "250",
+                                "minimum": "529",
                                 "requirementType": "InstallSize",
                                 "title": "Installation size"
                             },
                             {
-                                "minimum": "94",
+                                "minimum": "511",
                                 "requirementType": "DownloadSize",
                                 "title": "Download size"
                             },
                             {
-                                "minimum": "13.0",
+                                "minimum": "12.0",
                                 "requirementType": "OS",
                                 "title": "OS version"
                             }
                         ]
                     },
-                    "title": "Faily Brakes 2"
+                    "title": "Botany Manor"
                 },
-                "offerId": "87b71e31476b4d4c9f9b06a6d05b4adc",
-                "sandboxId": "4ff8a9b45e4444b4a4be8f0290da9400"
+                "offerId": "c82823ab18da4d2cb4a710f82ddf750f",
+                "sandboxId": "969bbfac9e7840a986c1d594ccd55c01"
             }
         ],
         "size": "large",
@@ -5255,6 +5255,106 @@
                 },
                 "offerId": "0b1ecc2b308f444da0b17da1061faa72",
                 "sandboxId": "e6abebfda00f45e2b3b9ba79970bc511"
+            },
+            {
+                "content": {
+                    "ageRating": {
+                        "ageGate": {
+                            "gate": "no-gate"
+                        },
+                        "ageRating": {
+                            "ageControl": 3,
+                            "contentDescriptors": [],
+                            "interactiveElements": [],
+                            "ratingImage": "https://cdn1.epicgames.com/gameRating/gameRating/PEGI_3_192_192x192-490b93ddf59fb4ac1148d1eb9083626a",
+                            "ratingSystem": "PEGI",
+                            "rectangularRatingImage": "https://cdn1.epicgames.com/salesEvent/salesEvent/PEGI-3_435x530-c931ab5bb4eb190f6e8e542081c49dc4",
+                            "title": "PEGI 3"
+                        },
+                        "ratingType": "AgeRating"
+                    },
+                    "attention": {
+                        "inAppPurchases": "None"
+                    },
+                    "catalogItemId": "9297f7d012064c2fbcbdf423ada542e9",
+                    "categories": [
+                        "games",
+                        "games/edition",
+                        "games/edition/base"
+                    ],
+                    "mapping": {
+                        "slug": "faily-brakes-2-ios-ab39ae"
+                    },
+                    "media": {
+                        "appIcon": {
+                            "altText": "-",
+                            "height": 512,
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/cfd10bcf6a2a4d33b4cf9d44e26cedf7/faily-brakes-2-icon-ghk39.png",
+                            "imageType": "ProductIcon",
+                            "width": 512
+                        },
+                        "card16x9": {
+                            "altText": "Faily Brakes 2 Offer",
+                            "height": 1440,
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/cfd10bcf6a2a4d33b4cf9d44e26cedf7/faily-brakes-2-16gq2.png",
+                            "imageType": "OfferImageWide",
+                            "width": 2560
+                        },
+                        "card3x4": {
+                            "altText": "Download Faily Brakes 2 Offer",
+                            "height": 1600,
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/cfd10bcf6a2a4d33b4cf9d44e26cedf7/faily-brakes-2-1f94l.png",
+                            "imageType": "OfferImageTall",
+                            "width": 1200
+                        },
+                        "coverImage": {
+                            "altText": "-",
+                            "height": 1440,
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/cfd10bcf6a2a4d33b4cf9d44e26cedf7/faily-brakes-2-1ivtn.png",
+                            "imageType": "coverImage",
+                            "width": 2560
+                        }
+                    },
+                    "purchase": [
+                        {
+                            "offerLifecycleState": "Release",
+                            "price": {
+                                "currencyCode": "EUR",
+                                "decimalPrice": 1.79
+                            },
+                            "priceDisplay": "€1.79",
+                            "purchasePayload": {
+                                "offerId": "87b71e31476b4d4c9f9b06a6d05b4adc",
+                                "sandboxId": "4ff8a9b45e4444b4a4be8f0290da9400"
+                            },
+                            "purchaseType": "Purchase"
+                        }
+                    ],
+                    "systemSpecs": {
+                        "applicationVersion": "1.0",
+                        "platform": "ios",
+                        "systemRequirements": [
+                            {
+                                "minimum": "250",
+                                "requirementType": "InstallSize",
+                                "title": "Installation size"
+                            },
+                            {
+                                "minimum": "94",
+                                "requirementType": "DownloadSize",
+                                "title": "Download size"
+                            },
+                            {
+                                "minimum": "13.0",
+                                "requirementType": "OS",
+                                "title": "OS version"
+                            }
+                        ]
+                    },
+                    "title": "Faily Brakes 2"
+                },
+                "offerId": "87b71e31476b4d4c9f9b06a6d05b4adc",
+                "sandboxId": "4ff8a9b45e4444b4a4be8f0290da9400"
             },
             {
                 "content": {
@@ -7664,24 +7764,6 @@
                         }
                     },
                     "purchase": [
-                        {
-                            "discount": {
-                                "discountAmountDisplay": "-75%",
-                                "discountEndDate": "2026-02-05T16:00:00.000Z",
-                                "originalPriceDisplay": "€3.59"
-                            },
-                            "offerLifecycleState": "Release",
-                            "price": {
-                                "currencyCode": "EUR",
-                                "decimalPrice": 0.89
-                            },
-                            "priceDisplay": "€0.89",
-                            "purchasePayload": {
-                                "offerId": "7ccc83b2ce2046c2bfcd38b52c0b6073",
-                                "sandboxId": "5d6924bd68114aab9e48f1ed17ce1883"
-                            },
-                            "purchaseType": "Purchase"
-                        },
                         {
                             "offerLifecycleState": "Release",
                             "price": {
