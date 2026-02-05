@@ -1123,6 +1123,58 @@
         "store_url": "<https://store.epicgames.com/product/strange-horticulture-android-8143c0>",
         "title": "Strange Horticulture"
     },
+    "1-969bbfac9e7840a986c1d594ccd55c01-249ee1e9a6154d5eb88f29a6830b6c57": {
+        "age_control": 3,
+        "catalog_item_id": "5d81e17e9de846a0b6fe4615a19df3a3",
+        "checkout_url": "<https://store.epicgames.com/purchase?offers=1-969bbfac9e7840a986c1d594ccd55c01-249ee1e9a6154d5eb88f29a6830b6c57>",
+        "content_descriptors": [],
+        "current_price": "0",
+        "discount": "-100%",
+        "download_size": "520.20 MB",
+        "end_date": "2026-02-12T16:00:00.000Z",
+        "in_app_purchases": false,
+        "install_size": "609",
+        "interactive_elements": [],
+        "media": {
+            "OfferImageTall": "https://cdn1.epicgames.com/spt-assets/42d56a88c22d4eaa8977bf5528a2396b/botany-manor-ftpy1.jpg",
+            "OfferImageWide": "https://cdn1.epicgames.com/spt-assets/42d56a88c22d4eaa8977bf5528a2396b/botany-manor-8hsrj.jpg",
+            "ProductIcon": "https://cdn1.epicgames.com/spt-assets/42d56a88c22d4eaa8977bf5528a2396b/botany-manor-icon-10rse.png",
+            "coverImage": "https://cdn1.epicgames.com/spt-assets/42d56a88c22d4eaa8977bf5528a2396b/botany-manor-11lkx.png"
+        },
+        "offer_id": "249ee1e9a6154d5eb88f29a6830b6c57",
+        "original_price": "4.49",
+        "platform": "android",
+        "sandbox_id": "969bbfac9e7840a986c1d594ccd55c01",
+        "slug": "botany-manor-android-911d85",
+        "store_url": "<https://store.epicgames.com/product/botany-manor-android-911d85>",
+        "title": "Botany Manor"
+    },
+    "1-969bbfac9e7840a986c1d594ccd55c01-c82823ab18da4d2cb4a710f82ddf750f": {
+        "age_control": 3,
+        "catalog_item_id": "05431c5a8cf1425fa57d1f4a6b9dbc83",
+        "checkout_url": "<https://store.epicgames.com/purchase?offers=1-969bbfac9e7840a986c1d594ccd55c01-c82823ab18da4d2cb4a710f82ddf750f>",
+        "content_descriptors": [],
+        "current_price": "0",
+        "discount": "-100%",
+        "download_size": "511",
+        "end_date": "2026-02-12T16:00:00.000Z",
+        "in_app_purchases": false,
+        "install_size": "529",
+        "interactive_elements": [],
+        "media": {
+            "OfferImageTall": "https://cdn1.epicgames.com/spt-assets/42d56a88c22d4eaa8977bf5528a2396b/botany-manor-1sjko.jpg",
+            "OfferImageWide": "https://cdn1.epicgames.com/spt-assets/42d56a88c22d4eaa8977bf5528a2396b/botany-manor-muo9u.jpg",
+            "ProductIcon": "https://cdn1.epicgames.com/spt-assets/42d56a88c22d4eaa8977bf5528a2396b/botany-manor-icon-10rse.png",
+            "coverImage": "https://cdn1.epicgames.com/spt-assets/42d56a88c22d4eaa8977bf5528a2396b/botany-manor-11lkx.png"
+        },
+        "offer_id": "c82823ab18da4d2cb4a710f82ddf750f",
+        "original_price": "4.49",
+        "platform": "ios",
+        "sandbox_id": "969bbfac9e7840a986c1d594ccd55c01",
+        "slug": "botany-manor-ios-971c19",
+        "store_url": "<https://store.epicgames.com/product/botany-manor-ios-971c19>",
+        "title": "Botany Manor"
+    },
     "1-9f981e2c861e4a8fbd0eab89541ac8e6-a96d48ca85e44dd1b868531eb6cebeaf": {
         "age_control": 16,
         "catalog_item_id": "230d84fe27094fbcb0b6f71c787339af",
