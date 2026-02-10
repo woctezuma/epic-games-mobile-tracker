@@ -893,7 +893,7 @@
                         }
                     ],
                     "systemSpecs": {
-                        "applicationVersion": "1.1.21-epic",
+                        "applicationVersion": "1.1.23-epic",
                         "platform": "android",
                         "systemRequirements": [
                             {
@@ -8111,7 +8111,7 @@
                         }
                     ],
                     "systemSpecs": {
-                        "applicationVersion": "1.4.1",
+                        "applicationVersion": "1.4.1b",
                         "platform": "android",
                         "systemRequirements": [
                             {
@@ -11015,19 +11015,6 @@
                         }
                     },
                     "purchase": [
-                        {
-                            "offerLifecycleState": "Release",
-                            "price": {
-                                "currencyCode": "EUR",
-                                "decimalPrice": 4.49
-                            },
-                            "priceDisplay": "€4.49",
-                            "purchasePayload": {
-                                "offerId": "2017232f36944987848e04aea396ce26",
-                                "sandboxId": "0b8d22f6921241e5887b132935d571e4"
-                            },
-                            "purchaseType": "Purchase"
-                        },
                         {
                             "discount": {
                                 "discountAmountDisplay": "-70%",
@@ -14372,24 +14359,6 @@
                         }
                     },
                     "purchase": [
-                        {
-                            "discount": {
-                                "discountAmountDisplay": "-50%",
-                                "discountEndDate": "2026-02-10T16:00:00.000Z",
-                                "originalPriceDisplay": "€3.59"
-                            },
-                            "offerLifecycleState": "Release",
-                            "price": {
-                                "currencyCode": "EUR",
-                                "decimalPrice": 1.79
-                            },
-                            "priceDisplay": "€1.79",
-                            "purchasePayload": {
-                                "offerId": "41b112550ca546e683fff7216ef9299d",
-                                "sandboxId": "7e0c3ac97664454a9a93792d3b1da19d"
-                            },
-                            "purchaseType": "Purchase"
-                        },
                         {
                             "offerLifecycleState": "Release",
                             "price": {
