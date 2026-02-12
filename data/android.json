@@ -816,7 +816,19 @@
                 },
                 "offerId": "7c342674dbcb423588479134f5e92e16",
                 "sandboxId": "5b63da9584554295a2a70dd9544b4d93"
-            },
+            }
+        ],
+        "size": "xLarge",
+        "title": "",
+        "topicId": "mobile-android-carousel",
+        "type": "featured"
+    },
+    {
+        "link": {
+            "linkText": "home page",
+            "src": "/"
+        },
+        "offers": [
             {
                 "content": {
                     "ageRating": {
@@ -1321,19 +1333,7 @@
                 },
                 "offerId": "bcf9a1a9466a456195619d12c1e08841",
                 "sandboxId": "ce6f60f1c65644da87de06399935eac6"
-            }
-        ],
-        "size": "xLarge",
-        "title": "",
-        "topicId": "mobile-android-carousel",
-        "type": "featured"
-    },
-    {
-        "link": {
-            "linkText": "home page",
-            "src": "/"
-        },
-        "offers": [
+            },
             {
                 "content": {
                     "ageRating": {
@@ -1538,126 +1538,6 @@
                 },
                 "offerId": "0c47d249fb9e4898a3cbf7b62be40a41",
                 "sandboxId": "56c52cefc7eb49d59d60cf8ba253c634"
-            },
-            {
-                "content": {
-                    "ageRating": {
-                        "ageGate": {
-                            "gate": "no-gate"
-                        },
-                        "ageRating": {
-                            "ageControl": 12,
-                            "contentDescriptors": [
-                                "Mild Swearing"
-                            ],
-                            "interactiveElements": [],
-                            "ratingImage": "https://cdn1.epicgames.com/gameRating/gameRating/PEGI_12_192_192x192-afa4df43f131bc83eb380ccf22f8d904",
-                            "ratingSystem": "PEGI",
-                            "rectangularRatingImage": "https://cdn1.epicgames.com/salesEvent/salesEvent/PEGI-12_436x530-0cd1f06607086f3cc1bc2b8643f21b0a",
-                            "title": "PEGI 12"
-                        },
-                        "ratingType": "AgeRating"
-                    },
-                    "attention": {
-                        "inAppPurchases": "None"
-                    },
-                    "catalogItemId": "fd4604ade8b2483592a117052d67d8b7",
-                    "categories": [
-                        "freegames",
-                        "games",
-                        "games/edition",
-                        "games/edition/base"
-                    ],
-                    "mapping": {
-                        "slug": "the-darkside-detective-a-fumble-in-the-dark-android-125a49"
-                    },
-                    "media": {
-                        "appIcon": {
-                            "altText": "-",
-                            "height": 512,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/0638bcc62d9f4ba2a53eb9093c54be31/the-darkside-detective-a-fumble-in-the-dark-icon-fnctf.png",
-                            "imageType": "ProductIcon",
-                            "width": 512
-                        },
-                        "card16x9": {
-                            "altText": "The Darkside Detective A Fumble in the Dark Offer",
-                            "height": 1440,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/0638bcc62d9f4ba2a53eb9093c54be31/the-darkside-detective-a-fumble-in-the-dark-16c34.jpg",
-                            "imageType": "OfferImageWide",
-                            "width": 2560
-                        },
-                        "card3x4": {
-                            "altText": "Download The Darkside Detective A Fumble in the Dark Offer",
-                            "height": 1600,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/0638bcc62d9f4ba2a53eb9093c54be31/the-darkside-detective-a-fumble-in-the-dark-ll4sh.jpg",
-                            "imageType": "OfferImageTall",
-                            "width": 1200
-                        },
-                        "coverImage": {
-                            "altText": "-",
-                            "height": 1440,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/0638bcc62d9f4ba2a53eb9093c54be31/the-darkside-detective-a-fumble-in-the-dark-1qi5i.png",
-                            "imageType": "coverImage",
-                            "width": 2560
-                        }
-                    },
-                    "purchase": [
-                        {
-                            "discount": {
-                                "discountAmountDisplay": "-100%",
-                                "discountEndDate": "2026-02-19T16:00:00.000Z",
-                                "originalPriceDisplay": "€6.29"
-                            },
-                            "offerLifecycleState": "Release",
-                            "price": {
-                                "currencyCode": "EUR",
-                                "decimalPrice": 0
-                            },
-                            "purchasePayload": {
-                                "offerId": "f324420336d342b098893e628af66a97",
-                                "sandboxId": "87375f89fc4c4c7a8c681cf21febee06"
-                            },
-                            "purchaseType": "Claim"
-                        },
-                        {
-                            "offerLifecycleState": "Release",
-                            "price": {
-                                "currencyCode": "EUR",
-                                "decimalPrice": 6.29
-                            },
-                            "priceDisplay": "€6.29",
-                            "purchasePayload": {
-                                "offerId": "f324420336d342b098893e628af66a97",
-                                "sandboxId": "87375f89fc4c4c7a8c681cf21febee06"
-                            },
-                            "purchaseType": "Purchase"
-                        }
-                    ],
-                    "systemSpecs": {
-                        "applicationVersion": "2.32.2123.315",
-                        "platform": "android",
-                        "systemRequirements": [
-                            {
-                                "minimum": "347 MB",
-                                "requirementType": "InstallSize",
-                                "title": "Installation size"
-                            },
-                            {
-                                "minimum": "347.15 MB",
-                                "requirementType": "DownloadSize",
-                                "title": "Download size"
-                            },
-                            {
-                                "minimum": "7.0",
-                                "requirementType": "OS",
-                                "title": "OS version"
-                            }
-                        ]
-                    },
-                    "title": "The Darkside Detective A Fumble in the Dark"
-                },
-                "offerId": "f324420336d342b098893e628af66a97",
-                "sandboxId": "87375f89fc4c4c7a8c681cf21febee06"
             },
             {
                 "content": {
@@ -2065,100 +1945,6 @@
                     "attention": {
                         "inAppPurchases": "None"
                     },
-                    "catalogItemId": "1b116289f72c49cea2ce7bb650c61534",
-                    "categories": [
-                        "games",
-                        "games/edition",
-                        "games/edition/base"
-                    ],
-                    "mapping": {
-                        "slug": "planescape-torment-enhanced-edition-android-0affee"
-                    },
-                    "media": {
-                        "appIcon": {
-                            "altText": "-",
-                            "height": 512,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/ebd39c3780d24de2ba9c1052318998c1/planescape-torment-enhanced-edition-icon-fg04e.png",
-                            "imageType": "ProductIcon",
-                            "width": 512
-                        },
-                        "card16x9": {
-                            "altText": "Planescape Torment Enhanced Edition Offer",
-                            "height": 1440,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/ebd39c3780d24de2ba9c1052318998c1/planescape-torment-enhanced-edition-15we5.jpg",
-                            "imageType": "OfferImageWide",
-                            "width": 2560
-                        },
-                        "card3x4": {
-                            "altText": "Download Planescape Torment Enhanced Edition Offer",
-                            "height": 1600,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/ebd39c3780d24de2ba9c1052318998c1/planescape-torment-enhanced-edition-1wrqi.jpg",
-                            "imageType": "OfferImageTall",
-                            "width": 1200
-                        },
-                        "coverImage": {
-                            "altText": "-",
-                            "height": 1440,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/ebd39c3780d24de2ba9c1052318998c1/planescape-torment-enhanced-edition-1tqn1.jpg",
-                            "imageType": "coverImage",
-                            "width": 2560
-                        }
-                    },
-                    "purchase": [
-                        {
-                            "offerLifecycleState": "Release",
-                            "price": {
-                                "currencyCode": "EUR",
-                                "decimalPrice": 8.99
-                            },
-                            "priceDisplay": "€8.99",
-                            "purchasePayload": {
-                                "offerId": "d45ac5bfdc9e4d419315453462f5981c",
-                                "sandboxId": "c2c90c5ed3fb4c3280a337f31f79f498"
-                            },
-                            "purchaseType": "Purchase"
-                        }
-                    ],
-                    "systemSpecs": {
-                        "applicationVersion": "3.1.3.3",
-                        "platform": "android",
-                        "systemRequirements": [
-                            {
-                                "minimum": "1.7 GB",
-                                "requirementType": "InstallSize",
-                                "title": "Installation size"
-                            },
-                            {
-                                "minimum": "162.00 MB",
-                                "requirementType": "DownloadSize",
-                                "title": "Download size"
-                            },
-                            {
-                                "minimum": "6.0",
-                                "requirementType": "OS",
-                                "title": "OS version"
-                            }
-                        ]
-                    },
-                    "title": "Planescape: Torment: Enhanced Edition"
-                },
-                "offerId": "d45ac5bfdc9e4d419315453462f5981c",
-                "sandboxId": "c2c90c5ed3fb4c3280a337f31f79f498"
-            },
-            {
-                "content": {
-                    "ageRating": {
-                        "ageGate": {
-                            "gate": "unrated-gate"
-                        },
-                        "ageRating": {
-                            "ratingSystem": "PEGI"
-                        },
-                        "ratingType": "UnratedRating"
-                    },
-                    "attention": {
-                        "inAppPurchases": "None"
-                    },
                     "catalogItemId": "f4cf4a4c6594494ba0bf3d48552a8191",
                     "categories": [
                         "games",
@@ -2238,311 +2024,6 @@
                 },
                 "offerId": "cad60147793941f4a2c39ac9cd0a2a83",
                 "sandboxId": "9fce8233852f4940acde233a87bb41ce"
-            },
-            {
-                "content": {
-                    "ageRating": {
-                        "ageGate": {
-                            "gate": "no-gate"
-                        },
-                        "ageRating": {
-                            "ageControl": 12,
-                            "contentDescriptors": [
-                                "Moderate Violence"
-                            ],
-                            "interactiveElements": [
-                                "In-Game Purchases"
-                            ],
-                            "ratingImage": "https://cdn1.epicgames.com/gameRating/gameRating/PEGI_12_192_192x192-afa4df43f131bc83eb380ccf22f8d904",
-                            "ratingSystem": "PEGI",
-                            "rectangularRatingImage": "https://cdn1.epicgames.com/salesEvent/salesEvent/PEGI-12_436x530-0cd1f06607086f3cc1bc2b8643f21b0a",
-                            "title": "PEGI 12"
-                        },
-                        "ratingType": "AgeRating"
-                    },
-                    "attention": {
-                        "inAppPurchases": "MaybeIncludesInAppPurchases"
-                    },
-                    "catalogItemId": "af7bbcd4775f41c2a649128f40a7bd6b",
-                    "categories": [
-                        "games",
-                        "games/edition",
-                        "games/edition/base"
-                    ],
-                    "mapping": {
-                        "slug": "alien-creeps-td-android-0b5ea1"
-                    },
-                    "media": {
-                        "appIcon": {
-                            "altText": "-",
-                            "height": 512,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/04dd8c666c68438baf7a57eb4733372b/alien-creeps-td-icon-1c4g1.png",
-                            "imageType": "ProductIcon",
-                            "width": 512
-                        },
-                        "card16x9": {
-                            "altText": "Alien Creeps TD Offer",
-                            "height": 1440,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/04dd8c666c68438baf7a57eb4733372b/alien-creeps-td-hyb2t.png",
-                            "imageType": "OfferImageWide",
-                            "width": 2560
-                        },
-                        "card3x4": {
-                            "altText": "Download Alien Creeps TD Offer",
-                            "height": 1600,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/04dd8c666c68438baf7a57eb4733372b/alien-creeps-td-vay75.png",
-                            "imageType": "OfferImageTall",
-                            "width": 1200
-                        },
-                        "coverImage": {
-                            "altText": "-",
-                            "height": 1440,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/04dd8c666c68438baf7a57eb4733372b/alien-creeps-td-1bc2x.png",
-                            "imageType": "coverImage",
-                            "width": 2560
-                        }
-                    },
-                    "purchase": [
-                        {
-                            "offerLifecycleState": "Release",
-                            "price": {
-                                "currencyCode": "EUR",
-                                "decimalPrice": 0
-                            },
-                            "purchasePayload": {
-                                "offerId": "b6d2878bf2ef4a4181ef66560c992b82",
-                                "sandboxId": "1bd3aa68d5f3455d90db6d28d78e321d"
-                            },
-                            "purchaseType": "Claim"
-                        }
-                    ],
-                    "systemSpecs": {
-                        "applicationVersion": "2.32.10",
-                        "platform": "android",
-                        "systemRequirements": [
-                            {
-                                "minimum": "172 MB",
-                                "requirementType": "InstallSize",
-                                "title": "Installation size"
-                            },
-                            {
-                                "minimum": "164.03 MB",
-                                "requirementType": "DownloadSize",
-                                "title": "Download size"
-                            },
-                            {
-                                "minimum": "6.0",
-                                "requirementType": "OS",
-                                "title": "OS version"
-                            }
-                        ]
-                    },
-                    "title": "Alien Creeps TD"
-                },
-                "offerId": "b6d2878bf2ef4a4181ef66560c992b82",
-                "sandboxId": "1bd3aa68d5f3455d90db6d28d78e321d"
-            },
-            {
-                "content": {
-                    "ageRating": {
-                        "ageGate": {
-                            "gate": "no-gate"
-                        },
-                        "ageRating": {
-                            "ageControl": 16,
-                            "contentDescriptors": [
-                                "Strong Violence"
-                            ],
-                            "interactiveElements": [],
-                            "ratingImage": "https://cdn1.epicgames.com/gameRating/gameRating/PEGI_16_192_192x192-da60f0bd1fe7cb1ac9d8a8bd5168ea96",
-                            "ratingSystem": "PEGI",
-                            "rectangularRatingImage": "https://cdn1.epicgames.com/salesEvent/salesEvent/PEGI-16_435x530-65760d498ce28374fb7ca3258ee1440c",
-                            "title": "PEGI 16"
-                        },
-                        "ratingType": "AgeRating"
-                    },
-                    "attention": {
-                        "inAppPurchases": "None"
-                    },
-                    "catalogItemId": "c9cc3b1c82f643249cc642b626a1a3be",
-                    "categories": [
-                        "games",
-                        "games/edition",
-                        "games/edition/base"
-                    ],
-                    "mapping": {
-                        "slug": "rise-of-jericho-android-74a3f9"
-                    },
-                    "media": {
-                        "appIcon": {
-                            "altText": "-",
-                            "height": 512,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/e1328016c54c4ce7865f67ea2922f833/rise-of-jericho-icon-9vxo0.png",
-                            "imageType": "ProductIcon",
-                            "width": 512
-                        },
-                        "card16x9": {
-                            "altText": "Rise of Jericho Offer",
-                            "height": 1440,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/e1328016c54c4ce7865f67ea2922f833/rise-of-jericho-gxa6b.png",
-                            "imageType": "OfferImageWide",
-                            "width": 2560
-                        },
-                        "card3x4": {
-                            "altText": "Download Rise of Jericho Offer",
-                            "height": 1600,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/e1328016c54c4ce7865f67ea2922f833/rise-of-jericho-kjm5i.png",
-                            "imageType": "OfferImageTall",
-                            "width": 1200
-                        },
-                        "coverImage": {
-                            "altText": "-",
-                            "height": 1440,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/e1328016c54c4ce7865f67ea2922f833/rise-of-jericho-j9fss.jpg",
-                            "imageType": "coverImage",
-                            "width": 2560
-                        }
-                    },
-                    "purchase": [
-                        {
-                            "offerLifecycleState": "Release",
-                            "price": {
-                                "currencyCode": "EUR",
-                                "decimalPrice": 14.99
-                            },
-                            "priceDisplay": "€14.99",
-                            "purchasePayload": {
-                                "offerId": "4c34c228bc0e40bbb2346e5d48ec5940",
-                                "sandboxId": "05257e63ac474814a1282b6e364a4b19"
-                            },
-                            "purchaseType": "Purchase"
-                        }
-                    ],
-                    "systemSpecs": {
-                        "applicationVersion": "1.4.1",
-                        "platform": "android",
-                        "systemRequirements": [
-                            {
-                                "minimum": "30 Mb",
-                                "requirementType": "InstallSize",
-                                "title": "Installation size"
-                            },
-                            {
-                                "minimum": "22.72 MB",
-                                "requirementType": "DownloadSize",
-                                "title": "Download size"
-                            },
-                            {
-                                "minimum": "7.0",
-                                "requirementType": "OS",
-                                "title": "OS version"
-                            }
-                        ]
-                    },
-                    "title": "Rise of Jericho"
-                },
-                "offerId": "4c34c228bc0e40bbb2346e5d48ec5940",
-                "sandboxId": "05257e63ac474814a1282b6e364a4b19"
-            },
-            {
-                "content": {
-                    "ageRating": {
-                        "ageGate": {
-                            "gate": "no-gate"
-                        },
-                        "ageRating": {
-                            "ageControl": 3,
-                            "contentDescriptors": [],
-                            "interactiveElements": [],
-                            "ratingImage": "https://cdn1.epicgames.com/gameRating/gameRating/PEGI_3_192_192x192-490b93ddf59fb4ac1148d1eb9083626a",
-                            "ratingSystem": "PEGI",
-                            "rectangularRatingImage": "https://cdn1.epicgames.com/salesEvent/salesEvent/PEGI-3_435x530-c931ab5bb4eb190f6e8e542081c49dc4",
-                            "title": "PEGI 3"
-                        },
-                        "ratingType": "AgeRating"
-                    },
-                    "attention": {
-                        "inAppPurchases": "None"
-                    },
-                    "catalogItemId": "e27f8af18c2649c7a990b26237eeb6af",
-                    "categories": [
-                        "games",
-                        "games/edition",
-                        "games/edition/base"
-                    ],
-                    "mapping": {
-                        "slug": "wonder-boy-the-dragons-trap-android-cca4a4"
-                    },
-                    "media": {
-                        "appIcon": {
-                            "altText": "-",
-                            "height": 512,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/079026cc222549ceaa8b5c16770507b9/wonder-boy-the-dragons-trap-icon-1pon3.png",
-                            "imageType": "ProductIcon",
-                            "width": 512
-                        },
-                        "card16x9": {
-                            "altText": "Wonder Boy: The Dragon's Trap Offer",
-                            "height": 1440,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/079026cc222549ceaa8b5c16770507b9/wonder-boy-the-dragons-trap-1m96o.jpg",
-                            "imageType": "OfferImageWide",
-                            "width": 2560
-                        },
-                        "card3x4": {
-                            "altText": "Download Wonder Boy: The Dragon's Trap Offer",
-                            "height": 1600,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/079026cc222549ceaa8b5c16770507b9/wonder-boy-the-dragons-trap-1i3zq.jpg",
-                            "imageType": "OfferImageTall",
-                            "width": 1200
-                        },
-                        "coverImage": {
-                            "altText": "-",
-                            "height": 1440,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/079026cc222549ceaa8b5c16770507b9/wonder-boy-the-dragons-trap-jgoco.jpg",
-                            "imageType": "coverImage",
-                            "width": 2560
-                        }
-                    },
-                    "purchase": [
-                        {
-                            "offerLifecycleState": "Release",
-                            "price": {
-                                "currencyCode": "EUR",
-                                "decimalPrice": 8.09
-                            },
-                            "priceDisplay": "€8.09",
-                            "purchasePayload": {
-                                "offerId": "fc39f9eeaf6b4385ba36813e3603eb3b",
-                                "sandboxId": "664593356629471bba5388cd9a61ed4d"
-                            },
-                            "purchaseType": "Purchase"
-                        }
-                    ],
-                    "systemSpecs": {
-                        "applicationVersion": "1.1.0",
-                        "platform": "android",
-                        "systemRequirements": [
-                            {
-                                "minimum": "900MB",
-                                "requirementType": "InstallSize",
-                                "title": "Installation size"
-                            },
-                            {
-                                "minimum": "842.92 MB",
-                                "requirementType": "DownloadSize",
-                                "title": "Download size"
-                            },
-                            {
-                                "minimum": "6.0",
-                                "requirementType": "OS",
-                                "title": "OS version"
-                            }
-                        ]
-                    },
-                    "title": "Wonder Boy: The Dragon's Trap"
-                },
-                "offerId": "fc39f9eeaf6b4385ba36813e3603eb3b",
-                "sandboxId": "664593356629471bba5388cd9a61ed4d"
             }
         ],
         "size": "large",
@@ -3939,6 +3420,109 @@
                             "gate": "no-gate"
                         },
                         "ageRating": {
+                            "ageControl": 12,
+                            "contentDescriptors": [
+                                "Moderate Violence"
+                            ],
+                            "interactiveElements": [
+                                "In-Game Purchases"
+                            ],
+                            "ratingImage": "https://cdn1.epicgames.com/gameRating/gameRating/PEGI_12_192_192x192-afa4df43f131bc83eb380ccf22f8d904",
+                            "ratingSystem": "PEGI",
+                            "rectangularRatingImage": "https://cdn1.epicgames.com/salesEvent/salesEvent/PEGI-12_436x530-0cd1f06607086f3cc1bc2b8643f21b0a",
+                            "title": "PEGI 12"
+                        },
+                        "ratingType": "AgeRating"
+                    },
+                    "attention": {
+                        "inAppPurchases": "MaybeIncludesInAppPurchases"
+                    },
+                    "catalogItemId": "af7bbcd4775f41c2a649128f40a7bd6b",
+                    "categories": [
+                        "games",
+                        "games/edition",
+                        "games/edition/base"
+                    ],
+                    "mapping": {
+                        "slug": "alien-creeps-td-android-0b5ea1"
+                    },
+                    "media": {
+                        "appIcon": {
+                            "altText": "-",
+                            "height": 512,
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/04dd8c666c68438baf7a57eb4733372b/alien-creeps-td-icon-1c4g1.png",
+                            "imageType": "ProductIcon",
+                            "width": 512
+                        },
+                        "card16x9": {
+                            "altText": "Alien Creeps TD Offer",
+                            "height": 1440,
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/04dd8c666c68438baf7a57eb4733372b/alien-creeps-td-hyb2t.png",
+                            "imageType": "OfferImageWide",
+                            "width": 2560
+                        },
+                        "card3x4": {
+                            "altText": "Download Alien Creeps TD Offer",
+                            "height": 1600,
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/04dd8c666c68438baf7a57eb4733372b/alien-creeps-td-vay75.png",
+                            "imageType": "OfferImageTall",
+                            "width": 1200
+                        },
+                        "coverImage": {
+                            "altText": "-",
+                            "height": 1440,
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/04dd8c666c68438baf7a57eb4733372b/alien-creeps-td-1bc2x.png",
+                            "imageType": "coverImage",
+                            "width": 2560
+                        }
+                    },
+                    "purchase": [
+                        {
+                            "offerLifecycleState": "Release",
+                            "price": {
+                                "currencyCode": "EUR",
+                                "decimalPrice": 0
+                            },
+                            "purchasePayload": {
+                                "offerId": "b6d2878bf2ef4a4181ef66560c992b82",
+                                "sandboxId": "1bd3aa68d5f3455d90db6d28d78e321d"
+                            },
+                            "purchaseType": "Claim"
+                        }
+                    ],
+                    "systemSpecs": {
+                        "applicationVersion": "2.32.10",
+                        "platform": "android",
+                        "systemRequirements": [
+                            {
+                                "minimum": "172 MB",
+                                "requirementType": "InstallSize",
+                                "title": "Installation size"
+                            },
+                            {
+                                "minimum": "164.03 MB",
+                                "requirementType": "DownloadSize",
+                                "title": "Download size"
+                            },
+                            {
+                                "minimum": "6.0",
+                                "requirementType": "OS",
+                                "title": "OS version"
+                            }
+                        ]
+                    },
+                    "title": "Alien Creeps TD"
+                },
+                "offerId": "b6d2878bf2ef4a4181ef66560c992b82",
+                "sandboxId": "1bd3aa68d5f3455d90db6d28d78e321d"
+            },
+            {
+                "content": {
+                    "ageRating": {
+                        "ageGate": {
+                            "gate": "no-gate"
+                        },
+                        "ageRating": {
                             "ageControl": 3,
                             "contentDescriptors": [],
                             "interactiveElements": [
@@ -4549,6 +4133,214 @@
                 },
                 "offerId": "318fa702573941fbaaf697b75b525142",
                 "sandboxId": "a7727adfd6fd4bc1aa39468bb24795fd"
+            }
+        ],
+        "size": "large",
+        "title": "Free-to-Play Games",
+        "topicId": "mobile-android-genre-free",
+        "type": "interactive"
+    },
+    {
+        "link": {
+            "linkText": "",
+            "src": ""
+        },
+        "offers": [
+            {
+                "content": {
+                    "ageRating": {
+                        "ageGate": {
+                            "gate": "unrated-gate"
+                        },
+                        "ageRating": {
+                            "ratingSystem": "PEGI"
+                        },
+                        "ratingType": "UnratedRating"
+                    },
+                    "attention": {
+                        "inAppPurchases": "None"
+                    },
+                    "catalogItemId": "1b116289f72c49cea2ce7bb650c61534",
+                    "categories": [
+                        "games",
+                        "games/edition",
+                        "games/edition/base"
+                    ],
+                    "mapping": {
+                        "slug": "planescape-torment-enhanced-edition-android-0affee"
+                    },
+                    "media": {
+                        "appIcon": {
+                            "altText": "-",
+                            "height": 512,
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/ebd39c3780d24de2ba9c1052318998c1/planescape-torment-enhanced-edition-icon-fg04e.png",
+                            "imageType": "ProductIcon",
+                            "width": 512
+                        },
+                        "card16x9": {
+                            "altText": "Planescape Torment Enhanced Edition Offer",
+                            "height": 1440,
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/ebd39c3780d24de2ba9c1052318998c1/planescape-torment-enhanced-edition-15we5.jpg",
+                            "imageType": "OfferImageWide",
+                            "width": 2560
+                        },
+                        "card3x4": {
+                            "altText": "Download Planescape Torment Enhanced Edition Offer",
+                            "height": 1600,
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/ebd39c3780d24de2ba9c1052318998c1/planescape-torment-enhanced-edition-1wrqi.jpg",
+                            "imageType": "OfferImageTall",
+                            "width": 1200
+                        },
+                        "coverImage": {
+                            "altText": "-",
+                            "height": 1440,
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/ebd39c3780d24de2ba9c1052318998c1/planescape-torment-enhanced-edition-1tqn1.jpg",
+                            "imageType": "coverImage",
+                            "width": 2560
+                        }
+                    },
+                    "purchase": [
+                        {
+                            "offerLifecycleState": "Release",
+                            "price": {
+                                "currencyCode": "EUR",
+                                "decimalPrice": 8.99
+                            },
+                            "priceDisplay": "€8.99",
+                            "purchasePayload": {
+                                "offerId": "d45ac5bfdc9e4d419315453462f5981c",
+                                "sandboxId": "c2c90c5ed3fb4c3280a337f31f79f498"
+                            },
+                            "purchaseType": "Purchase"
+                        }
+                    ],
+                    "systemSpecs": {
+                        "applicationVersion": "3.1.3.3",
+                        "platform": "android",
+                        "systemRequirements": [
+                            {
+                                "minimum": "1.7 GB",
+                                "requirementType": "InstallSize",
+                                "title": "Installation size"
+                            },
+                            {
+                                "minimum": "162.00 MB",
+                                "requirementType": "DownloadSize",
+                                "title": "Download size"
+                            },
+                            {
+                                "minimum": "6.0",
+                                "requirementType": "OS",
+                                "title": "OS version"
+                            }
+                        ]
+                    },
+                    "title": "Planescape: Torment: Enhanced Edition"
+                },
+                "offerId": "d45ac5bfdc9e4d419315453462f5981c",
+                "sandboxId": "c2c90c5ed3fb4c3280a337f31f79f498"
+            },
+            {
+                "content": {
+                    "ageRating": {
+                        "ageGate": {
+                            "gate": "no-gate"
+                        },
+                        "ageRating": {
+                            "ageControl": 16,
+                            "contentDescriptors": [
+                                "Strong Violence"
+                            ],
+                            "interactiveElements": [],
+                            "ratingImage": "https://cdn1.epicgames.com/gameRating/gameRating/PEGI_16_192_192x192-da60f0bd1fe7cb1ac9d8a8bd5168ea96",
+                            "ratingSystem": "PEGI",
+                            "rectangularRatingImage": "https://cdn1.epicgames.com/salesEvent/salesEvent/PEGI-16_435x530-65760d498ce28374fb7ca3258ee1440c",
+                            "title": "PEGI 16"
+                        },
+                        "ratingType": "AgeRating"
+                    },
+                    "attention": {
+                        "inAppPurchases": "None"
+                    },
+                    "catalogItemId": "c9cc3b1c82f643249cc642b626a1a3be",
+                    "categories": [
+                        "games",
+                        "games/edition",
+                        "games/edition/base"
+                    ],
+                    "mapping": {
+                        "slug": "rise-of-jericho-android-74a3f9"
+                    },
+                    "media": {
+                        "appIcon": {
+                            "altText": "-",
+                            "height": 512,
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/e1328016c54c4ce7865f67ea2922f833/rise-of-jericho-icon-9vxo0.png",
+                            "imageType": "ProductIcon",
+                            "width": 512
+                        },
+                        "card16x9": {
+                            "altText": "Rise of Jericho Offer",
+                            "height": 1440,
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/e1328016c54c4ce7865f67ea2922f833/rise-of-jericho-gxa6b.png",
+                            "imageType": "OfferImageWide",
+                            "width": 2560
+                        },
+                        "card3x4": {
+                            "altText": "Download Rise of Jericho Offer",
+                            "height": 1600,
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/e1328016c54c4ce7865f67ea2922f833/rise-of-jericho-kjm5i.png",
+                            "imageType": "OfferImageTall",
+                            "width": 1200
+                        },
+                        "coverImage": {
+                            "altText": "-",
+                            "height": 1440,
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/e1328016c54c4ce7865f67ea2922f833/rise-of-jericho-j9fss.jpg",
+                            "imageType": "coverImage",
+                            "width": 2560
+                        }
+                    },
+                    "purchase": [
+                        {
+                            "offerLifecycleState": "Release",
+                            "price": {
+                                "currencyCode": "EUR",
+                                "decimalPrice": 14.99
+                            },
+                            "priceDisplay": "€14.99",
+                            "purchasePayload": {
+                                "offerId": "4c34c228bc0e40bbb2346e5d48ec5940",
+                                "sandboxId": "05257e63ac474814a1282b6e364a4b19"
+                            },
+                            "purchaseType": "Purchase"
+                        }
+                    ],
+                    "systemSpecs": {
+                        "applicationVersion": "1.4.1",
+                        "platform": "android",
+                        "systemRequirements": [
+                            {
+                                "minimum": "30 Mb",
+                                "requirementType": "InstallSize",
+                                "title": "Installation size"
+                            },
+                            {
+                                "minimum": "22.72 MB",
+                                "requirementType": "DownloadSize",
+                                "title": "Download size"
+                            },
+                            {
+                                "minimum": "7.0",
+                                "requirementType": "OS",
+                                "title": "OS version"
+                            }
+                        ]
+                    },
+                    "title": "Rise of Jericho"
+                },
+                "offerId": "4c34c228bc0e40bbb2346e5d48ec5940",
+                "sandboxId": "05257e63ac474814a1282b6e364a4b19"
             },
             {
                 "content": {
@@ -4568,43 +4360,43 @@
                         "ratingType": "AgeRating"
                     },
                     "attention": {
-                        "inAppPurchases": "MaybeIncludesInAppPurchases"
+                        "inAppPurchases": "None"
                     },
-                    "catalogItemId": "865602f46a2c4cd6852f4aba019a46d9",
+                    "catalogItemId": "e27f8af18c2649c7a990b26237eeb6af",
                     "categories": [
                         "games",
                         "games/edition",
                         "games/edition/base"
                     ],
                     "mapping": {
-                        "slug": "mr-racer-stunt-mania-android-6cce44"
+                        "slug": "wonder-boy-the-dragons-trap-android-cca4a4"
                     },
                     "media": {
                         "appIcon": {
                             "altText": "-",
                             "height": 512,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/ac58d4b920fe4a9198c8022e27d44050/mr-stunt-mania-icon-11z4d.png",
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/079026cc222549ceaa8b5c16770507b9/wonder-boy-the-dragons-trap-icon-1pon3.png",
                             "imageType": "ProductIcon",
                             "width": 512
                         },
                         "card16x9": {
-                            "altText": "MR RACER : Stunt Mania Offer",
+                            "altText": "Wonder Boy: The Dragon's Trap Offer",
                             "height": 1440,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/ac58d4b920fe4a9198c8022e27d44050/mr-racer--stunt-mania-1sp5f.jpg",
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/079026cc222549ceaa8b5c16770507b9/wonder-boy-the-dragons-trap-1m96o.jpg",
                             "imageType": "OfferImageWide",
                             "width": 2560
                         },
                         "card3x4": {
-                            "altText": "Download MR RACER : Stunt Mania Offer",
+                            "altText": "Download Wonder Boy: The Dragon's Trap Offer",
                             "height": 1600,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/ac58d4b920fe4a9198c8022e27d44050/mr-racer--stunt-mania-ijvuc.jpg",
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/079026cc222549ceaa8b5c16770507b9/wonder-boy-the-dragons-trap-1i3zq.jpg",
                             "imageType": "OfferImageTall",
                             "width": 1200
                         },
                         "coverImage": {
                             "altText": "-",
                             "height": 1440,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/ac58d4b920fe4a9198c8022e27d44050/mr-racer--stunt-mania-12wzq.jpg",
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/079026cc222549ceaa8b5c16770507b9/wonder-boy-the-dragons-trap-jgoco.jpg",
                             "imageType": "coverImage",
                             "width": 2560
                         }
@@ -4614,26 +4406,27 @@
                             "offerLifecycleState": "Release",
                             "price": {
                                 "currencyCode": "EUR",
-                                "decimalPrice": 0
+                                "decimalPrice": 8.09
                             },
+                            "priceDisplay": "€8.09",
                             "purchasePayload": {
-                                "offerId": "1e0be2cbca3a474ba3b6a5aaa16adcf4",
-                                "sandboxId": "ab411337020945c7a02e8a8102918d16"
+                                "offerId": "fc39f9eeaf6b4385ba36813e3603eb3b",
+                                "sandboxId": "664593356629471bba5388cd9a61ed4d"
                             },
-                            "purchaseType": "Claim"
+                            "purchaseType": "Purchase"
                         }
                     ],
                     "systemSpecs": {
-                        "applicationVersion": "1.1.2",
+                        "applicationVersion": "1.1.0",
                         "platform": "android",
                         "systemRequirements": [
                             {
-                                "minimum": "140Mb",
+                                "minimum": "900MB",
                                 "requirementType": "InstallSize",
                                 "title": "Installation size"
                             },
                             {
-                                "minimum": "137.99 MB",
+                                "minimum": "842.92 MB",
                                 "requirementType": "DownloadSize",
                                 "title": "Download size"
                             },
@@ -4644,23 +4437,11 @@
                             }
                         ]
                     },
-                    "title": "MR Stunt Mania"
+                    "title": "Wonder Boy: The Dragon's Trap"
                 },
-                "offerId": "1e0be2cbca3a474ba3b6a5aaa16adcf4",
-                "sandboxId": "ab411337020945c7a02e8a8102918d16"
-            }
-        ],
-        "size": "large",
-        "title": "Free-to-Play Games",
-        "topicId": "mobile-android-genre-free",
-        "type": "interactive"
-    },
-    {
-        "link": {
-            "linkText": "",
-            "src": ""
-        },
-        "offers": [
+                "offerId": "fc39f9eeaf6b4385ba36813e3603eb3b",
+                "sandboxId": "664593356629471bba5388cd9a61ed4d"
+            },
             {
                 "content": {
                     "ageRating": {
@@ -5166,7 +4947,19 @@
                 },
                 "offerId": "ece5a60ad15846a5a385bf2c29bb4beb",
                 "sandboxId": "cdb8bfe1ad5944e7b77973f4b84416dc"
-            },
+            }
+        ],
+        "size": "large",
+        "title": "Paid Games",
+        "topicId": "mobile-android-genre-paid",
+        "type": "interactive"
+    },
+    {
+        "link": {
+            "linkText": "",
+            "src": ""
+        },
+        "offers": [
             {
                 "content": {
                     "ageRating": {
@@ -5472,19 +5265,106 @@
                 },
                 "offerId": "81cd2738fb904aa692c3ba510d23d7b9",
                 "sandboxId": "79c7bac7155c4d2e849394eaf3867245"
-            }
-        ],
-        "size": "large",
-        "title": "Paid Games",
-        "topicId": "mobile-android-genre-paid",
-        "type": "interactive"
-    },
-    {
-        "link": {
-            "linkText": "",
-            "src": ""
-        },
-        "offers": [
+            },
+            {
+                "content": {
+                    "ageRating": {
+                        "ageGate": {
+                            "gate": "no-gate"
+                        },
+                        "ageRating": {
+                            "ageControl": 3,
+                            "contentDescriptors": [],
+                            "interactiveElements": [],
+                            "ratingImage": "https://cdn1.epicgames.com/gameRating/gameRating/PEGI_3_192_192x192-490b93ddf59fb4ac1148d1eb9083626a",
+                            "ratingSystem": "PEGI",
+                            "rectangularRatingImage": "https://cdn1.epicgames.com/salesEvent/salesEvent/PEGI-3_435x530-c931ab5bb4eb190f6e8e542081c49dc4",
+                            "title": "PEGI 3"
+                        },
+                        "ratingType": "AgeRating"
+                    },
+                    "attention": {
+                        "inAppPurchases": "MaybeIncludesInAppPurchases"
+                    },
+                    "catalogItemId": "865602f46a2c4cd6852f4aba019a46d9",
+                    "categories": [
+                        "games",
+                        "games/edition",
+                        "games/edition/base"
+                    ],
+                    "mapping": {
+                        "slug": "mr-racer-stunt-mania-android-6cce44"
+                    },
+                    "media": {
+                        "appIcon": {
+                            "altText": "-",
+                            "height": 512,
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/ac58d4b920fe4a9198c8022e27d44050/mr-stunt-mania-icon-11z4d.png",
+                            "imageType": "ProductIcon",
+                            "width": 512
+                        },
+                        "card16x9": {
+                            "altText": "MR RACER : Stunt Mania Offer",
+                            "height": 1440,
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/ac58d4b920fe4a9198c8022e27d44050/mr-racer--stunt-mania-1sp5f.jpg",
+                            "imageType": "OfferImageWide",
+                            "width": 2560
+                        },
+                        "card3x4": {
+                            "altText": "Download MR RACER : Stunt Mania Offer",
+                            "height": 1600,
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/ac58d4b920fe4a9198c8022e27d44050/mr-racer--stunt-mania-ijvuc.jpg",
+                            "imageType": "OfferImageTall",
+                            "width": 1200
+                        },
+                        "coverImage": {
+                            "altText": "-",
+                            "height": 1440,
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/ac58d4b920fe4a9198c8022e27d44050/mr-racer--stunt-mania-12wzq.jpg",
+                            "imageType": "coverImage",
+                            "width": 2560
+                        }
+                    },
+                    "purchase": [
+                        {
+                            "offerLifecycleState": "Release",
+                            "price": {
+                                "currencyCode": "EUR",
+                                "decimalPrice": 0
+                            },
+                            "purchasePayload": {
+                                "offerId": "1e0be2cbca3a474ba3b6a5aaa16adcf4",
+                                "sandboxId": "ab411337020945c7a02e8a8102918d16"
+                            },
+                            "purchaseType": "Claim"
+                        }
+                    ],
+                    "systemSpecs": {
+                        "applicationVersion": "1.1.2",
+                        "platform": "android",
+                        "systemRequirements": [
+                            {
+                                "minimum": "140Mb",
+                                "requirementType": "InstallSize",
+                                "title": "Installation size"
+                            },
+                            {
+                                "minimum": "137.99 MB",
+                                "requirementType": "DownloadSize",
+                                "title": "Download size"
+                            },
+                            {
+                                "minimum": "6.0",
+                                "requirementType": "OS",
+                                "title": "OS version"
+                            }
+                        ]
+                    },
+                    "title": "MR Stunt Mania"
+                },
+                "offerId": "1e0be2cbca3a474ba3b6a5aaa16adcf4",
+                "sandboxId": "ab411337020945c7a02e8a8102918d16"
+            },
             {
                 "content": {
                     "ageRating": {
