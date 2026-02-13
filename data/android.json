@@ -4009,7 +4009,7 @@
                         }
                     ],
                     "systemSpecs": {
-                        "applicationVersion": "1.0.185",
+                        "applicationVersion": "1.0.191",
                         "platform": "android",
                         "systemRequirements": [
                             {
@@ -4018,7 +4018,7 @@
                                 "title": "Installation size"
                             },
                             {
-                                "minimum": "219.49 MB",
+                                "minimum": "219.14 MB",
                                 "requirementType": "DownloadSize",
                                 "title": "Download size"
                             },
@@ -9203,8 +9203,8 @@
                         "ageRating": {
                             "ageControl": 12,
                             "contentDescriptors": [
-                                "Mild Swearing",
-                                "Moderate Violence"
+                                "Moderate Violence",
+                                "Mild Swearing"
                             ],
                             "interactiveElements": [],
                             "ratingImage": "https://cdn1.epicgames.com/gameRating/gameRating/PEGI_12_192_192x192-afa4df43f131bc83eb380ccf22f8d904",
