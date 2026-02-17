@@ -487,7 +487,7 @@
                         }
                     ],
                     "systemSpecs": {
-                        "applicationVersion": "2.16.2.15386",
+                        "applicationVersion": "2.16.3.15581",
                         "platform": "android",
                         "systemRequirements": [
                             {
@@ -496,7 +496,7 @@
                                 "title": "Installation size"
                             },
                             {
-                                "minimum": "159.71 MB",
+                                "minimum": "159.81 MB",
                                 "requirementType": "DownloadSize",
                                 "title": "Download size"
                             },
@@ -11253,24 +11253,6 @@
                     },
                     "purchase": [
                         {
-                            "discount": {
-                                "discountAmountDisplay": "-70%",
-                                "discountEndDate": "2026-02-17T16:00:00.000Z",
-                                "originalPriceDisplay": "€4.49"
-                            },
-                            "offerLifecycleState": "Release",
-                            "price": {
-                                "currencyCode": "EUR",
-                                "decimalPrice": 1.34
-                            },
-                            "priceDisplay": "€1.34",
-                            "purchasePayload": {
-                                "offerId": "2017232f36944987848e04aea396ce26",
-                                "sandboxId": "0b8d22f6921241e5887b132935d571e4"
-                            },
-                            "purchaseType": "Purchase"
-                        },
-                        {
                             "offerLifecycleState": "Release",
                             "price": {
                                 "currencyCode": "EUR",
@@ -12834,7 +12816,7 @@
                         }
                     ],
                     "systemSpecs": {
-                        "applicationVersion": "53.0",
+                        "applicationVersion": "53.1",
                         "platform": "android",
                         "systemRequirements": [
                             {
