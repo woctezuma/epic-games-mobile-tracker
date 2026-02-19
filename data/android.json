@@ -1949,51 +1949,59 @@
                 "content": {
                     "ageRating": {
                         "ageGate": {
-                            "gate": "unrated-gate"
+                            "gate": "no-gate"
                         },
                         "ageRating": {
-                            "ratingSystem": "PEGI"
+                            "ageControl": 12,
+                            "contentDescriptors": [
+                                "Mild Swearing"
+                            ],
+                            "interactiveElements": [],
+                            "ratingImage": "https://cdn1.epicgames.com/gameRating/gameRating/PEGI_12_192_192x192-afa4df43f131bc83eb380ccf22f8d904",
+                            "ratingSystem": "PEGI",
+                            "rectangularRatingImage": "https://cdn1.epicgames.com/salesEvent/salesEvent/PEGI-12_436x530-0cd1f06607086f3cc1bc2b8643f21b0a",
+                            "title": "PEGI 12"
                         },
-                        "ratingType": "UnratedRating"
+                        "ratingType": "AgeRating"
                     },
                     "attention": {
                         "inAppPurchases": "None"
                     },
-                    "catalogItemId": "1ea044a5e35b4d339c7b4eea446d2f31",
+                    "catalogItemId": "fd4604ade8b2483592a117052d67d8b7",
                     "categories": [
                         "games",
                         "games/edition",
                         "games/edition/base"
                     ],
                     "mapping": {
-                        "slug": "baldurs-gate-enhanced-edition-android-f729ce"
+                        "slug": "the-darkside-detective-a-fumble-in-the-dark-android-125a49"
                     },
                     "media": {
                         "appIcon": {
                             "altText": "-",
                             "height": 512,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/c58741825ec24c65ad4b3820abe46eee/baldurs-gate-enhanced-edition-icon-l7atb.png",
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/0638bcc62d9f4ba2a53eb9093c54be31/the-darkside-detective-a-fumble-in-the-dark-icon-fnctf.png",
                             "imageType": "ProductIcon",
                             "width": 512
                         },
                         "card16x9": {
-                            "altText": "Baldurs Gate Enhanced Edition Offer",
+                            "altText": "The Darkside Detective A Fumble in the Dark Offer",
                             "height": 1440,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/c58741825ec24c65ad4b3820abe46eee/baldurs-gate-enhanced-edition-17skx.jpg",
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/0638bcc62d9f4ba2a53eb9093c54be31/the-darkside-detective-a-fumble-in-the-dark-16c34.jpg",
                             "imageType": "OfferImageWide",
                             "width": 2560
                         },
                         "card3x4": {
-                            "altText": "Download Baldurs Gate Enhanced Edition Offer",
+                            "altText": "Download The Darkside Detective A Fumble in the Dark Offer",
                             "height": 1600,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/c58741825ec24c65ad4b3820abe46eee/baldurs-gate-enhanced-edition-1in8z.jpg",
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/0638bcc62d9f4ba2a53eb9093c54be31/the-darkside-detective-a-fumble-in-the-dark-ll4sh.jpg",
                             "imageType": "OfferImageTall",
                             "width": 1200
                         },
                         "coverImage": {
                             "altText": "-",
                             "height": 1440,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/c58741825ec24c65ad4b3820abe46eee/baldurs-gate-enhanced-edition-x2gs1.jpg",
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/0638bcc62d9f4ba2a53eb9093c54be31/the-darkside-detective-a-fumble-in-the-dark-1qi5i.png",
                             "imageType": "coverImage",
                             "width": 2560
                         }
@@ -2003,41 +2011,41 @@
                             "offerLifecycleState": "Release",
                             "price": {
                                 "currencyCode": "EUR",
-                                "decimalPrice": 8.99
+                                "decimalPrice": 6.29
                             },
-                            "priceDisplay": "€8.99",
+                            "priceDisplay": "€6.29",
                             "purchasePayload": {
-                                "offerId": "88e0eaf3f246473fb93268aa2d972afc",
-                                "sandboxId": "ab2f9078bcb04065a5c6c2fede9cb3b0"
+                                "offerId": "f324420336d342b098893e628af66a97",
+                                "sandboxId": "87375f89fc4c4c7a8c681cf21febee06"
                             },
                             "purchaseType": "Purchase"
                         }
                     ],
                     "systemSpecs": {
-                        "applicationVersion": "2.6.6.14",
+                        "applicationVersion": "2.32.2123.315",
                         "platform": "android",
                         "systemRequirements": [
                             {
-                                "minimum": "TBD",
+                                "minimum": "347 MB",
                                 "requirementType": "InstallSize",
                                 "title": "Installation size"
                             },
                             {
-                                "minimum": "160.55 MB",
+                                "minimum": "347.15 MB",
                                 "requirementType": "DownloadSize",
                                 "title": "Download size"
                             },
                             {
-                                "minimum": "6.0",
+                                "minimum": "7.0",
                                 "requirementType": "OS",
                                 "title": "OS version"
                             }
                         ]
                     },
-                    "title": "Baldurs Gate: Enhanced Edition"
+                    "title": "The Darkside Detective A Fumble in the Dark"
                 },
-                "offerId": "88e0eaf3f246473fb93268aa2d972afc",
-                "sandboxId": "ab2f9078bcb04065a5c6c2fede9cb3b0"
+                "offerId": "f324420336d342b098893e628af66a97",
+                "sandboxId": "87375f89fc4c4c7a8c681cf21febee06"
             }
         ],
         "size": "large",
@@ -2982,22 +2990,22 @@
                             "gate": "no-gate"
                         },
                         "ageRating": {
-                            "ageControl": 12,
+                            "ageControl": 7,
                             "contentDescriptors": [
-                                "Mild Swearing"
+                                "Mild Violence"
                             ],
                             "interactiveElements": [],
-                            "ratingImage": "https://cdn1.epicgames.com/gameRating/gameRating/PEGI_12_192_192x192-afa4df43f131bc83eb380ccf22f8d904",
+                            "ratingImage": "https://cdn1.epicgames.com/gameRating/gameRating/PEGI_7_192_192x192-30e2e712d0682dad01add90a6ccbed5b",
                             "ratingSystem": "PEGI",
-                            "rectangularRatingImage": "https://cdn1.epicgames.com/salesEvent/salesEvent/PEGI-12_436x530-0cd1f06607086f3cc1bc2b8643f21b0a",
-                            "title": "PEGI 12"
+                            "rectangularRatingImage": "https://cdn1.epicgames.com/salesEvent/salesEvent/PEGI-7_435x530-9439a136999d3dd762c7a61c3b8c7683",
+                            "title": "PEGI 7"
                         },
                         "ratingType": "AgeRating"
                     },
                     "attention": {
                         "inAppPurchases": "None"
                     },
-                    "catalogItemId": "fd4604ade8b2483592a117052d67d8b7",
+                    "catalogItemId": "f6466333b51846118f441674f784cb9b",
                     "categories": [
                         "freegames",
                         "games",
@@ -3005,34 +3013,34 @@
                         "games/edition/base"
                     ],
                     "mapping": {
-                        "slug": "the-darkside-detective-a-fumble-in-the-dark-android-125a49"
+                        "slug": "residual-android-eef593"
                     },
                     "media": {
                         "appIcon": {
                             "altText": "-",
                             "height": 512,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/0638bcc62d9f4ba2a53eb9093c54be31/the-darkside-detective-a-fumble-in-the-dark-icon-fnctf.png",
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/e5b1bbcf43f34c7c9c2c8a87bb637cf9/residual-icon-1v5t1.png",
                             "imageType": "ProductIcon",
                             "width": 512
                         },
                         "card16x9": {
-                            "altText": "The Darkside Detective A Fumble in the Dark Offer",
+                            "altText": "Residual Offer",
                             "height": 1440,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/0638bcc62d9f4ba2a53eb9093c54be31/the-darkside-detective-a-fumble-in-the-dark-16c34.jpg",
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/e5b1bbcf43f34c7c9c2c8a87bb637cf9/residual-1xe31.jpg",
                             "imageType": "OfferImageWide",
                             "width": 2560
                         },
                         "card3x4": {
-                            "altText": "Download The Darkside Detective A Fumble in the Dark Offer",
+                            "altText": "Download Residual Offer",
                             "height": 1600,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/0638bcc62d9f4ba2a53eb9093c54be31/the-darkside-detective-a-fumble-in-the-dark-ll4sh.jpg",
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/e5b1bbcf43f34c7c9c2c8a87bb637cf9/residual-1be6c.jpg",
                             "imageType": "OfferImageTall",
                             "width": 1200
                         },
                         "coverImage": {
                             "altText": "-",
                             "height": 1440,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/0638bcc62d9f4ba2a53eb9093c54be31/the-darkside-detective-a-fumble-in-the-dark-1qi5i.png",
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/e5b1bbcf43f34c7c9c2c8a87bb637cf9/residual-5e88j.jpg",
                             "imageType": "coverImage",
                             "width": 2560
                         }
@@ -3041,8 +3049,8 @@
                         {
                             "discount": {
                                 "discountAmountDisplay": "-100%",
-                                "discountEndDate": "2026-02-19T16:00:00.000Z",
-                                "originalPriceDisplay": "€6.29"
+                                "discountEndDate": "2026-02-26T16:00:00.000Z",
+                                "originalPriceDisplay": "€4.99"
                             },
                             "offerLifecycleState": "Release",
                             "price": {
@@ -3050,8 +3058,8 @@
                                 "decimalPrice": 0
                             },
                             "purchasePayload": {
-                                "offerId": "f324420336d342b098893e628af66a97",
-                                "sandboxId": "87375f89fc4c4c7a8c681cf21febee06"
+                                "offerId": "65911169d003481da9bde64e54be5ffc",
+                                "sandboxId": "438f0dfdc1a2432b99005457b60e319f"
                             },
                             "purchaseType": "Claim"
                         },
@@ -3059,41 +3067,41 @@
                             "offerLifecycleState": "Release",
                             "price": {
                                 "currencyCode": "EUR",
-                                "decimalPrice": 6.29
+                                "decimalPrice": 4.99
                             },
-                            "priceDisplay": "€6.29",
+                            "priceDisplay": "€4.99",
                             "purchasePayload": {
-                                "offerId": "f324420336d342b098893e628af66a97",
-                                "sandboxId": "87375f89fc4c4c7a8c681cf21febee06"
+                                "offerId": "65911169d003481da9bde64e54be5ffc",
+                                "sandboxId": "438f0dfdc1a2432b99005457b60e319f"
                             },
                             "purchaseType": "Purchase"
                         }
                     ],
                     "systemSpecs": {
-                        "applicationVersion": "2.32.2123.315",
+                        "applicationVersion": "1.4.1b",
                         "platform": "android",
                         "systemRequirements": [
                             {
-                                "minimum": "347 MB",
+                                "minimum": "62 MB",
                                 "requirementType": "InstallSize",
                                 "title": "Installation size"
                             },
                             {
-                                "minimum": "347.15 MB",
+                                "minimum": "168.21 MB",
                                 "requirementType": "DownloadSize",
                                 "title": "Download size"
                             },
                             {
-                                "minimum": "7.0",
+                                "minimum": "6.0",
                                 "requirementType": "OS",
                                 "title": "OS version"
                             }
                         ]
                     },
-                    "title": "The Darkside Detective A Fumble in the Dark"
+                    "title": "Residual"
                 },
-                "offerId": "f324420336d342b098893e628af66a97",
-                "sandboxId": "87375f89fc4c4c7a8c681cf21febee06"
+                "offerId": "65911169d003481da9bde64e54be5ffc",
+                "sandboxId": "438f0dfdc1a2432b99005457b60e319f"
             }
         ],
         "size": "large",
@@ -4960,6 +4968,100 @@
             "src": ""
         },
         "offers": [
+            {
+                "content": {
+                    "ageRating": {
+                        "ageGate": {
+                            "gate": "unrated-gate"
+                        },
+                        "ageRating": {
+                            "ratingSystem": "PEGI"
+                        },
+                        "ratingType": "UnratedRating"
+                    },
+                    "attention": {
+                        "inAppPurchases": "None"
+                    },
+                    "catalogItemId": "1ea044a5e35b4d339c7b4eea446d2f31",
+                    "categories": [
+                        "games",
+                        "games/edition",
+                        "games/edition/base"
+                    ],
+                    "mapping": {
+                        "slug": "baldurs-gate-enhanced-edition-android-f729ce"
+                    },
+                    "media": {
+                        "appIcon": {
+                            "altText": "-",
+                            "height": 512,
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/c58741825ec24c65ad4b3820abe46eee/baldurs-gate-enhanced-edition-icon-l7atb.png",
+                            "imageType": "ProductIcon",
+                            "width": 512
+                        },
+                        "card16x9": {
+                            "altText": "Baldurs Gate Enhanced Edition Offer",
+                            "height": 1440,
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/c58741825ec24c65ad4b3820abe46eee/baldurs-gate-enhanced-edition-17skx.jpg",
+                            "imageType": "OfferImageWide",
+                            "width": 2560
+                        },
+                        "card3x4": {
+                            "altText": "Download Baldurs Gate Enhanced Edition Offer",
+                            "height": 1600,
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/c58741825ec24c65ad4b3820abe46eee/baldurs-gate-enhanced-edition-1in8z.jpg",
+                            "imageType": "OfferImageTall",
+                            "width": 1200
+                        },
+                        "coverImage": {
+                            "altText": "-",
+                            "height": 1440,
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/c58741825ec24c65ad4b3820abe46eee/baldurs-gate-enhanced-edition-x2gs1.jpg",
+                            "imageType": "coverImage",
+                            "width": 2560
+                        }
+                    },
+                    "purchase": [
+                        {
+                            "offerLifecycleState": "Release",
+                            "price": {
+                                "currencyCode": "EUR",
+                                "decimalPrice": 8.99
+                            },
+                            "priceDisplay": "€8.99",
+                            "purchasePayload": {
+                                "offerId": "88e0eaf3f246473fb93268aa2d972afc",
+                                "sandboxId": "ab2f9078bcb04065a5c6c2fede9cb3b0"
+                            },
+                            "purchaseType": "Purchase"
+                        }
+                    ],
+                    "systemSpecs": {
+                        "applicationVersion": "2.6.6.14",
+                        "platform": "android",
+                        "systemRequirements": [
+                            {
+                                "minimum": "TBD",
+                                "requirementType": "InstallSize",
+                                "title": "Installation size"
+                            },
+                            {
+                                "minimum": "160.55 MB",
+                                "requirementType": "DownloadSize",
+                                "title": "Download size"
+                            },
+                            {
+                                "minimum": "6.0",
+                                "requirementType": "OS",
+                                "title": "OS version"
+                            }
+                        ]
+                    },
+                    "title": "Baldurs Gate: Enhanced Edition"
+                },
+                "offerId": "88e0eaf3f246473fb93268aa2d972afc",
+                "sandboxId": "ab2f9078bcb04065a5c6c2fede9cb3b0"
+            },
             {
                 "content": {
                     "ageRating": {
@@ -8104,19 +8206,6 @@
                     },
                     "purchase": [
                         {
-                            "offerLifecycleState": "Release",
-                            "price": {
-                                "currencyCode": "EUR",
-                                "decimalPrice": 2.99
-                            },
-                            "priceDisplay": "€2.99",
-                            "purchasePayload": {
-                                "offerId": "c0c571041fd94e158a5b4f9d96753f6d",
-                                "sandboxId": "de6432ac525d47c8a2e649e4a75a3078"
-                            },
-                            "purchaseType": "Purchase"
-                        },
-                        {
                             "discount": {
                                 "discountAmountDisplay": "-67%",
                                 "discountEndDate": "2026-03-04T16:00:00.000Z",
@@ -8544,19 +8633,6 @@
                         }
                     },
                     "purchase": [
-                        {
-                            "offerLifecycleState": "Release",
-                            "price": {
-                                "currencyCode": "EUR",
-                                "decimalPrice": 4.99
-                            },
-                            "priceDisplay": "€4.99",
-                            "purchasePayload": {
-                                "offerId": "65911169d003481da9bde64e54be5ffc",
-                                "sandboxId": "438f0dfdc1a2432b99005457b60e319f"
-                            },
-                            "purchaseType": "Purchase"
-                        },
                         {
                             "discount": {
                                 "discountAmountDisplay": "-100%",
@@ -9498,19 +9574,6 @@
                         }
                     },
                     "purchase": [
-                        {
-                            "offerLifecycleState": "Release",
-                            "price": {
-                                "currencyCode": "EUR",
-                                "decimalPrice": 4.99
-                            },
-                            "priceDisplay": "€4.99",
-                            "purchasePayload": {
-                                "offerId": "7b0b95230dbb48908344b0e7ec90f0f3",
-                                "sandboxId": "788106ed2233439bbe0df94c27fcef9b"
-                            },
-                            "purchaseType": "Purchase"
-                        },
                         {
                             "discount": {
                                 "discountAmountDisplay": "-60%",
