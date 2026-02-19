@@ -7571,6 +7571,37 @@
                                 "sandboxId": "1567fd089fd84f07a0237513d26add12"
                             },
                             "purchaseType": "Purchase"
+                        },
+                        {
+                            "discount": {
+                                "discountAmountDisplay": "-60%",
+                                "discountEndDate": "2026-03-04T16:00:00.000Z",
+                                "originalPriceDisplay": "€4.99"
+                            },
+                            "offerLifecycleState": "Release",
+                            "price": {
+                                "currencyCode": "EUR",
+                                "decimalPrice": 1.99
+                            },
+                            "priceDisplay": "€1.99",
+                            "purchasePayload": {
+                                "offerId": "9a2c3acce04d43bfbcd38de94b412d37",
+                                "sandboxId": "1567fd089fd84f07a0237513d26add12"
+                            },
+                            "purchaseType": "Purchase"
+                        },
+                        {
+                            "offerLifecycleState": "Release",
+                            "price": {
+                                "currencyCode": "EUR",
+                                "decimalPrice": 4.99
+                            },
+                            "priceDisplay": "€4.99",
+                            "purchasePayload": {
+                                "offerId": "9a2c3acce04d43bfbcd38de94b412d37",
+                                "sandboxId": "1567fd089fd84f07a0237513d26add12"
+                            },
+                            "purchaseType": "Purchase"
                         }
                     ],
                     "systemSpecs": {
@@ -8474,9 +8505,10 @@
                     },
                     "catalogItemId": "f6466333b51846118f441674f784cb9b",
                     "categories": [
-                        "games/edition/base",
+                        "freegames",
+                        "games",
                         "games/edition",
-                        "games"
+                        "games/edition/base"
                     ],
                     "mapping": {
                         "slug": "residual-android-eef593"
@@ -8512,6 +8544,36 @@
                         }
                     },
                     "purchase": [
+                        {
+                            "offerLifecycleState": "Release",
+                            "price": {
+                                "currencyCode": "EUR",
+                                "decimalPrice": 4.99
+                            },
+                            "priceDisplay": "€4.99",
+                            "purchasePayload": {
+                                "offerId": "65911169d003481da9bde64e54be5ffc",
+                                "sandboxId": "438f0dfdc1a2432b99005457b60e319f"
+                            },
+                            "purchaseType": "Purchase"
+                        },
+                        {
+                            "discount": {
+                                "discountAmountDisplay": "-100%",
+                                "discountEndDate": "2026-02-26T16:00:00.000Z",
+                                "originalPriceDisplay": "€4.99"
+                            },
+                            "offerLifecycleState": "Release",
+                            "price": {
+                                "currencyCode": "EUR",
+                                "decimalPrice": 0
+                            },
+                            "purchasePayload": {
+                                "offerId": "65911169d003481da9bde64e54be5ffc",
+                                "sandboxId": "438f0dfdc1a2432b99005457b60e319f"
+                            },
+                            "purchaseType": "Claim"
+                        },
                         {
                             "offerLifecycleState": "Release",
                             "price": {
@@ -11239,6 +11301,37 @@
                         }
                     },
                     "purchase": [
+                        {
+                            "offerLifecycleState": "Release",
+                            "price": {
+                                "currencyCode": "EUR",
+                                "decimalPrice": 2.99
+                            },
+                            "priceDisplay": "€2.99",
+                            "purchasePayload": {
+                                "offerId": "c993c271286e434c9b5398dd050e22b5",
+                                "sandboxId": "6d089f46d38b4e979746362dac9f356b"
+                            },
+                            "purchaseType": "Purchase"
+                        },
+                        {
+                            "discount": {
+                                "discountAmountDisplay": "-67%",
+                                "discountEndDate": "2026-03-04T16:00:00.000Z",
+                                "originalPriceDisplay": "€2.99"
+                            },
+                            "offerLifecycleState": "Release",
+                            "price": {
+                                "currencyCode": "EUR",
+                                "decimalPrice": 0.98
+                            },
+                            "priceDisplay": "€0.98",
+                            "purchasePayload": {
+                                "offerId": "c993c271286e434c9b5398dd050e22b5",
+                                "sandboxId": "6d089f46d38b4e979746362dac9f356b"
+                            },
+                            "purchaseType": "Purchase"
+                        },
                         {
                             "offerLifecycleState": "Release",
                             "price": {
