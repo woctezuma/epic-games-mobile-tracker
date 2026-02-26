@@ -1343,6 +1343,62 @@
         "store_url": "<https://store.epicgames.com/product/forest-quartet-ios-eea63c>",
         "title": "The Forest Quartet"
     },
+    "1-abc34708e5a0420287f52302582e3fec-8819df2d88a440cbba724c8bc1a81536": {
+        "age_control": 7,
+        "catalog_item_id": "158ddf0eaeb6416da62ecb609a4b2290",
+        "checkout_url": "<https://store.epicgames.com/purchase?offers=1-abc34708e5a0420287f52302582e3fec-8819df2d88a440cbba724c8bc1a81536>",
+        "content_descriptors": [
+            "Fear"
+        ],
+        "current_price": "0",
+        "discount": "-100%",
+        "download_size": "733 MB",
+        "end_date": "2026-03-05T16:00:00.000Z",
+        "in_app_purchases": false,
+        "install_size": "791 MB",
+        "interactive_elements": [],
+        "media": {
+            "OfferImageTall": "https://cdn1.epicgames.com/spt-assets/7f8e5cd71ae04eaeb7d782a5946db16f/boxes-lost-fragments-19j09.png",
+            "OfferImageWide": "https://cdn1.epicgames.com/spt-assets/7f8e5cd71ae04eaeb7d782a5946db16f/boxes-lost-fragments-1g2fa.png",
+            "ProductIcon": "https://cdn1.epicgames.com/spt-assets/7f8e5cd71ae04eaeb7d782a5946db16f/boxes-lost-fragments-icon-1ph0x.png",
+            "coverImage": "https://cdn1.epicgames.com/spt-assets/7f8e5cd71ae04eaeb7d782a5946db16f/boxes-lost-fragments-1ngy4.png"
+        },
+        "offer_id": "8819df2d88a440cbba724c8bc1a81536",
+        "original_price": "8.09",
+        "platform": "ios",
+        "sandbox_id": "abc34708e5a0420287f52302582e3fec",
+        "slug": "boxes-lost-fragments-ios-07172e",
+        "store_url": "<https://store.epicgames.com/product/boxes-lost-fragments-ios-07172e>",
+        "title": "Boxes: Lost Fragments"
+    },
+    "1-abc34708e5a0420287f52302582e3fec-d492301ad87e41aa8d9301301841d019": {
+        "age_control": 7,
+        "catalog_item_id": "2ffd82d2bcfb4a93bb824b3ed4e25d76",
+        "checkout_url": "<https://store.epicgames.com/purchase?offers=1-abc34708e5a0420287f52302582e3fec-d492301ad87e41aa8d9301301841d019>",
+        "content_descriptors": [
+            "Fear"
+        ],
+        "current_price": "0",
+        "discount": "-100%",
+        "download_size": "715.29 MB",
+        "end_date": "2026-03-05T16:00:00.000Z",
+        "in_app_purchases": false,
+        "install_size": "960 MB",
+        "interactive_elements": [],
+        "media": {
+            "OfferImageTall": "https://cdn1.epicgames.com/spt-assets/7f8e5cd71ae04eaeb7d782a5946db16f/boxes-lost-fragments-4szq3.png",
+            "OfferImageWide": "https://cdn1.epicgames.com/spt-assets/7f8e5cd71ae04eaeb7d782a5946db16f/boxes-lost-fragments-1jpva.png",
+            "ProductIcon": "https://cdn1.epicgames.com/spt-assets/7f8e5cd71ae04eaeb7d782a5946db16f/boxes-lost-fragments-icon-1ph0x.png",
+            "coverImage": "https://cdn1.epicgames.com/spt-assets/7f8e5cd71ae04eaeb7d782a5946db16f/boxes-lost-fragments-1ngy4.png"
+        },
+        "offer_id": "d492301ad87e41aa8d9301301841d019",
+        "original_price": "8.09",
+        "platform": "android",
+        "sandbox_id": "abc34708e5a0420287f52302582e3fec",
+        "slug": "boxes-lost-fragments-android-356638",
+        "store_url": "<https://store.epicgames.com/product/boxes-lost-fragments-android-356638>",
+        "title": "Boxes: Lost Fragments"
+    },
     "1-b0545d64f90248208a5dd6f213f4dde7-72c821408de74fed9a90f374c4825991": {
         "age_control": 3,
         "catalog_item_id": "08b621a7678e49148f8ccccd372c0c8e",
