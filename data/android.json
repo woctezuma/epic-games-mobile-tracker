@@ -9190,7 +9190,7 @@
                         "card3x4": {
                             "altText": "Download Idle Champions of the Forgotten Realms Offer",
                             "height": 1600,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/a53f91e55c6840018cb5de0b204f1ad9/idle-champions-of-the-forgotten-realms-jhd82.jpg",
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/a53f91e55c6840018cb5de0b204f1ad9/idle-champions-of-the-forgotten-realms-13abx.jpg",
                             "imageType": "OfferImageTall",
                             "width": 1200
                         },
@@ -9217,7 +9217,7 @@
                         }
                     ],
                     "systemSpecs": {
-                        "applicationVersion": "1.641.1",
+                        "applicationVersion": "1.642",
                         "platform": "android",
                         "systemRequirements": [
                             {
@@ -9226,7 +9226,7 @@
                                 "title": "Installation size"
                             },
                             {
-                                "minimum": "183.95 MB",
+                                "minimum": "182.50 MB",
                                 "requirementType": "DownloadSize",
                                 "title": "Download size"
                             },
