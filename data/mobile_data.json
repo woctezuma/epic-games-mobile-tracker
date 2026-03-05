@@ -1317,6 +1317,36 @@
         "store_url": "<https://store.epicgames.com/product/little-nightmares-ios-714075>",
         "title": "Little Nightmares"
     },
+    "1-9fb5e9c7aff143a4ac76ebea3306683c-8696234f96fb4add993f4d2a74468ec6": {
+        "age_control": 16,
+        "catalog_item_id": "8f604cd0a81d46009e97e49d9c94c40c",
+        "checkout_url": "<https://store.epicgames.com/purchase?offers=1-9fb5e9c7aff143a4ac76ebea3306683c-8696234f96fb4add993f4d2a74468ec6>",
+        "content_descriptors": [
+            "Strong Violence"
+        ],
+        "current_price": "0",
+        "discount": "-100%",
+        "download_size": "1.17 GB",
+        "end_date": "2026-03-12T15:00:00.000Z",
+        "in_app_purchases": false,
+        "install_size": "1.26 GB",
+        "interactive_elements": [
+            "In-Game Purchases"
+        ],
+        "media": {
+            "OfferImageTall": "https://cdn1.epicgames.com/spt-assets/03de534b692e491489b65117f88211af/little-nightmares-1bt94.png",
+            "OfferImageWide": "https://cdn1.epicgames.com/spt-assets/03de534b692e491489b65117f88211af/little-nightmares-z4q2p.png",
+            "ProductIcon": "https://cdn1.epicgames.com/spt-assets/03de534b692e491489b65117f88211af/little-nightmares-icon-np39u.png",
+            "coverImage": "https://cdn1.epicgames.com/spt-assets/03de534b692e491489b65117f88211af/little-nightmares-1g3z5.png"
+        },
+        "offer_id": "8696234f96fb4add993f4d2a74468ec6",
+        "original_price": "8.99",
+        "platform": "android",
+        "sandbox_id": "9fb5e9c7aff143a4ac76ebea3306683c",
+        "slug": "little-nightmares-android-9ac815",
+        "store_url": "<https://store.epicgames.com/product/little-nightmares-android-9ac815>",
+        "title": "Little Nightmares"
+    },
     "1-a3100205e194489088c7625c8c5c1596-d856aca8b72040ba8f7a10a39cf11ce0": {
         "age_control": 12,
         "catalog_item_id": "fc99b3f9c865468aba51c2593f06422f",
