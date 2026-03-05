@@ -2141,20 +2141,20 @@
                         },
                         "card16x9": {
                             "height": 1440,
-                            "imageSrc": "https://cdn1.epicgames.com/offer/fn/FNECO_39-40_LoveAndLegends_EGS_Launcher_KeyArt_Blade_2560x1440_2560x1440-108127839e244c579d9c4cf3953a832e",
+                            "imageSrc": "https://cdn1.epicgames.com/offer/fn/FNBR_39-00_C7S1_EGS_Launcher_DarkVoyager_FN_Blade_2560x1440_2560x1440-cb779f91c5924d29a9b6150d130a2b7f",
                             "imageType": "OfferImageWide",
                             "width": 2560
                         },
                         "card3x4": {
                             "height": 1600,
-                            "imageSrc": "https://cdn1.epicgames.com/offer/fn/FNECO_39-40_LoveAndLegends_EGS_Launcher_KeyArt_Blade_1200x1600_1200x1600-4f2e12eb7f764630b88312ed258cfa61",
+                            "imageSrc": "https://cdn1.epicgames.com/offer/fn/FNBR_39-00_C7S1_EGS_Launcher_DarkVoyager_FN_Blade_1200x1600_1200x1600-db6a52d38d1043b096d0139738d45856",
                             "imageType": "OfferImageTall",
                             "width": 1200
                         },
                         "coverImage": {
                             "altText": "-",
                             "height": 1440,
-                            "imageSrc": "https://cdn1.epicgames.com/offer/fn/FNECO_39-40_LoveAndLegends_EGS_Launcher_KeyArt_Blade_2560x1440_2560x1440-087ccb292063488b83dbba2e9e4198a9",
+                            "imageSrc": "https://cdn1.epicgames.com/offer/fn/FNBR_39-00_C7S1_EGS_Launcher_DarkVoyager_FN_Blade_2560x1440_2560x1440-5ec6c25a339c465fa7312d92abfedeb8",
                             "imageType": "coverImage",
                             "width": 2560
                         }
