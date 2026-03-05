@@ -1287,6 +1287,36 @@
         "store_url": "<https://store.epicgames.com/product/112-operator-android-979286>",
         "title": "112 Operator"
     },
+    "1-9fb5e9c7aff143a4ac76ebea3306683c-7044e765c3c84352a969288f81644d7d": {
+        "age_control": 16,
+        "catalog_item_id": "11d556342e4245cf82f7d700307b11c0",
+        "checkout_url": "<https://store.epicgames.com/purchase?offers=1-9fb5e9c7aff143a4ac76ebea3306683c-7044e765c3c84352a969288f81644d7d>",
+        "content_descriptors": [
+            "Strong Violence"
+        ],
+        "current_price": "0",
+        "discount": "-100%",
+        "download_size": "1.17",
+        "end_date": "2026-03-12T15:00:00.000Z",
+        "in_app_purchases": false,
+        "install_size": "2.48",
+        "interactive_elements": [
+            "In-Game Purchases"
+        ],
+        "media": {
+            "OfferImageTall": "https://cdn1.epicgames.com/spt-assets/03de534b692e491489b65117f88211af/little-nightmares-17awx.png",
+            "OfferImageWide": "https://cdn1.epicgames.com/spt-assets/03de534b692e491489b65117f88211af/little-nightmares-1as44.png",
+            "ProductIcon": "https://cdn1.epicgames.com/spt-assets/03de534b692e491489b65117f88211af/little-nightmares-icon-np39u.png",
+            "coverImage": "https://cdn1.epicgames.com/spt-assets/03de534b692e491489b65117f88211af/little-nightmares-1g3z5.png"
+        },
+        "offer_id": "7044e765c3c84352a969288f81644d7d",
+        "original_price": "8.99",
+        "platform": "ios",
+        "sandbox_id": "9fb5e9c7aff143a4ac76ebea3306683c",
+        "slug": "little-nightmares-ios-714075",
+        "store_url": "<https://store.epicgames.com/product/little-nightmares-ios-714075>",
+        "title": "Little Nightmares"
+    },
     "1-a3100205e194489088c7625c8c5c1596-d856aca8b72040ba8f7a10a39cf11ce0": {
         "age_control": 12,
         "catalog_item_id": "fc99b3f9c865468aba51c2593f06422f",
