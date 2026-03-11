@@ -957,6 +957,32 @@
         "store_url": "<https://store.epicgames.com/product/eastern-exorcist-ios-910c34>",
         "title": "Eastern Exorcist"
     },
+    "1-664593356629471bba5388cd9a61ed4d-fc39f9eeaf6b4385ba36813e3603eb3b": {
+        "age_control": 3,
+        "catalog_item_id": "e27f8af18c2649c7a990b26237eeb6af",
+        "checkout_url": "<https://store.epicgames.com/purchase?offers=1-664593356629471bba5388cd9a61ed4d-fc39f9eeaf6b4385ba36813e3603eb3b>",
+        "content_descriptors": [],
+        "current_price": "0",
+        "discount": "-100%",
+        "download_size": "754.75 MB",
+        "end_date": "2026-03-19T15:00:00.000Z",
+        "in_app_purchases": false,
+        "install_size": "900MB",
+        "interactive_elements": [],
+        "media": {
+            "OfferImageTall": "https://cdn1.epicgames.com/spt-assets/079026cc222549ceaa8b5c16770507b9/wonder-boy-the-dragons-trap-1i3zq.jpg",
+            "OfferImageWide": "https://cdn1.epicgames.com/spt-assets/079026cc222549ceaa8b5c16770507b9/wonder-boy-the-dragons-trap-1m96o.jpg",
+            "ProductIcon": "https://cdn1.epicgames.com/spt-assets/079026cc222549ceaa8b5c16770507b9/wonder-boy-the-dragons-trap-icon-1pon3.png",
+            "coverImage": "https://cdn1.epicgames.com/spt-assets/079026cc222549ceaa8b5c16770507b9/wonder-boy-the-dragons-trap-jgoco.jpg"
+        },
+        "offer_id": "fc39f9eeaf6b4385ba36813e3603eb3b",
+        "original_price": "8.09",
+        "platform": "android",
+        "sandbox_id": "664593356629471bba5388cd9a61ed4d",
+        "slug": "wonder-boy-the-dragons-trap-android-cca4a4",
+        "store_url": "<https://store.epicgames.com/product/wonder-boy-the-dragons-trap-android-cca4a4>",
+        "title": "Wonder Boy: The Dragon's Trap"
+    },
     "1-7e508f543b05465abe3a935960eb70ac-c9f2ce27f1c44ba9ad0cf4260f9e709e": {
         "age_control": 12,
         "catalog_item_id": "554e4c764f5f432cac68cee5f04c7750",
