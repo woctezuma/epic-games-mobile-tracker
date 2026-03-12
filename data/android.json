@@ -15354,19 +15354,6 @@
                     },
                     "purchase": [
                         {
-                            "offerLifecycleState": "Release",
-                            "price": {
-                                "currencyCode": "EUR",
-                                "decimalPrice": 7.19
-                            },
-                            "priceDisplay": "€7.19",
-                            "purchasePayload": {
-                                "offerId": "0fc96633957149ff8744aa1890145e2e",
-                                "sandboxId": "6a99fb0a8add42c8b21c4ad25c928ba5"
-                            },
-                            "purchaseType": "Purchase"
-                        },
-                        {
                             "discount": {
                                 "discountAmountDisplay": "-90%",
                                 "discountEndDate": "2026-03-26T22:59:00.000Z",
