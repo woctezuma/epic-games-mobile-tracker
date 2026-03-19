@@ -1009,6 +1009,62 @@
         "store_url": "<https://store.epicgames.com/product/wonder-boy-the-dragons-trap-android-cca4a4>",
         "title": "Wonder Boy: The Dragon's Trap"
     },
+    "1-72a060a94aa747e0869e6d2bc27a3aad-a518ffff8f7f4901aade8048882f3baa": {
+        "age_control": 12,
+        "catalog_item_id": "d36e2f7fa58a44fc9108856b5f0acef0",
+        "checkout_url": "<https://store.epicgames.com/purchase?offers=1-72a060a94aa747e0869e6d2bc27a3aad-a518ffff8f7f4901aade8048882f3baa>",
+        "content_descriptors": [
+            "Mild Swearing"
+        ],
+        "current_price": "0",
+        "discount": "-100%",
+        "download_size": "300 MB",
+        "end_date": "2026-03-26T15:00:00.000Z",
+        "in_app_purchases": false,
+        "install_size": "500 MB",
+        "interactive_elements": [],
+        "media": {
+            "OfferImageTall": "https://cdn1.epicgames.com/spt-assets/df7d51745d2f4800938bf4f2f38cf63c/potion-permit-1ltgw.jpg",
+            "OfferImageWide": "https://cdn1.epicgames.com/spt-assets/df7d51745d2f4800938bf4f2f38cf63c/potion-permit-1ypk3.jpg",
+            "ProductIcon": "https://cdn1.epicgames.com/spt-assets/df7d51745d2f4800938bf4f2f38cf63c/potion-permit-icon-rv3qe.png",
+            "coverImage": "https://cdn1.epicgames.com/spt-assets/df7d51745d2f4800938bf4f2f38cf63c/potion-permit-w24x5.jpg"
+        },
+        "offer_id": "a518ffff8f7f4901aade8048882f3baa",
+        "original_price": "6.29",
+        "platform": "ios",
+        "sandbox_id": "72a060a94aa747e0869e6d2bc27a3aad",
+        "slug": "potion-permit-ios-e4b5aa",
+        "store_url": "<https://store.epicgames.com/product/potion-permit-ios-e4b5aa>",
+        "title": "Potion Permit"
+    },
+    "1-72a060a94aa747e0869e6d2bc27a3aad-b06d87fde42341608b6e5bd8c4efb6bc": {
+        "age_control": 12,
+        "catalog_item_id": "d9a696e6bfc7430eb36de6cee35bef26",
+        "checkout_url": "<https://store.epicgames.com/purchase?offers=1-72a060a94aa747e0869e6d2bc27a3aad-b06d87fde42341608b6e5bd8c4efb6bc>",
+        "content_descriptors": [
+            "Mild Swearing"
+        ],
+        "current_price": "0",
+        "discount": "-100%",
+        "download_size": "275.24 MB",
+        "end_date": "2026-03-26T15:00:00.000Z",
+        "in_app_purchases": false,
+        "install_size": "414 MB",
+        "interactive_elements": [],
+        "media": {
+            "OfferImageTall": "https://cdn1.epicgames.com/spt-assets/df7d51745d2f4800938bf4f2f38cf63c/potion-permit-1c3b6.jpg",
+            "OfferImageWide": "https://cdn1.epicgames.com/spt-assets/df7d51745d2f4800938bf4f2f38cf63c/potion-permit-1s7t4.jpg",
+            "ProductIcon": "https://cdn1.epicgames.com/spt-assets/df7d51745d2f4800938bf4f2f38cf63c/potion-permit-icon-rv3qe.png",
+            "coverImage": "https://cdn1.epicgames.com/spt-assets/df7d51745d2f4800938bf4f2f38cf63c/potion-permit-w24x5.jpg"
+        },
+        "offer_id": "b06d87fde42341608b6e5bd8c4efb6bc",
+        "original_price": "6.29",
+        "platform": "android",
+        "sandbox_id": "72a060a94aa747e0869e6d2bc27a3aad",
+        "slug": "potion-permit-android-e270c3",
+        "store_url": "<https://store.epicgames.com/product/potion-permit-android-e270c3>",
+        "title": "Potion Permit"
+    },
     "1-7e508f543b05465abe3a935960eb70ac-c9f2ce27f1c44ba9ad0cf4260f9e709e": {
         "age_control": 12,
         "catalog_item_id": "554e4c764f5f432cac68cee5f04c7750",
