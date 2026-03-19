@@ -1903,20 +1903,20 @@
                         },
                         "card16x9": {
                             "height": 1440,
-                            "imageSrc": "https://cdn1.epicgames.com/offer/fn/FNBR_39-00_C7S1_EGS_Launcher_DarkVoyager_FN_Blade_2560x1440_2560x1440-cb779f91c5924d29a9b6150d130a2b7f",
+                            "imageSrc": "https://cdn1.epicgames.com/offer/fn/FNBR_40-00_C7S2_EGS_Launcher_FN_Blade_2560x1440_2560x1440-102aec5b76934cdbb05f390b8066e582",
                             "imageType": "OfferImageWide",
                             "width": 2560
                         },
                         "card3x4": {
                             "height": 1600,
-                            "imageSrc": "https://cdn1.epicgames.com/offer/fn/FNBR_39-00_C7S1_EGS_Launcher_DarkVoyager_FN_Blade_1200x1600_1200x1600-db6a52d38d1043b096d0139738d45856",
+                            "imageSrc": "https://cdn1.epicgames.com/offer/fn/FNBR_40-00_C7S2_EGS_Launcher_FN_Blade_1200x1600_1200x1600-b0d99576d1c04307a2c9867883eef72a",
                             "imageType": "OfferImageTall",
                             "width": 1200
                         },
                         "coverImage": {
                             "altText": "-",
                             "height": 1440,
-                            "imageSrc": "https://cdn1.epicgames.com/offer/fn/FNBR_39-00_C7S1_EGS_Launcher_DarkVoyager_FN_Blade_2560x1440_2560x1440-5ec6c25a339c465fa7312d92abfedeb8",
+                            "imageSrc": "https://cdn1.epicgames.com/offer/fn/FNBR_40-00_C7S2_EGS_Launcher_FN_Blade_2560x1440_2560x1440-cf6762b00e634ff1a99971e19213e701",
                             "imageType": "coverImage",
                             "width": 2560
                         }
