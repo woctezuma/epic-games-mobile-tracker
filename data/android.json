@@ -2183,19 +2183,19 @@
                         },
                         "card16x9": {
                             "height": 1440,
-                            "imageSrc": "https://cdn1.epicgames.com/offer/fn/EN_FNBR_39-00_Reload_EGS_Launcher_KeyArt_Carter_Blade_2560x1440_2560x1440-10a6dcf9507da4ee1fdad1fd04add0d5",
+                            "imageSrc": "https://cdn1.epicgames.com/offer/fn/EN_FNBR_34-30_Dashberry_EGS_PDP_2560x1440_2560x1440-7ca8018866f7427291387fae5d41d96c",
                             "imageType": "OfferImageWide",
                             "width": 2560
                         },
                         "card3x4": {
                             "height": 1600,
-                            "imageSrc": "https://cdn1.epicgames.com/offer/fn/EN_FNBR_39-00_Reload_EGS_Launcher_KeyArt_Carter_Blade_1200x1600_1200x1600-12946c4c31b362de8569c15dbfc8e4d6",
+                            "imageSrc": "https://cdn1.epicgames.com/offer/fn/EN_FNBR_34-30_Dashberry_EGS_MobileCarouselThumbnail_1200x1600_1200x1600-4fccb180eb2745409e3cfb02678c7961",
                             "imageType": "OfferImageTall",
                             "width": 1200
                         },
                         "coverImage": {
                             "height": 1440,
-                            "imageSrc": "https://cdn1.epicgames.com/offer/fn/EN_FNBR_39-00_Reload_EGS_Launcher_KeyArt_Carter_Blade_2560x1440_2560x1440-10a6dcf9507da4ee1fdad1fd04add0d5",
+                            "imageSrc": "https://cdn1.epicgames.com/offer/fn/EN_FNBR_34-30_Dashberry_EGS_PDP_2560x1440_2560x1440-7ca8018866f7427291387fae5d41d96c",
                             "imageType": "OfferImageWide",
                             "width": 2560
                         }
