@@ -105,15 +105,15 @@
                             "gate": "no-gate"
                         },
                         "ageRating": {
-                            "ageControl": 7,
+                            "ageControl": 12,
                             "contentDescriptors": [
-                                "Mild Violence"
+                                "Moderate Violence"
                             ],
                             "interactiveElements": [],
-                            "ratingImage": "https://cdn1.epicgames.com/gameRating/gameRating/PEGI_7_192_192x192-30e2e712d0682dad01add90a6ccbed5b",
+                            "ratingImage": "https://cdn1.epicgames.com/gameRating/gameRating/PEGI_12_192_192x192-afa4df43f131bc83eb380ccf22f8d904",
                             "ratingSystem": "PEGI",
-                            "rectangularRatingImage": "https://cdn1.epicgames.com/salesEvent/salesEvent/PEGI-7_435x530-9439a136999d3dd762c7a61c3b8c7683",
-                            "title": "PEGI 7"
+                            "rectangularRatingImage": "https://cdn1.epicgames.com/salesEvent/salesEvent/PEGI-12_436x530-0cd1f06607086f3cc1bc2b8643f21b0a",
+                            "title": "PEGI 12"
                         },
                         "ratingType": "AgeRating"
                     },
@@ -140,14 +140,14 @@
                         "card16x9": {
                             "altText": "Dumb Ways to Die 2 Offer",
                             "height": 1440,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/9a77263c339546f7b6ae675fddfdeb37/dumb-ways-to-die-2-1cnmc.png",
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/9a77263c339546f7b6ae675fddfdeb37/dumb-ways-to-die-2-b89n7.png",
                             "imageType": "OfferImageWide",
                             "width": 2560
                         },
                         "card3x4": {
                             "altText": "Download Dumb Ways to Die 2 Offer",
                             "height": 1600,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/9a77263c339546f7b6ae675fddfdeb37/dumb-ways-to-die-2-1u8sg.png",
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/9a77263c339546f7b6ae675fddfdeb37/dumb-ways-to-die-2-13fgm.png",
                             "imageType": "OfferImageTall",
                             "width": 1200
                         },
