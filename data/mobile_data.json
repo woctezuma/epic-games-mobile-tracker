@@ -2161,6 +2161,62 @@
         "store_url": "<https://store.epicgames.com/product/cultist-simulator-ios-8eba4c>",
         "title": "Cultist Simulator"
     },
+    "1-d99073ba85b1432198e7e23009efda4d-9ad0eaa3cd7543eb84995ba13f855a4c": {
+        "age_control": 16,
+        "catalog_item_id": "43c6fd08c89349cd9ab7e9c3e901c2d3",
+        "checkout_url": "<https://store.epicgames.com/purchase?offers=1-d99073ba85b1432198e7e23009efda4d-9ad0eaa3cd7543eb84995ba13f855a4c>",
+        "content_descriptors": [
+            "Strong Language"
+        ],
+        "current_price": "0",
+        "discount": "-100%",
+        "download_size": "575.43 MB",
+        "end_date": "2026-04-02T15:00:00.000Z",
+        "in_app_purchases": false,
+        "install_size": "600 Mo",
+        "interactive_elements": [],
+        "media": {
+            "OfferImageTall": "https://cdn1.epicgames.com/spt-assets/15ba1dd802b046ee9bba08ffb9e922e0/the-wreck-1j3ak.png",
+            "OfferImageWide": "https://cdn1.epicgames.com/spt-assets/15ba1dd802b046ee9bba08ffb9e922e0/the-wreck-1to0i.png",
+            "ProductIcon": "https://cdn1.epicgames.com/spt-assets/15ba1dd802b046ee9bba08ffb9e922e0/the-wreck-icon-1h5kx.png",
+            "coverImage": "https://cdn1.epicgames.com/spt-assets/15ba1dd802b046ee9bba08ffb9e922e0/the-wreck-1n82g.png"
+        },
+        "offer_id": "9ad0eaa3cd7543eb84995ba13f855a4c",
+        "original_price": "7.19",
+        "platform": "android",
+        "sandbox_id": "d99073ba85b1432198e7e23009efda4d",
+        "slug": "the-wreck-android-3754bc",
+        "store_url": "<https://store.epicgames.com/product/the-wreck-android-3754bc>",
+        "title": "The Wreck"
+    },
+    "1-d99073ba85b1432198e7e23009efda4d-b322f1cd749b4860a9cb6d1c229605b1": {
+        "age_control": 16,
+        "catalog_item_id": "42d7286abfb94b12a992a3a9887fdfcf",
+        "checkout_url": "<https://store.epicgames.com/purchase?offers=1-d99073ba85b1432198e7e23009efda4d-b322f1cd749b4860a9cb6d1c229605b1>",
+        "content_descriptors": [
+            "Strong Language"
+        ],
+        "current_price": "0",
+        "discount": "-100%",
+        "download_size": "400 Mo",
+        "end_date": "2026-04-02T15:00:00.000Z",
+        "in_app_purchases": false,
+        "install_size": "600 Mo",
+        "interactive_elements": [],
+        "media": {
+            "OfferImageTall": "https://cdn1.epicgames.com/spt-assets/15ba1dd802b046ee9bba08ffb9e922e0/the-wreck-1uyqk.png",
+            "OfferImageWide": "https://cdn1.epicgames.com/spt-assets/15ba1dd802b046ee9bba08ffb9e922e0/the-wreck-3xrm9.png",
+            "ProductIcon": "https://cdn1.epicgames.com/spt-assets/15ba1dd802b046ee9bba08ffb9e922e0/the-wreck-icon-1h5kx.png",
+            "coverImage": "https://cdn1.epicgames.com/spt-assets/15ba1dd802b046ee9bba08ffb9e922e0/the-wreck-1n82g.png"
+        },
+        "offer_id": "b322f1cd749b4860a9cb6d1c229605b1",
+        "original_price": "7.19",
+        "platform": "ios",
+        "sandbox_id": "d99073ba85b1432198e7e23009efda4d",
+        "slug": "the-wreck-ios-3c0525",
+        "store_url": "<https://store.epicgames.com/product/the-wreck-ios-3c0525>",
+        "title": "The Wreck"
+    },
     "1-e236e73a294b462d85715f5ba23a6346-7a1ee1815a8e40e89e893e824dc5668a": {
         "age_control": 3,
         "catalog_item_id": "2c3983846d6742a99c984610781eba9d",
