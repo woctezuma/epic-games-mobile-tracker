@@ -12,57 +12,56 @@
                             "gate": "no-gate"
                         },
                         "ageRating": {
-                            "ageControl": 0,
-                            "contentDescriptors": [],
-                            "interactiveElements": [
-                                "Users Interact",
-                                "In-App Purchases"
+                            "ageControl": 12,
+                            "contentDescriptors": [
+                                "Moderate Violence"
                             ],
-                            "ratingImage": "https://cdn1.epicgames.com/gameRating/gameRating/PEGI_EXC_192_192x192-4b60638de38c759ed1cdb5c19a573256",
+                            "interactiveElements": [],
+                            "ratingImage": "https://cdn1.epicgames.com/gameRating/gameRating/PEGI_12_192_192x192-afa4df43f131bc83eb380ccf22f8d904",
                             "ratingSystem": "PEGI",
-                            "rectangularRatingImage": "https://cdn1.epicgames.com/salesEvent/salesEvent/PEGI-info_435x530-d763ff1e493324dfef7ffd688b61476a",
-                            "title": "PARENTAL GUIDANCE RECOMMENDED"
+                            "rectangularRatingImage": "https://cdn1.epicgames.com/salesEvent/salesEvent/PEGI-12_436x530-0cd1f06607086f3cc1bc2b8643f21b0a",
+                            "title": "PEGI 12"
                         },
                         "ratingType": "AgeRating"
                     },
                     "attention": {
-                        "inAppPurchases": "IncludesInAppPurchases"
+                        "inAppPurchases": "None"
                     },
-                    "catalogItemId": "4fe75bbc5a674f4f9b356b5c90567da5",
+                    "catalogItemId": "6f77be7f45994d1383892435b626b40a",
                     "categories": [
                         "games",
                         "games/edition",
-                        "games/edition/base",
-                        "attention/in-app-purchases/supported",
-                        "applications"
+                        "games/edition/base"
                     ],
                     "mapping": {
-                        "slug": "fortnite-android"
+                        "slug": "dumb-ways-to-draw-android-3bce1a"
                     },
                     "media": {
                         "appIcon": {
                             "altText": "-",
                             "height": 512,
-                            "imageSrc": "https://cdn1.epicgames.com/offer/fn/PurpleJonesy_AppIcon_512x512_512x512-f74e82f0e1e64142ac86379e457458a2",
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/67f9b7f8cd35411685bfa78500185af2/dumb-ways-to-draw-icon-1chz4.png",
                             "imageType": "ProductIcon",
                             "width": 512
                         },
                         "card16x9": {
+                            "altText": "Dumb Ways to Draw Offer",
                             "height": 1440,
-                            "imageSrc": "https://cdn1.epicgames.com/offer/fn/FNBR_40-00_C7S2_EGS_Launcher_FN_Blade_2560x1440_2560x1440-bf5549882b93450a9311682b730d8adf",
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/67f9b7f8cd35411685bfa78500185af2/dumb-ways-to-draw-11deh.png",
                             "imageType": "OfferImageWide",
                             "width": 2560
                         },
                         "card3x4": {
+                            "altText": "Download Dumb Ways to Draw Offer",
                             "height": 1600,
-                            "imageSrc": "https://cdn1.epicgames.com/offer/fn/FNBR_40-00_C7S2_EGS_Launcher_FN_Blade_1200x1600_1200x1600-1885b44cbda641ec8c90166d25681295",
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/67f9b7f8cd35411685bfa78500185af2/dumb-ways-to-draw-8uv4c.png",
                             "imageType": "OfferImageTall",
                             "width": 1200
                         },
                         "coverImage": {
                             "altText": "-",
                             "height": 1440,
-                            "imageSrc": "https://cdn1.epicgames.com/offer/fn/FNBR_40-00_C7S2_EGS_Launcher_FN_Blade_2560x1440_2560x1440-cf6762b00e634ff1a99971e19213e701",
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/67f9b7f8cd35411685bfa78500185af2/dumb-ways-to-draw-1wv13.png",
                             "imageType": "coverImage",
                             "width": 2560
                         }
@@ -72,31 +71,361 @@
                             "offerLifecycleState": "Release",
                             "price": {
                                 "currencyCode": "EUR",
-                                "decimalPrice": 0
+                                "decimalPrice": 4.49
                             },
+                            "priceDisplay": "€4.49",
                             "purchasePayload": {
-                                "offerId": "027c646e4b0445e28f9d9abd0326ba36",
-                                "sandboxId": "fn"
+                                "offerId": "dafe6b34ee364732a8cb77995b190876",
+                                "sandboxId": "216a3608162a484c8a20b00b011960f8"
                             },
-                            "purchaseType": "Claim"
+                            "purchaseType": "Purchase"
                         }
                     ],
                     "systemSpecs": {
+                        "applicationVersion": "5.0.17",
                         "platform": "android",
                         "systemRequirements": [
                             {
-                                "minimum": "Android 10.0 or higher",
-                                "recommended": "",
+                                "minimum": "110MB",
+                                "requirementType": "InstallSize",
+                                "title": "Installation size"
+                            },
+                            {
+                                "minimum": "162.63 MB",
+                                "requirementType": "DownloadSize",
+                                "title": "Download size"
+                            },
+                            {
+                                "minimum": "9",
                                 "requirementType": "OS",
                                 "title": "OS version"
                             }
-                        ],
-                        "technicalDetails": "Fortnite requires an internet connection, Android 10.0 or higher, 64 bit, 4GB of RAM and GPU: Adreno 530 or higher, Mali-G71 MP20, Mali-G72 MP12 or higher."
+                        ]
                     },
-                    "title": "Fortnite"
+                    "title": "Dumb Ways to Draw"
                 },
-                "offerId": "027c646e4b0445e28f9d9abd0326ba36",
-                "sandboxId": "fn"
+                "offerId": "dafe6b34ee364732a8cb77995b190876",
+                "sandboxId": "216a3608162a484c8a20b00b011960f8"
+            },
+            {
+                "content": {
+                    "ageRating": {
+                        "ageGate": {
+                            "gate": "no-gate"
+                        },
+                        "ageRating": {
+                            "ageControl": 7,
+                            "contentDescriptors": [
+                                "Mild Violence"
+                            ],
+                            "interactiveElements": [],
+                            "ratingImage": "https://cdn1.epicgames.com/gameRating/gameRating/PEGI_7_192_192x192-30e2e712d0682dad01add90a6ccbed5b",
+                            "ratingSystem": "PEGI",
+                            "rectangularRatingImage": "https://cdn1.epicgames.com/salesEvent/salesEvent/PEGI-7_435x530-9439a136999d3dd762c7a61c3b8c7683",
+                            "title": "PEGI 7"
+                        },
+                        "ratingType": "AgeRating"
+                    },
+                    "attention": {
+                        "inAppPurchases": "None"
+                    },
+                    "catalogItemId": "27989416d1e743cf8054d55ae216e69f",
+                    "categories": [
+                        "games/edition/base",
+                        "games/edition",
+                        "games"
+                    ],
+                    "mapping": {
+                        "slug": "vindictive-drive-2-maidbot-archive-android-5fe094"
+                    },
+                    "media": {
+                        "appIcon": {
+                            "altText": "-",
+                            "height": 512,
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/48e80b4b1d7a4d3b8a8979b86fff64bc/vindictive-drive-2-maidbot-archive-icon-qsxb1.png",
+                            "imageType": "ProductIcon",
+                            "width": 512
+                        },
+                        "card16x9": {
+                            "altText": "Vindictive Drive 2: Maidbot Archive Offer",
+                            "height": 1440,
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/48e80b4b1d7a4d3b8a8979b86fff64bc/vindictive-drive-2-maidbot-archive-imgzm.png",
+                            "imageType": "OfferImageWide",
+                            "width": 2560
+                        },
+                        "card3x4": {
+                            "altText": "Download Vindictive Drive 2: Maidbot Archive Offer",
+                            "height": 1600,
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/48e80b4b1d7a4d3b8a8979b86fff64bc/vindictive-drive-2-maidbot-archive-16aru.png",
+                            "imageType": "OfferImageTall",
+                            "width": 1200
+                        },
+                        "coverImage": {
+                            "altText": "-",
+                            "height": 1440,
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/48e80b4b1d7a4d3b8a8979b86fff64bc/vindictive-drive-2-maidbot-archive-1yn3t.png",
+                            "imageType": "coverImage",
+                            "width": 2560
+                        }
+                    },
+                    "purchase": [
+                        {
+                            "discount": {
+                                "discountAmountDisplay": "-40%",
+                                "discountEndDate": "2026-04-07T17:00:00.000Z",
+                                "originalPriceDisplay": "€2.99"
+                            },
+                            "offerLifecycleState": "Release",
+                            "price": {
+                                "currencyCode": "EUR",
+                                "decimalPrice": 1.79
+                            },
+                            "priceDisplay": "€1.79",
+                            "purchasePayload": {
+                                "offerId": "b48a0d254d734394868ae9097d8745b9",
+                                "sandboxId": "5cc532cf18ec4142878420c2969560ea"
+                            },
+                            "purchaseType": "Purchase"
+                        },
+                        {
+                            "offerLifecycleState": "Release",
+                            "price": {
+                                "currencyCode": "EUR",
+                                "decimalPrice": 2.99
+                            },
+                            "priceDisplay": "€2.99",
+                            "purchasePayload": {
+                                "offerId": "b48a0d254d734394868ae9097d8745b9",
+                                "sandboxId": "5cc532cf18ec4142878420c2969560ea"
+                            },
+                            "purchaseType": "Purchase"
+                        }
+                    ],
+                    "systemSpecs": {
+                        "applicationVersion": "1.0.20",
+                        "platform": "android",
+                        "systemRequirements": [
+                            {
+                                "minimum": "207 MB",
+                                "requirementType": "InstallSize",
+                                "title": "Installation size"
+                            },
+                            {
+                                "minimum": "334.28 MB",
+                                "requirementType": "DownloadSize",
+                                "title": "Download size"
+                            },
+                            {
+                                "minimum": "7.0",
+                                "requirementType": "OS",
+                                "title": "OS version"
+                            }
+                        ]
+                    },
+                    "title": "VD2: Maidbot Archive"
+                },
+                "offerId": "b48a0d254d734394868ae9097d8745b9",
+                "sandboxId": "5cc532cf18ec4142878420c2969560ea"
+            },
+            {
+                "content": {
+                    "ageRating": {
+                        "ageGate": {
+                            "gate": "no-gate"
+                        },
+                        "ageRating": {
+                            "ageControl": 3,
+                            "contentDescriptors": [],
+                            "interactiveElements": [],
+                            "ratingImage": "https://cdn1.epicgames.com/gameRating/gameRating/PEGI_3_192_192x192-490b93ddf59fb4ac1148d1eb9083626a",
+                            "ratingSystem": "PEGI",
+                            "rectangularRatingImage": "https://cdn1.epicgames.com/salesEvent/salesEvent/PEGI-3_435x530-c931ab5bb4eb190f6e8e542081c49dc4",
+                            "title": "PEGI 3"
+                        },
+                        "ratingType": "AgeRating"
+                    },
+                    "attention": {
+                        "inAppPurchases": "None"
+                    },
+                    "catalogItemId": "503a4197cf4b429786b754cc15e4eccc",
+                    "categories": [
+                        "games",
+                        "games/edition",
+                        "games/edition/base"
+                    ],
+                    "mapping": {
+                        "slug": "football-mini-stars-2026-android-24750a"
+                    },
+                    "media": {
+                        "appIcon": {
+                            "altText": "-",
+                            "height": 512,
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/4c801a78efb04156b357416eada20f79/football-mini-stars-2026-icon-1gyju.png",
+                            "imageType": "ProductIcon",
+                            "width": 512
+                        },
+                        "card16x9": {
+                            "altText": "Football Mini Stars 2026 Offer",
+                            "height": 1440,
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/4c801a78efb04156b357416eada20f79/football-mini-stars-2026-tswln.jpg",
+                            "imageType": "OfferImageWide",
+                            "width": 2560
+                        },
+                        "card3x4": {
+                            "altText": "Download Football Mini Stars 2026 Offer",
+                            "height": 1600,
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/4c801a78efb04156b357416eada20f79/football-mini-stars-2026-8yen3.jpg",
+                            "imageType": "OfferImageTall",
+                            "width": 1200
+                        },
+                        "coverImage": {
+                            "altText": "-",
+                            "height": 1440,
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/4c801a78efb04156b357416eada20f79/football-mini-stars-2026-1dvp6.jpg",
+                            "imageType": "coverImage",
+                            "width": 2560
+                        }
+                    },
+                    "purchase": [
+                        {
+                            "offerLifecycleState": "Release",
+                            "price": {
+                                "currencyCode": "EUR",
+                                "decimalPrice": 2.69
+                            },
+                            "priceDisplay": "€2.69",
+                            "purchasePayload": {
+                                "offerId": "617ee3e82b9d4e849cb74f245dccb9d3",
+                                "sandboxId": "edcfa3bcdd144fbaaf2656f11a2dbb81"
+                            },
+                            "purchaseType": "Purchase"
+                        }
+                    ],
+                    "systemSpecs": {
+                        "applicationVersion": "1.0.0",
+                        "platform": "android",
+                        "systemRequirements": [
+                            {
+                                "minimum": "175 MB",
+                                "requirementType": "InstallSize",
+                                "title": "Installation size"
+                            },
+                            {
+                                "minimum": "108.35 MB",
+                                "requirementType": "DownloadSize",
+                                "title": "Download size"
+                            },
+                            {
+                                "minimum": "7.0",
+                                "requirementType": "OS",
+                                "title": "OS version"
+                            }
+                        ]
+                    },
+                    "title": "Football Mini Stars 2026"
+                },
+                "offerId": "617ee3e82b9d4e849cb74f245dccb9d3",
+                "sandboxId": "edcfa3bcdd144fbaaf2656f11a2dbb81"
+            },
+            {
+                "content": {
+                    "ageRating": {
+                        "ageGate": {
+                            "gate": "no-gate"
+                        },
+                        "ageRating": {
+                            "ageControl": 3,
+                            "contentDescriptors": [],
+                            "interactiveElements": [],
+                            "ratingImage": "https://cdn1.epicgames.com/gameRating/gameRating/PEGI_3_192_192x192-490b93ddf59fb4ac1148d1eb9083626a",
+                            "ratingSystem": "PEGI",
+                            "rectangularRatingImage": "https://cdn1.epicgames.com/salesEvent/salesEvent/PEGI-3_435x530-c931ab5bb4eb190f6e8e542081c49dc4",
+                            "title": "PEGI 3"
+                        },
+                        "ratingType": "AgeRating"
+                    },
+                    "attention": {
+                        "inAppPurchases": "None"
+                    },
+                    "catalogItemId": "70515b378e4247f8a0f80679eef4f4b2",
+                    "categories": [
+                        "games",
+                        "games/edition",
+                        "games/edition/base"
+                    ],
+                    "mapping": {
+                        "slug": "countless-army-android-240555"
+                    },
+                    "media": {
+                        "appIcon": {
+                            "altText": "-",
+                            "height": 512,
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/15cf21c3d6824764a9049929b0b0c93d/countless-army-icon-rxeyz.png",
+                            "imageType": "ProductIcon",
+                            "width": 512
+                        },
+                        "card16x9": {
+                            "altText": "Countless Army Offer",
+                            "height": 1440,
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/15cf21c3d6824764a9049929b0b0c93d/countless-army-1dx90.jpg",
+                            "imageType": "OfferImageWide",
+                            "width": 2560
+                        },
+                        "card3x4": {
+                            "altText": "Download Countless Army Offer",
+                            "height": 1600,
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/15cf21c3d6824764a9049929b0b0c93d/countless-army-180d3.jpg",
+                            "imageType": "OfferImageTall",
+                            "width": 1200
+                        },
+                        "coverImage": {
+                            "altText": "-",
+                            "height": 1440,
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/15cf21c3d6824764a9049929b0b0c93d/countless-army-u0uwj.jpg",
+                            "imageType": "coverImage",
+                            "width": 2560
+                        }
+                    },
+                    "purchase": [
+                        {
+                            "offerLifecycleState": "Release",
+                            "price": {
+                                "currencyCode": "EUR",
+                                "decimalPrice": 4.49
+                            },
+                            "priceDisplay": "€4.49",
+                            "purchasePayload": {
+                                "offerId": "f84a93012fef47eeb886dc2fb227f927",
+                                "sandboxId": "899eb9ca9cbc4cde81b4c34ae5d094f4"
+                            },
+                            "purchaseType": "Purchase"
+                        }
+                    ],
+                    "systemSpecs": {
+                        "applicationVersion": "1.6.2",
+                        "platform": "android",
+                        "systemRequirements": [
+                            {
+                                "minimum": "280.30 MB",
+                                "requirementType": "InstallSize",
+                                "title": "Installation size"
+                            },
+                            {
+                                "minimum": "280.30 MB",
+                                "requirementType": "DownloadSize",
+                                "title": "Download size"
+                            },
+                            {
+                                "minimum": "API level 21",
+                                "requirementType": "OS",
+                                "title": "OS version"
+                            }
+                        ]
+                    },
+                    "title": "Countless Army"
+                },
+                "offerId": "f84a93012fef47eeb886dc2fb227f927",
+                "sandboxId": "899eb9ca9cbc4cde81b4c34ae5d094f4"
             },
             {
                 "content": {
@@ -1952,6 +2281,99 @@
                             "gate": "no-gate"
                         },
                         "ageRating": {
+                            "ageControl": 0,
+                            "contentDescriptors": [],
+                            "interactiveElements": [
+                                "Users Interact",
+                                "In-App Purchases"
+                            ],
+                            "ratingImage": "https://cdn1.epicgames.com/gameRating/gameRating/PEGI_EXC_192_192x192-4b60638de38c759ed1cdb5c19a573256",
+                            "ratingSystem": "PEGI",
+                            "rectangularRatingImage": "https://cdn1.epicgames.com/salesEvent/salesEvent/PEGI-info_435x530-d763ff1e493324dfef7ffd688b61476a",
+                            "title": "PARENTAL GUIDANCE RECOMMENDED"
+                        },
+                        "ratingType": "AgeRating"
+                    },
+                    "attention": {
+                        "inAppPurchases": "IncludesInAppPurchases"
+                    },
+                    "catalogItemId": "4fe75bbc5a674f4f9b356b5c90567da5",
+                    "categories": [
+                        "games",
+                        "games/edition",
+                        "games/edition/base",
+                        "attention/in-app-purchases/supported",
+                        "applications"
+                    ],
+                    "mapping": {
+                        "slug": "fortnite-android"
+                    },
+                    "media": {
+                        "appIcon": {
+                            "altText": "-",
+                            "height": 512,
+                            "imageSrc": "https://cdn1.epicgames.com/offer/fn/PurpleJonesy_AppIcon_512x512_512x512-f74e82f0e1e64142ac86379e457458a2",
+                            "imageType": "ProductIcon",
+                            "width": 512
+                        },
+                        "card16x9": {
+                            "height": 1440,
+                            "imageSrc": "https://cdn1.epicgames.com/offer/fn/FNBR_40-00_C7S2_EGS_Launcher_FN_Blade_2560x1440_2560x1440-bf5549882b93450a9311682b730d8adf",
+                            "imageType": "OfferImageWide",
+                            "width": 2560
+                        },
+                        "card3x4": {
+                            "height": 1600,
+                            "imageSrc": "https://cdn1.epicgames.com/offer/fn/FNBR_40-00_C7S2_EGS_Launcher_FN_Blade_1200x1600_1200x1600-1885b44cbda641ec8c90166d25681295",
+                            "imageType": "OfferImageTall",
+                            "width": 1200
+                        },
+                        "coverImage": {
+                            "altText": "-",
+                            "height": 1440,
+                            "imageSrc": "https://cdn1.epicgames.com/offer/fn/FNBR_40-00_C7S2_EGS_Launcher_FN_Blade_2560x1440_2560x1440-cf6762b00e634ff1a99971e19213e701",
+                            "imageType": "coverImage",
+                            "width": 2560
+                        }
+                    },
+                    "purchase": [
+                        {
+                            "offerLifecycleState": "Release",
+                            "price": {
+                                "currencyCode": "EUR",
+                                "decimalPrice": 0
+                            },
+                            "purchasePayload": {
+                                "offerId": "027c646e4b0445e28f9d9abd0326ba36",
+                                "sandboxId": "fn"
+                            },
+                            "purchaseType": "Claim"
+                        }
+                    ],
+                    "systemSpecs": {
+                        "platform": "android",
+                        "systemRequirements": [
+                            {
+                                "minimum": "Android 10.0 or higher",
+                                "recommended": "",
+                                "requirementType": "OS",
+                                "title": "OS version"
+                            }
+                        ],
+                        "technicalDetails": "Fortnite requires an internet connection, Android 10.0 or higher, 64 bit, 4GB of RAM and GPU: Adreno 530 or higher, Mali-G71 MP20, Mali-G72 MP12 or higher."
+                    },
+                    "title": "Fortnite"
+                },
+                "offerId": "027c646e4b0445e28f9d9abd0326ba36",
+                "sandboxId": "fn"
+            },
+            {
+                "content": {
+                    "ageRating": {
+                        "ageGate": {
+                            "gate": "no-gate"
+                        },
+                        "ageRating": {
                             "ageControl": 3,
                             "contentDescriptors": [],
                             "interactiveElements": [
@@ -2128,99 +2550,6 @@
                 },
                 "offerId": "8313f4090aa5460b9b71eba09bfe310e",
                 "sandboxId": "50118b7f954e450f8823df1614b24e80"
-            },
-            {
-                "content": {
-                    "ageRating": {
-                        "ageGate": {
-                            "gate": "no-gate"
-                        },
-                        "ageRating": {
-                            "ageControl": 0,
-                            "contentDescriptors": [],
-                            "interactiveElements": [
-                                "Users Interact",
-                                "In-App Purchases"
-                            ],
-                            "ratingImage": "https://cdn1.epicgames.com/gameRating/gameRating/PEGI_EXC_192_192x192-4b60638de38c759ed1cdb5c19a573256",
-                            "ratingSystem": "PEGI",
-                            "rectangularRatingImage": "https://cdn1.epicgames.com/salesEvent/salesEvent/PEGI-info_435x530-d763ff1e493324dfef7ffd688b61476a",
-                            "title": "PARENTAL GUIDANCE RECOMMENDED"
-                        },
-                        "ratingType": "AgeRating"
-                    },
-                    "attention": {
-                        "inAppPurchases": "IncludesInAppPurchases"
-                    },
-                    "catalogItemId": "4fe75bbc5a674f4f9b356b5c90567da5",
-                    "categories": [
-                        "games",
-                        "games/edition",
-                        "games/edition/base",
-                        "attention/in-app-purchases/supported",
-                        "applications"
-                    ],
-                    "mapping": {
-                        "slug": "fortnite-android"
-                    },
-                    "media": {
-                        "appIcon": {
-                            "altText": "-",
-                            "height": 512,
-                            "imageSrc": "https://cdn1.epicgames.com/offer/fn/PurpleJonesy_AppIcon_512x512_512x512-f74e82f0e1e64142ac86379e457458a2",
-                            "imageType": "ProductIcon",
-                            "width": 512
-                        },
-                        "card16x9": {
-                            "height": 1440,
-                            "imageSrc": "https://cdn1.epicgames.com/offer/fn/FNBR_40-00_C7S2_EGS_Launcher_FN_Blade_2560x1440_2560x1440-bf5549882b93450a9311682b730d8adf",
-                            "imageType": "OfferImageWide",
-                            "width": 2560
-                        },
-                        "card3x4": {
-                            "height": 1600,
-                            "imageSrc": "https://cdn1.epicgames.com/offer/fn/FNBR_40-00_C7S2_EGS_Launcher_FN_Blade_1200x1600_1200x1600-1885b44cbda641ec8c90166d25681295",
-                            "imageType": "OfferImageTall",
-                            "width": 1200
-                        },
-                        "coverImage": {
-                            "altText": "-",
-                            "height": 1440,
-                            "imageSrc": "https://cdn1.epicgames.com/offer/fn/FNBR_40-00_C7S2_EGS_Launcher_FN_Blade_2560x1440_2560x1440-cf6762b00e634ff1a99971e19213e701",
-                            "imageType": "coverImage",
-                            "width": 2560
-                        }
-                    },
-                    "purchase": [
-                        {
-                            "offerLifecycleState": "Release",
-                            "price": {
-                                "currencyCode": "EUR",
-                                "decimalPrice": 0
-                            },
-                            "purchasePayload": {
-                                "offerId": "027c646e4b0445e28f9d9abd0326ba36",
-                                "sandboxId": "fn"
-                            },
-                            "purchaseType": "Claim"
-                        }
-                    ],
-                    "systemSpecs": {
-                        "platform": "android",
-                        "systemRequirements": [
-                            {
-                                "minimum": "Android 10.0 or higher",
-                                "recommended": "",
-                                "requirementType": "OS",
-                                "title": "OS version"
-                            }
-                        ],
-                        "technicalDetails": "Fortnite requires an internet connection, Android 10.0 or higher, 64 bit, 4GB of RAM and GPU: Adreno 530 or higher, Mali-G71 MP20, Mali-G72 MP12 or higher."
-                    },
-                    "title": "Fortnite"
-                },
-                "offerId": "027c646e4b0445e28f9d9abd0326ba36",
-                "sandboxId": "fn"
             }
         ],
         "size": "medium",
@@ -3812,7 +4141,7 @@
                         }
                     ],
                     "systemSpecs": {
-                        "applicationVersion": "11.3.1.7",
+                        "applicationVersion": "11.3.1.8",
                         "platform": "android",
                         "systemRequirements": [
                             {
@@ -3821,7 +4150,7 @@
                                 "title": "Installation size"
                             },
                             {
-                                "minimum": "570.55 MB",
+                                "minimum": "570.65 MB",
                                 "requirementType": "DownloadSize",
                                 "title": "Download size"
                             },
@@ -16505,24 +16834,6 @@
                         }
                     },
                     "purchase": [
-                        {
-                            "discount": {
-                                "discountAmountDisplay": "-80%",
-                                "discountEndDate": "2026-03-31T15:00:00.000Z",
-                                "originalPriceDisplay": "€3.59"
-                            },
-                            "offerLifecycleState": "Release",
-                            "price": {
-                                "currencyCode": "EUR",
-                                "decimalPrice": 0.71
-                            },
-                            "priceDisplay": "€0.71",
-                            "purchasePayload": {
-                                "offerId": "2ad0d6d5044943b58f302eaa6c1aa2ba",
-                                "sandboxId": "852b362ef44f4c6883166117e0f9eb63"
-                            },
-                            "purchaseType": "Purchase"
-                        },
                         {
                             "offerLifecycleState": "Release",
                             "price": {
