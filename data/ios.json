@@ -12,57 +12,56 @@
                             "gate": "no-gate"
                         },
                         "ageRating": {
-                            "ageControl": 0,
-                            "contentDescriptors": [],
-                            "interactiveElements": [
-                                "Users Interact",
-                                "In-App Purchases"
+                            "ageControl": 12,
+                            "contentDescriptors": [
+                                "Moderate Violence"
                             ],
-                            "ratingImage": "https://cdn1.epicgames.com/gameRating/gameRating/PEGI_EXC_192_192x192-4b60638de38c759ed1cdb5c19a573256",
+                            "interactiveElements": [],
+                            "ratingImage": "https://cdn1.epicgames.com/gameRating/gameRating/PEGI_12_192_192x192-afa4df43f131bc83eb380ccf22f8d904",
                             "ratingSystem": "PEGI",
-                            "rectangularRatingImage": "https://cdn1.epicgames.com/salesEvent/salesEvent/PEGI-info_435x530-d763ff1e493324dfef7ffd688b61476a",
-                            "title": "PARENTAL GUIDANCE RECOMMENDED"
+                            "rectangularRatingImage": "https://cdn1.epicgames.com/salesEvent/salesEvent/PEGI-12_436x530-0cd1f06607086f3cc1bc2b8643f21b0a",
+                            "title": "PEGI 12"
                         },
                         "ratingType": "AgeRating"
                     },
                     "attention": {
-                        "inAppPurchases": "IncludesInAppPurchases"
+                        "inAppPurchases": "None"
                     },
-                    "catalogItemId": "909dd1fd19bf41f99b23edf2ce461927",
+                    "catalogItemId": "fad4b316ebb0451499a502e72cd108b0",
                     "categories": [
                         "games",
                         "games/edition",
-                        "games/edition/base",
-                        "attention/in-app-purchases/supported",
-                        "applications"
+                        "games/edition/base"
                     ],
                     "mapping": {
-                        "slug": "fortnite-ios"
+                        "slug": "dumb-ways-to-draw-ios-3e511b"
                     },
                     "media": {
                         "appIcon": {
                             "altText": "-",
                             "height": 512,
-                            "imageSrc": "https://cdn1.epicgames.com/offer/fn/PurpleJonesy_AppIcon_512x512_512x512-f74e82f0e1e64142ac86379e457458a2",
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/67f9b7f8cd35411685bfa78500185af2/dumb-ways-to-draw-icon-1chz4.png",
                             "imageType": "ProductIcon",
                             "width": 512
                         },
                         "card16x9": {
+                            "altText": "Dumb Ways to Draw Offer",
                             "height": 1440,
-                            "imageSrc": "https://cdn1.epicgames.com/offer/fn/FNBR_40-00_C7S2_EGS_Launcher_FN_Blade_2560x1440_2560x1440-102aec5b76934cdbb05f390b8066e582",
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/67f9b7f8cd35411685bfa78500185af2/dumb-ways-to-draw-iayyn.png",
                             "imageType": "OfferImageWide",
                             "width": 2560
                         },
                         "card3x4": {
+                            "altText": "Download Dumb Ways to Draw Offer",
                             "height": 1600,
-                            "imageSrc": "https://cdn1.epicgames.com/offer/fn/FNBR_40-00_C7S2_EGS_Launcher_FN_Blade_1200x1600_1200x1600-b0d99576d1c04307a2c9867883eef72a",
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/67f9b7f8cd35411685bfa78500185af2/dumb-ways-to-draw-1v4sp.png",
                             "imageType": "OfferImageTall",
                             "width": 1200
                         },
                         "coverImage": {
                             "altText": "-",
                             "height": 1440,
-                            "imageSrc": "https://cdn1.epicgames.com/offer/fn/FNBR_40-00_C7S2_EGS_Launcher_FN_Blade_2560x1440_2560x1440-cf6762b00e634ff1a99971e19213e701",
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/67f9b7f8cd35411685bfa78500185af2/dumb-ways-to-draw-1wv13.png",
                             "imageType": "coverImage",
                             "width": 2560
                         }
@@ -72,31 +71,141 @@
                             "offerLifecycleState": "Release",
                             "price": {
                                 "currencyCode": "EUR",
-                                "decimalPrice": 0
+                                "decimalPrice": 4.49
                             },
+                            "priceDisplay": "€4.49",
                             "purchasePayload": {
-                                "offerId": "d69e49517f0f4e49a39253f7b106dc27",
-                                "sandboxId": "fn"
+                                "offerId": "bd23d23ef7694dc0b190db148c4e8458",
+                                "sandboxId": "216a3608162a484c8a20b00b011960f8"
                             },
-                            "purchaseType": "Claim"
+                            "purchaseType": "Purchase"
                         }
                     ],
                     "systemSpecs": {
+                        "applicationVersion": "1.0",
                         "platform": "ios",
                         "systemRequirements": [
                             {
+                                "minimum": "110MB",
+                                "requirementType": "InstallSize",
+                                "title": "Installation size"
+                            },
+                            {
+                                "minimum": "110MB",
+                                "requirementType": "DownloadSize",
+                                "title": "Download size"
+                            },
+                            {
                                 "minimum": "12.0",
-                                "recommended": "",
                                 "requirementType": "OS",
                                 "title": "OS version"
                             }
-                        ],
-                        "technicalDetails": "Fortnite requires an internet connection and supports the following devices: \n- iPhone 11 or later with 4GB RAM\n- iPad Pro 13” (1st gen or later)\n- iPad Pro 11” (3rd gen or later)\n- iPad Air (4th gen or later)\n- iPad Mini (6th gen or later)\n- iPad (10th gen or later)"
+                        ]
                     },
-                    "title": "Fortnite"
+                    "title": "Dumb Ways to Draw"
                 },
-                "offerId": "d69e49517f0f4e49a39253f7b106dc27",
-                "sandboxId": "fn"
+                "offerId": "bd23d23ef7694dc0b190db148c4e8458",
+                "sandboxId": "216a3608162a484c8a20b00b011960f8"
+            },
+            {
+                "content": {
+                    "ageRating": {
+                        "ageGate": {
+                            "gate": "no-gate"
+                        },
+                        "ageRating": {
+                            "ageControl": 3,
+                            "contentDescriptors": [],
+                            "interactiveElements": [],
+                            "ratingImage": "https://cdn1.epicgames.com/gameRating/gameRating/PEGI_3_192_192x192-490b93ddf59fb4ac1148d1eb9083626a",
+                            "ratingSystem": "PEGI",
+                            "rectangularRatingImage": "https://cdn1.epicgames.com/salesEvent/salesEvent/PEGI-3_435x530-c931ab5bb4eb190f6e8e542081c49dc4",
+                            "title": "PEGI 3"
+                        },
+                        "ratingType": "AgeRating"
+                    },
+                    "attention": {
+                        "inAppPurchases": "None"
+                    },
+                    "catalogItemId": "a7c1c34000c04c5ca6048272e31212ef",
+                    "categories": [
+                        "games",
+                        "games/edition",
+                        "games/edition/base"
+                    ],
+                    "mapping": {
+                        "slug": "worldseekers-deckbuilding-rpg-ios-eaabe7"
+                    },
+                    "media": {
+                        "appIcon": {
+                            "altText": "-",
+                            "height": 512,
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/ca3cb09048434a179aa7522e8ab3e3d9/worldseekers--deckbuilding-rpg-icon-1ypp1.png",
+                            "imageType": "ProductIcon",
+                            "width": 512
+                        },
+                        "card16x9": {
+                            "altText": "Worldseekers - Deckbuilding RPG Offer",
+                            "height": 1440,
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/ca3cb09048434a179aa7522e8ab3e3d9/worldseekers--deckbuilding-rpg-w6efg.png",
+                            "imageType": "OfferImageWide",
+                            "width": 2560
+                        },
+                        "card3x4": {
+                            "altText": "Download Worldseekers - Deckbuilding RPG Offer",
+                            "height": 1600,
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/ca3cb09048434a179aa7522e8ab3e3d9/worldseekers--deckbuilding-rpg-1toml.png",
+                            "imageType": "OfferImageTall",
+                            "width": 1200
+                        },
+                        "coverImage": {
+                            "altText": "-",
+                            "height": 1440,
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/ca3cb09048434a179aa7522e8ab3e3d9/worldseekers--deckbuilding-rpg-2a5c4.jpg",
+                            "imageType": "coverImage",
+                            "width": 2560
+                        }
+                    },
+                    "purchase": [
+                        {
+                            "offerLifecycleState": "Release",
+                            "price": {
+                                "currencyCode": "EUR",
+                                "decimalPrice": 8.99
+                            },
+                            "priceDisplay": "€8.99",
+                            "purchasePayload": {
+                                "offerId": "ff114141e58948d6be6dcb8512e400e9",
+                                "sandboxId": "531a1b6d26bc4cda9435d59229a54c39"
+                            },
+                            "purchaseType": "Purchase"
+                        }
+                    ],
+                    "systemSpecs": {
+                        "applicationVersion": "2026.03.1",
+                        "platform": "ios",
+                        "systemRequirements": [
+                            {
+                                "minimum": "543MB",
+                                "requirementType": "InstallSize",
+                                "title": "Installation size"
+                            },
+                            {
+                                "minimum": "378MB",
+                                "requirementType": "DownloadSize",
+                                "title": "Download size"
+                            },
+                            {
+                                "minimum": "13",
+                                "requirementType": "OS",
+                                "title": "OS version"
+                            }
+                        ]
+                    },
+                    "title": "Worldseekers - Deckbuilding RPG"
+                },
+                "offerId": "ff114141e58948d6be6dcb8512e400e9",
+                "sandboxId": "531a1b6d26bc4cda9435d59229a54c39"
             },
             {
                 "content": {
@@ -1959,6 +2068,99 @@
                             "gate": "no-gate"
                         },
                         "ageRating": {
+                            "ageControl": 0,
+                            "contentDescriptors": [],
+                            "interactiveElements": [
+                                "Users Interact",
+                                "In-App Purchases"
+                            ],
+                            "ratingImage": "https://cdn1.epicgames.com/gameRating/gameRating/PEGI_EXC_192_192x192-4b60638de38c759ed1cdb5c19a573256",
+                            "ratingSystem": "PEGI",
+                            "rectangularRatingImage": "https://cdn1.epicgames.com/salesEvent/salesEvent/PEGI-info_435x530-d763ff1e493324dfef7ffd688b61476a",
+                            "title": "PARENTAL GUIDANCE RECOMMENDED"
+                        },
+                        "ratingType": "AgeRating"
+                    },
+                    "attention": {
+                        "inAppPurchases": "IncludesInAppPurchases"
+                    },
+                    "catalogItemId": "909dd1fd19bf41f99b23edf2ce461927",
+                    "categories": [
+                        "games",
+                        "games/edition",
+                        "games/edition/base",
+                        "attention/in-app-purchases/supported",
+                        "applications"
+                    ],
+                    "mapping": {
+                        "slug": "fortnite-ios"
+                    },
+                    "media": {
+                        "appIcon": {
+                            "altText": "-",
+                            "height": 512,
+                            "imageSrc": "https://cdn1.epicgames.com/offer/fn/PurpleJonesy_AppIcon_512x512_512x512-f74e82f0e1e64142ac86379e457458a2",
+                            "imageType": "ProductIcon",
+                            "width": 512
+                        },
+                        "card16x9": {
+                            "height": 1440,
+                            "imageSrc": "https://cdn1.epicgames.com/offer/fn/FNBR_40-00_C7S2_EGS_Launcher_FN_Blade_2560x1440_2560x1440-102aec5b76934cdbb05f390b8066e582",
+                            "imageType": "OfferImageWide",
+                            "width": 2560
+                        },
+                        "card3x4": {
+                            "height": 1600,
+                            "imageSrc": "https://cdn1.epicgames.com/offer/fn/FNBR_40-00_C7S2_EGS_Launcher_FN_Blade_1200x1600_1200x1600-b0d99576d1c04307a2c9867883eef72a",
+                            "imageType": "OfferImageTall",
+                            "width": 1200
+                        },
+                        "coverImage": {
+                            "altText": "-",
+                            "height": 1440,
+                            "imageSrc": "https://cdn1.epicgames.com/offer/fn/FNBR_40-00_C7S2_EGS_Launcher_FN_Blade_2560x1440_2560x1440-cf6762b00e634ff1a99971e19213e701",
+                            "imageType": "coverImage",
+                            "width": 2560
+                        }
+                    },
+                    "purchase": [
+                        {
+                            "offerLifecycleState": "Release",
+                            "price": {
+                                "currencyCode": "EUR",
+                                "decimalPrice": 0
+                            },
+                            "purchasePayload": {
+                                "offerId": "d69e49517f0f4e49a39253f7b106dc27",
+                                "sandboxId": "fn"
+                            },
+                            "purchaseType": "Claim"
+                        }
+                    ],
+                    "systemSpecs": {
+                        "platform": "ios",
+                        "systemRequirements": [
+                            {
+                                "minimum": "12.0",
+                                "recommended": "",
+                                "requirementType": "OS",
+                                "title": "OS version"
+                            }
+                        ],
+                        "technicalDetails": "Fortnite requires an internet connection and supports the following devices: \n- iPhone 11 or later with 4GB RAM\n- iPad Pro 13” (1st gen or later)\n- iPad Pro 11” (3rd gen or later)\n- iPad Air (4th gen or later)\n- iPad Mini (6th gen or later)\n- iPad (10th gen or later)"
+                    },
+                    "title": "Fortnite"
+                },
+                "offerId": "d69e49517f0f4e49a39253f7b106dc27",
+                "sandboxId": "fn"
+            },
+            {
+                "content": {
+                    "ageRating": {
+                        "ageGate": {
+                            "gate": "no-gate"
+                        },
+                        "ageRating": {
                             "ageControl": 3,
                             "contentDescriptors": [],
                             "interactiveElements": [
@@ -2135,99 +2337,6 @@
                 },
                 "offerId": "b2f36d5bff70449d84479502d71c6894",
                 "sandboxId": "50118b7f954e450f8823df1614b24e80"
-            },
-            {
-                "content": {
-                    "ageRating": {
-                        "ageGate": {
-                            "gate": "no-gate"
-                        },
-                        "ageRating": {
-                            "ageControl": 0,
-                            "contentDescriptors": [],
-                            "interactiveElements": [
-                                "Users Interact",
-                                "In-App Purchases"
-                            ],
-                            "ratingImage": "https://cdn1.epicgames.com/gameRating/gameRating/PEGI_EXC_192_192x192-4b60638de38c759ed1cdb5c19a573256",
-                            "ratingSystem": "PEGI",
-                            "rectangularRatingImage": "https://cdn1.epicgames.com/salesEvent/salesEvent/PEGI-info_435x530-d763ff1e493324dfef7ffd688b61476a",
-                            "title": "PARENTAL GUIDANCE RECOMMENDED"
-                        },
-                        "ratingType": "AgeRating"
-                    },
-                    "attention": {
-                        "inAppPurchases": "IncludesInAppPurchases"
-                    },
-                    "catalogItemId": "909dd1fd19bf41f99b23edf2ce461927",
-                    "categories": [
-                        "games",
-                        "games/edition",
-                        "games/edition/base",
-                        "attention/in-app-purchases/supported",
-                        "applications"
-                    ],
-                    "mapping": {
-                        "slug": "fortnite-ios"
-                    },
-                    "media": {
-                        "appIcon": {
-                            "altText": "-",
-                            "height": 512,
-                            "imageSrc": "https://cdn1.epicgames.com/offer/fn/PurpleJonesy_AppIcon_512x512_512x512-f74e82f0e1e64142ac86379e457458a2",
-                            "imageType": "ProductIcon",
-                            "width": 512
-                        },
-                        "card16x9": {
-                            "height": 1440,
-                            "imageSrc": "https://cdn1.epicgames.com/offer/fn/FNBR_40-00_C7S2_EGS_Launcher_FN_Blade_2560x1440_2560x1440-102aec5b76934cdbb05f390b8066e582",
-                            "imageType": "OfferImageWide",
-                            "width": 2560
-                        },
-                        "card3x4": {
-                            "height": 1600,
-                            "imageSrc": "https://cdn1.epicgames.com/offer/fn/FNBR_40-00_C7S2_EGS_Launcher_FN_Blade_1200x1600_1200x1600-b0d99576d1c04307a2c9867883eef72a",
-                            "imageType": "OfferImageTall",
-                            "width": 1200
-                        },
-                        "coverImage": {
-                            "altText": "-",
-                            "height": 1440,
-                            "imageSrc": "https://cdn1.epicgames.com/offer/fn/FNBR_40-00_C7S2_EGS_Launcher_FN_Blade_2560x1440_2560x1440-cf6762b00e634ff1a99971e19213e701",
-                            "imageType": "coverImage",
-                            "width": 2560
-                        }
-                    },
-                    "purchase": [
-                        {
-                            "offerLifecycleState": "Release",
-                            "price": {
-                                "currencyCode": "EUR",
-                                "decimalPrice": 0
-                            },
-                            "purchasePayload": {
-                                "offerId": "d69e49517f0f4e49a39253f7b106dc27",
-                                "sandboxId": "fn"
-                            },
-                            "purchaseType": "Claim"
-                        }
-                    ],
-                    "systemSpecs": {
-                        "platform": "ios",
-                        "systemRequirements": [
-                            {
-                                "minimum": "12.0",
-                                "recommended": "",
-                                "requirementType": "OS",
-                                "title": "OS version"
-                            }
-                        ],
-                        "technicalDetails": "Fortnite requires an internet connection and supports the following devices: \n- iPhone 11 or later with 4GB RAM\n- iPad Pro 13” (1st gen or later)\n- iPad Pro 11” (3rd gen or later)\n- iPad Air (4th gen or later)\n- iPad Mini (6th gen or later)\n- iPad (10th gen or later)"
-                    },
-                    "title": "Fortnite"
-                },
-                "offerId": "d69e49517f0f4e49a39253f7b106dc27",
-                "sandboxId": "fn"
             }
         ],
         "size": "medium",
