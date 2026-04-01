@@ -1065,6 +1065,62 @@
         "store_url": "<https://store.epicgames.com/product/potion-permit-android-e270c3>",
         "title": "Potion Permit"
     },
+    "1-7c13deca13f3415b9f0f75084bbef55c-7bfba13116014d7db68021387307e87a": {
+        "age_control": 12,
+        "catalog_item_id": "8162f1d43904427aa7fcad61e1c839ec",
+        "checkout_url": "<https://store.epicgames.com/purchase?offers=1-7c13deca13f3415b9f0f75084bbef55c-7bfba13116014d7db68021387307e87a>",
+        "content_descriptors": [
+            "Moderate Violence"
+        ],
+        "current_price": "0",
+        "discount": "-100%",
+        "download_size": "200MB",
+        "end_date": "2026-04-09T15:00:00.000Z",
+        "in_app_purchases": false,
+        "install_size": "200MB",
+        "interactive_elements": [],
+        "media": {
+            "OfferImageTall": "https://cdn1.epicgames.com/spt-assets/9a77263c339546f7b6ae675fddfdeb37/dumb-ways-to-die-2-13fgm.png",
+            "OfferImageWide": "https://cdn1.epicgames.com/spt-assets/9a77263c339546f7b6ae675fddfdeb37/dumb-ways-to-die-2-b89n7.png",
+            "ProductIcon": "https://cdn1.epicgames.com/spt-assets/9a77263c339546f7b6ae675fddfdeb37/dumb-ways-to-die-2-icon-1e6jy.png",
+            "coverImage": "https://cdn1.epicgames.com/spt-assets/9a77263c339546f7b6ae675fddfdeb37/dumb-ways-to-die-2-o2du2.png"
+        },
+        "offer_id": "7bfba13116014d7db68021387307e87a",
+        "original_price": "4.49",
+        "platform": "ios",
+        "sandbox_id": "7c13deca13f3415b9f0f75084bbef55c",
+        "slug": "dumb-ways-to-die-2-ios-2c123d",
+        "store_url": "<https://store.epicgames.com/product/dumb-ways-to-die-2-ios-2c123d>",
+        "title": "Dumb Ways to Die 2: The Games"
+    },
+    "1-7c13deca13f3415b9f0f75084bbef55c-b5699b084cce4db89b0172b2622f157c": {
+        "age_control": 12,
+        "catalog_item_id": "ee1d34ec42024dfeb325f88a282ca314",
+        "checkout_url": "<https://store.epicgames.com/purchase?offers=1-7c13deca13f3415b9f0f75084bbef55c-b5699b084cce4db89b0172b2622f157c>",
+        "content_descriptors": [
+            "Moderate Violence"
+        ],
+        "current_price": "0",
+        "discount": "-100%",
+        "download_size": "142.86 MB",
+        "end_date": "2026-04-09T15:00:00.000Z",
+        "in_app_purchases": false,
+        "install_size": "200MB",
+        "interactive_elements": [],
+        "media": {
+            "OfferImageTall": "https://cdn1.epicgames.com/spt-assets/9a77263c339546f7b6ae675fddfdeb37/dumb-ways-to-die-2-uxg8o.png",
+            "OfferImageWide": "https://cdn1.epicgames.com/spt-assets/9a77263c339546f7b6ae675fddfdeb37/dumb-ways-to-die-2-1hxvx.png",
+            "ProductIcon": "https://cdn1.epicgames.com/spt-assets/9a77263c339546f7b6ae675fddfdeb37/dumb-ways-to-die-2-icon-1e6jy.png",
+            "coverImage": "https://cdn1.epicgames.com/spt-assets/9a77263c339546f7b6ae675fddfdeb37/dumb-ways-to-die-2-o2du2.png"
+        },
+        "offer_id": "b5699b084cce4db89b0172b2622f157c",
+        "original_price": "4.49",
+        "platform": "android",
+        "sandbox_id": "7c13deca13f3415b9f0f75084bbef55c",
+        "slug": "dumb-ways-to-die-2-android-2e8cb3",
+        "store_url": "<https://store.epicgames.com/product/dumb-ways-to-die-2-android-2e8cb3>",
+        "title": "Dumb Ways to Die 2: The Games"
+    },
     "1-7e508f543b05465abe3a935960eb70ac-c9f2ce27f1c44ba9ad0cf4260f9e709e": {
         "age_control": 12,
         "catalog_item_id": "554e4c764f5f432cac68cee5f04c7750",
