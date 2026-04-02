@@ -211,59 +211,59 @@
                 "content": {
                     "ageRating": {
                         "ageGate": {
-                            "gate": "no-gate"
+                            "gate": "age-gate"
                         },
                         "ageRating": {
-                            "ageControl": 12,
+                            "ageControl": 16,
                             "contentDescriptors": [
-                                "Moderate Violence"
+                                "Strong Language"
                             ],
                             "interactiveElements": [],
-                            "ratingImage": "https://cdn1.epicgames.com/gameRating/gameRating/PEGI_12_192_192x192-afa4df43f131bc83eb380ccf22f8d904",
+                            "ratingImage": "https://cdn1.epicgames.com/gameRating/gameRating/PEGI_16_192_192x192-da60f0bd1fe7cb1ac9d8a8bd5168ea96",
                             "ratingSystem": "PEGI",
-                            "rectangularRatingImage": "https://cdn1.epicgames.com/salesEvent/salesEvent/PEGI-12_436x530-0cd1f06607086f3cc1bc2b8643f21b0a",
-                            "title": "PEGI 12"
+                            "rectangularRatingImage": "https://cdn1.epicgames.com/salesEvent/salesEvent/PEGI-16_435x530-65760d498ce28374fb7ca3258ee1440c",
+                            "title": "PEGI 16"
                         },
                         "ratingType": "AgeRating"
                     },
                     "attention": {
                         "inAppPurchases": "None"
                     },
-                    "catalogItemId": "8162f1d43904427aa7fcad61e1c839ec",
+                    "catalogItemId": "42d7286abfb94b12a992a3a9887fdfcf",
                     "categories": [
                         "games",
                         "games/edition",
                         "games/edition/base"
                     ],
                     "mapping": {
-                        "slug": "dumb-ways-to-die-2-ios-2c123d"
+                        "slug": "the-wreck-ios-3c0525"
                     },
                     "media": {
                         "appIcon": {
                             "altText": "-",
                             "height": 512,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/9a77263c339546f7b6ae675fddfdeb37/dumb-ways-to-die-2-icon-1e6jy.png",
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/15ba1dd802b046ee9bba08ffb9e922e0/the-wreck-icon-1h5kx.png",
                             "imageType": "ProductIcon",
                             "width": 512
                         },
                         "card16x9": {
-                            "altText": "Dumb Ways to Die 2 Offer",
+                            "altText": "The Wreck Offer",
                             "height": 1440,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/9a77263c339546f7b6ae675fddfdeb37/dumb-ways-to-die-2-b89n7.png",
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/15ba1dd802b046ee9bba08ffb9e922e0/the-wreck-3xrm9.png",
                             "imageType": "OfferImageWide",
                             "width": 2560
                         },
                         "card3x4": {
-                            "altText": "Download Dumb Ways to Die 2 Offer",
+                            "altText": "Download The Wreck Offer",
                             "height": 1600,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/9a77263c339546f7b6ae675fddfdeb37/dumb-ways-to-die-2-13fgm.png",
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/15ba1dd802b046ee9bba08ffb9e922e0/the-wreck-1uyqk.png",
                             "imageType": "OfferImageTall",
                             "width": 1200
                         },
                         "coverImage": {
                             "altText": "-",
                             "height": 1440,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/9a77263c339546f7b6ae675fddfdeb37/dumb-ways-to-die-2-o2du2.png",
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/15ba1dd802b046ee9bba08ffb9e922e0/the-wreck-1n82g.png",
                             "imageType": "coverImage",
                             "width": 2560
                         }
@@ -273,71 +273,41 @@
                             "offerLifecycleState": "Release",
                             "price": {
                                 "currencyCode": "EUR",
-                                "decimalPrice": 4.49
+                                "decimalPrice": 7.19
                             },
-                            "priceDisplay": "€4.49",
+                            "priceDisplay": "€7.19",
                             "purchasePayload": {
-                                "offerId": "7bfba13116014d7db68021387307e87a",
-                                "sandboxId": "7c13deca13f3415b9f0f75084bbef55c"
-                            },
-                            "purchaseType": "Purchase"
-                        },
-                        {
-                            "discount": {
-                                "discountAmountDisplay": "-100%",
-                                "discountEndDate": "2026-04-09T15:00:00.000Z",
-                                "originalPriceDisplay": "€4.49"
-                            },
-                            "offerLifecycleState": "Release",
-                            "price": {
-                                "currencyCode": "EUR",
-                                "decimalPrice": 0
-                            },
-                            "purchasePayload": {
-                                "offerId": "7bfba13116014d7db68021387307e87a",
-                                "sandboxId": "7c13deca13f3415b9f0f75084bbef55c"
-                            },
-                            "purchaseType": "Claim"
-                        },
-                        {
-                            "offerLifecycleState": "Release",
-                            "price": {
-                                "currencyCode": "EUR",
-                                "decimalPrice": 4.49
-                            },
-                            "priceDisplay": "€4.49",
-                            "purchasePayload": {
-                                "offerId": "7bfba13116014d7db68021387307e87a",
-                                "sandboxId": "7c13deca13f3415b9f0f75084bbef55c"
+                                "offerId": "b322f1cd749b4860a9cb6d1c229605b1",
+                                "sandboxId": "d99073ba85b1432198e7e23009efda4d"
                             },
                             "purchaseType": "Purchase"
                         }
                     ],
                     "systemSpecs": {
-                        "applicationVersion": "1.0",
+                        "applicationVersion": "1.5",
                         "platform": "ios",
                         "systemRequirements": [
                             {
-                                "minimum": "200MB",
+                                "minimum": "600 Mo",
                                 "requirementType": "InstallSize",
                                 "title": "Installation size"
                             },
                             {
-                                "minimum": "200MB",
+                                "minimum": "400 Mo",
                                 "requirementType": "DownloadSize",
                                 "title": "Download size"
                             },
                             {
-                                "minimum": "12.0",
+                                "minimum": "16",
                                 "requirementType": "OS",
                                 "title": "OS version"
                             }
                         ]
                     },
-                    "title": "Dumb Ways to Die 2: The Games"
+                    "title": "The Wreck"
                 },
-                "offerId": "7bfba13116014d7db68021387307e87a",
-                "sandboxId": "7c13deca13f3415b9f0f75084bbef55c"
+                "offerId": "b322f1cd749b4860a9cb6d1c229605b1",
+                "sandboxId": "d99073ba85b1432198e7e23009efda4d"
             },
             {
                 "content": {
@@ -3019,25 +2989,25 @@
                 "content": {
                     "ageRating": {
                         "ageGate": {
-                            "gate": "age-gate"
+                            "gate": "no-gate"
                         },
                         "ageRating": {
-                            "ageControl": 16,
+                            "ageControl": 12,
                             "contentDescriptors": [
-                                "Strong Language"
+                                "Moderate Violence"
                             ],
                             "interactiveElements": [],
-                            "ratingImage": "https://cdn1.epicgames.com/gameRating/gameRating/PEGI_16_192_192x192-da60f0bd1fe7cb1ac9d8a8bd5168ea96",
+                            "ratingImage": "https://cdn1.epicgames.com/gameRating/gameRating/PEGI_12_192_192x192-afa4df43f131bc83eb380ccf22f8d904",
                             "ratingSystem": "PEGI",
-                            "rectangularRatingImage": "https://cdn1.epicgames.com/salesEvent/salesEvent/PEGI-16_435x530-65760d498ce28374fb7ca3258ee1440c",
-                            "title": "PEGI 16"
+                            "rectangularRatingImage": "https://cdn1.epicgames.com/salesEvent/salesEvent/PEGI-12_436x530-0cd1f06607086f3cc1bc2b8643f21b0a",
+                            "title": "PEGI 12"
                         },
                         "ratingType": "AgeRating"
                     },
                     "attention": {
                         "inAppPurchases": "None"
                     },
-                    "catalogItemId": "42d7286abfb94b12a992a3a9887fdfcf",
+                    "catalogItemId": "8162f1d43904427aa7fcad61e1c839ec",
                     "categories": [
                         "freegames",
                         "games",
@@ -3045,34 +3015,34 @@
                         "games/edition/base"
                     ],
                     "mapping": {
-                        "slug": "the-wreck-ios-3c0525"
+                        "slug": "dumb-ways-to-die-2-ios-2c123d"
                     },
                     "media": {
                         "appIcon": {
                             "altText": "-",
                             "height": 512,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/15ba1dd802b046ee9bba08ffb9e922e0/the-wreck-icon-1h5kx.png",
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/9a77263c339546f7b6ae675fddfdeb37/dumb-ways-to-die-2-icon-1e6jy.png",
                             "imageType": "ProductIcon",
                             "width": 512
                         },
                         "card16x9": {
-                            "altText": "The Wreck Offer",
+                            "altText": "Dumb Ways to Die 2 Offer",
                             "height": 1440,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/15ba1dd802b046ee9bba08ffb9e922e0/the-wreck-3xrm9.png",
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/9a77263c339546f7b6ae675fddfdeb37/dumb-ways-to-die-2-b89n7.png",
                             "imageType": "OfferImageWide",
                             "width": 2560
                         },
                         "card3x4": {
-                            "altText": "Download The Wreck Offer",
+                            "altText": "Download Dumb Ways to Die 2 Offer",
                             "height": 1600,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/15ba1dd802b046ee9bba08ffb9e922e0/the-wreck-1uyqk.png",
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/9a77263c339546f7b6ae675fddfdeb37/dumb-ways-to-die-2-13fgm.png",
                             "imageType": "OfferImageTall",
                             "width": 1200
                         },
                         "coverImage": {
                             "altText": "-",
                             "height": 1440,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/15ba1dd802b046ee9bba08ffb9e922e0/the-wreck-1n82g.png",
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/9a77263c339546f7b6ae675fddfdeb37/dumb-ways-to-die-2-o2du2.png",
                             "imageType": "coverImage",
                             "width": 2560
                         }
@@ -3081,8 +3051,8 @@
                         {
                             "discount": {
                                 "discountAmountDisplay": "-100%",
-                                "discountEndDate": "2026-04-02T15:00:00.000Z",
-                                "originalPriceDisplay": "€7.19"
+                                "discountEndDate": "2026-04-09T15:00:00.000Z",
+                                "originalPriceDisplay": "€4.49"
                             },
                             "offerLifecycleState": "Release",
                             "price": {
@@ -3090,8 +3060,8 @@
                                 "decimalPrice": 0
                             },
                             "purchasePayload": {
-                                "offerId": "b322f1cd749b4860a9cb6d1c229605b1",
-                                "sandboxId": "d99073ba85b1432198e7e23009efda4d"
+                                "offerId": "7bfba13116014d7db68021387307e87a",
+                                "sandboxId": "7c13deca13f3415b9f0f75084bbef55c"
                             },
                             "purchaseType": "Claim"
                         },
@@ -3099,41 +3069,41 @@
                             "offerLifecycleState": "Release",
                             "price": {
                                 "currencyCode": "EUR",
-                                "decimalPrice": 7.19
+                                "decimalPrice": 4.49
                             },
-                            "priceDisplay": "€7.19",
+                            "priceDisplay": "€4.49",
                             "purchasePayload": {
-                                "offerId": "b322f1cd749b4860a9cb6d1c229605b1",
-                                "sandboxId": "d99073ba85b1432198e7e23009efda4d"
+                                "offerId": "7bfba13116014d7db68021387307e87a",
+                                "sandboxId": "7c13deca13f3415b9f0f75084bbef55c"
                             },
                             "purchaseType": "Purchase"
                         }
                     ],
                     "systemSpecs": {
-                        "applicationVersion": "1.5",
+                        "applicationVersion": "1.0",
                         "platform": "ios",
                         "systemRequirements": [
                             {
-                                "minimum": "600 Mo",
+                                "minimum": "200MB",
                                 "requirementType": "InstallSize",
                                 "title": "Installation size"
                             },
                             {
-                                "minimum": "400 Mo",
+                                "minimum": "200MB",
                                 "requirementType": "DownloadSize",
                                 "title": "Download size"
                             },
                             {
-                                "minimum": "16",
+                                "minimum": "12.0",
                                 "requirementType": "OS",
                                 "title": "OS version"
                             }
                         ]
                     },
-                    "title": "The Wreck"
+                    "title": "Dumb Ways to Die 2: The Games"
                 },
-                "offerId": "b322f1cd749b4860a9cb6d1c229605b1",
-                "sandboxId": "d99073ba85b1432198e7e23009efda4d"
+                "offerId": "7bfba13116014d7db68021387307e87a",
+                "sandboxId": "7c13deca13f3415b9f0f75084bbef55c"
             }
         ],
         "size": "large",
@@ -7387,19 +7357,6 @@
                         }
                     },
                     "purchase": [
-                        {
-                            "offerLifecycleState": "Release",
-                            "price": {
-                                "currencyCode": "EUR",
-                                "decimalPrice": 4.99
-                            },
-                            "priceDisplay": "€4.99",
-                            "purchasePayload": {
-                                "offerId": "333fe8af0d3a45729c8fc4edb2c53c9b",
-                                "sandboxId": "438f0dfdc1a2432b99005457b60e319f"
-                            },
-                            "purchaseType": "Purchase"
-                        },
                         {
                             "discount": {
                                 "discountAmountDisplay": "-50%",
