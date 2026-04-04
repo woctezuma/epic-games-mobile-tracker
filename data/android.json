@@ -808,7 +808,7 @@
                         }
                     ],
                     "systemSpecs": {
-                        "applicationVersion": "1.5.66EPG",
+                        "applicationVersion": "1.5.74EPG",
                         "platform": "android",
                         "systemRequirements": [
                             {
@@ -817,12 +817,12 @@
                                 "title": "Installation size"
                             },
                             {
-                                "minimum": "55.05 MB",
+                                "minimum": "56.29 MB",
                                 "requirementType": "DownloadSize",
                                 "title": "Download size"
                             },
                             {
-                                "minimum": "6.0",
+                                "minimum": "7.0",
                                 "requirementType": "OS",
                                 "title": "OS version"
                             }
@@ -12803,19 +12803,6 @@
                         }
                     },
                     "purchase": [
-                        {
-                            "offerLifecycleState": "Release",
-                            "price": {
-                                "currencyCode": "EUR",
-                                "decimalPrice": 2.99
-                            },
-                            "priceDisplay": "€2.99",
-                            "purchasePayload": {
-                                "offerId": "c993c271286e434c9b5398dd050e22b5",
-                                "sandboxId": "6d089f46d38b4e979746362dac9f356b"
-                            },
-                            "purchaseType": "Purchase"
-                        },
                         {
                             "discount": {
                                 "discountAmountDisplay": "-67%",
