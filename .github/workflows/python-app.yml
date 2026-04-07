@@ -3,11 +3,16 @@ name: Update
 on:
   workflow_dispatch:
   schedule:
-    - cron: '15 16 * * *'
+    - cron: '15 17 * * *'
+      timezone: 'Europe/Paris'
     - cron: '35 18-23 * * 3'
-    - cron: '35 0-15 * * 4'
-    - cron: '40 0-15,18-23 11-31 12 *'
-    - cron: '40 0-15,18-23 1-6 1 *'
+      timezone: 'Europe/Paris'
+    - cron: '35 0-16 * * 4'
+      timezone: 'Europe/Paris'
+    - cron: '40 0-16,18-23 11-31 12 *'
+      timezone: 'Europe/Paris'
+    - cron: '40 0-16,18-23 1-6 1 *'
+      timezone: 'Europe/Paris'
 
 jobs:
   scheduled:
