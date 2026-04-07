@@ -808,7 +808,7 @@
                         }
                     ],
                     "systemSpecs": {
-                        "applicationVersion": "1.5.74EPG",
+                        "applicationVersion": "1.5.75EPG",
                         "platform": "android",
                         "systemRequirements": [
                             {
