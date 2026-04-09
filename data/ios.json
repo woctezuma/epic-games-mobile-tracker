@@ -27,42 +27,41 @@
                     "attention": {
                         "inAppPurchases": "None"
                     },
-                    "catalogItemId": "fad4b316ebb0451499a502e72cd108b0",
+                    "catalogItemId": "8162f1d43904427aa7fcad61e1c839ec",
                     "categories": [
-                        "freegames",
                         "games",
                         "games/edition",
                         "games/edition/base"
                     ],
                     "mapping": {
-                        "slug": "dumb-ways-to-draw-ios-3e511b"
+                        "slug": "dumb-ways-to-die-2-ios-2c123d"
                     },
                     "media": {
                         "appIcon": {
                             "altText": "-",
                             "height": 512,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/67f9b7f8cd35411685bfa78500185af2/dumb-ways-to-draw-icon-1chz4.png",
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/9a77263c339546f7b6ae675fddfdeb37/dumb-ways-to-die-2-icon-1e6jy.png",
                             "imageType": "ProductIcon",
                             "width": 512
                         },
                         "card16x9": {
-                            "altText": "Dumb Ways to Draw Offer",
+                            "altText": "Dumb Ways to Die 2 Offer",
                             "height": 1440,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/67f9b7f8cd35411685bfa78500185af2/dumb-ways-to-draw-iayyn.png",
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/9a77263c339546f7b6ae675fddfdeb37/dumb-ways-to-die-2-b89n7.png",
                             "imageType": "OfferImageWide",
                             "width": 2560
                         },
                         "card3x4": {
-                            "altText": "Download Dumb Ways to Draw Offer",
+                            "altText": "Download Dumb Ways to Die 2 Offer",
                             "height": 1600,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/67f9b7f8cd35411685bfa78500185af2/dumb-ways-to-draw-1v4sp.png",
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/9a77263c339546f7b6ae675fddfdeb37/dumb-ways-to-die-2-13fgm.png",
                             "imageType": "OfferImageTall",
                             "width": 1200
                         },
                         "coverImage": {
                             "altText": "-",
                             "height": 1440,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/67f9b7f8cd35411685bfa78500185af2/dumb-ways-to-draw-1wv13.png",
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/9a77263c339546f7b6ae675fddfdeb37/dumb-ways-to-die-2-o2du2.png",
                             "imageType": "coverImage",
                             "width": 2560
                         }
@@ -76,38 +75,8 @@
                             },
                             "priceDisplay": "€4.49",
                             "purchasePayload": {
-                                "offerId": "bd23d23ef7694dc0b190db148c4e8458",
-                                "sandboxId": "216a3608162a484c8a20b00b011960f8"
-                            },
-                            "purchaseType": "Purchase"
-                        },
-                        {
-                            "discount": {
-                                "discountAmountDisplay": "-100%",
-                                "discountEndDate": "2026-04-16T15:00:00.000Z",
-                                "originalPriceDisplay": "€4.49"
-                            },
-                            "offerLifecycleState": "Release",
-                            "price": {
-                                "currencyCode": "EUR",
-                                "decimalPrice": 0
-                            },
-                            "purchasePayload": {
-                                "offerId": "bd23d23ef7694dc0b190db148c4e8458",
-                                "sandboxId": "216a3608162a484c8a20b00b011960f8"
-                            },
-                            "purchaseType": "Claim"
-                        },
-                        {
-                            "offerLifecycleState": "Release",
-                            "price": {
-                                "currencyCode": "EUR",
-                                "decimalPrice": 4.49
-                            },
-                            "priceDisplay": "€4.49",
-                            "purchasePayload": {
-                                "offerId": "bd23d23ef7694dc0b190db148c4e8458",
-                                "sandboxId": "216a3608162a484c8a20b00b011960f8"
+                                "offerId": "7bfba13116014d7db68021387307e87a",
+                                "sandboxId": "7c13deca13f3415b9f0f75084bbef55c"
                             },
                             "purchaseType": "Purchase"
                         }
@@ -117,12 +86,12 @@
                         "platform": "ios",
                         "systemRequirements": [
                             {
-                                "minimum": "110MB",
+                                "minimum": "200MB",
                                 "requirementType": "InstallSize",
                                 "title": "Installation size"
                             },
                             {
-                                "minimum": "110MB",
+                                "minimum": "200MB",
                                 "requirementType": "DownloadSize",
                                 "title": "Download size"
                             },
@@ -133,10 +102,10 @@
                             }
                         ]
                     },
-                    "title": "Dumb Ways to Draw"
+                    "title": "Dumb Ways to Die 2: The Games"
                 },
-                "offerId": "bd23d23ef7694dc0b190db148c4e8458",
-                "sandboxId": "216a3608162a484c8a20b00b011960f8"
+                "offerId": "7bfba13116014d7db68021387307e87a",
+                "sandboxId": "7c13deca13f3415b9f0f75084bbef55c"
             },
             {
                 "content": {
@@ -3038,7 +3007,7 @@
                     "attention": {
                         "inAppPurchases": "None"
                     },
-                    "catalogItemId": "8162f1d43904427aa7fcad61e1c839ec",
+                    "catalogItemId": "fad4b316ebb0451499a502e72cd108b0",
                     "categories": [
                         "freegames",
                         "games",
@@ -3046,34 +3015,34 @@
                         "games/edition/base"
                     ],
                     "mapping": {
-                        "slug": "dumb-ways-to-die-2-ios-2c123d"
+                        "slug": "dumb-ways-to-draw-ios-3e511b"
                     },
                     "media": {
                         "appIcon": {
                             "altText": "-",
                             "height": 512,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/9a77263c339546f7b6ae675fddfdeb37/dumb-ways-to-die-2-icon-1e6jy.png",
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/67f9b7f8cd35411685bfa78500185af2/dumb-ways-to-draw-icon-1chz4.png",
                             "imageType": "ProductIcon",
                             "width": 512
                         },
                         "card16x9": {
-                            "altText": "Dumb Ways to Die 2 Offer",
+                            "altText": "Dumb Ways to Draw Offer",
                             "height": 1440,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/9a77263c339546f7b6ae675fddfdeb37/dumb-ways-to-die-2-b89n7.png",
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/67f9b7f8cd35411685bfa78500185af2/dumb-ways-to-draw-iayyn.png",
                             "imageType": "OfferImageWide",
                             "width": 2560
                         },
                         "card3x4": {
-                            "altText": "Download Dumb Ways to Die 2 Offer",
+                            "altText": "Download Dumb Ways to Draw Offer",
                             "height": 1600,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/9a77263c339546f7b6ae675fddfdeb37/dumb-ways-to-die-2-13fgm.png",
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/67f9b7f8cd35411685bfa78500185af2/dumb-ways-to-draw-1v4sp.png",
                             "imageType": "OfferImageTall",
                             "width": 1200
                         },
                         "coverImage": {
                             "altText": "-",
                             "height": 1440,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/9a77263c339546f7b6ae675fddfdeb37/dumb-ways-to-die-2-o2du2.png",
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/67f9b7f8cd35411685bfa78500185af2/dumb-ways-to-draw-1wv13.png",
                             "imageType": "coverImage",
                             "width": 2560
                         }
@@ -3082,7 +3051,7 @@
                         {
                             "discount": {
                                 "discountAmountDisplay": "-100%",
-                                "discountEndDate": "2026-04-09T15:00:00.000Z",
+                                "discountEndDate": "2026-04-16T15:00:00.000Z",
                                 "originalPriceDisplay": "€4.49"
                             },
                             "offerLifecycleState": "Release",
@@ -3091,8 +3060,8 @@
                                 "decimalPrice": 0
                             },
                             "purchasePayload": {
-                                "offerId": "7bfba13116014d7db68021387307e87a",
-                                "sandboxId": "7c13deca13f3415b9f0f75084bbef55c"
+                                "offerId": "bd23d23ef7694dc0b190db148c4e8458",
+                                "sandboxId": "216a3608162a484c8a20b00b011960f8"
                             },
                             "purchaseType": "Claim"
                         },
@@ -3104,8 +3073,8 @@
                             },
                             "priceDisplay": "€4.49",
                             "purchasePayload": {
-                                "offerId": "7bfba13116014d7db68021387307e87a",
-                                "sandboxId": "7c13deca13f3415b9f0f75084bbef55c"
+                                "offerId": "bd23d23ef7694dc0b190db148c4e8458",
+                                "sandboxId": "216a3608162a484c8a20b00b011960f8"
                             },
                             "purchaseType": "Purchase"
                         }
@@ -3115,12 +3084,12 @@
                         "platform": "ios",
                         "systemRequirements": [
                             {
-                                "minimum": "200MB",
+                                "minimum": "110MB",
                                 "requirementType": "InstallSize",
                                 "title": "Installation size"
                             },
                             {
-                                "minimum": "200MB",
+                                "minimum": "110MB",
                                 "requirementType": "DownloadSize",
                                 "title": "Download size"
                             },
@@ -3131,10 +3100,10 @@
                             }
                         ]
                     },
-                    "title": "Dumb Ways to Die 2: The Games"
+                    "title": "Dumb Ways to Draw"
                 },
-                "offerId": "7bfba13116014d7db68021387307e87a",
-                "sandboxId": "7c13deca13f3415b9f0f75084bbef55c"
+                "offerId": "bd23d23ef7694dc0b190db148c4e8458",
+                "sandboxId": "216a3608162a484c8a20b00b011960f8"
             }
         ],
         "size": "large",
