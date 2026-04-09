@@ -5575,7 +5575,7 @@
                         }
                     ],
                     "systemSpecs": {
-                        "applicationVersion": "1.17",
+                        "applicationVersion": "1.18",
                         "platform": "android",
                         "systemRequirements": [
                             {
