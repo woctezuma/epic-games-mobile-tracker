@@ -10698,7 +10698,7 @@
                         }
                     ],
                     "systemSpecs": {
-                        "applicationVersion": "1.642",
+                        "applicationVersion": "1.644",
                         "platform": "android",
                         "systemRequirements": [
                             {
@@ -10707,7 +10707,7 @@
                                 "title": "Installation size"
                             },
                             {
-                                "minimum": "182.50 MB",
+                                "minimum": "182.58 MB",
                                 "requirementType": "DownloadSize",
                                 "title": "Download size"
                             },
@@ -13091,19 +13091,6 @@
                         }
                     },
                     "purchase": [
-                        {
-                            "offerLifecycleState": "Release",
-                            "price": {
-                                "currencyCode": "EUR",
-                                "decimalPrice": 4.49
-                            },
-                            "priceDisplay": "€4.49",
-                            "purchasePayload": {
-                                "offerId": "2017232f36944987848e04aea396ce26",
-                                "sandboxId": "0b8d22f6921241e5887b132935d571e4"
-                            },
-                            "purchaseType": "Purchase"
-                        },
                         {
                             "discount": {
                                 "discountAmountDisplay": "-50%",
@@ -16448,19 +16435,6 @@
                         }
                     },
                     "purchase": [
-                        {
-                            "offerLifecycleState": "Release",
-                            "price": {
-                                "currencyCode": "EUR",
-                                "decimalPrice": 3.59
-                            },
-                            "priceDisplay": "€3.59",
-                            "purchasePayload": {
-                                "offerId": "41b112550ca546e683fff7216ef9299d",
-                                "sandboxId": "7e0c3ac97664454a9a93792d3b1da19d"
-                            },
-                            "purchaseType": "Purchase"
-                        },
                         {
                             "discount": {
                                 "discountAmountDisplay": "-60%",
