@@ -1789,6 +1789,34 @@
         "store_url": "<https://store.epicgames.com/product/broken-sword-reforged-android-6a7c91>",
         "title": "Broken Sword : Reforged"
     },
+    "1-b6f2c874cc5640e28239ec3554963f87-47feda1e68cf4fc996baa59c252aeadc": {
+        "age_control": 16,
+        "catalog_item_id": "c6d4a145290a4a9e9c2f9c831020e8fe",
+        "checkout_url": "<https://store.epicgames.com/purchase?offers=1-b6f2c874cc5640e28239ec3554963f87-47feda1e68cf4fc996baa59c252aeadc>",
+        "content_descriptors": [
+            "Strong Violence"
+        ],
+        "current_price": "0",
+        "discount": "-100%",
+        "download_size": "1.5Gb",
+        "end_date": "2026-04-23T15:00:00.000Z",
+        "in_app_purchases": false,
+        "install_size": "2Gb",
+        "interactive_elements": [],
+        "media": {
+            "OfferImageTall": "https://cdn1.epicgames.com/spt-assets/5c57a17028644a7e9974bc7f54d2728a/broken-sword--reforged-3c7n0.jpg",
+            "OfferImageWide": "https://cdn1.epicgames.com/spt-assets/5c57a17028644a7e9974bc7f54d2728a/broken-sword--reforged-1j7hr.jpg",
+            "ProductIcon": "https://cdn1.epicgames.com/spt-assets/5c57a17028644a7e9974bc7f54d2728a/broken-sword--reforged-icon-188x0.png",
+            "coverImage": "https://cdn1.epicgames.com/spt-assets/5c57a17028644a7e9974bc7f54d2728a/broken-sword--reforged-a4o8g.jpg"
+        },
+        "offer_id": "47feda1e68cf4fc996baa59c252aeadc",
+        "original_price": "8.99",
+        "platform": "ios",
+        "sandbox_id": "b6f2c874cc5640e28239ec3554963f87",
+        "slug": "broken-sword-reforged-ios-6d7670",
+        "store_url": "<https://store.epicgames.com/product/broken-sword-reforged-ios-6d7670>",
+        "title": "Broken Sword : Reforged"
+    },
     "1-bd304830208f4c42a56f1ac6ad5eecd6-a810e4372e48455c95b6488e275a46ac": {
         "age_control": 3,
         "catalog_item_id": "fecc56b0f15f4de08fff1abcf64b4638",
