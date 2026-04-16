@@ -1038,6 +1038,108 @@
                             "gate": "no-gate"
                         },
                         "ageRating": {
+                            "ageControl": 12,
+                            "contentDescriptors": [
+                                "Moderate Violence"
+                            ],
+                            "interactiveElements": [],
+                            "ratingImage": "https://cdn1.epicgames.com/gameRating/gameRating/PEGI_12_192_192x192-afa4df43f131bc83eb380ccf22f8d904",
+                            "ratingSystem": "PEGI",
+                            "rectangularRatingImage": "https://cdn1.epicgames.com/salesEvent/salesEvent/PEGI-12_436x530-0cd1f06607086f3cc1bc2b8643f21b0a",
+                            "title": "PEGI 12"
+                        },
+                        "ratingType": "AgeRating"
+                    },
+                    "attention": {
+                        "inAppPurchases": "None"
+                    },
+                    "catalogItemId": "6f77be7f45994d1383892435b626b40a",
+                    "categories": [
+                        "games",
+                        "games/edition",
+                        "games/edition/base"
+                    ],
+                    "mapping": {
+                        "slug": "dumb-ways-to-draw-android-3bce1a"
+                    },
+                    "media": {
+                        "appIcon": {
+                            "altText": "-",
+                            "height": 512,
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/67f9b7f8cd35411685bfa78500185af2/dumb-ways-to-draw-icon-1chz4.png",
+                            "imageType": "ProductIcon",
+                            "width": 512
+                        },
+                        "card16x9": {
+                            "altText": "Dumb Ways to Draw Offer",
+                            "height": 1440,
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/67f9b7f8cd35411685bfa78500185af2/dumb-ways-to-draw-11deh.png",
+                            "imageType": "OfferImageWide",
+                            "width": 2560
+                        },
+                        "card3x4": {
+                            "altText": "Download Dumb Ways to Draw Offer",
+                            "height": 1600,
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/67f9b7f8cd35411685bfa78500185af2/dumb-ways-to-draw-8uv4c.png",
+                            "imageType": "OfferImageTall",
+                            "width": 1200
+                        },
+                        "coverImage": {
+                            "altText": "-",
+                            "height": 1440,
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/67f9b7f8cd35411685bfa78500185af2/dumb-ways-to-draw-1wv13.png",
+                            "imageType": "coverImage",
+                            "width": 2560
+                        }
+                    },
+                    "purchase": [
+                        {
+                            "offerLifecycleState": "Release",
+                            "price": {
+                                "currencyCode": "EUR",
+                                "decimalPrice": 4.49
+                            },
+                            "priceDisplay": "€4.49",
+                            "purchasePayload": {
+                                "offerId": "dafe6b34ee364732a8cb77995b190876",
+                                "sandboxId": "216a3608162a484c8a20b00b011960f8"
+                            },
+                            "purchaseType": "Purchase"
+                        }
+                    ],
+                    "systemSpecs": {
+                        "applicationVersion": "5.0.17",
+                        "platform": "android",
+                        "systemRequirements": [
+                            {
+                                "minimum": "110MB",
+                                "requirementType": "InstallSize",
+                                "title": "Installation size"
+                            },
+                            {
+                                "minimum": "147.84 MB",
+                                "requirementType": "DownloadSize",
+                                "title": "Download size"
+                            },
+                            {
+                                "minimum": "9",
+                                "requirementType": "OS",
+                                "title": "OS version"
+                            }
+                        ]
+                    },
+                    "title": "Dumb Ways to Draw"
+                },
+                "offerId": "dafe6b34ee364732a8cb77995b190876",
+                "sandboxId": "216a3608162a484c8a20b00b011960f8"
+            },
+            {
+                "content": {
+                    "ageRating": {
+                        "ageGate": {
+                            "gate": "no-gate"
+                        },
+                        "ageRating": {
                             "ageControl": 3,
                             "contentDescriptors": [],
                             "interactiveElements": [
@@ -2144,106 +2246,6 @@
                 },
                 "offerId": "42d9af0f0e5847998fe34fccf1e6155c",
                 "sandboxId": "09f3b065edec4d4baeaeffa689a7292b"
-            },
-            {
-                "content": {
-                    "ageRating": {
-                        "ageGate": {
-                            "gate": "no-gate"
-                        },
-                        "ageRating": {
-                            "ageControl": 3,
-                            "contentDescriptors": [],
-                            "interactiveElements": [],
-                            "ratingImage": "https://cdn1.epicgames.com/gameRating/gameRating/PEGI_3_192_192x192-490b93ddf59fb4ac1148d1eb9083626a",
-                            "ratingSystem": "PEGI",
-                            "rectangularRatingImage": "https://cdn1.epicgames.com/salesEvent/salesEvent/PEGI-3_435x530-c931ab5bb4eb190f6e8e542081c49dc4",
-                            "title": "PEGI 3"
-                        },
-                        "ratingType": "AgeRating"
-                    },
-                    "attention": {
-                        "inAppPurchases": "None"
-                    },
-                    "catalogItemId": "65b4cde31aa647e389eb6b500ad30a50",
-                    "categories": [
-                        "games",
-                        "games/edition",
-                        "games/edition/base"
-                    ],
-                    "mapping": {
-                        "slug": "doodle-tanks-war-alchemy-android-9f8cc8"
-                    },
-                    "media": {
-                        "appIcon": {
-                            "altText": "-",
-                            "height": 512,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/2b7f1e56c24d4b4ca2b10ecd0cb8e758/doodle-tanks-war-alchemy-icon-1xqw7.png",
-                            "imageType": "ProductIcon",
-                            "width": 512
-                        },
-                        "card16x9": {
-                            "altText": "Doodle Tanks: War Alchemy Offer",
-                            "height": 1440,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/2b7f1e56c24d4b4ca2b10ecd0cb8e758/doodle-tanks-war-alchemy-1hpsk.jpg",
-                            "imageType": "OfferImageWide",
-                            "width": 2560
-                        },
-                        "card3x4": {
-                            "altText": "Download Doodle Tanks: War Alchemy Offer",
-                            "height": 1600,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/2b7f1e56c24d4b4ca2b10ecd0cb8e758/doodle-tanks-war-alchemy-947lj.png",
-                            "imageType": "OfferImageTall",
-                            "width": 1200
-                        },
-                        "coverImage": {
-                            "altText": "-",
-                            "height": 1440,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/2b7f1e56c24d4b4ca2b10ecd0cb8e758/doodle-tanks-war-alchemy-4w3uo.jpg",
-                            "imageType": "coverImage",
-                            "width": 2560
-                        }
-                    },
-                    "purchase": [
-                        {
-                            "offerLifecycleState": "Release",
-                            "price": {
-                                "currencyCode": "EUR",
-                                "decimalPrice": 2.19
-                            },
-                            "priceDisplay": "€2.19",
-                            "purchasePayload": {
-                                "offerId": "5ea1c281b01348ea8dc6edb721665cac",
-                                "sandboxId": "f29b6616ea164bad893bce5dc1c089be"
-                            },
-                            "purchaseType": "Purchase"
-                        }
-                    ],
-                    "systemSpecs": {
-                        "applicationVersion": "2.0.9",
-                        "platform": "android",
-                        "systemRequirements": [
-                            {
-                                "minimum": "146 MB",
-                                "requirementType": "InstallSize",
-                                "title": "Installation size"
-                            },
-                            {
-                                "minimum": "84.54 MB",
-                                "requirementType": "DownloadSize",
-                                "title": "Download size"
-                            },
-                            {
-                                "minimum": "7.0",
-                                "requirementType": "OS",
-                                "title": "OS version"
-                            }
-                        ]
-                    },
-                    "title": "Doodle Tanks: War Alchemy"
-                },
-                "offerId": "5ea1c281b01348ea8dc6edb721665cac",
-                "sandboxId": "f29b6616ea164bad893bce5dc1c089be"
             }
         ],
         "size": "large",
@@ -3097,25 +3099,25 @@
                 "content": {
                     "ageRating": {
                         "ageGate": {
-                            "gate": "no-gate"
+                            "gate": "age-gate"
                         },
                         "ageRating": {
-                            "ageControl": 12,
+                            "ageControl": 16,
                             "contentDescriptors": [
-                                "Moderate Violence"
+                                "Strong Violence"
                             ],
                             "interactiveElements": [],
-                            "ratingImage": "https://cdn1.epicgames.com/gameRating/gameRating/PEGI_12_192_192x192-afa4df43f131bc83eb380ccf22f8d904",
+                            "ratingImage": "https://cdn1.epicgames.com/gameRating/gameRating/PEGI_16_192_192x192-da60f0bd1fe7cb1ac9d8a8bd5168ea96",
                             "ratingSystem": "PEGI",
-                            "rectangularRatingImage": "https://cdn1.epicgames.com/salesEvent/salesEvent/PEGI-12_436x530-0cd1f06607086f3cc1bc2b8643f21b0a",
-                            "title": "PEGI 12"
+                            "rectangularRatingImage": "https://cdn1.epicgames.com/salesEvent/salesEvent/PEGI-16_435x530-65760d498ce28374fb7ca3258ee1440c",
+                            "title": "PEGI 16"
                         },
                         "ratingType": "AgeRating"
                     },
                     "attention": {
                         "inAppPurchases": "None"
                     },
-                    "catalogItemId": "6f77be7f45994d1383892435b626b40a",
+                    "catalogItemId": "acc0222d5eb84f3a93e708ed198f89c4",
                     "categories": [
                         "freegames",
                         "games",
@@ -3123,34 +3125,34 @@
                         "games/edition/base"
                     ],
                     "mapping": {
-                        "slug": "dumb-ways-to-draw-android-3bce1a"
+                        "slug": "broken-sword-reforged-android-6a7c91"
                     },
                     "media": {
                         "appIcon": {
                             "altText": "-",
                             "height": 512,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/67f9b7f8cd35411685bfa78500185af2/dumb-ways-to-draw-icon-1chz4.png",
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/5c57a17028644a7e9974bc7f54d2728a/broken-sword--reforged-icon-188x0.png",
                             "imageType": "ProductIcon",
                             "width": 512
                         },
                         "card16x9": {
-                            "altText": "Dumb Ways to Draw Offer",
+                            "altText": "Broken Sword : Reforged Offer",
                             "height": 1440,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/67f9b7f8cd35411685bfa78500185af2/dumb-ways-to-draw-11deh.png",
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/5c57a17028644a7e9974bc7f54d2728a/broken-sword--reforged-15ck4.jpg",
                             "imageType": "OfferImageWide",
                             "width": 2560
                         },
                         "card3x4": {
-                            "altText": "Download Dumb Ways to Draw Offer",
+                            "altText": "Download Broken Sword : Reforged Offer",
                             "height": 1600,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/67f9b7f8cd35411685bfa78500185af2/dumb-ways-to-draw-8uv4c.png",
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/5c57a17028644a7e9974bc7f54d2728a/broken-sword--reforged-xb0f6.jpg",
                             "imageType": "OfferImageTall",
                             "width": 1200
                         },
                         "coverImage": {
                             "altText": "-",
                             "height": 1440,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/67f9b7f8cd35411685bfa78500185af2/dumb-ways-to-draw-1wv13.png",
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/5c57a17028644a7e9974bc7f54d2728a/broken-sword--reforged-a4o8g.jpg",
                             "imageType": "coverImage",
                             "width": 2560
                         }
@@ -3159,8 +3161,8 @@
                         {
                             "discount": {
                                 "discountAmountDisplay": "-100%",
-                                "discountEndDate": "2026-04-16T15:00:00.000Z",
-                                "originalPriceDisplay": "€4.49"
+                                "discountEndDate": "2026-04-23T15:00:00.000Z",
+                                "originalPriceDisplay": "€8.99"
                             },
                             "offerLifecycleState": "Release",
                             "price": {
@@ -3168,8 +3170,8 @@
                                 "decimalPrice": 0
                             },
                             "purchasePayload": {
-                                "offerId": "dafe6b34ee364732a8cb77995b190876",
-                                "sandboxId": "216a3608162a484c8a20b00b011960f8"
+                                "offerId": "1ef6242d92094e189b2780b615142c1a",
+                                "sandboxId": "b6f2c874cc5640e28239ec3554963f87"
                             },
                             "purchaseType": "Claim"
                         },
@@ -3177,41 +3179,41 @@
                             "offerLifecycleState": "Release",
                             "price": {
                                 "currencyCode": "EUR",
-                                "decimalPrice": 4.49
+                                "decimalPrice": 8.99
                             },
-                            "priceDisplay": "€4.49",
+                            "priceDisplay": "€8.99",
                             "purchasePayload": {
-                                "offerId": "dafe6b34ee364732a8cb77995b190876",
-                                "sandboxId": "216a3608162a484c8a20b00b011960f8"
+                                "offerId": "1ef6242d92094e189b2780b615142c1a",
+                                "sandboxId": "b6f2c874cc5640e28239ec3554963f87"
                             },
                             "purchaseType": "Purchase"
                         }
                     ],
                     "systemSpecs": {
-                        "applicationVersion": "5.0.17",
+                        "applicationVersion": "1.1.10.1",
                         "platform": "android",
                         "systemRequirements": [
                             {
-                                "minimum": "110MB",
+                                "minimum": "2Gb",
                                 "requirementType": "InstallSize",
                                 "title": "Installation size"
                             },
                             {
-                                "minimum": "147.84 MB",
+                                "minimum": "1.51 GB",
                                 "requirementType": "DownloadSize",
                                 "title": "Download size"
                             },
                             {
-                                "minimum": "9",
+                                "minimum": "8.0.0",
                                 "requirementType": "OS",
                                 "title": "OS version"
                             }
                         ]
                     },
-                    "title": "Dumb Ways to Draw"
+                    "title": "Broken Sword : Reforged"
                 },
-                "offerId": "dafe6b34ee364732a8cb77995b190876",
-                "sandboxId": "216a3608162a484c8a20b00b011960f8"
+                "offerId": "1ef6242d92094e189b2780b615142c1a",
+                "sandboxId": "b6f2c874cc5640e28239ec3554963f87"
             }
         ],
         "size": "large",
@@ -5078,6 +5080,106 @@
             "src": ""
         },
         "offers": [
+            {
+                "content": {
+                    "ageRating": {
+                        "ageGate": {
+                            "gate": "no-gate"
+                        },
+                        "ageRating": {
+                            "ageControl": 3,
+                            "contentDescriptors": [],
+                            "interactiveElements": [],
+                            "ratingImage": "https://cdn1.epicgames.com/gameRating/gameRating/PEGI_3_192_192x192-490b93ddf59fb4ac1148d1eb9083626a",
+                            "ratingSystem": "PEGI",
+                            "rectangularRatingImage": "https://cdn1.epicgames.com/salesEvent/salesEvent/PEGI-3_435x530-c931ab5bb4eb190f6e8e542081c49dc4",
+                            "title": "PEGI 3"
+                        },
+                        "ratingType": "AgeRating"
+                    },
+                    "attention": {
+                        "inAppPurchases": "None"
+                    },
+                    "catalogItemId": "65b4cde31aa647e389eb6b500ad30a50",
+                    "categories": [
+                        "games",
+                        "games/edition",
+                        "games/edition/base"
+                    ],
+                    "mapping": {
+                        "slug": "doodle-tanks-war-alchemy-android-9f8cc8"
+                    },
+                    "media": {
+                        "appIcon": {
+                            "altText": "-",
+                            "height": 512,
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/2b7f1e56c24d4b4ca2b10ecd0cb8e758/doodle-tanks-war-alchemy-icon-1xqw7.png",
+                            "imageType": "ProductIcon",
+                            "width": 512
+                        },
+                        "card16x9": {
+                            "altText": "Doodle Tanks: War Alchemy Offer",
+                            "height": 1440,
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/2b7f1e56c24d4b4ca2b10ecd0cb8e758/doodle-tanks-war-alchemy-1hpsk.jpg",
+                            "imageType": "OfferImageWide",
+                            "width": 2560
+                        },
+                        "card3x4": {
+                            "altText": "Download Doodle Tanks: War Alchemy Offer",
+                            "height": 1600,
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/2b7f1e56c24d4b4ca2b10ecd0cb8e758/doodle-tanks-war-alchemy-947lj.png",
+                            "imageType": "OfferImageTall",
+                            "width": 1200
+                        },
+                        "coverImage": {
+                            "altText": "-",
+                            "height": 1440,
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/2b7f1e56c24d4b4ca2b10ecd0cb8e758/doodle-tanks-war-alchemy-4w3uo.jpg",
+                            "imageType": "coverImage",
+                            "width": 2560
+                        }
+                    },
+                    "purchase": [
+                        {
+                            "offerLifecycleState": "Release",
+                            "price": {
+                                "currencyCode": "EUR",
+                                "decimalPrice": 2.19
+                            },
+                            "priceDisplay": "€2.19",
+                            "purchasePayload": {
+                                "offerId": "5ea1c281b01348ea8dc6edb721665cac",
+                                "sandboxId": "f29b6616ea164bad893bce5dc1c089be"
+                            },
+                            "purchaseType": "Purchase"
+                        }
+                    ],
+                    "systemSpecs": {
+                        "applicationVersion": "2.0.9",
+                        "platform": "android",
+                        "systemRequirements": [
+                            {
+                                "minimum": "146 MB",
+                                "requirementType": "InstallSize",
+                                "title": "Installation size"
+                            },
+                            {
+                                "minimum": "84.54 MB",
+                                "requirementType": "DownloadSize",
+                                "title": "Download size"
+                            },
+                            {
+                                "minimum": "7.0",
+                                "requirementType": "OS",
+                                "title": "OS version"
+                            }
+                        ]
+                    },
+                    "title": "Doodle Tanks: War Alchemy"
+                },
+                "offerId": "5ea1c281b01348ea8dc6edb721665cac",
+                "sandboxId": "f29b6616ea164bad893bce5dc1c089be"
+            },
             {
                 "content": {
                     "ageRating": {
@@ -8988,19 +9090,6 @@
                     },
                     "purchase": [
                         {
-                            "offerLifecycleState": "Release",
-                            "price": {
-                                "currencyCode": "EUR",
-                                "decimalPrice": 4.99
-                            },
-                            "priceDisplay": "€4.99",
-                            "purchasePayload": {
-                                "offerId": "108fd31a4cec4d44bc3b69f666d2af82",
-                                "sandboxId": "195babba4ee143cab291ed109668d10d"
-                            },
-                            "purchaseType": "Purchase"
-                        },
-                        {
                             "discount": {
                                 "discountAmountDisplay": "-60%",
                                 "discountEndDate": "2026-04-29T15:00:00.000Z",
@@ -12055,19 +12144,6 @@
                         }
                     },
                     "purchase": [
-                        {
-                            "offerLifecycleState": "Release",
-                            "price": {
-                                "currencyCode": "EUR",
-                                "decimalPrice": 4.99
-                            },
-                            "priceDisplay": "€4.99",
-                            "purchasePayload": {
-                                "offerId": "4556ecf13e07411194e200aa7dff703e",
-                                "sandboxId": "cfc873292b2f4df1a94949ed72109f2b"
-                            },
-                            "purchaseType": "Purchase"
-                        },
                         {
                             "discount": {
                                 "discountAmountDisplay": "-60%",
@@ -16008,19 +16084,6 @@
                         }
                     },
                     "purchase": [
-                        {
-                            "offerLifecycleState": "Release",
-                            "price": {
-                                "currencyCode": "EUR",
-                                "decimalPrice": 7.99
-                            },
-                            "priceDisplay": "€7.99",
-                            "purchasePayload": {
-                                "offerId": "ed5b79630abd4a3ba1ec55cbe1a7fa27",
-                                "sandboxId": "6e7faac262f04035aeb848e660b2d18c"
-                            },
-                            "purchaseType": "Purchase"
-                        },
                         {
                             "discount": {
                                 "discountAmountDisplay": "-88%",
