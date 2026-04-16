@@ -2205,13 +2205,13 @@
                         },
                         "card16x9": {
                             "height": 1440,
-                            "imageSrc": "https://cdn1.epicgames.com/offer/fn/FNBR_40-00_C7S2_EGS_Launcher_FN_Blade_2560x1440_2560x1440-102aec5b76934cdbb05f390b8066e582",
+                            "imageSrc": "https://cdn1.epicgames.com/offer/fn/FNBR_40-00_C7S2_Jules_EGS_Launcher_Blade_2560x1440_2560x1440-5dae77b5836a4d44a97f2a5d32432008",
                             "imageType": "OfferImageWide",
                             "width": 2560
                         },
                         "card3x4": {
                             "height": 1600,
-                            "imageSrc": "https://cdn1.epicgames.com/offer/fn/FNBR_40-00_C7S2_EGS_Launcher_FN_Blade_1200x1600_1200x1600-b0d99576d1c04307a2c9867883eef72a",
+                            "imageSrc": "https://cdn1.epicgames.com/offer/fn/FNBR_40-00_C7S2_Jules_EGS_Launcher_Blade_1200x1600_1200x1600-7b6dc0d07a5649519d015591bf9a8d6a",
                             "imageType": "OfferImageTall",
                             "width": 1200
                         },
@@ -2582,19 +2582,19 @@
                         },
                         "card16x9": {
                             "height": 1440,
-                            "imageSrc": "https://cdn1.epicgames.com/offer/fn/FNSP_39-40_ForestJean_EGS_Launcher_KeyArt_Blade_2560x1440_2560x1440-34ac23ab36b4486f8ed8253f1a410426",
+                            "imageSrc": "https://cdn1.epicgames.com/offer/fn/FNSP_40-20_IndoorLace_KeyArt_EGS_Launcher_Blade_2560x1440_2560x1440-babcda6241a7475e94243d6d7974b9d9",
                             "imageType": "OfferImageWide",
                             "width": 2560
                         },
                         "card3x4": {
                             "height": 1600,
-                            "imageSrc": "https://cdn1.epicgames.com/offer/fn/FNSP_39-40_ForestJean_EGS_Launcher_KeyArt_Blade_1200x1600_1200x1600-f7d6e3e6cfae4021a3b2204919240c4b",
+                            "imageSrc": "https://cdn1.epicgames.com/offer/fn/FNSP_40-20_IndoorLace_KeyArt_EGS_Launcher_Blade_1200x1600_1200x1600-7a08eb9d039542d3b83361918a6f6e04",
                             "imageType": "OfferImageTall",
                             "width": 1200
                         },
                         "coverImage": {
                             "height": 1440,
-                            "imageSrc": "https://cdn1.epicgames.com/offer/fn/FNSP_39-40_ForestJean_EGS_Launcher_KeyArt_Blade_2560x1440_2560x1440-34ac23ab36b4486f8ed8253f1a410426",
+                            "imageSrc": "https://cdn1.epicgames.com/offer/fn/FNSP_40-20_IndoorLace_KeyArt_EGS_Launcher_Blade_2560x1440_2560x1440-babcda6241a7475e94243d6d7974b9d9",
                             "imageType": "OfferImageWide",
                             "width": 2560
                         }
@@ -2627,94 +2627,6 @@
                     "title": "Fortnite Festival"
                 },
                 "offerId": "0a9975434dfc4a30aea839a0805366a4",
-                "sandboxId": "fn"
-            },
-            {
-                "content": {
-                    "ageRating": {
-                        "ageGate": {
-                            "gate": "no-gate"
-                        },
-                        "ageRating": {
-                            "ageControl": 12,
-                            "contentDescriptors": [
-                                "Moderate Violence"
-                            ],
-                            "interactiveElements": [],
-                            "ratingImage": "https://cdn1.epicgames.com/gameRating/gameRating/PEGI_12_192_192x192-afa4df43f131bc83eb380ccf22f8d904",
-                            "ratingSystem": "PEGI",
-                            "rectangularRatingImage": "https://cdn1.epicgames.com/salesEvent/salesEvent/PEGI-12_436x530-0cd1f06607086f3cc1bc2b8643f21b0a",
-                            "title": "PEGI 12"
-                        },
-                        "ratingType": "AgeRating"
-                    },
-                    "attention": {
-                        "inAppPurchases": "None"
-                    },
-                    "catalogItemId": "",
-                    "categories": [
-                        "games",
-                        "games/experience",
-                        "applications"
-                    ],
-                    "mapping": {
-                        "slug": "fortnite--ballistic"
-                    },
-                    "media": {
-                        "appIcon": {
-                            "altText": "-",
-                            "height": 512,
-                            "imageSrc": "https://cdn1.epicgames.com/offer/fn/PurpleJonesy_AppIcon_512x512_512x512-f74e82f0e1e64142ac86379e457458a2",
-                            "imageType": "ProductIcon",
-                            "width": 512
-                        },
-                        "card16x9": {
-                            "height": 1440,
-                            "imageSrc": "https://cdn1.epicgames.com/offer/fn/EN_FNFERAL_34-30_EGS_Launcher_KeyArt_Blade_2560x1440_2560x1440-96be8e371df1da2d04e8ecdb763a73f1",
-                            "imageType": "OfferImageWide",
-                            "width": 2560
-                        },
-                        "card3x4": {
-                            "height": 1600,
-                            "imageSrc": "https://cdn1.epicgames.com/offer/fn/EN_FNFERAL_34-30_EGS_Launcher_KeyArt_Blade_1200x1600_1200x1600-c4db6b11fefe88b384cee0ff0e29e369",
-                            "imageType": "OfferImageTall",
-                            "width": 1200
-                        },
-                        "coverImage": {
-                            "height": 1440,
-                            "imageSrc": "https://cdn1.epicgames.com/offer/fn/EN_FNFERAL_34-30_EGS_Launcher_KeyArt_Blade_2560x1440_2560x1440-96be8e371df1da2d04e8ecdb763a73f1",
-                            "imageType": "OfferImageWide",
-                            "width": 2560
-                        }
-                    },
-                    "purchase": [
-                        {
-                            "offerLifecycleState": "Release",
-                            "price": {
-                                "currencyCode": "EUR",
-                                "decimalPrice": 0
-                            },
-                            "purchasePayload": {
-                                "offerId": "72880078751f42cd8c09024bb8057cab",
-                                "sandboxId": "fn"
-                            },
-                            "purchaseType": "Claim"
-                        }
-                    ],
-                    "systemSpecs": {
-                        "platform": "ios",
-                        "systemRequirements": [
-                            {
-                                "minimum": "12.0",
-                                "recommended": "",
-                                "requirementType": "OS",
-                                "title": "OS version"
-                            }
-                        ]
-                    },
-                    "title": "Fortnite Ballistic"
-                },
-                "offerId": "72880078751f42cd8c09024bb8057cab",
                 "sandboxId": "fn"
             },
             {
@@ -2938,19 +2850,19 @@
                         },
                         "card16x9": {
                             "height": 1440,
-                            "imageSrc": "https://cdn1.epicgames.com/offer/fn/FNJN_39-10_Tabasco_EGS_Launcher_KeyArt_Blade_2560x1440_2560x1440-6d238de255024a75a9125709f1b7a67f",
+                            "imageSrc": "https://cdn1.epicgames.com/offer/fn/FNJN_40-20_Ninjago_EGS_Launcher_Blade_2560x1440_2560x1440-24f12d5362de4044bcfef28e135f5882",
                             "imageType": "OfferImageWide",
                             "width": 2560
                         },
                         "card3x4": {
                             "height": 1600,
-                            "imageSrc": "https://cdn1.epicgames.com/offer/fn/FNJN_39-10_Tabasco_EGS_Launcher_KeyArt_Blade_1200x1600_1200x1600-eeb1258f7c964f13b6ebffde42f922c4",
+                            "imageSrc": "https://cdn1.epicgames.com/offer/fn/FNJN_40-20_Ninjago_EGS_Launcher_Blade_1200x1600_1200x1600-006c87a1b29b46f6a943d12a0c4c9a13",
                             "imageType": "OfferImageTall",
                             "width": 1200
                         },
                         "coverImage": {
                             "height": 1440,
-                            "imageSrc": "https://cdn1.epicgames.com/offer/fn/FNJN_39-10_Tabasco_EGS_Launcher_KeyArt_Blade_2560x1440_2560x1440-6d238de255024a75a9125709f1b7a67f",
+                            "imageSrc": "https://cdn1.epicgames.com/offer/fn/FNJN_40-20_Ninjago_EGS_Launcher_Blade_2560x1440_2560x1440-24f12d5362de4044bcfef28e135f5882",
                             "imageType": "OfferImageWide",
                             "width": 2560
                         }
