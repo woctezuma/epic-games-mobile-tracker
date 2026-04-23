@@ -15530,7 +15530,7 @@
                         }
                     ],
                     "systemSpecs": {
-                        "applicationVersion": "2.34.0",
+                        "applicationVersion": "2.35.0",
                         "platform": "android",
                         "systemRequirements": [
                             {
@@ -15539,7 +15539,7 @@
                                 "title": "Installation size"
                             },
                             {
-                                "minimum": "227.97 MB",
+                                "minimum": "229.38 MB",
                                 "requirementType": "DownloadSize",
                                 "title": "Download size"
                             },
