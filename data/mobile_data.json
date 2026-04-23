@@ -2329,6 +2329,66 @@
         "store_url": "<https://store.epicgames.com/product/cultist-simulator-ios-8eba4c>",
         "title": "Cultist Simulator"
     },
+    "1-d923c737f0d243ccab407605ea40d39e-a83669d3961f4616b4b18921b05e2242": {
+        "age_control": 7,
+        "catalog_item_id": "ba2cef838aeb4853853c235d358bb23f",
+        "checkout_url": "<https://store.epicgames.com/purchase?offers=1-d923c737f0d243ccab407605ea40d39e-a83669d3961f4616b4b18921b05e2242>",
+        "content_descriptors": [
+            "Fear"
+        ],
+        "current_price": "0",
+        "discount": "-100%",
+        "download_size": "285,10 MB",
+        "end_date": "2026-04-30T15:00:00.000Z",
+        "in_app_purchases": false,
+        "install_size": "447,40 MB",
+        "interactive_elements": [
+            "In-Game Purchases"
+        ],
+        "media": {
+            "OfferImageTall": "https://cdn1.epicgames.com/spt-assets/c06cc46c27954f55974e9e7a4f3b3849/911-operator-1er2g.jpg",
+            "OfferImageWide": "https://cdn1.epicgames.com/spt-assets/c06cc46c27954f55974e9e7a4f3b3849/911-operator-n45a6.jpg",
+            "ProductIcon": "https://cdn1.epicgames.com/spt-assets/c06cc46c27954f55974e9e7a4f3b3849/911-operator-icon-ohh4l.png",
+            "coverImage": "https://cdn1.epicgames.com/spt-assets/c06cc46c27954f55974e9e7a4f3b3849/911-operator-8ys8n.jpg"
+        },
+        "offer_id": "a83669d3961f4616b4b18921b05e2242",
+        "original_price": "4.49",
+        "platform": "ios",
+        "sandbox_id": "d923c737f0d243ccab407605ea40d39e",
+        "slug": "911-operator-ios-8716e3",
+        "store_url": "<https://store.epicgames.com/product/911-operator-ios-8716e3>",
+        "title": "911 Operator"
+    },
+    "1-d923c737f0d243ccab407605ea40d39e-c5450a64934e414e899becec36081db1": {
+        "age_control": 7,
+        "catalog_item_id": "533651c46041435ba4834206b9c4a436",
+        "checkout_url": "<https://store.epicgames.com/purchase?offers=1-d923c737f0d243ccab407605ea40d39e-c5450a64934e414e899becec36081db1>",
+        "content_descriptors": [
+            "Fear"
+        ],
+        "current_price": "0",
+        "discount": "-100%",
+        "download_size": "234.30 MB",
+        "end_date": "2026-04-30T15:00:00.000Z",
+        "in_app_purchases": false,
+        "install_size": "605 MB",
+        "interactive_elements": [
+            "In-Game Purchases"
+        ],
+        "media": {
+            "OfferImageTall": "https://cdn1.epicgames.com/spt-assets/c06cc46c27954f55974e9e7a4f3b3849/911-operator-46k84.jpg",
+            "OfferImageWide": "https://cdn1.epicgames.com/spt-assets/c06cc46c27954f55974e9e7a4f3b3849/911-operator-1yumy.jpg",
+            "ProductIcon": "https://cdn1.epicgames.com/spt-assets/c06cc46c27954f55974e9e7a4f3b3849/911-operator-icon-ohh4l.png",
+            "coverImage": "https://cdn1.epicgames.com/spt-assets/c06cc46c27954f55974e9e7a4f3b3849/911-operator-8ys8n.jpg"
+        },
+        "offer_id": "c5450a64934e414e899becec36081db1",
+        "original_price": "5.39",
+        "platform": "android",
+        "sandbox_id": "d923c737f0d243ccab407605ea40d39e",
+        "slug": "911-operator-android-81a414",
+        "store_url": "<https://store.epicgames.com/product/911-operator-android-81a414>",
+        "title": "911 Operator"
+    },
     "1-d99073ba85b1432198e7e23009efda4d-9ad0eaa3cd7543eb84995ba13f855a4c": {
         "age_control": 16,
         "catalog_item_id": "43c6fd08c89349cd9ab7e9c3e901c2d3",
