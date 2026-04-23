@@ -9,6 +9,108 @@
                 "content": {
                     "ageRating": {
                         "ageGate": {
+                            "gate": "age-gate"
+                        },
+                        "ageRating": {
+                            "ageControl": 16,
+                            "contentDescriptors": [
+                                "Strong Violence"
+                            ],
+                            "interactiveElements": [],
+                            "ratingImage": "https://cdn1.epicgames.com/gameRating/gameRating/PEGI_16_192_192x192-da60f0bd1fe7cb1ac9d8a8bd5168ea96",
+                            "ratingSystem": "PEGI",
+                            "rectangularRatingImage": "https://cdn1.epicgames.com/salesEvent/salesEvent/PEGI-16_435x530-65760d498ce28374fb7ca3258ee1440c",
+                            "title": "PEGI 16"
+                        },
+                        "ratingType": "AgeRating"
+                    },
+                    "attention": {
+                        "inAppPurchases": "None"
+                    },
+                    "catalogItemId": "c6d4a145290a4a9e9c2f9c831020e8fe",
+                    "categories": [
+                        "games",
+                        "games/edition",
+                        "games/edition/base"
+                    ],
+                    "mapping": {
+                        "slug": "broken-sword-reforged-ios-6d7670"
+                    },
+                    "media": {
+                        "appIcon": {
+                            "altText": "-",
+                            "height": 512,
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/5c57a17028644a7e9974bc7f54d2728a/broken-sword--reforged-icon-188x0.png",
+                            "imageType": "ProductIcon",
+                            "width": 512
+                        },
+                        "card16x9": {
+                            "altText": "Broken Sword : Reforged Offer",
+                            "height": 1440,
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/5c57a17028644a7e9974bc7f54d2728a/broken-sword--reforged-1j7hr.jpg",
+                            "imageType": "OfferImageWide",
+                            "width": 2560
+                        },
+                        "card3x4": {
+                            "altText": "Download Broken Sword : Reforged Offer",
+                            "height": 1600,
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/5c57a17028644a7e9974bc7f54d2728a/broken-sword--reforged-3c7n0.jpg",
+                            "imageType": "OfferImageTall",
+                            "width": 1200
+                        },
+                        "coverImage": {
+                            "altText": "-",
+                            "height": 1440,
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/5c57a17028644a7e9974bc7f54d2728a/broken-sword--reforged-a4o8g.jpg",
+                            "imageType": "coverImage",
+                            "width": 2560
+                        }
+                    },
+                    "purchase": [
+                        {
+                            "offerLifecycleState": "Release",
+                            "price": {
+                                "currencyCode": "EUR",
+                                "decimalPrice": 8.99
+                            },
+                            "priceDisplay": "€8.99",
+                            "purchasePayload": {
+                                "offerId": "47feda1e68cf4fc996baa59c252aeadc",
+                                "sandboxId": "b6f2c874cc5640e28239ec3554963f87"
+                            },
+                            "purchaseType": "Purchase"
+                        }
+                    ],
+                    "systemSpecs": {
+                        "applicationVersion": "1.0",
+                        "platform": "ios",
+                        "systemRequirements": [
+                            {
+                                "minimum": "2Gb",
+                                "requirementType": "InstallSize",
+                                "title": "Installation size"
+                            },
+                            {
+                                "minimum": "1.5Gb",
+                                "requirementType": "DownloadSize",
+                                "title": "Download size"
+                            },
+                            {
+                                "minimum": "12",
+                                "requirementType": "OS",
+                                "title": "OS version"
+                            }
+                        ]
+                    },
+                    "title": "Broken Sword : Reforged"
+                },
+                "offerId": "47feda1e68cf4fc996baa59c252aeadc",
+                "sandboxId": "b6f2c874cc5640e28239ec3554963f87"
+            },
+            {
+                "content": {
+                    "ageRating": {
+                        "ageGate": {
                             "gate": "no-gate"
                         },
                         "ageRating": {
@@ -3000,25 +3102,27 @@
                 "content": {
                     "ageRating": {
                         "ageGate": {
-                            "gate": "age-gate"
+                            "gate": "no-gate"
                         },
                         "ageRating": {
-                            "ageControl": 16,
+                            "ageControl": 7,
                             "contentDescriptors": [
-                                "Strong Violence"
+                                "Fear"
                             ],
-                            "interactiveElements": [],
-                            "ratingImage": "https://cdn1.epicgames.com/gameRating/gameRating/PEGI_16_192_192x192-da60f0bd1fe7cb1ac9d8a8bd5168ea96",
+                            "interactiveElements": [
+                                "In-Game Purchases"
+                            ],
+                            "ratingImage": "https://cdn1.epicgames.com/gameRating/gameRating/PEGI_7_192_192x192-30e2e712d0682dad01add90a6ccbed5b",
                             "ratingSystem": "PEGI",
-                            "rectangularRatingImage": "https://cdn1.epicgames.com/salesEvent/salesEvent/PEGI-16_435x530-65760d498ce28374fb7ca3258ee1440c",
-                            "title": "PEGI 16"
+                            "rectangularRatingImage": "https://cdn1.epicgames.com/salesEvent/salesEvent/PEGI-7_435x530-9439a136999d3dd762c7a61c3b8c7683",
+                            "title": "PEGI 7"
                         },
                         "ratingType": "AgeRating"
                     },
                     "attention": {
                         "inAppPurchases": "None"
                     },
-                    "catalogItemId": "c6d4a145290a4a9e9c2f9c831020e8fe",
+                    "catalogItemId": "ba2cef838aeb4853853c235d358bb23f",
                     "categories": [
                         "freegames",
                         "games",
@@ -3026,34 +3130,34 @@
                         "games/edition/base"
                     ],
                     "mapping": {
-                        "slug": "broken-sword-reforged-ios-6d7670"
+                        "slug": "911-operator-ios-8716e3"
                     },
                     "media": {
                         "appIcon": {
                             "altText": "-",
                             "height": 512,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/5c57a17028644a7e9974bc7f54d2728a/broken-sword--reforged-icon-188x0.png",
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/c06cc46c27954f55974e9e7a4f3b3849/911-operator-icon-ohh4l.png",
                             "imageType": "ProductIcon",
                             "width": 512
                         },
                         "card16x9": {
-                            "altText": "Broken Sword : Reforged Offer",
+                            "altText": "911 Operator Offer",
                             "height": 1440,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/5c57a17028644a7e9974bc7f54d2728a/broken-sword--reforged-1j7hr.jpg",
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/c06cc46c27954f55974e9e7a4f3b3849/911-operator-n45a6.jpg",
                             "imageType": "OfferImageWide",
                             "width": 2560
                         },
                         "card3x4": {
-                            "altText": "Download Broken Sword : Reforged Offer",
+                            "altText": "Download 911 Operator Offer",
                             "height": 1600,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/5c57a17028644a7e9974bc7f54d2728a/broken-sword--reforged-3c7n0.jpg",
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/c06cc46c27954f55974e9e7a4f3b3849/911-operator-1er2g.jpg",
                             "imageType": "OfferImageTall",
                             "width": 1200
                         },
                         "coverImage": {
                             "altText": "-",
                             "height": 1440,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/5c57a17028644a7e9974bc7f54d2728a/broken-sword--reforged-a4o8g.jpg",
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/c06cc46c27954f55974e9e7a4f3b3849/911-operator-8ys8n.jpg",
                             "imageType": "coverImage",
                             "width": 2560
                         }
@@ -3062,8 +3166,8 @@
                         {
                             "discount": {
                                 "discountAmountDisplay": "-100%",
-                                "discountEndDate": "2026-04-23T15:00:00.000Z",
-                                "originalPriceDisplay": "€8.99"
+                                "discountEndDate": "2026-04-30T15:00:00.000Z",
+                                "originalPriceDisplay": "€4.49"
                             },
                             "offerLifecycleState": "Release",
                             "price": {
@@ -3071,8 +3175,8 @@
                                 "decimalPrice": 0
                             },
                             "purchasePayload": {
-                                "offerId": "47feda1e68cf4fc996baa59c252aeadc",
-                                "sandboxId": "b6f2c874cc5640e28239ec3554963f87"
+                                "offerId": "a83669d3961f4616b4b18921b05e2242",
+                                "sandboxId": "d923c737f0d243ccab407605ea40d39e"
                             },
                             "purchaseType": "Claim"
                         },
@@ -3080,41 +3184,41 @@
                             "offerLifecycleState": "Release",
                             "price": {
                                 "currencyCode": "EUR",
-                                "decimalPrice": 8.99
+                                "decimalPrice": 4.49
                             },
-                            "priceDisplay": "€8.99",
+                            "priceDisplay": "€4.49",
                             "purchasePayload": {
-                                "offerId": "47feda1e68cf4fc996baa59c252aeadc",
-                                "sandboxId": "b6f2c874cc5640e28239ec3554963f87"
+                                "offerId": "a83669d3961f4616b4b18921b05e2242",
+                                "sandboxId": "d923c737f0d243ccab407605ea40d39e"
                             },
                             "purchaseType": "Purchase"
                         }
                     ],
                     "systemSpecs": {
-                        "applicationVersion": "1.0",
+                        "applicationVersion": "7.04.10",
                         "platform": "ios",
                         "systemRequirements": [
                             {
-                                "minimum": "2Gb",
+                                "minimum": "447,40 MB",
                                 "requirementType": "InstallSize",
                                 "title": "Installation size"
                             },
                             {
-                                "minimum": "1.5Gb",
+                                "minimum": "285,10 MB",
                                 "requirementType": "DownloadSize",
                                 "title": "Download size"
                             },
                             {
-                                "minimum": "12",
+                                "minimum": "12.0",
                                 "requirementType": "OS",
                                 "title": "OS version"
                             }
                         ]
                     },
-                    "title": "Broken Sword : Reforged"
+                    "title": "911 Operator"
                 },
-                "offerId": "47feda1e68cf4fc996baa59c252aeadc",
-                "sandboxId": "b6f2c874cc5640e28239ec3554963f87"
+                "offerId": "a83669d3961f4616b4b18921b05e2242",
+                "sandboxId": "d923c737f0d243ccab407605ea40d39e"
             }
         ],
         "size": "large",
@@ -3926,14 +4030,14 @@
                         "card16x9": {
                             "altText": "Firestone Online Idle RPG Offer",
                             "height": 1440,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/69576a28f7154fe9a0dce97508da5163/firestone-online-idle-rpg-ccrfs.png",
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/69576a28f7154fe9a0dce97508da5163/firestone-online-idle-rpg-vvxd4.png",
                             "imageType": "OfferImageWide",
                             "width": 2560
                         },
                         "card3x4": {
                             "altText": "Download Firestone Online Idle RPG Offer",
                             "height": 1600,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/69576a28f7154fe9a0dce97508da5163/firestone-online-idle-rpg-nzi3l.png",
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/69576a28f7154fe9a0dce97508da5163/firestone-online-idle-rpg-elxcg.png",
                             "imageType": "OfferImageTall",
                             "width": 1200
                         },
