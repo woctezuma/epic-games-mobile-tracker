@@ -3400,35 +3400,12 @@
                     },
                     "purchase": [
                         {
-                            "discount": {
-                                "discountAmountDisplay": "-40%",
-                                "discountEndDate": "2026-04-28T15:00:00.000Z",
-                                "originalPriceDisplay": "€2.69"
-                            },
                             "offerLifecycleState": "Release",
                             "price": {
                                 "currencyCode": "EUR",
-                                "decimalPrice": 1.61
+                                "decimalPrice": 2.69
                             },
-                            "priceDisplay": "€1.61",
-                            "purchasePayload": {
-                                "offerId": "badc99d45a3946a6979b97cb7846af38",
-                                "sandboxId": "c9c21bdfd1684335a36174d859adee28"
-                            },
-                            "purchaseType": "Purchase"
-                        },
-                        {
-                            "discount": {
-                                "discountAmountDisplay": "-40%",
-                                "discountEndDate": "2026-05-05T15:00:00.000Z",
-                                "originalPriceDisplay": "€2.69"
-                            },
-                            "offerLifecycleState": "Release",
-                            "price": {
-                                "currencyCode": "EUR",
-                                "decimalPrice": 1.61
-                            },
-                            "priceDisplay": "€1.61",
+                            "priceDisplay": "€2.69",
                             "purchasePayload": {
                                 "offerId": "badc99d45a3946a6979b97cb7846af38",
                                 "sandboxId": "c9c21bdfd1684335a36174d859adee28"
@@ -7341,24 +7318,6 @@
                         }
                     },
                     "purchase": [
-                        {
-                            "discount": {
-                                "discountAmountDisplay": "-80%",
-                                "discountEndDate": "2026-04-28T15:00:00.000Z",
-                                "originalPriceDisplay": "€4.49"
-                            },
-                            "offerLifecycleState": "Release",
-                            "price": {
-                                "currencyCode": "EUR",
-                                "decimalPrice": 0.89
-                            },
-                            "priceDisplay": "€0.89",
-                            "purchasePayload": {
-                                "offerId": "b30404c07a47443490e1c94d7e0eba6f",
-                                "sandboxId": "9a0c5c4c64404e698fbb56f757572216"
-                            },
-                            "purchaseType": "Purchase"
-                        },
                         {
                             "offerLifecycleState": "Release",
                             "price": {
