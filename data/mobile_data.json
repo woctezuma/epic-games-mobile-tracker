@@ -2662,5 +2662,67 @@
         "slug": "there-is-no-game-wd-ios-cfba3a",
         "store_url": "<https://store.epicgames.com/product/there-is-no-game-wd-ios-cfba3a>",
         "title": "There Is No Game: Wrong Dimension"
+    },
+    "1-f8824ae54e154af3944586455b2e9418-e79c2f402a3547c5b79ae0209d39d634": {
+        "age_control": 12,
+        "catalog_item_id": "d3d7a7bf1509412cad7ccd728270db9c",
+        "checkout_url": "<https://store.epicgames.com/purchase?offers=1-f8824ae54e154af3944586455b2e9418-e79c2f402a3547c5b79ae0209d39d634>",
+        "content_descriptors": [
+            "Moderate Violence",
+            "Mild Swearing"
+        ],
+        "current_price": "0",
+        "discount": "-100%",
+        "download_size": "1.57 GB",
+        "end_date": "2026-05-07T15:00:00.000Z",
+        "in_app_purchases": false,
+        "install_size": "1.72 GB",
+        "interactive_elements": [
+            "In-Game Purchases"
+        ],
+        "media": {
+            "OfferImageTall": "https://cdn1.epicgames.com/spt-assets/a8803ee5e6b94a1f8fcbcac791fa5805/streets-of-rage-4-tipuu.jpg",
+            "OfferImageWide": "https://cdn1.epicgames.com/spt-assets/a8803ee5e6b94a1f8fcbcac791fa5805/streets-of-rage-4-1odl4.jpg",
+            "ProductIcon": "https://cdn1.epicgames.com/spt-assets/a8803ee5e6b94a1f8fcbcac791fa5805/streets-of-rage-4-icon-z9wya.png",
+            "coverImage": "https://cdn1.epicgames.com/spt-assets/a8803ee5e6b94a1f8fcbcac791fa5805/streets-of-rage-4-15na4.jpg"
+        },
+        "offer_id": "e79c2f402a3547c5b79ae0209d39d634",
+        "original_price": "7.19",
+        "platform": "android",
+        "sandbox_id": "f8824ae54e154af3944586455b2e9418",
+        "slug": "streets-of-rage-4-android-b10fcc",
+        "store_url": "<https://store.epicgames.com/product/streets-of-rage-4-android-b10fcc>",
+        "title": "Streets of Rage 4"
+    },
+    "1-f8824ae54e154af3944586455b2e9418-ea5f57acbef24a5496a60ec59e55804f": {
+        "age_control": 12,
+        "catalog_item_id": "fe7c0863655049bdbf12ce9e683dd232",
+        "checkout_url": "<https://store.epicgames.com/purchase?offers=1-f8824ae54e154af3944586455b2e9418-ea5f57acbef24a5496a60ec59e55804f>",
+        "content_descriptors": [
+            "Moderate Violence",
+            "Mild Swearing"
+        ],
+        "current_price": "0",
+        "discount": "-100%",
+        "download_size": "1.65 GB",
+        "end_date": "2026-05-07T15:00:00.000Z",
+        "in_app_purchases": false,
+        "install_size": "1.72 GB",
+        "interactive_elements": [
+            "In-Game Purchases"
+        ],
+        "media": {
+            "OfferImageTall": "https://cdn1.epicgames.com/spt-assets/a8803ee5e6b94a1f8fcbcac791fa5805/streets-of-rage-4-1i32y.jpg",
+            "OfferImageWide": "https://cdn1.epicgames.com/spt-assets/a8803ee5e6b94a1f8fcbcac791fa5805/streets-of-rage-4-1exs7.jpg",
+            "ProductIcon": "https://cdn1.epicgames.com/spt-assets/a8803ee5e6b94a1f8fcbcac791fa5805/streets-of-rage-4-icon-z9wya.png",
+            "coverImage": "https://cdn1.epicgames.com/spt-assets/a8803ee5e6b94a1f8fcbcac791fa5805/streets-of-rage-4-15na4.jpg"
+        },
+        "offer_id": "ea5f57acbef24a5496a60ec59e55804f",
+        "original_price": "7.19",
+        "platform": "ios",
+        "sandbox_id": "f8824ae54e154af3944586455b2e9418",
+        "slug": "streets-of-rage-4-ios-b39146",
+        "store_url": "<https://store.epicgames.com/product/streets-of-rage-4-ios-b39146>",
+        "title": "Streets of Rage 4"
     }
 }
