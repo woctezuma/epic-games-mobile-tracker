@@ -212,6 +212,110 @@
                             "gate": "no-gate"
                         },
                         "ageRating": {
+                            "ageControl": 7,
+                            "contentDescriptors": [
+                                "Fear"
+                            ],
+                            "interactiveElements": [
+                                "In-Game Purchases"
+                            ],
+                            "ratingImage": "https://cdn1.epicgames.com/gameRating/gameRating/PEGI_7_192_192x192-30e2e712d0682dad01add90a6ccbed5b",
+                            "ratingSystem": "PEGI",
+                            "rectangularRatingImage": "https://cdn1.epicgames.com/salesEvent/salesEvent/PEGI-7_435x530-9439a136999d3dd762c7a61c3b8c7683",
+                            "title": "PEGI 7"
+                        },
+                        "ratingType": "AgeRating"
+                    },
+                    "attention": {
+                        "inAppPurchases": "None"
+                    },
+                    "catalogItemId": "533651c46041435ba4834206b9c4a436",
+                    "categories": [
+                        "games",
+                        "games/edition",
+                        "games/edition/base"
+                    ],
+                    "mapping": {
+                        "slug": "911-operator-android-81a414"
+                    },
+                    "media": {
+                        "appIcon": {
+                            "altText": "-",
+                            "height": 512,
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/c06cc46c27954f55974e9e7a4f3b3849/911-operator-icon-ohh4l.png",
+                            "imageType": "ProductIcon",
+                            "width": 512
+                        },
+                        "card16x9": {
+                            "altText": "911 Operator Offer",
+                            "height": 1440,
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/c06cc46c27954f55974e9e7a4f3b3849/911-operator-1yumy.jpg",
+                            "imageType": "OfferImageWide",
+                            "width": 2560
+                        },
+                        "card3x4": {
+                            "altText": "Download 911 Operator Offer",
+                            "height": 1600,
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/c06cc46c27954f55974e9e7a4f3b3849/911-operator-46k84.jpg",
+                            "imageType": "OfferImageTall",
+                            "width": 1200
+                        },
+                        "coverImage": {
+                            "altText": "-",
+                            "height": 1440,
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/c06cc46c27954f55974e9e7a4f3b3849/911-operator-8ys8n.jpg",
+                            "imageType": "coverImage",
+                            "width": 2560
+                        }
+                    },
+                    "purchase": [
+                        {
+                            "offerLifecycleState": "Release",
+                            "price": {
+                                "currencyCode": "EUR",
+                                "decimalPrice": 5.39
+                            },
+                            "priceDisplay": "€5.39",
+                            "purchasePayload": {
+                                "offerId": "c5450a64934e414e899becec36081db1",
+                                "sandboxId": "d923c737f0d243ccab407605ea40d39e"
+                            },
+                            "purchaseType": "Purchase"
+                        }
+                    ],
+                    "systemSpecs": {
+                        "applicationVersion": "7.04.28",
+                        "platform": "android",
+                        "systemRequirements": [
+                            {
+                                "minimum": "605 MB",
+                                "requirementType": "InstallSize",
+                                "title": "Installation size"
+                            },
+                            {
+                                "minimum": "234.30 MB",
+                                "requirementType": "DownloadSize",
+                                "title": "Download size"
+                            },
+                            {
+                                "minimum": "6.0",
+                                "requirementType": "OS",
+                                "title": "OS version"
+                            }
+                        ]
+                    },
+                    "title": "911 Operator"
+                },
+                "offerId": "c5450a64934e414e899becec36081db1",
+                "sandboxId": "d923c737f0d243ccab407605ea40d39e"
+            },
+            {
+                "content": {
+                    "ageRating": {
+                        "ageGate": {
+                            "gate": "no-gate"
+                        },
+                        "ageRating": {
                             "ageControl": 3,
                             "contentDescriptors": [],
                             "interactiveElements": [],
@@ -919,7 +1023,19 @@
                 },
                 "offerId": "b5699b084cce4db89b0172b2622f157c",
                 "sandboxId": "7c13deca13f3415b9f0f75084bbef55c"
-            },
+            }
+        ],
+        "size": "xLarge",
+        "title": "",
+        "topicId": "mobile-android-carousel",
+        "type": "featured"
+    },
+    {
+        "link": {
+            "linkText": "home page",
+            "src": "/"
+        },
+        "offers": [
             {
                 "content": {
                     "ageRating": {
@@ -1021,19 +1137,7 @@
                 },
                 "offerId": "b48a0d254d734394868ae9097d8745b9",
                 "sandboxId": "5cc532cf18ec4142878420c2969560ea"
-            }
-        ],
-        "size": "xLarge",
-        "title": "",
-        "topicId": "mobile-android-carousel",
-        "type": "featured"
-    },
-    {
-        "link": {
-            "linkText": "home page",
-            "src": "/"
-        },
-        "offers": [
+            },
             {
                 "content": {
                     "ageRating": {
@@ -2145,108 +2249,6 @@
                 },
                 "offerId": "c47fb65e7b06422f8d04c76cbda4b969",
                 "sandboxId": "c1b4206637804d8eabdffd4f092763cf"
-            },
-            {
-                "content": {
-                    "ageRating": {
-                        "ageGate": {
-                            "gate": "no-gate"
-                        },
-                        "ageRating": {
-                            "ageControl": 7,
-                            "contentDescriptors": [
-                                "Fear"
-                            ],
-                            "interactiveElements": [],
-                            "ratingImage": "https://cdn1.epicgames.com/gameRating/gameRating/PEGI_7_192_192x192-30e2e712d0682dad01add90a6ccbed5b",
-                            "ratingSystem": "PEGI",
-                            "rectangularRatingImage": "https://cdn1.epicgames.com/salesEvent/salesEvent/PEGI-7_435x530-9439a136999d3dd762c7a61c3b8c7683",
-                            "title": "PEGI 7"
-                        },
-                        "ratingType": "AgeRating"
-                    },
-                    "attention": {
-                        "inAppPurchases": "None"
-                    },
-                    "catalogItemId": "2ffd82d2bcfb4a93bb824b3ed4e25d76",
-                    "categories": [
-                        "games",
-                        "games/edition",
-                        "games/edition/base"
-                    ],
-                    "mapping": {
-                        "slug": "boxes-lost-fragments-android-356638"
-                    },
-                    "media": {
-                        "appIcon": {
-                            "altText": "-",
-                            "height": 512,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/7f8e5cd71ae04eaeb7d782a5946db16f/boxes-lost-fragments-icon-1ph0x.png",
-                            "imageType": "ProductIcon",
-                            "width": 512
-                        },
-                        "card16x9": {
-                            "altText": "Boxes: Lost Fragments Offer",
-                            "height": 1440,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/7f8e5cd71ae04eaeb7d782a5946db16f/boxes-lost-fragments-1jpva.png",
-                            "imageType": "OfferImageWide",
-                            "width": 2560
-                        },
-                        "card3x4": {
-                            "altText": "Download Boxes: Lost Fragments Offer",
-                            "height": 1600,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/7f8e5cd71ae04eaeb7d782a5946db16f/boxes-lost-fragments-4szq3.png",
-                            "imageType": "OfferImageTall",
-                            "width": 1200
-                        },
-                        "coverImage": {
-                            "altText": "-",
-                            "height": 1440,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/7f8e5cd71ae04eaeb7d782a5946db16f/boxes-lost-fragments-1ngy4.png",
-                            "imageType": "coverImage",
-                            "width": 2560
-                        }
-                    },
-                    "purchase": [
-                        {
-                            "offerLifecycleState": "Release",
-                            "price": {
-                                "currencyCode": "EUR",
-                                "decimalPrice": 8.09
-                            },
-                            "priceDisplay": "€8.09",
-                            "purchasePayload": {
-                                "offerId": "d492301ad87e41aa8d9301301841d019",
-                                "sandboxId": "abc34708e5a0420287f52302582e3fec"
-                            },
-                            "purchaseType": "Purchase"
-                        }
-                    ],
-                    "systemSpecs": {
-                        "applicationVersion": "1.50",
-                        "platform": "android",
-                        "systemRequirements": [
-                            {
-                                "minimum": "960 MB",
-                                "requirementType": "InstallSize",
-                                "title": "Installation size"
-                            },
-                            {
-                                "minimum": "715.29 MB",
-                                "requirementType": "DownloadSize",
-                                "title": "Download size"
-                            },
-                            {
-                                "minimum": "9",
-                                "requirementType": "OS",
-                                "title": "OS version"
-                            }
-                        ]
-                    },
-                    "title": "Boxes: Lost Fragments"
-                },
-                "offerId": "d492301ad87e41aa8d9301301841d019",
-                "sandboxId": "abc34708e5a0420287f52302582e3fec"
             }
         ],
         "size": "large",
@@ -3103,12 +3105,136 @@
                             "gate": "no-gate"
                         },
                         "ageRating": {
-                            "ageControl": 7,
+                            "ageControl": 12,
                             "contentDescriptors": [
-                                "Fear"
+                                "Moderate Violence",
+                                "Mild Swearing"
                             ],
                             "interactiveElements": [
                                 "In-Game Purchases"
+                            ],
+                            "ratingImage": "https://cdn1.epicgames.com/gameRating/gameRating/PEGI_12_192_192x192-afa4df43f131bc83eb380ccf22f8d904",
+                            "ratingSystem": "PEGI",
+                            "rectangularRatingImage": "https://cdn1.epicgames.com/salesEvent/salesEvent/PEGI-12_436x530-0cd1f06607086f3cc1bc2b8643f21b0a",
+                            "title": "PEGI 12"
+                        },
+                        "ratingType": "AgeRating"
+                    },
+                    "attention": {
+                        "inAppPurchases": "None"
+                    },
+                    "catalogItemId": "d3d7a7bf1509412cad7ccd728270db9c",
+                    "categories": [
+                        "freegames",
+                        "games",
+                        "games/edition",
+                        "games/edition/base"
+                    ],
+                    "mapping": {
+                        "slug": "streets-of-rage-4-android-b10fcc"
+                    },
+                    "media": {
+                        "appIcon": {
+                            "altText": "-",
+                            "height": 512,
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/a8803ee5e6b94a1f8fcbcac791fa5805/streets-of-rage-4-icon-z9wya.png",
+                            "imageType": "ProductIcon",
+                            "width": 512
+                        },
+                        "card16x9": {
+                            "altText": "Streets of Rage 4 Offer",
+                            "height": 1440,
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/a8803ee5e6b94a1f8fcbcac791fa5805/streets-of-rage-4-1odl4.jpg",
+                            "imageType": "OfferImageWide",
+                            "width": 2560
+                        },
+                        "card3x4": {
+                            "altText": "Download Streets of Rage 4 Offer",
+                            "height": 1600,
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/a8803ee5e6b94a1f8fcbcac791fa5805/streets-of-rage-4-tipuu.jpg",
+                            "imageType": "OfferImageTall",
+                            "width": 1200
+                        },
+                        "coverImage": {
+                            "altText": "-",
+                            "height": 1440,
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/a8803ee5e6b94a1f8fcbcac791fa5805/streets-of-rage-4-15na4.jpg",
+                            "imageType": "coverImage",
+                            "width": 2560
+                        }
+                    },
+                    "purchase": [
+                        {
+                            "discount": {
+                                "discountAmountDisplay": "-100%",
+                                "discountEndDate": "2026-05-07T15:00:00.000Z",
+                                "originalPriceDisplay": "€7.19"
+                            },
+                            "offerLifecycleState": "Release",
+                            "price": {
+                                "currencyCode": "EUR",
+                                "decimalPrice": 0
+                            },
+                            "purchasePayload": {
+                                "offerId": "e79c2f402a3547c5b79ae0209d39d634",
+                                "sandboxId": "f8824ae54e154af3944586455b2e9418"
+                            },
+                            "purchaseType": "Claim"
+                        },
+                        {
+                            "offerLifecycleState": "Release",
+                            "price": {
+                                "currencyCode": "EUR",
+                                "decimalPrice": 7.19
+                            },
+                            "priceDisplay": "€7.19",
+                            "purchasePayload": {
+                                "offerId": "e79c2f402a3547c5b79ae0209d39d634",
+                                "sandboxId": "f8824ae54e154af3944586455b2e9418"
+                            },
+                            "purchaseType": "Purchase"
+                        }
+                    ],
+                    "systemSpecs": {
+                        "applicationVersion": "1.4.9",
+                        "platform": "android",
+                        "systemRequirements": [
+                            {
+                                "minimum": "1.72 GB",
+                                "requirementType": "InstallSize",
+                                "title": "Installation size"
+                            },
+                            {
+                                "minimum": "1.57 GB",
+                                "requirementType": "DownloadSize",
+                                "title": "Download size"
+                            },
+                            {
+                                "minimum": "9",
+                                "requirementType": "OS",
+                                "title": "OS version"
+                            }
+                        ]
+                    },
+                    "title": "Streets of Rage 4"
+                },
+                "offerId": "e79c2f402a3547c5b79ae0209d39d634",
+                "sandboxId": "f8824ae54e154af3944586455b2e9418"
+            },
+            {
+                "content": {
+                    "ageRating": {
+                        "ageGate": {
+                            "gate": "no-gate"
+                        },
+                        "ageRating": {
+                            "ageControl": 7,
+                            "contentDescriptors": [
+                                "Mild Violence"
+                            ],
+                            "interactiveElements": [
+                                "Users Interact",
+                                "In-Game Purchases (Includes Random Items)"
                             ],
                             "ratingImage": "https://cdn1.epicgames.com/gameRating/gameRating/PEGI_7_192_192x192-30e2e712d0682dad01add90a6ccbed5b",
                             "ratingSystem": "PEGI",
@@ -3118,9 +3244,9 @@
                         "ratingType": "AgeRating"
                     },
                     "attention": {
-                        "inAppPurchases": "None"
+                        "inAppPurchases": "MaybeIncludesInAppPurchases"
                     },
-                    "catalogItemId": "533651c46041435ba4834206b9c4a436",
+                    "catalogItemId": "fa311c526d554653a025da7f52ec5a8c",
                     "categories": [
                         "freegames",
                         "games",
@@ -3128,81 +3254,63 @@
                         "games/edition/base"
                     ],
                     "mapping": {
-                        "slug": "911-operator-android-81a414"
+                        "slug": "firestone-online-idle-rpg-android-fb0ce6"
                     },
                     "media": {
                         "appIcon": {
                             "altText": "-",
                             "height": 512,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/c06cc46c27954f55974e9e7a4f3b3849/911-operator-icon-ohh4l.png",
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/69576a28f7154fe9a0dce97508da5163/firestone-online-idle-rpg-icon-1rop3.png",
                             "imageType": "ProductIcon",
                             "width": 512
                         },
                         "card16x9": {
-                            "altText": "911 Operator Offer",
+                            "altText": "Firestone Online Idle RPG Offer",
                             "height": 1440,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/c06cc46c27954f55974e9e7a4f3b3849/911-operator-1yumy.jpg",
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/69576a28f7154fe9a0dce97508da5163/firestone-online-idle-rpg-1aw2i.png",
                             "imageType": "OfferImageWide",
                             "width": 2560
                         },
                         "card3x4": {
-                            "altText": "Download 911 Operator Offer",
+                            "altText": "Download Firestone Online Idle RPG Offer",
                             "height": 1600,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/c06cc46c27954f55974e9e7a4f3b3849/911-operator-46k84.jpg",
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/69576a28f7154fe9a0dce97508da5163/firestone-online-idle-rpg-19sl3.png",
                             "imageType": "OfferImageTall",
                             "width": 1200
                         },
                         "coverImage": {
                             "altText": "-",
                             "height": 1440,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/c06cc46c27954f55974e9e7a4f3b3849/911-operator-8ys8n.jpg",
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/69576a28f7154fe9a0dce97508da5163/firestone-online-idle-rpg-1stnb.jpg",
                             "imageType": "coverImage",
                             "width": 2560
                         }
                     },
                     "purchase": [
                         {
-                            "discount": {
-                                "discountAmountDisplay": "-100%",
-                                "discountEndDate": "2026-04-30T15:00:00.000Z",
-                                "originalPriceDisplay": "€5.39"
-                            },
                             "offerLifecycleState": "Release",
                             "price": {
                                 "currencyCode": "EUR",
                                 "decimalPrice": 0
                             },
                             "purchasePayload": {
-                                "offerId": "c5450a64934e414e899becec36081db1",
-                                "sandboxId": "d923c737f0d243ccab407605ea40d39e"
+                                "offerId": "079984d920864c7bb9f0c5f3c066907c",
+                                "sandboxId": "bda8d2133655435982b9118972792328"
                             },
                             "purchaseType": "Claim"
-                        },
-                        {
-                            "offerLifecycleState": "Release",
-                            "price": {
-                                "currencyCode": "EUR",
-                                "decimalPrice": 5.39
-                            },
-                            "priceDisplay": "€5.39",
-                            "purchasePayload": {
-                                "offerId": "c5450a64934e414e899becec36081db1",
-                                "sandboxId": "d923c737f0d243ccab407605ea40d39e"
-                            },
-                            "purchaseType": "Purchase"
                         }
                     ],
                     "systemSpecs": {
-                        "applicationVersion": "7.04.28",
+                        "applicationVersion": "3.43",
                         "platform": "android",
                         "systemRequirements": [
                             {
-                                "minimum": "605 MB",
+                                "minimum": "300mb",
                                 "requirementType": "InstallSize",
                                 "title": "Installation size"
                             },
                             {
-                                "minimum": "234.30 MB",
+                                "minimum": "338.41 MB",
                                 "requirementType": "DownloadSize",
                                 "title": "Download size"
                             },
@@ -3213,10 +3321,10 @@
                             }
                         ]
                     },
-                    "title": "911 Operator"
+                    "title": "Firestone Online Idle RPG"
                 },
-                "offerId": "c5450a64934e414e899becec36081db1",
-                "sandboxId": "d923c737f0d243ccab407605ea40d39e"
+                "offerId": "079984d920864c7bb9f0c5f3c066907c",
+                "sandboxId": "bda8d2133655435982b9118972792328"
             }
         ],
         "size": "large",
@@ -4000,7 +4108,7 @@
                         "appIcon": {
                             "altText": "-",
                             "height": 512,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/e0c86a9863e240bd94298544c653f464/honor-of-kings-icon-1frf2.png",
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/e0c86a9863e240bd94298544c653f464/honor-of-kings-icon-7z2w4.png",
                             "imageType": "ProductIcon",
                             "width": 512
                         },
@@ -4041,7 +4149,7 @@
                         }
                     ],
                     "systemSpecs": {
-                        "applicationVersion": "11.3.1.9",
+                        "applicationVersion": "11.3.1.10",
                         "platform": "android",
                         "systemRequirements": [
                             {
@@ -4050,7 +4158,7 @@
                                 "title": "Installation size"
                             },
                             {
-                                "minimum": "570.88 MB",
+                                "minimum": "572.88 MB",
                                 "requirementType": "DownloadSize",
                                 "title": "Download size"
                             },
@@ -4841,6 +4949,37 @@
                                 "sandboxId": "6729bc4b193a4272bae15c2dca81b193"
                             },
                             "purchaseType": "Purchase"
+                        },
+                        {
+                            "discount": {
+                                "discountAmountDisplay": "-67%",
+                                "discountEndDate": "2026-05-13T15:00:00.000Z",
+                                "originalPriceDisplay": "€2.99"
+                            },
+                            "offerLifecycleState": "Release",
+                            "price": {
+                                "currencyCode": "EUR",
+                                "decimalPrice": 0.98
+                            },
+                            "priceDisplay": "€0.98",
+                            "purchasePayload": {
+                                "offerId": "7b439be916bd4d8985c25e891fe0b34b",
+                                "sandboxId": "6729bc4b193a4272bae15c2dca81b193"
+                            },
+                            "purchaseType": "Purchase"
+                        },
+                        {
+                            "offerLifecycleState": "Release",
+                            "price": {
+                                "currencyCode": "EUR",
+                                "decimalPrice": 2.99
+                            },
+                            "priceDisplay": "€2.99",
+                            "purchasePayload": {
+                                "offerId": "7b439be916bd4d8985c25e891fe0b34b",
+                                "sandboxId": "6729bc4b193a4272bae15c2dca81b193"
+                            },
+                            "purchaseType": "Purchase"
                         }
                     ],
                     "systemSpecs": {
@@ -5083,6 +5222,108 @@
             "src": ""
         },
         "offers": [
+            {
+                "content": {
+                    "ageRating": {
+                        "ageGate": {
+                            "gate": "no-gate"
+                        },
+                        "ageRating": {
+                            "ageControl": 7,
+                            "contentDescriptors": [
+                                "Fear"
+                            ],
+                            "interactiveElements": [],
+                            "ratingImage": "https://cdn1.epicgames.com/gameRating/gameRating/PEGI_7_192_192x192-30e2e712d0682dad01add90a6ccbed5b",
+                            "ratingSystem": "PEGI",
+                            "rectangularRatingImage": "https://cdn1.epicgames.com/salesEvent/salesEvent/PEGI-7_435x530-9439a136999d3dd762c7a61c3b8c7683",
+                            "title": "PEGI 7"
+                        },
+                        "ratingType": "AgeRating"
+                    },
+                    "attention": {
+                        "inAppPurchases": "None"
+                    },
+                    "catalogItemId": "2ffd82d2bcfb4a93bb824b3ed4e25d76",
+                    "categories": [
+                        "games",
+                        "games/edition",
+                        "games/edition/base"
+                    ],
+                    "mapping": {
+                        "slug": "boxes-lost-fragments-android-356638"
+                    },
+                    "media": {
+                        "appIcon": {
+                            "altText": "-",
+                            "height": 512,
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/7f8e5cd71ae04eaeb7d782a5946db16f/boxes-lost-fragments-icon-1ph0x.png",
+                            "imageType": "ProductIcon",
+                            "width": 512
+                        },
+                        "card16x9": {
+                            "altText": "Boxes: Lost Fragments Offer",
+                            "height": 1440,
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/7f8e5cd71ae04eaeb7d782a5946db16f/boxes-lost-fragments-1jpva.png",
+                            "imageType": "OfferImageWide",
+                            "width": 2560
+                        },
+                        "card3x4": {
+                            "altText": "Download Boxes: Lost Fragments Offer",
+                            "height": 1600,
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/7f8e5cd71ae04eaeb7d782a5946db16f/boxes-lost-fragments-4szq3.png",
+                            "imageType": "OfferImageTall",
+                            "width": 1200
+                        },
+                        "coverImage": {
+                            "altText": "-",
+                            "height": 1440,
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/7f8e5cd71ae04eaeb7d782a5946db16f/boxes-lost-fragments-1ngy4.png",
+                            "imageType": "coverImage",
+                            "width": 2560
+                        }
+                    },
+                    "purchase": [
+                        {
+                            "offerLifecycleState": "Release",
+                            "price": {
+                                "currencyCode": "EUR",
+                                "decimalPrice": 8.09
+                            },
+                            "priceDisplay": "€8.09",
+                            "purchasePayload": {
+                                "offerId": "d492301ad87e41aa8d9301301841d019",
+                                "sandboxId": "abc34708e5a0420287f52302582e3fec"
+                            },
+                            "purchaseType": "Purchase"
+                        }
+                    ],
+                    "systemSpecs": {
+                        "applicationVersion": "1.50",
+                        "platform": "android",
+                        "systemRequirements": [
+                            {
+                                "minimum": "960 MB",
+                                "requirementType": "InstallSize",
+                                "title": "Installation size"
+                            },
+                            {
+                                "minimum": "715.29 MB",
+                                "requirementType": "DownloadSize",
+                                "title": "Download size"
+                            },
+                            {
+                                "minimum": "9",
+                                "requirementType": "OS",
+                                "title": "OS version"
+                            }
+                        ]
+                    },
+                    "title": "Boxes: Lost Fragments"
+                },
+                "offerId": "d492301ad87e41aa8d9301301841d019",
+                "sandboxId": "abc34708e5a0420287f52302582e3fec"
+            },
             {
                 "content": {
                     "ageRating": {
@@ -9000,6 +9241,37 @@
                                 "sandboxId": "a960e43e21e44727a838a69987e75c40"
                             },
                             "purchaseType": "Purchase"
+                        },
+                        {
+                            "discount": {
+                                "discountAmountDisplay": "-75%",
+                                "discountEndDate": "2026-05-13T15:00:00.000Z",
+                                "originalPriceDisplay": "€3.99"
+                            },
+                            "offerLifecycleState": "Release",
+                            "price": {
+                                "currencyCode": "EUR",
+                                "decimalPrice": 0.99
+                            },
+                            "priceDisplay": "€0.99",
+                            "purchasePayload": {
+                                "offerId": "7a94969b76a041068c402b7ab0f6a1cb",
+                                "sandboxId": "a960e43e21e44727a838a69987e75c40"
+                            },
+                            "purchaseType": "Purchase"
+                        },
+                        {
+                            "offerLifecycleState": "Release",
+                            "price": {
+                                "currencyCode": "EUR",
+                                "decimalPrice": 3.99
+                            },
+                            "priceDisplay": "€3.99",
+                            "purchasePayload": {
+                                "offerId": "7a94969b76a041068c402b7ab0f6a1cb",
+                                "sandboxId": "a960e43e21e44727a838a69987e75c40"
+                            },
+                            "purchaseType": "Purchase"
                         }
                     ],
                     "systemSpecs": {
@@ -10352,19 +10624,6 @@
                     },
                     "purchase": [
                         {
-                            "offerLifecycleState": "Release",
-                            "price": {
-                                "currencyCode": "EUR",
-                                "decimalPrice": 3.99
-                            },
-                            "priceDisplay": "€3.99",
-                            "purchasePayload": {
-                                "offerId": "e1f9169649d44be99109e47200f80945",
-                                "sandboxId": "dcf4c011daf247bcbc380e28f8ef4fdf"
-                            },
-                            "purchaseType": "Purchase"
-                        },
-                        {
                             "discount": {
                                 "discountAmountDisplay": "-50%",
                                 "discountEndDate": "2026-05-13T15:00:00.000Z",
@@ -10693,19 +10952,6 @@
                         }
                     },
                     "purchase": [
-                        {
-                            "offerLifecycleState": "Release",
-                            "price": {
-                                "currencyCode": "EUR",
-                                "decimalPrice": 4.99
-                            },
-                            "priceDisplay": "€4.99",
-                            "purchasePayload": {
-                                "offerId": "609b35c3aeb94ba193c2d2e3b4d3a056",
-                                "sandboxId": "f9c8275639794b62a3ef63e0d7903a02"
-                            },
-                            "purchaseType": "Purchase"
-                        },
                         {
                             "discount": {
                                 "discountAmountDisplay": "-50%",
@@ -12901,19 +13147,6 @@
                         }
                     },
                     "purchase": [
-                        {
-                            "offerLifecycleState": "Release",
-                            "price": {
-                                "currencyCode": "EUR",
-                                "decimalPrice": 3.99
-                            },
-                            "priceDisplay": "€3.99",
-                            "purchasePayload": {
-                                "offerId": "0b32b9b9238b4ee19d371f051d671420",
-                                "sandboxId": "24f77395564745068e4759e77bc847cb"
-                            },
-                            "purchaseType": "Purchase"
-                        },
                         {
                             "discount": {
                                 "discountAmountDisplay": "-75%",
@@ -16929,111 +17162,6 @@
                 },
                 "offerId": "96efce94353744ffb2c279e882297999",
                 "sandboxId": "5c59642227a2412fb38f324d1772914e"
-            },
-            {
-                "content": {
-                    "ageRating": {
-                        "ageGate": {
-                            "gate": "no-gate"
-                        },
-                        "ageRating": {
-                            "ageControl": 7,
-                            "contentDescriptors": [
-                                "Mild Violence"
-                            ],
-                            "interactiveElements": [
-                                "Users Interact",
-                                "In-Game Purchases (Includes Random Items)"
-                            ],
-                            "ratingImage": "https://cdn1.epicgames.com/gameRating/gameRating/PEGI_7_192_192x192-30e2e712d0682dad01add90a6ccbed5b",
-                            "ratingSystem": "PEGI",
-                            "rectangularRatingImage": "https://cdn1.epicgames.com/salesEvent/salesEvent/PEGI-7_435x530-9439a136999d3dd762c7a61c3b8c7683",
-                            "title": "PEGI 7"
-                        },
-                        "ratingType": "AgeRating"
-                    },
-                    "attention": {
-                        "inAppPurchases": "MaybeIncludesInAppPurchases"
-                    },
-                    "catalogItemId": "fa311c526d554653a025da7f52ec5a8c",
-                    "categories": [
-                        "freegames",
-                        "games",
-                        "games/edition",
-                        "games/edition/base"
-                    ],
-                    "mapping": {
-                        "slug": "firestone-online-idle-rpg-android-fb0ce6"
-                    },
-                    "media": {
-                        "appIcon": {
-                            "altText": "-",
-                            "height": 512,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/69576a28f7154fe9a0dce97508da5163/firestone-online-idle-rpg-icon-1rop3.png",
-                            "imageType": "ProductIcon",
-                            "width": 512
-                        },
-                        "card16x9": {
-                            "altText": "Firestone Online Idle RPG Offer",
-                            "height": 1440,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/69576a28f7154fe9a0dce97508da5163/firestone-online-idle-rpg-bgq5c.png",
-                            "imageType": "OfferImageWide",
-                            "width": 2560
-                        },
-                        "card3x4": {
-                            "altText": "Download Firestone Online Idle RPG Offer",
-                            "height": 1600,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/69576a28f7154fe9a0dce97508da5163/firestone-online-idle-rpg-1txir.png",
-                            "imageType": "OfferImageTall",
-                            "width": 1200
-                        },
-                        "coverImage": {
-                            "altText": "-",
-                            "height": 1440,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/69576a28f7154fe9a0dce97508da5163/firestone-online-idle-rpg-1stnb.jpg",
-                            "imageType": "coverImage",
-                            "width": 2560
-                        }
-                    },
-                    "purchase": [
-                        {
-                            "offerLifecycleState": "Release",
-                            "price": {
-                                "currencyCode": "EUR",
-                                "decimalPrice": 0
-                            },
-                            "purchasePayload": {
-                                "offerId": "079984d920864c7bb9f0c5f3c066907c",
-                                "sandboxId": "bda8d2133655435982b9118972792328"
-                            },
-                            "purchaseType": "Claim"
-                        }
-                    ],
-                    "systemSpecs": {
-                        "applicationVersion": "3.41",
-                        "platform": "android",
-                        "systemRequirements": [
-                            {
-                                "minimum": "300mb",
-                                "requirementType": "InstallSize",
-                                "title": "Installation size"
-                            },
-                            {
-                                "minimum": "337.71 MB",
-                                "requirementType": "DownloadSize",
-                                "title": "Download size"
-                            },
-                            {
-                                "minimum": "6.0",
-                                "requirementType": "OS",
-                                "title": "OS version"
-                            }
-                        ]
-                    },
-                    "title": "Firestone Online Idle RPG"
-                },
-                "offerId": "079984d920864c7bb9f0c5f3c066907c",
-                "sandboxId": "bda8d2133655435982b9118972792328"
             },
             {
                 "content": {
