@@ -10510,7 +10510,7 @@
                         }
                     ],
                     "systemSpecs": {
-                        "applicationVersion": "1.43.0",
+                        "applicationVersion": "1.43.4",
                         "platform": "android",
                         "systemRequirements": [
                             {
@@ -10519,7 +10519,7 @@
                                 "title": "Installation size"
                             },
                             {
-                                "minimum": "178.61 MB",
+                                "minimum": "178.75 MB",
                                 "requirementType": "DownloadSize",
                                 "title": "Download size"
                             },
@@ -11638,14 +11638,14 @@
                         "card16x9": {
                             "altText": "Idle Champions of the Forgotten Realms Offer",
                             "height": 1440,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/a53f91e55c6840018cb5de0b204f1ad9/idle-champions-of-the-forgotten-realms-1dc7t.png",
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/a53f91e55c6840018cb5de0b204f1ad9/idle-champions-of-the-forgotten-realms-1w9rq.png",
                             "imageType": "OfferImageWide",
                             "width": 2560
                         },
                         "card3x4": {
                             "altText": "Download Idle Champions of the Forgotten Realms Offer",
                             "height": 1600,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/a53f91e55c6840018cb5de0b204f1ad9/idle-champions-of-the-forgotten-realms-11e55.png",
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/a53f91e55c6840018cb5de0b204f1ad9/idle-champions-of-the-forgotten-realms-1ssax.png",
                             "imageType": "OfferImageTall",
                             "width": 1200
                         },
@@ -15668,7 +15668,7 @@
                         }
                     ],
                     "systemSpecs": {
-                        "applicationVersion": "54.2",
+                        "applicationVersion": "54.3",
                         "platform": "android",
                         "systemRequirements": [
                             {
@@ -15677,7 +15677,7 @@
                                 "title": "Installation size"
                             },
                             {
-                                "minimum": "147.30 MB",
+                                "minimum": "147.35 MB",
                                 "requirementType": "DownloadSize",
                                 "title": "Download size"
                             },
@@ -17131,9 +17131,9 @@
                         "ageRating": {
                             "ageControl": 16,
                             "contentDescriptors": [
-                                "Simulated Gambling",
+                                "Strong Violence",
                                 "Strong Language",
-                                "Strong Violence"
+                                "Simulated Gambling"
                             ],
                             "interactiveElements": [
                                 "Users Interact",
