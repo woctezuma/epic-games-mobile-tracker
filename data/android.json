@@ -17196,16 +17196,14 @@
                             "width": 512
                         },
                         "card16x9": {
-                            "altText": "Firestone Online Idle RPG Offer",
                             "height": 1440,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/69576a28f7154fe9a0dce97508da5163/firestone-online-idle-rpg-1aw2i.png",
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/69576a28f7154fe9a0dce97508da5163/firestone-online-idle-rpg-1ylud.png",
                             "imageType": "OfferImageWide",
                             "width": 2560
                         },
                         "card3x4": {
-                            "altText": "Download Firestone Online Idle RPG Offer",
                             "height": 1600,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/69576a28f7154fe9a0dce97508da5163/firestone-online-idle-rpg-19sl3.png",
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/69576a28f7154fe9a0dce97508da5163/firestone-online-idle-rpg-1pkh3.png",
                             "imageType": "OfferImageTall",
                             "width": 1200
                         },
