@@ -1239,6 +1239,58 @@
         "store_url": "<https://store.epicgames.com/product/idle-champions-of-the-forgotten-realms-ios-77e761>",
         "title": "Idle Champions of the Forgotten Realms"
     },
+    "1-820e78ed3f3b4e19a715a25181a0cdd8-0e835e39b219461c8ec50485811a38cd": {
+        "age_control": 3,
+        "catalog_item_id": "2a6dde4ab59b499492f91c612a8b539d",
+        "checkout_url": "<https://store.epicgames.com/purchase?offers=1-820e78ed3f3b4e19a715a25181a0cdd8-0e835e39b219461c8ec50485811a38cd>",
+        "content_descriptors": [],
+        "current_price": "0",
+        "discount": "-100%",
+        "download_size": "292 MB",
+        "end_date": "2026-05-14T15:00:00.000Z",
+        "in_app_purchases": false,
+        "install_size": "583 MB",
+        "interactive_elements": [],
+        "media": {
+            "OfferImageTall": "https://cdn1.epicgames.com/spt-assets/63ab8e15805348a79688f4117bec5370/teacup-1vlj0.jpg",
+            "OfferImageWide": "https://cdn1.epicgames.com/spt-assets/63ab8e15805348a79688f4117bec5370/teacup-gt2tz.jpg",
+            "ProductIcon": "https://cdn1.epicgames.com/spt-assets/63ab8e15805348a79688f4117bec5370/teacup-icon-nq9lj.png",
+            "coverImage": "https://cdn1.epicgames.com/spt-assets/63ab8e15805348a79688f4117bec5370/teacup-8i81u.jpg"
+        },
+        "offer_id": "0e835e39b219461c8ec50485811a38cd",
+        "original_price": "4.49",
+        "platform": "ios",
+        "sandbox_id": "820e78ed3f3b4e19a715a25181a0cdd8",
+        "slug": "teacup-ios-b9ca8c",
+        "store_url": "<https://store.epicgames.com/product/teacup-ios-b9ca8c>",
+        "title": "Teacup"
+    },
+    "1-820e78ed3f3b4e19a715a25181a0cdd8-f0091b3eaea04cb0a729dd040f057a72": {
+        "age_control": 3,
+        "catalog_item_id": "cd078d27149142fab48f7e20000044d1",
+        "checkout_url": "<https://store.epicgames.com/purchase?offers=1-820e78ed3f3b4e19a715a25181a0cdd8-f0091b3eaea04cb0a729dd040f057a72>",
+        "content_descriptors": [],
+        "current_price": "0",
+        "discount": "-100%",
+        "download_size": "290.98 MB",
+        "end_date": "2026-05-14T15:00:00.000Z",
+        "in_app_purchases": false,
+        "install_size": "365",
+        "interactive_elements": [],
+        "media": {
+            "OfferImageTall": "https://cdn1.epicgames.com/spt-assets/63ab8e15805348a79688f4117bec5370/teacup-1sc3w.jpg",
+            "OfferImageWide": "https://cdn1.epicgames.com/spt-assets/63ab8e15805348a79688f4117bec5370/teacup-1ixm0.jpg",
+            "ProductIcon": "https://cdn1.epicgames.com/spt-assets/63ab8e15805348a79688f4117bec5370/teacup-icon-nq9lj.png",
+            "coverImage": "https://cdn1.epicgames.com/spt-assets/63ab8e15805348a79688f4117bec5370/teacup-8i81u.jpg"
+        },
+        "offer_id": "f0091b3eaea04cb0a729dd040f057a72",
+        "original_price": "4.49",
+        "platform": "android",
+        "sandbox_id": "820e78ed3f3b4e19a715a25181a0cdd8",
+        "slug": "teacup-android-b71c0e",
+        "store_url": "<https://store.epicgames.com/product/teacup-android-b71c0e>",
+        "title": "Teacup"
+    },
     "1-87375f89fc4c4c7a8c681cf21febee06-b27e3f1c1d2b43fd8b1e9bf67243d837": {
         "age_control": 12,
         "catalog_item_id": "ab26c2496120437daa3e9237edba6c41",
