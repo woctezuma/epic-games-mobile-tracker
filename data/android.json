@@ -9,20 +9,20 @@
                 "content": {
                     "ageRating": {
                         "ageGate": {
-                            "gate": "no-gate"
+                            "gate": "age-gate"
                         },
                         "ageRating": {
-                            "ageControl": 12,
+                            "ageControl": 16,
                             "contentDescriptors": [
-                                "Moderate Violence"
+                                "Strong Violence"
                             ],
                             "interactiveElements": [
                                 "In-Game Purchases (Includes Random Items)"
                             ],
-                            "ratingImage": "https://cdn1.epicgames.com/gameRating/gameRating/PEGI_12_192_192x192-afa4df43f131bc83eb380ccf22f8d904",
+                            "ratingImage": "https://cdn1.epicgames.com/gameRating/gameRating/PEGI_16_192_192x192-da60f0bd1fe7cb1ac9d8a8bd5168ea96",
                             "ratingSystem": "PEGI",
-                            "rectangularRatingImage": "https://cdn1.epicgames.com/salesEvent/salesEvent/PEGI-12_436x530-0cd1f06607086f3cc1bc2b8643f21b0a",
-                            "title": "PEGI 12"
+                            "rectangularRatingImage": "https://cdn1.epicgames.com/salesEvent/salesEvent/PEGI-16_435x530-65760d498ce28374fb7ca3258ee1440c",
+                            "title": "PEGI 16"
                         },
                         "ratingType": "AgeRating"
                     },
@@ -2398,26 +2398,26 @@
                         "appIcon": {
                             "altText": "-",
                             "height": 512,
-                            "imageSrc": "https://cdn1.epicgames.com/offer/fn/PurpleJonesy_AppIcon_512x512_512x512-f74e82f0e1e64142ac86379e457458a2",
+                            "imageSrc": "https://cdn1.epicgames.com/offer/fn/S40_40-40_AppIcon_512x512_512x512-f60172753e3e47e7b6e2ebfbcbcaeeb0",
                             "imageType": "ProductIcon",
                             "width": 512
                         },
                         "card16x9": {
                             "height": 1440,
-                            "imageSrc": "https://cdn1.epicgames.com/offer/fn/FNBR_40-00_C7S2_Jules_EGS_Launcher_Blade_2560x1440_2560x1440-5363af154f9c44c5a0ecad593d78f364",
+                            "imageSrc": "https://cdn1.epicgames.com/offer/fn/FNBR_40-40_C7S2_Venison_EGS_Launcher_Blade_2560x1440_2560x1440-e635a986e9d04de587a8929cac674998",
                             "imageType": "OfferImageWide",
                             "width": 2560
                         },
                         "card3x4": {
                             "height": 1600,
-                            "imageSrc": "https://cdn1.epicgames.com/offer/fn/FNBR_40-00_C7S2_Jules_EGS_Launcher_Blade_1200x1600_1200x1600-d4c66acbbeb04dc4b76342a2795cb2bd",
+                            "imageSrc": "https://cdn1.epicgames.com/offer/fn/FNBR_40-40_C7S2_Venison_EGS_Launcher_Blade_1200x1600_1200x1600-3d88fb9878fe49c4968578c714e9989f",
                             "imageType": "OfferImageTall",
                             "width": 1200
                         },
                         "coverImage": {
                             "altText": "-",
                             "height": 1440,
-                            "imageSrc": "https://cdn1.epicgames.com/offer/fn/FNBR_40-00_C7S2_Jules_EGS_Launcher_Blade_2560x1440_2560x1440-564f448af4f2443a921cd153ab33ac0c",
+                            "imageSrc": "https://cdn1.epicgames.com/offer/fn/FNBR_40-40_C7S2_Venison_EGS_Launcher_Blade_2560x1440_2560x1440-d0f730e1dde8472e8e7f80d204c54a24",
                             "imageType": "coverImage",
                             "width": 2560
                         }
@@ -2685,7 +2685,7 @@
                         "appIcon": {
                             "altText": "-",
                             "height": 512,
-                            "imageSrc": "https://cdn1.epicgames.com/offer/fn/PurpleJonesy_AppIcon_512x512_512x512-f74e82f0e1e64142ac86379e457458a2",
+                            "imageSrc": "https://cdn1.epicgames.com/offer/fn/S40_40-40_AppIcon_512x512_512x512-f60172753e3e47e7b6e2ebfbcbcaeeb0",
                             "imageType": "ProductIcon",
                             "width": 512
                         },
@@ -2775,7 +2775,7 @@
                         "appIcon": {
                             "altText": "-",
                             "height": 512,
-                            "imageSrc": "https://cdn1.epicgames.com/offer/fn/PurpleJonesy_AppIcon_512x512_512x512-f74e82f0e1e64142ac86379e457458a2",
+                            "imageSrc": "https://cdn1.epicgames.com/offer/fn/S40_40-40_AppIcon_512x512_512x512-f60172753e3e47e7b6e2ebfbcbcaeeb0",
                             "imageType": "ProductIcon",
                             "width": 512
                         },
@@ -2865,7 +2865,7 @@
                         "appIcon": {
                             "altText": "-",
                             "height": 512,
-                            "imageSrc": "https://cdn1.epicgames.com/offer/fn/PurpleJonesy_AppIcon_512x512_512x512-f74e82f0e1e64142ac86379e457458a2",
+                            "imageSrc": "https://cdn1.epicgames.com/offer/fn/S40_40-40_AppIcon_512x512_512x512-f60172753e3e47e7b6e2ebfbcbcaeeb0",
                             "imageType": "ProductIcon",
                             "width": 512
                         },
@@ -2954,7 +2954,7 @@
                         "appIcon": {
                             "altText": "-",
                             "height": 512,
-                            "imageSrc": "https://cdn1.epicgames.com/offer/fn/PurpleJonesy_AppIcon_512x512_512x512-f74e82f0e1e64142ac86379e457458a2",
+                            "imageSrc": "https://cdn1.epicgames.com/offer/fn/S40_40-40_AppIcon_512x512_512x512-f60172753e3e47e7b6e2ebfbcbcaeeb0",
                             "imageType": "ProductIcon",
                             "width": 512
                         },
@@ -3043,7 +3043,7 @@
                         "appIcon": {
                             "altText": "-",
                             "height": 512,
-                            "imageSrc": "https://cdn1.epicgames.com/offer/fn/PurpleJonesy_AppIcon_512x512_512x512-f74e82f0e1e64142ac86379e457458a2",
+                            "imageSrc": "https://cdn1.epicgames.com/offer/fn/S40_40-40_AppIcon_512x512_512x512-f60172753e3e47e7b6e2ebfbcbcaeeb0",
                             "imageType": "ProductIcon",
                             "width": 512
                         },
@@ -3131,7 +3131,7 @@
                         "appIcon": {
                             "altText": "-",
                             "height": 512,
-                            "imageSrc": "https://cdn1.epicgames.com/offer/fn/PurpleJonesy_AppIcon_512x512_512x512-f74e82f0e1e64142ac86379e457458a2",
+                            "imageSrc": "https://cdn1.epicgames.com/offer/fn/S40_40-40_AppIcon_512x512_512x512-f60172753e3e47e7b6e2ebfbcbcaeeb0",
                             "imageType": "ProductIcon",
                             "width": 512
                         },
