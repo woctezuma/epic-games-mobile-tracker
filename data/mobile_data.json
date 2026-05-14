@@ -445,6 +445,62 @@
         "store_url": "<https://store.epicgames.com/product/the-darkside-detective-android-f088bb>",
         "title": "The Darkside Detective"
     },
+    "1-2df8b055a5674c8e9211fc51f8efd210-8c451d7863c44c32b7e9250291e45de2": {
+        "age_control": 7,
+        "catalog_item_id": "651f1fd4c7714697b2bf5313574f6fac",
+        "checkout_url": "<https://store.epicgames.com/purchase?offers=1-2df8b055a5674c8e9211fc51f8efd210-8c451d7863c44c32b7e9250291e45de2>",
+        "content_descriptors": [
+            "Mild Violence"
+        ],
+        "current_price": "0",
+        "discount": "-100%",
+        "download_size": "700 MB",
+        "end_date": "2026-05-21T15:00:00.000Z",
+        "in_app_purchases": false,
+        "install_size": "1,4 GB",
+        "interactive_elements": [],
+        "media": {
+            "OfferImageTall": "https://cdn1.epicgames.com/spt-assets/fee7dc25f12c4400a5182c864fd89c66/arranger-a-rolepuzzling-adventure-1lfcb.jpg",
+            "OfferImageWide": "https://cdn1.epicgames.com/spt-assets/fee7dc25f12c4400a5182c864fd89c66/arranger-a-rolepuzzling-adventure-3fkzq.jpg",
+            "ProductIcon": "https://cdn1.epicgames.com/spt-assets/fee7dc25f12c4400a5182c864fd89c66/arranger-a-rolepuzzling-adventure-icon-t95ox.png",
+            "coverImage": "https://cdn1.epicgames.com/spt-assets/fee7dc25f12c4400a5182c864fd89c66/arranger-a-rolepuzzling-adventure-qwxxc.jpg"
+        },
+        "offer_id": "8c451d7863c44c32b7e9250291e45de2",
+        "original_price": "8.99",
+        "platform": "ios",
+        "sandbox_id": "2df8b055a5674c8e9211fc51f8efd210",
+        "slug": "arranger-a-rolepuzzling-adventure-ios-ceccbd",
+        "store_url": "<https://store.epicgames.com/product/arranger-a-rolepuzzling-adventure-ios-ceccbd>",
+        "title": "Arranger: A Role-Puzzling Adventure"
+    },
+    "1-2df8b055a5674c8e9211fc51f8efd210-f89357d455fe4038a5376ce601c29e6c": {
+        "age_control": 7,
+        "catalog_item_id": "c483a8c28df943c399af59f1801f315e",
+        "checkout_url": "<https://store.epicgames.com/purchase?offers=1-2df8b055a5674c8e9211fc51f8efd210-f89357d455fe4038a5376ce601c29e6c>",
+        "content_descriptors": [
+            "Mild Violence"
+        ],
+        "current_price": "0",
+        "discount": "-100%",
+        "download_size": "911.17 MB",
+        "end_date": "2026-05-21T15:00:00.000Z",
+        "in_app_purchases": false,
+        "install_size": "1,07 GB",
+        "interactive_elements": [],
+        "media": {
+            "OfferImageTall": "https://cdn1.epicgames.com/spt-assets/fee7dc25f12c4400a5182c864fd89c66/arranger-a-rolepuzzling-adventure-1v4ha.jpg",
+            "OfferImageWide": "https://cdn1.epicgames.com/spt-assets/fee7dc25f12c4400a5182c864fd89c66/arranger-a-rolepuzzling-adventure-32mby.jpg",
+            "ProductIcon": "https://cdn1.epicgames.com/spt-assets/fee7dc25f12c4400a5182c864fd89c66/arranger-a-rolepuzzling-adventure-icon-t95ox.png",
+            "coverImage": "https://cdn1.epicgames.com/spt-assets/fee7dc25f12c4400a5182c864fd89c66/arranger-a-rolepuzzling-adventure-qwxxc.jpg"
+        },
+        "offer_id": "f89357d455fe4038a5376ce601c29e6c",
+        "original_price": "8.99",
+        "platform": "android",
+        "sandbox_id": "2df8b055a5674c8e9211fc51f8efd210",
+        "slug": "arranger-a-rolepuzzling-adventure-android-caa29b",
+        "store_url": "<https://store.epicgames.com/product/arranger-a-rolepuzzling-adventure-android-caa29b>",
+        "title": "Arranger: A Role-Puzzling Adventure"
+    },
     "1-3341d4dd5b8d44c3a372da3f10122485-742b12c834ee47b5b43b78388cccad21": {
         "age_control": 7,
         "catalog_item_id": "d9a0de164e6449869d9ee7685485c4d1",
