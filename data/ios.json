@@ -12,57 +12,56 @@
                             "gate": "no-gate"
                         },
                         "ageRating": {
-                            "ageControl": 0,
+                            "ageControl": 3,
                             "contentDescriptors": [],
                             "interactiveElements": [
-                                "Users Interact",
-                                "In-App Purchases"
+                                "In-Game Purchases (Includes Random Items)"
                             ],
-                            "ratingImage": "https://cdn1.epicgames.com/gameRating/gameRating/PEGI_EXC_192_192x192-4b60638de38c759ed1cdb5c19a573256",
+                            "ratingImage": "https://cdn1.epicgames.com/gameRating/gameRating/PEGI_3_192_192x192-490b93ddf59fb4ac1148d1eb9083626a",
                             "ratingSystem": "PEGI",
-                            "rectangularRatingImage": "https://cdn1.epicgames.com/salesEvent/salesEvent/PEGI-info_435x530-d763ff1e493324dfef7ffd688b61476a",
-                            "title": "PARENTAL GUIDANCE RECOMMENDED"
+                            "rectangularRatingImage": "https://cdn1.epicgames.com/salesEvent/salesEvent/PEGI-3_435x530-c931ab5bb4eb190f6e8e542081c49dc4",
+                            "title": "PEGI 3"
                         },
                         "ratingType": "AgeRating"
                     },
                     "attention": {
-                        "inAppPurchases": "IncludesInAppPurchases"
+                        "inAppPurchases": "MaybeIncludesInAppPurchases"
                     },
-                    "catalogItemId": "909dd1fd19bf41f99b23edf2ce461927",
+                    "catalogItemId": "a35bd80f6d6b4cdc8384650c552b54ee",
                     "categories": [
                         "games",
                         "games/edition",
-                        "games/edition/base",
-                        "attention/in-app-purchases/supported",
-                        "applications"
+                        "games/edition/base"
                     ],
                     "mapping": {
-                        "slug": "fortnite-ios"
+                        "slug": "rocket-bot-royale-ios-4c6fc7"
                     },
                     "media": {
                         "appIcon": {
                             "altText": "-",
                             "height": 512,
-                            "imageSrc": "https://cdn1.epicgames.com/offer/fn/S40_40-40_AppIcon_512x512_512x512-f60172753e3e47e7b6e2ebfbcbcaeeb0",
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/dc0d6d0176904d928d413834ddde40dd/rocket-bot-royale-icon-1uepw.png",
                             "imageType": "ProductIcon",
                             "width": 512
                         },
                         "card16x9": {
+                            "altText": "Rocket Bot Royale Offer",
                             "height": 1440,
-                            "imageSrc": "https://cdn1.epicgames.com/offer/fn/FNBR_40-40_C7S2_Venison_EGS_Launcher_Blade_2560x1440_2560x1440-37d5ee201520432bb668af8720825448",
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/dc0d6d0176904d928d413834ddde40dd/rocket-bot-royale-13bh2.png",
                             "imageType": "OfferImageWide",
                             "width": 2560
                         },
                         "card3x4": {
+                            "altText": "Download Rocket Bot Royale Offer",
                             "height": 1600,
-                            "imageSrc": "https://cdn1.epicgames.com/offer/fn/FNBR_40-40_C7S2_Venison_EGS_Launcher_Blade_1200x1600_1200x1600-8bef4548787f418f9fae732c12d0e950",
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/dc0d6d0176904d928d413834ddde40dd/rocket-bot-royale-78zqi.png",
                             "imageType": "OfferImageTall",
                             "width": 1200
                         },
                         "coverImage": {
                             "altText": "-",
                             "height": 1440,
-                            "imageSrc": "https://cdn1.epicgames.com/offer/fn/FNBR_40-40_C7S2_Venison_EGS_Launcher_Blade_2560x1440_2560x1440-d0f730e1dde8472e8e7f80d204c54a24",
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/dc0d6d0176904d928d413834ddde40dd/rocket-bot-royale-gvf11.png",
                             "imageType": "coverImage",
                             "width": 2560
                         }
@@ -75,28 +74,139 @@
                                 "decimalPrice": 0
                             },
                             "purchasePayload": {
-                                "offerId": "d69e49517f0f4e49a39253f7b106dc27",
-                                "sandboxId": "fn"
+                                "offerId": "c923795ad63b490cb7e8ac3542fbfa58",
+                                "sandboxId": "0b0ff68a5e7a4869b9857d0f3134199d"
                             },
                             "purchaseType": "Claim"
                         }
                     ],
                     "systemSpecs": {
+                        "applicationVersion": "1.6.57",
                         "platform": "ios",
                         "systemRequirements": [
                             {
-                                "minimum": "12.0",
-                                "recommended": "",
+                                "minimum": "90MB",
+                                "requirementType": "InstallSize",
+                                "title": "Installation size"
+                            },
+                            {
+                                "minimum": "88MB",
+                                "requirementType": "DownloadSize",
+                                "title": "Download size"
+                            },
+                            {
+                                "minimum": "iOS 12",
                                 "requirementType": "OS",
                                 "title": "OS version"
                             }
-                        ],
-                        "technicalDetails": "Fortnite requires an internet connection and supports the following devices: \n- iPhone 11 or later with 4GB RAM\n- iPad Pro 13” (1st gen or later)\n- iPad Pro 11” (3rd gen or later)\n- iPad Air (4th gen or later)\n- iPad Mini (6th gen or later)\n- iPad (10th gen or later)"
+                        ]
                     },
-                    "title": "Fortnite"
+                    "title": "Rocket Bot Royale"
                 },
-                "offerId": "d69e49517f0f4e49a39253f7b106dc27",
-                "sandboxId": "fn"
+                "offerId": "c923795ad63b490cb7e8ac3542fbfa58",
+                "sandboxId": "0b0ff68a5e7a4869b9857d0f3134199d"
+            },
+            {
+                "content": {
+                    "ageRating": {
+                        "ageGate": {
+                            "gate": "no-gate"
+                        },
+                        "ageRating": {
+                            "ageControl": 3,
+                            "contentDescriptors": [],
+                            "interactiveElements": [
+                                "Users Interact",
+                                "In-Game Purchases"
+                            ],
+                            "ratingImage": "https://cdn1.epicgames.com/gameRating/gameRating/PEGI_3_192_192x192-490b93ddf59fb4ac1148d1eb9083626a",
+                            "ratingSystem": "PEGI",
+                            "rectangularRatingImage": "https://cdn1.epicgames.com/salesEvent/salesEvent/PEGI-3_435x530-c931ab5bb4eb190f6e8e542081c49dc4",
+                            "title": "PEGI 3"
+                        },
+                        "ratingType": "AgeRating"
+                    },
+                    "attention": {
+                        "inAppPurchases": "MaybeIncludesInAppPurchases"
+                    },
+                    "catalogItemId": "a3716423e8654082b5c2f1d1d526739d",
+                    "categories": [
+                        "games",
+                        "games/edition",
+                        "games/edition/base"
+                    ],
+                    "mapping": {
+                        "slug": "bandits-vs-lords-epic-clash-mobile-ios-039c12"
+                    },
+                    "media": {
+                        "appIcon": {
+                            "altText": "-",
+                            "height": 512,
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/6b54b0353e1a48069d9609b30aa01c68/bandits-vs-lords-epic-clash-mobile-icon-pwu6m.png",
+                            "imageType": "ProductIcon",
+                            "width": 512
+                        },
+                        "card16x9": {
+                            "altText": "Bandits vs Lords: Epic Clash! Offer",
+                            "height": 1440,
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/6b54b0353e1a48069d9609b30aa01c68/bandits-vs-lords-epic-clash-10317.jpg",
+                            "imageType": "OfferImageWide",
+                            "width": 2560
+                        },
+                        "card3x4": {
+                            "altText": "Download Bandits vs Lords: Epic Clash! Offer",
+                            "height": 1600,
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/6b54b0353e1a48069d9609b30aa01c68/bandits-vs-lords-epic-clash-1sq1e.png",
+                            "imageType": "OfferImageTall",
+                            "width": 1200
+                        },
+                        "coverImage": {
+                            "altText": "-",
+                            "height": 1440,
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/6b54b0353e1a48069d9609b30aa01c68/bandits-vs-lords-epic-clash-d4ub9.jpg",
+                            "imageType": "coverImage",
+                            "width": 2560
+                        }
+                    },
+                    "purchase": [
+                        {
+                            "offerLifecycleState": "Release",
+                            "price": {
+                                "currencyCode": "EUR",
+                                "decimalPrice": 0
+                            },
+                            "purchasePayload": {
+                                "offerId": "b040cff2d7ad4597be27def584e5a45c",
+                                "sandboxId": "d0447689edb34e76991c245b7d97f72a"
+                            },
+                            "purchaseType": "Claim"
+                        }
+                    ],
+                    "systemSpecs": {
+                        "applicationVersion": "0.4.926",
+                        "platform": "ios",
+                        "systemRequirements": [
+                            {
+                                "minimum": "357",
+                                "requirementType": "InstallSize",
+                                "title": "Installation size"
+                            },
+                            {
+                                "minimum": "357",
+                                "requirementType": "DownloadSize",
+                                "title": "Download size"
+                            },
+                            {
+                                "minimum": "13",
+                                "requirementType": "OS",
+                                "title": "OS version"
+                            }
+                        ]
+                    },
+                    "title": "Bandits vs Lords: Epic Clash"
+                },
+                "offerId": "b040cff2d7ad4597be27def584e5a45c",
+                "sandboxId": "d0447689edb34e76991c245b7d97f72a"
             },
             {
                 "content": {
@@ -912,7 +1022,19 @@
                 },
                 "offerId": "7bfba13116014d7db68021387307e87a",
                 "sandboxId": "7c13deca13f3415b9f0f75084bbef55c"
-            },
+            }
+        ],
+        "size": "xLarge",
+        "title": "",
+        "topicId": "mobile-ios-carousel",
+        "type": "featured"
+    },
+    {
+        "link": {
+            "linkText": "home page",
+            "src": "/"
+        },
+        "offers": [
             {
                 "content": {
                     "ageRating": {
@@ -1112,19 +1234,7 @@
                 },
                 "offerId": "8297d0013fe54c6494d82d49eb5f5132",
                 "sandboxId": "7c68eb267d514e42b42a00adac76eaea"
-            }
-        ],
-        "size": "xLarge",
-        "title": "",
-        "topicId": "mobile-ios-carousel",
-        "type": "featured"
-    },
-    {
-        "link": {
-            "linkText": "home page",
-            "src": "/"
-        },
-        "offers": [
+            },
             {
                 "content": {
                     "ageRating": {
@@ -2139,209 +2249,6 @@
                 },
                 "offerId": "e6e5809aeaef4891b722a7e2c0d64403",
                 "sandboxId": "bd304830208f4c42a56f1ac6ad5eecd6"
-            },
-            {
-                "content": {
-                    "ageRating": {
-                        "ageGate": {
-                            "gate": "no-gate"
-                        },
-                        "ageRating": {
-                            "ageControl": 12,
-                            "contentDescriptors": [
-                                "Mild Swearing"
-                            ],
-                            "interactiveElements": [],
-                            "ratingImage": "https://cdn1.epicgames.com/gameRating/gameRating/PEGI_12_192_192x192-afa4df43f131bc83eb380ccf22f8d904",
-                            "ratingSystem": "PEGI",
-                            "rectangularRatingImage": "https://cdn1.epicgames.com/salesEvent/salesEvent/PEGI-12_436x530-0cd1f06607086f3cc1bc2b8643f21b0a",
-                            "title": "PEGI 12"
-                        },
-                        "ratingType": "AgeRating"
-                    },
-                    "attention": {
-                        "inAppPurchases": "None"
-                    },
-                    "catalogItemId": "75930fd5edd44c678904b172f2a46a71",
-                    "categories": [
-                        "freegames",
-                        "games",
-                        "games/edition",
-                        "games/edition/base"
-                    ],
-                    "mapping": {
-                        "slug": "skul-the-hero-slayer-ios-699ae8"
-                    },
-                    "media": {
-                        "appIcon": {
-                            "altText": "-",
-                            "height": 512,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/cf279cf29eba4e14b93c898ef502239c/skul-the-hero-slayer-icon-7m821.png",
-                            "imageType": "ProductIcon",
-                            "width": 512
-                        },
-                        "card16x9": {
-                            "altText": "Skul: The Hero Slayer Offer",
-                            "height": 1440,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/cf279cf29eba4e14b93c898ef502239c/skul-the-hero-slayer-pqlzo.jpg",
-                            "imageType": "OfferImageWide",
-                            "width": 2560
-                        },
-                        "card3x4": {
-                            "altText": "Download Skul: The Hero Slayer Offer",
-                            "height": 1600,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/cf279cf29eba4e14b93c898ef502239c/skul-the-hero-slayer-m9oml.jpg",
-                            "imageType": "OfferImageTall",
-                            "width": 1200
-                        },
-                        "coverImage": {
-                            "altText": "-",
-                            "height": 1440,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/cf279cf29eba4e14b93c898ef502239c/skul-the-hero-slayer-1nz1u.jpg",
-                            "imageType": "coverImage",
-                            "width": 2560
-                        }
-                    },
-                    "purchase": [
-                        {
-                            "offerLifecycleState": "Release",
-                            "price": {
-                                "currencyCode": "EUR",
-                                "decimalPrice": 7.19
-                            },
-                            "priceDisplay": "€7.19",
-                            "purchasePayload": {
-                                "offerId": "c2b42bd4beaa432e99b29f6b8e47c7ce",
-                                "sandboxId": "5b63da9584554295a2a70dd9544b4d93"
-                            },
-                            "purchaseType": "Purchase"
-                        }
-                    ],
-                    "systemSpecs": {
-                        "applicationVersion": "1.0.11",
-                        "platform": "ios",
-                        "systemRequirements": [
-                            {
-                                "minimum": "2,14GB",
-                                "requirementType": "InstallSize",
-                                "title": "Installation size"
-                            },
-                            {
-                                "minimum": "2,14 GB",
-                                "requirementType": "DownloadSize",
-                                "title": "Download size"
-                            },
-                            {
-                                "minimum": "12",
-                                "requirementType": "OS",
-                                "title": "OS version"
-                            }
-                        ]
-                    },
-                    "title": "Skul: The Hero Slayer"
-                },
-                "offerId": "c2b42bd4beaa432e99b29f6b8e47c7ce",
-                "sandboxId": "5b63da9584554295a2a70dd9544b4d93"
-            },
-            {
-                "content": {
-                    "ageRating": {
-                        "ageGate": {
-                            "gate": "no-gate"
-                        },
-                        "ageRating": {
-                            "ageControl": 3,
-                            "contentDescriptors": [],
-                            "interactiveElements": [],
-                            "ratingImage": "https://cdn1.epicgames.com/gameRating/gameRating/PEGI_3_192_192x192-490b93ddf59fb4ac1148d1eb9083626a",
-                            "ratingSystem": "PEGI",
-                            "rectangularRatingImage": "https://cdn1.epicgames.com/salesEvent/salesEvent/PEGI-3_435x530-c931ab5bb4eb190f6e8e542081c49dc4",
-                            "title": "PEGI 3"
-                        },
-                        "ratingType": "AgeRating"
-                    },
-                    "attention": {
-                        "inAppPurchases": "None"
-                    },
-                    "catalogItemId": "d62657783963492189d0f45625e3532c",
-                    "categories": [
-                        "games",
-                        "games/edition",
-                        "games/edition/base"
-                    ],
-                    "mapping": {
-                        "slug": "doodle-creatures-genesis-ios-480bd6"
-                    },
-                    "media": {
-                        "appIcon": {
-                            "altText": "-",
-                            "height": 512,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/13c32bbacd094a5f8bd3ca850e2bfba0/doodle-creatures-genesis-icon-ck9ua.png",
-                            "imageType": "ProductIcon",
-                            "width": 512
-                        },
-                        "card16x9": {
-                            "altText": "Doodle Creatures: Genesis Offer",
-                            "height": 1440,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/13c32bbacd094a5f8bd3ca850e2bfba0/doodle-creatures-genesis-j08rg.png",
-                            "imageType": "OfferImageWide",
-                            "width": 2560
-                        },
-                        "card3x4": {
-                            "altText": "Download Doodle Creatures: Genesis Offer",
-                            "height": 1600,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/13c32bbacd094a5f8bd3ca850e2bfba0/doodle-creatures-genesis-z5mze.png",
-                            "imageType": "OfferImageTall",
-                            "width": 1200
-                        },
-                        "coverImage": {
-                            "altText": "-",
-                            "height": 1440,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/13c32bbacd094a5f8bd3ca850e2bfba0/doodle-creatures-genesis-64dw1.jpeg",
-                            "imageType": "coverImage",
-                            "width": 2560
-                        }
-                    },
-                    "purchase": [
-                        {
-                            "offerLifecycleState": "Release",
-                            "price": {
-                                "currencyCode": "EUR",
-                                "decimalPrice": 2.19
-                            },
-                            "priceDisplay": "€2.19",
-                            "purchasePayload": {
-                                "offerId": "6c1c75cdec214b488693b56cdf9197dd",
-                                "sandboxId": "cb157f90a4374af5ace8fa5483db4d07"
-                            },
-                            "purchaseType": "Purchase"
-                        }
-                    ],
-                    "systemSpecs": {
-                        "applicationVersion": "2.30.40",
-                        "platform": "ios",
-                        "systemRequirements": [
-                            {
-                                "minimum": "100",
-                                "requirementType": "InstallSize",
-                                "title": "Installation size"
-                            },
-                            {
-                                "minimum": "100",
-                                "requirementType": "DownloadSize",
-                                "title": "Download size"
-                            },
-                            {
-                                "minimum": "14",
-                                "requirementType": "OS",
-                                "title": "OS version"
-                            }
-                        ]
-                    },
-                    "title": "Doodle Creatures: Genesis"
-                },
-                "offerId": "6c1c75cdec214b488693b56cdf9197dd",
-                "sandboxId": "cb157f90a4374af5ace8fa5483db4d07"
             }
         ],
         "size": "large",
@@ -2355,6 +2262,99 @@
             "src": "/"
         },
         "offers": [
+            {
+                "content": {
+                    "ageRating": {
+                        "ageGate": {
+                            "gate": "no-gate"
+                        },
+                        "ageRating": {
+                            "ageControl": 0,
+                            "contentDescriptors": [],
+                            "interactiveElements": [
+                                "Users Interact",
+                                "In-App Purchases"
+                            ],
+                            "ratingImage": "https://cdn1.epicgames.com/gameRating/gameRating/PEGI_EXC_192_192x192-4b60638de38c759ed1cdb5c19a573256",
+                            "ratingSystem": "PEGI",
+                            "rectangularRatingImage": "https://cdn1.epicgames.com/salesEvent/salesEvent/PEGI-info_435x530-d763ff1e493324dfef7ffd688b61476a",
+                            "title": "PARENTAL GUIDANCE RECOMMENDED"
+                        },
+                        "ratingType": "AgeRating"
+                    },
+                    "attention": {
+                        "inAppPurchases": "IncludesInAppPurchases"
+                    },
+                    "catalogItemId": "909dd1fd19bf41f99b23edf2ce461927",
+                    "categories": [
+                        "games",
+                        "games/edition",
+                        "games/edition/base",
+                        "attention/in-app-purchases/supported",
+                        "applications"
+                    ],
+                    "mapping": {
+                        "slug": "fortnite-ios"
+                    },
+                    "media": {
+                        "appIcon": {
+                            "altText": "-",
+                            "height": 512,
+                            "imageSrc": "https://cdn1.epicgames.com/offer/fn/S40_40-40_AppIcon_512x512_512x512-f60172753e3e47e7b6e2ebfbcbcaeeb0",
+                            "imageType": "ProductIcon",
+                            "width": 512
+                        },
+                        "card16x9": {
+                            "height": 1440,
+                            "imageSrc": "https://cdn1.epicgames.com/offer/fn/FNBR_40-40_C7S2_Venison_EGS_Launcher_Blade_2560x1440_2560x1440-37d5ee201520432bb668af8720825448",
+                            "imageType": "OfferImageWide",
+                            "width": 2560
+                        },
+                        "card3x4": {
+                            "height": 1600,
+                            "imageSrc": "https://cdn1.epicgames.com/offer/fn/FNBR_40-40_C7S2_Venison_EGS_Launcher_Blade_1200x1600_1200x1600-8bef4548787f418f9fae732c12d0e950",
+                            "imageType": "OfferImageTall",
+                            "width": 1200
+                        },
+                        "coverImage": {
+                            "altText": "-",
+                            "height": 1440,
+                            "imageSrc": "https://cdn1.epicgames.com/offer/fn/FNBR_40-40_C7S2_Venison_EGS_Launcher_Blade_2560x1440_2560x1440-d0f730e1dde8472e8e7f80d204c54a24",
+                            "imageType": "coverImage",
+                            "width": 2560
+                        }
+                    },
+                    "purchase": [
+                        {
+                            "offerLifecycleState": "Release",
+                            "price": {
+                                "currencyCode": "EUR",
+                                "decimalPrice": 0
+                            },
+                            "purchasePayload": {
+                                "offerId": "d69e49517f0f4e49a39253f7b106dc27",
+                                "sandboxId": "fn"
+                            },
+                            "purchaseType": "Claim"
+                        }
+                    ],
+                    "systemSpecs": {
+                        "platform": "ios",
+                        "systemRequirements": [
+                            {
+                                "minimum": "12.0",
+                                "recommended": "",
+                                "requirementType": "OS",
+                                "title": "OS version"
+                            }
+                        ],
+                        "technicalDetails": "Fortnite requires an internet connection and supports the following devices: \n- iPhone 11 or later with 4GB RAM\n- iPad Pro 13” (1st gen or later)\n- iPad Pro 11” (3rd gen or later)\n- iPad Air (4th gen or later)\n- iPad Mini (6th gen or later)\n- iPad (10th gen or later)"
+                    },
+                    "title": "Fortnite"
+                },
+                "offerId": "d69e49517f0f4e49a39253f7b106dc27",
+                "sandboxId": "fn"
+            },
             {
                 "content": {
                     "ageRating": {
@@ -2538,99 +2538,6 @@
                 },
                 "offerId": "b2f36d5bff70449d84479502d71c6894",
                 "sandboxId": "50118b7f954e450f8823df1614b24e80"
-            },
-            {
-                "content": {
-                    "ageRating": {
-                        "ageGate": {
-                            "gate": "no-gate"
-                        },
-                        "ageRating": {
-                            "ageControl": 0,
-                            "contentDescriptors": [],
-                            "interactiveElements": [
-                                "Users Interact",
-                                "In-App Purchases"
-                            ],
-                            "ratingImage": "https://cdn1.epicgames.com/gameRating/gameRating/PEGI_EXC_192_192x192-4b60638de38c759ed1cdb5c19a573256",
-                            "ratingSystem": "PEGI",
-                            "rectangularRatingImage": "https://cdn1.epicgames.com/salesEvent/salesEvent/PEGI-info_435x530-d763ff1e493324dfef7ffd688b61476a",
-                            "title": "PARENTAL GUIDANCE RECOMMENDED"
-                        },
-                        "ratingType": "AgeRating"
-                    },
-                    "attention": {
-                        "inAppPurchases": "IncludesInAppPurchases"
-                    },
-                    "catalogItemId": "909dd1fd19bf41f99b23edf2ce461927",
-                    "categories": [
-                        "games",
-                        "games/edition",
-                        "games/edition/base",
-                        "attention/in-app-purchases/supported",
-                        "applications"
-                    ],
-                    "mapping": {
-                        "slug": "fortnite-ios"
-                    },
-                    "media": {
-                        "appIcon": {
-                            "altText": "-",
-                            "height": 512,
-                            "imageSrc": "https://cdn1.epicgames.com/offer/fn/S40_40-40_AppIcon_512x512_512x512-f60172753e3e47e7b6e2ebfbcbcaeeb0",
-                            "imageType": "ProductIcon",
-                            "width": 512
-                        },
-                        "card16x9": {
-                            "height": 1440,
-                            "imageSrc": "https://cdn1.epicgames.com/offer/fn/FNBR_40-40_C7S2_Venison_EGS_Launcher_Blade_2560x1440_2560x1440-37d5ee201520432bb668af8720825448",
-                            "imageType": "OfferImageWide",
-                            "width": 2560
-                        },
-                        "card3x4": {
-                            "height": 1600,
-                            "imageSrc": "https://cdn1.epicgames.com/offer/fn/FNBR_40-40_C7S2_Venison_EGS_Launcher_Blade_1200x1600_1200x1600-8bef4548787f418f9fae732c12d0e950",
-                            "imageType": "OfferImageTall",
-                            "width": 1200
-                        },
-                        "coverImage": {
-                            "altText": "-",
-                            "height": 1440,
-                            "imageSrc": "https://cdn1.epicgames.com/offer/fn/FNBR_40-40_C7S2_Venison_EGS_Launcher_Blade_2560x1440_2560x1440-d0f730e1dde8472e8e7f80d204c54a24",
-                            "imageType": "coverImage",
-                            "width": 2560
-                        }
-                    },
-                    "purchase": [
-                        {
-                            "offerLifecycleState": "Release",
-                            "price": {
-                                "currencyCode": "EUR",
-                                "decimalPrice": 0
-                            },
-                            "purchasePayload": {
-                                "offerId": "d69e49517f0f4e49a39253f7b106dc27",
-                                "sandboxId": "fn"
-                            },
-                            "purchaseType": "Claim"
-                        }
-                    ],
-                    "systemSpecs": {
-                        "platform": "ios",
-                        "systemRequirements": [
-                            {
-                                "minimum": "12.0",
-                                "recommended": "",
-                                "requirementType": "OS",
-                                "title": "OS version"
-                            }
-                        ],
-                        "technicalDetails": "Fortnite requires an internet connection and supports the following devices: \n- iPhone 11 or later with 4GB RAM\n- iPad Pro 13” (1st gen or later)\n- iPad Pro 11” (3rd gen or later)\n- iPad Air (4th gen or later)\n- iPad Mini (6th gen or later)\n- iPad (10th gen or later)"
-                    },
-                    "title": "Fortnite"
-                },
-                "offerId": "d69e49517f0f4e49a39253f7b106dc27",
-                "sandboxId": "fn"
             }
         ],
         "size": "medium",
@@ -6213,6 +6120,209 @@
             "src": "/"
         },
         "offers": [
+            {
+                "content": {
+                    "ageRating": {
+                        "ageGate": {
+                            "gate": "no-gate"
+                        },
+                        "ageRating": {
+                            "ageControl": 12,
+                            "contentDescriptors": [
+                                "Mild Swearing"
+                            ],
+                            "interactiveElements": [],
+                            "ratingImage": "https://cdn1.epicgames.com/gameRating/gameRating/PEGI_12_192_192x192-afa4df43f131bc83eb380ccf22f8d904",
+                            "ratingSystem": "PEGI",
+                            "rectangularRatingImage": "https://cdn1.epicgames.com/salesEvent/salesEvent/PEGI-12_436x530-0cd1f06607086f3cc1bc2b8643f21b0a",
+                            "title": "PEGI 12"
+                        },
+                        "ratingType": "AgeRating"
+                    },
+                    "attention": {
+                        "inAppPurchases": "None"
+                    },
+                    "catalogItemId": "75930fd5edd44c678904b172f2a46a71",
+                    "categories": [
+                        "freegames",
+                        "games",
+                        "games/edition",
+                        "games/edition/base"
+                    ],
+                    "mapping": {
+                        "slug": "skul-the-hero-slayer-ios-699ae8"
+                    },
+                    "media": {
+                        "appIcon": {
+                            "altText": "-",
+                            "height": 512,
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/cf279cf29eba4e14b93c898ef502239c/skul-the-hero-slayer-icon-7m821.png",
+                            "imageType": "ProductIcon",
+                            "width": 512
+                        },
+                        "card16x9": {
+                            "altText": "Skul: The Hero Slayer Offer",
+                            "height": 1440,
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/cf279cf29eba4e14b93c898ef502239c/skul-the-hero-slayer-pqlzo.jpg",
+                            "imageType": "OfferImageWide",
+                            "width": 2560
+                        },
+                        "card3x4": {
+                            "altText": "Download Skul: The Hero Slayer Offer",
+                            "height": 1600,
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/cf279cf29eba4e14b93c898ef502239c/skul-the-hero-slayer-m9oml.jpg",
+                            "imageType": "OfferImageTall",
+                            "width": 1200
+                        },
+                        "coverImage": {
+                            "altText": "-",
+                            "height": 1440,
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/cf279cf29eba4e14b93c898ef502239c/skul-the-hero-slayer-1nz1u.jpg",
+                            "imageType": "coverImage",
+                            "width": 2560
+                        }
+                    },
+                    "purchase": [
+                        {
+                            "offerLifecycleState": "Release",
+                            "price": {
+                                "currencyCode": "EUR",
+                                "decimalPrice": 7.19
+                            },
+                            "priceDisplay": "€7.19",
+                            "purchasePayload": {
+                                "offerId": "c2b42bd4beaa432e99b29f6b8e47c7ce",
+                                "sandboxId": "5b63da9584554295a2a70dd9544b4d93"
+                            },
+                            "purchaseType": "Purchase"
+                        }
+                    ],
+                    "systemSpecs": {
+                        "applicationVersion": "1.0.11",
+                        "platform": "ios",
+                        "systemRequirements": [
+                            {
+                                "minimum": "2,14GB",
+                                "requirementType": "InstallSize",
+                                "title": "Installation size"
+                            },
+                            {
+                                "minimum": "2,14 GB",
+                                "requirementType": "DownloadSize",
+                                "title": "Download size"
+                            },
+                            {
+                                "minimum": "12",
+                                "requirementType": "OS",
+                                "title": "OS version"
+                            }
+                        ]
+                    },
+                    "title": "Skul: The Hero Slayer"
+                },
+                "offerId": "c2b42bd4beaa432e99b29f6b8e47c7ce",
+                "sandboxId": "5b63da9584554295a2a70dd9544b4d93"
+            },
+            {
+                "content": {
+                    "ageRating": {
+                        "ageGate": {
+                            "gate": "no-gate"
+                        },
+                        "ageRating": {
+                            "ageControl": 3,
+                            "contentDescriptors": [],
+                            "interactiveElements": [],
+                            "ratingImage": "https://cdn1.epicgames.com/gameRating/gameRating/PEGI_3_192_192x192-490b93ddf59fb4ac1148d1eb9083626a",
+                            "ratingSystem": "PEGI",
+                            "rectangularRatingImage": "https://cdn1.epicgames.com/salesEvent/salesEvent/PEGI-3_435x530-c931ab5bb4eb190f6e8e542081c49dc4",
+                            "title": "PEGI 3"
+                        },
+                        "ratingType": "AgeRating"
+                    },
+                    "attention": {
+                        "inAppPurchases": "None"
+                    },
+                    "catalogItemId": "d62657783963492189d0f45625e3532c",
+                    "categories": [
+                        "games",
+                        "games/edition",
+                        "games/edition/base"
+                    ],
+                    "mapping": {
+                        "slug": "doodle-creatures-genesis-ios-480bd6"
+                    },
+                    "media": {
+                        "appIcon": {
+                            "altText": "-",
+                            "height": 512,
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/13c32bbacd094a5f8bd3ca850e2bfba0/doodle-creatures-genesis-icon-ck9ua.png",
+                            "imageType": "ProductIcon",
+                            "width": 512
+                        },
+                        "card16x9": {
+                            "altText": "Doodle Creatures: Genesis Offer",
+                            "height": 1440,
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/13c32bbacd094a5f8bd3ca850e2bfba0/doodle-creatures-genesis-j08rg.png",
+                            "imageType": "OfferImageWide",
+                            "width": 2560
+                        },
+                        "card3x4": {
+                            "altText": "Download Doodle Creatures: Genesis Offer",
+                            "height": 1600,
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/13c32bbacd094a5f8bd3ca850e2bfba0/doodle-creatures-genesis-z5mze.png",
+                            "imageType": "OfferImageTall",
+                            "width": 1200
+                        },
+                        "coverImage": {
+                            "altText": "-",
+                            "height": 1440,
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/13c32bbacd094a5f8bd3ca850e2bfba0/doodle-creatures-genesis-64dw1.jpeg",
+                            "imageType": "coverImage",
+                            "width": 2560
+                        }
+                    },
+                    "purchase": [
+                        {
+                            "offerLifecycleState": "Release",
+                            "price": {
+                                "currencyCode": "EUR",
+                                "decimalPrice": 2.19
+                            },
+                            "priceDisplay": "€2.19",
+                            "purchasePayload": {
+                                "offerId": "6c1c75cdec214b488693b56cdf9197dd",
+                                "sandboxId": "cb157f90a4374af5ace8fa5483db4d07"
+                            },
+                            "purchaseType": "Purchase"
+                        }
+                    ],
+                    "systemSpecs": {
+                        "applicationVersion": "2.30.40",
+                        "platform": "ios",
+                        "systemRequirements": [
+                            {
+                                "minimum": "100",
+                                "requirementType": "InstallSize",
+                                "title": "Installation size"
+                            },
+                            {
+                                "minimum": "100",
+                                "requirementType": "DownloadSize",
+                                "title": "Download size"
+                            },
+                            {
+                                "minimum": "14",
+                                "requirementType": "OS",
+                                "title": "OS version"
+                            }
+                        ]
+                    },
+                    "title": "Doodle Creatures: Genesis"
+                },
+                "offerId": "6c1c75cdec214b488693b56cdf9197dd",
+                "sandboxId": "cb157f90a4374af5ace8fa5483db4d07"
+            },
             {
                 "content": {
                     "ageRating": {
