@@ -12,151 +12,56 @@
                             "gate": "no-gate"
                         },
                         "ageRating": {
-                            "ageControl": 0,
+                            "ageControl": 3,
                             "contentDescriptors": [],
-                            "interactiveElements": [
-                                "Users Interact",
-                                "In-App Purchases"
-                            ],
-                            "ratingImage": "https://cdn1.epicgames.com/gameRating/gameRating/PEGI_EXC_192_192x192-4b60638de38c759ed1cdb5c19a573256",
-                            "ratingSystem": "PEGI",
-                            "rectangularRatingImage": "https://cdn1.epicgames.com/salesEvent/salesEvent/PEGI-info_435x530-d763ff1e493324dfef7ffd688b61476a",
-                            "title": "PARENTAL GUIDANCE RECOMMENDED"
-                        },
-                        "ratingType": "AgeRating"
-                    },
-                    "attention": {
-                        "inAppPurchases": "IncludesInAppPurchases"
-                    },
-                    "catalogItemId": "4fe75bbc5a674f4f9b356b5c90567da5",
-                    "categories": [
-                        "games",
-                        "games/edition",
-                        "games/edition/base",
-                        "attention/in-app-purchases/supported",
-                        "applications"
-                    ],
-                    "mapping": {
-                        "slug": "fortnite-android"
-                    },
-                    "media": {
-                        "appIcon": {
-                            "altText": "-",
-                            "height": 512,
-                            "imageSrc": "https://cdn1.epicgames.com/offer/fn/S40_40-40_AppIcon_512x512_512x512-f60172753e3e47e7b6e2ebfbcbcaeeb0",
-                            "imageType": "ProductIcon",
-                            "width": 512
-                        },
-                        "card16x9": {
-                            "height": 1440,
-                            "imageSrc": "https://cdn1.epicgames.com/offer/fn/FNBR_40-40_C7S2_Venison_EGS_Launcher_Blade_2560x1440_2560x1440-e635a986e9d04de587a8929cac674998",
-                            "imageType": "OfferImageWide",
-                            "width": 2560
-                        },
-                        "card3x4": {
-                            "height": 1600,
-                            "imageSrc": "https://cdn1.epicgames.com/offer/fn/FNBR_40-40_C7S2_Venison_EGS_Launcher_Blade_1200x1600_1200x1600-3d88fb9878fe49c4968578c714e9989f",
-                            "imageType": "OfferImageTall",
-                            "width": 1200
-                        },
-                        "coverImage": {
-                            "altText": "-",
-                            "height": 1440,
-                            "imageSrc": "https://cdn1.epicgames.com/offer/fn/FNBR_40-40_C7S2_Venison_EGS_Launcher_Blade_2560x1440_2560x1440-d0f730e1dde8472e8e7f80d204c54a24",
-                            "imageType": "coverImage",
-                            "width": 2560
-                        }
-                    },
-                    "purchase": [
-                        {
-                            "offerLifecycleState": "Release",
-                            "price": {
-                                "currencyCode": "EUR",
-                                "decimalPrice": 0
-                            },
-                            "purchasePayload": {
-                                "offerId": "027c646e4b0445e28f9d9abd0326ba36",
-                                "sandboxId": "fn"
-                            },
-                            "purchaseType": "Claim"
-                        }
-                    ],
-                    "systemSpecs": {
-                        "platform": "android",
-                        "systemRequirements": [
-                            {
-                                "minimum": "Android 10.0 or higher",
-                                "recommended": "",
-                                "requirementType": "OS",
-                                "title": "OS version"
-                            }
-                        ],
-                        "technicalDetails": "Fortnite requires an internet connection, Android 10.0 or higher, 64 bit, 4GB of RAM and GPU: Adreno 530 or higher, Mali-G71 MP20, Mali-G72 MP12 or higher."
-                    },
-                    "title": "Fortnite"
-                },
-                "offerId": "027c646e4b0445e28f9d9abd0326ba36",
-                "sandboxId": "fn"
-            },
-            {
-                "content": {
-                    "ageRating": {
-                        "ageGate": {
-                            "gate": "age-gate"
-                        },
-                        "ageRating": {
-                            "ageControl": 16,
-                            "contentDescriptors": [
-                                "Strong Violence"
-                            ],
                             "interactiveElements": [
                                 "In-Game Purchases (Includes Random Items)"
                             ],
-                            "ratingImage": "https://cdn1.epicgames.com/gameRating/gameRating/PEGI_16_192_192x192-da60f0bd1fe7cb1ac9d8a8bd5168ea96",
+                            "ratingImage": "https://cdn1.epicgames.com/gameRating/gameRating/PEGI_3_192_192x192-490b93ddf59fb4ac1148d1eb9083626a",
                             "ratingSystem": "PEGI",
-                            "rectangularRatingImage": "https://cdn1.epicgames.com/salesEvent/salesEvent/PEGI-16_435x530-65760d498ce28374fb7ca3258ee1440c",
-                            "title": "PEGI 16"
+                            "rectangularRatingImage": "https://cdn1.epicgames.com/salesEvent/salesEvent/PEGI-3_435x530-c931ab5bb4eb190f6e8e542081c49dc4",
+                            "title": "PEGI 3"
                         },
                         "ratingType": "AgeRating"
                     },
                     "attention": {
                         "inAppPurchases": "MaybeIncludesInAppPurchases"
                     },
-                    "catalogItemId": "8ed17b847684454c9dbe1712d4e5a87d",
+                    "catalogItemId": "1b4dd372442c45a992521a5de277f326",
                     "categories": [
                         "games",
                         "games/edition",
                         "games/edition/base"
                     ],
                     "mapping": {
-                        "slug": "solo-levelingarise-android-85219e"
+                        "slug": "rocket-bot-royale-android-481064"
                     },
                     "media": {
                         "appIcon": {
                             "altText": "-",
                             "height": 512,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/91ab4f5ea1a8415184dd4dcbeaf50fc2/solo-levelingarise-icon-1mmsl.png",
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/dc0d6d0176904d928d413834ddde40dd/rocket-bot-royale-icon-1uepw.png",
                             "imageType": "ProductIcon",
                             "width": 512
                         },
                         "card16x9": {
-                            "altText": "Solo Leveling:Arise Offer",
+                            "altText": "Rocket Bot Royale Offer",
                             "height": 1440,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/91ab4f5ea1a8415184dd4dcbeaf50fc2/solo-levelingarise-1jinw.jpg",
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/dc0d6d0176904d928d413834ddde40dd/rocket-bot-royale-cl4uj.png",
                             "imageType": "OfferImageWide",
                             "width": 2560
                         },
                         "card3x4": {
-                            "altText": "Download Solo Leveling:Arise Offer",
+                            "altText": "Download Rocket Bot Royale Offer",
                             "height": 1600,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/91ab4f5ea1a8415184dd4dcbeaf50fc2/solo-levelingarise-1fhh9.jpg",
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/dc0d6d0176904d928d413834ddde40dd/rocket-bot-royale-1y7ae.png",
                             "imageType": "OfferImageTall",
                             "width": 1200
                         },
                         "coverImage": {
                             "altText": "-",
                             "height": 1440,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/91ab4f5ea1a8415184dd4dcbeaf50fc2/solo-levelingarise-1s4w9.jpg",
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/dc0d6d0176904d928d413834ddde40dd/rocket-bot-royale-gvf11.png",
                             "imageType": "coverImage",
                             "width": 2560
                         }
@@ -169,37 +74,37 @@
                                 "decimalPrice": 0
                             },
                             "purchasePayload": {
-                                "offerId": "87b44e258670465bad29348f151f9c6f",
-                                "sandboxId": "59176cd042b64d029df8a1c92a54d0d2"
+                                "offerId": "7ad0c0caa8ee437d9c24072b899ba4e8",
+                                "sandboxId": "0b0ff68a5e7a4869b9857d0f3134199d"
                             },
                             "purchaseType": "Claim"
                         }
                     ],
                     "systemSpecs": {
-                        "applicationVersion": "1.4.05",
+                        "applicationVersion": "1.9.28",
                         "platform": "android",
                         "systemRequirements": [
                             {
-                                "minimum": "148MB",
+                                "minimum": "90MB",
                                 "requirementType": "InstallSize",
                                 "title": "Installation size"
                             },
                             {
-                                "minimum": "154.64 MB",
+                                "minimum": "141.85 MB",
                                 "requirementType": "DownloadSize",
                                 "title": "Download size"
                             },
                             {
-                                "minimum": "9",
+                                "minimum": "8.0.0",
                                 "requirementType": "OS",
                                 "title": "OS version"
                             }
                         ]
                     },
-                    "title": "Solo Leveling:Arise"
+                    "title": "Rocket Bot Royale"
                 },
-                "offerId": "87b44e258670465bad29348f151f9c6f",
-                "sandboxId": "59176cd042b64d029df8a1c92a54d0d2"
+                "offerId": "7ad0c0caa8ee437d9c24072b899ba4e8",
+                "sandboxId": "0b0ff68a5e7a4869b9857d0f3134199d"
             },
             {
                 "content": {
@@ -2365,6 +2270,99 @@
                             "gate": "no-gate"
                         },
                         "ageRating": {
+                            "ageControl": 0,
+                            "contentDescriptors": [],
+                            "interactiveElements": [
+                                "Users Interact",
+                                "In-App Purchases"
+                            ],
+                            "ratingImage": "https://cdn1.epicgames.com/gameRating/gameRating/PEGI_EXC_192_192x192-4b60638de38c759ed1cdb5c19a573256",
+                            "ratingSystem": "PEGI",
+                            "rectangularRatingImage": "https://cdn1.epicgames.com/salesEvent/salesEvent/PEGI-info_435x530-d763ff1e493324dfef7ffd688b61476a",
+                            "title": "PARENTAL GUIDANCE RECOMMENDED"
+                        },
+                        "ratingType": "AgeRating"
+                    },
+                    "attention": {
+                        "inAppPurchases": "IncludesInAppPurchases"
+                    },
+                    "catalogItemId": "4fe75bbc5a674f4f9b356b5c90567da5",
+                    "categories": [
+                        "games",
+                        "games/edition",
+                        "games/edition/base",
+                        "attention/in-app-purchases/supported",
+                        "applications"
+                    ],
+                    "mapping": {
+                        "slug": "fortnite-android"
+                    },
+                    "media": {
+                        "appIcon": {
+                            "altText": "-",
+                            "height": 512,
+                            "imageSrc": "https://cdn1.epicgames.com/offer/fn/S40_40-40_AppIcon_512x512_512x512-f60172753e3e47e7b6e2ebfbcbcaeeb0",
+                            "imageType": "ProductIcon",
+                            "width": 512
+                        },
+                        "card16x9": {
+                            "height": 1440,
+                            "imageSrc": "https://cdn1.epicgames.com/offer/fn/FNBR_40-40_C7S2_Venison_EGS_Launcher_Blade_2560x1440_2560x1440-e635a986e9d04de587a8929cac674998",
+                            "imageType": "OfferImageWide",
+                            "width": 2560
+                        },
+                        "card3x4": {
+                            "height": 1600,
+                            "imageSrc": "https://cdn1.epicgames.com/offer/fn/FNBR_40-40_C7S2_Venison_EGS_Launcher_Blade_1200x1600_1200x1600-3d88fb9878fe49c4968578c714e9989f",
+                            "imageType": "OfferImageTall",
+                            "width": 1200
+                        },
+                        "coverImage": {
+                            "altText": "-",
+                            "height": 1440,
+                            "imageSrc": "https://cdn1.epicgames.com/offer/fn/FNBR_40-40_C7S2_Venison_EGS_Launcher_Blade_2560x1440_2560x1440-d0f730e1dde8472e8e7f80d204c54a24",
+                            "imageType": "coverImage",
+                            "width": 2560
+                        }
+                    },
+                    "purchase": [
+                        {
+                            "offerLifecycleState": "Release",
+                            "price": {
+                                "currencyCode": "EUR",
+                                "decimalPrice": 0
+                            },
+                            "purchasePayload": {
+                                "offerId": "027c646e4b0445e28f9d9abd0326ba36",
+                                "sandboxId": "fn"
+                            },
+                            "purchaseType": "Claim"
+                        }
+                    ],
+                    "systemSpecs": {
+                        "platform": "android",
+                        "systemRequirements": [
+                            {
+                                "minimum": "Android 10.0 or higher",
+                                "recommended": "",
+                                "requirementType": "OS",
+                                "title": "OS version"
+                            }
+                        ],
+                        "technicalDetails": "Fortnite requires an internet connection, Android 10.0 or higher, 64 bit, 4GB of RAM and GPU: Adreno 530 or higher, Mali-G71 MP20, Mali-G72 MP12 or higher."
+                    },
+                    "title": "Fortnite"
+                },
+                "offerId": "027c646e4b0445e28f9d9abd0326ba36",
+                "sandboxId": "fn"
+            },
+            {
+                "content": {
+                    "ageRating": {
+                        "ageGate": {
+                            "gate": "no-gate"
+                        },
+                        "ageRating": {
                             "ageControl": 3,
                             "contentDescriptors": [],
                             "interactiveElements": [
@@ -2541,99 +2539,6 @@
                 },
                 "offerId": "8313f4090aa5460b9b71eba09bfe310e",
                 "sandboxId": "50118b7f954e450f8823df1614b24e80"
-            },
-            {
-                "content": {
-                    "ageRating": {
-                        "ageGate": {
-                            "gate": "no-gate"
-                        },
-                        "ageRating": {
-                            "ageControl": 0,
-                            "contentDescriptors": [],
-                            "interactiveElements": [
-                                "Users Interact",
-                                "In-App Purchases"
-                            ],
-                            "ratingImage": "https://cdn1.epicgames.com/gameRating/gameRating/PEGI_EXC_192_192x192-4b60638de38c759ed1cdb5c19a573256",
-                            "ratingSystem": "PEGI",
-                            "rectangularRatingImage": "https://cdn1.epicgames.com/salesEvent/salesEvent/PEGI-info_435x530-d763ff1e493324dfef7ffd688b61476a",
-                            "title": "PARENTAL GUIDANCE RECOMMENDED"
-                        },
-                        "ratingType": "AgeRating"
-                    },
-                    "attention": {
-                        "inAppPurchases": "IncludesInAppPurchases"
-                    },
-                    "catalogItemId": "4fe75bbc5a674f4f9b356b5c90567da5",
-                    "categories": [
-                        "games",
-                        "games/edition",
-                        "games/edition/base",
-                        "attention/in-app-purchases/supported",
-                        "applications"
-                    ],
-                    "mapping": {
-                        "slug": "fortnite-android"
-                    },
-                    "media": {
-                        "appIcon": {
-                            "altText": "-",
-                            "height": 512,
-                            "imageSrc": "https://cdn1.epicgames.com/offer/fn/S40_40-40_AppIcon_512x512_512x512-f60172753e3e47e7b6e2ebfbcbcaeeb0",
-                            "imageType": "ProductIcon",
-                            "width": 512
-                        },
-                        "card16x9": {
-                            "height": 1440,
-                            "imageSrc": "https://cdn1.epicgames.com/offer/fn/FNBR_40-40_C7S2_Venison_EGS_Launcher_Blade_2560x1440_2560x1440-e635a986e9d04de587a8929cac674998",
-                            "imageType": "OfferImageWide",
-                            "width": 2560
-                        },
-                        "card3x4": {
-                            "height": 1600,
-                            "imageSrc": "https://cdn1.epicgames.com/offer/fn/FNBR_40-40_C7S2_Venison_EGS_Launcher_Blade_1200x1600_1200x1600-3d88fb9878fe49c4968578c714e9989f",
-                            "imageType": "OfferImageTall",
-                            "width": 1200
-                        },
-                        "coverImage": {
-                            "altText": "-",
-                            "height": 1440,
-                            "imageSrc": "https://cdn1.epicgames.com/offer/fn/FNBR_40-40_C7S2_Venison_EGS_Launcher_Blade_2560x1440_2560x1440-d0f730e1dde8472e8e7f80d204c54a24",
-                            "imageType": "coverImage",
-                            "width": 2560
-                        }
-                    },
-                    "purchase": [
-                        {
-                            "offerLifecycleState": "Release",
-                            "price": {
-                                "currencyCode": "EUR",
-                                "decimalPrice": 0
-                            },
-                            "purchasePayload": {
-                                "offerId": "027c646e4b0445e28f9d9abd0326ba36",
-                                "sandboxId": "fn"
-                            },
-                            "purchaseType": "Claim"
-                        }
-                    ],
-                    "systemSpecs": {
-                        "platform": "android",
-                        "systemRequirements": [
-                            {
-                                "minimum": "Android 10.0 or higher",
-                                "recommended": "",
-                                "requirementType": "OS",
-                                "title": "OS version"
-                            }
-                        ],
-                        "technicalDetails": "Fortnite requires an internet connection, Android 10.0 or higher, 64 bit, 4GB of RAM and GPU: Adreno 530 or higher, Mali-G71 MP20, Mali-G72 MP12 or higher."
-                    },
-                    "title": "Fortnite"
-                },
-                "offerId": "027c646e4b0445e28f9d9abd0326ba36",
-                "sandboxId": "fn"
             }
         ],
         "size": "medium",
@@ -11406,6 +11311,109 @@
                             "gate": "age-gate"
                         },
                         "ageRating": {
+                            "ageControl": 16,
+                            "contentDescriptors": [
+                                "Strong Violence"
+                            ],
+                            "interactiveElements": [
+                                "In-Game Purchases (Includes Random Items)"
+                            ],
+                            "ratingImage": "https://cdn1.epicgames.com/gameRating/gameRating/PEGI_16_192_192x192-da60f0bd1fe7cb1ac9d8a8bd5168ea96",
+                            "ratingSystem": "PEGI",
+                            "rectangularRatingImage": "https://cdn1.epicgames.com/salesEvent/salesEvent/PEGI-16_435x530-65760d498ce28374fb7ca3258ee1440c",
+                            "title": "PEGI 16"
+                        },
+                        "ratingType": "AgeRating"
+                    },
+                    "attention": {
+                        "inAppPurchases": "MaybeIncludesInAppPurchases"
+                    },
+                    "catalogItemId": "8ed17b847684454c9dbe1712d4e5a87d",
+                    "categories": [
+                        "games",
+                        "games/edition",
+                        "games/edition/base"
+                    ],
+                    "mapping": {
+                        "slug": "solo-levelingarise-android-85219e"
+                    },
+                    "media": {
+                        "appIcon": {
+                            "altText": "-",
+                            "height": 512,
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/91ab4f5ea1a8415184dd4dcbeaf50fc2/solo-levelingarise-icon-1mmsl.png",
+                            "imageType": "ProductIcon",
+                            "width": 512
+                        },
+                        "card16x9": {
+                            "altText": "Solo Leveling:Arise Offer",
+                            "height": 1440,
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/91ab4f5ea1a8415184dd4dcbeaf50fc2/solo-levelingarise-1jinw.jpg",
+                            "imageType": "OfferImageWide",
+                            "width": 2560
+                        },
+                        "card3x4": {
+                            "altText": "Download Solo Leveling:Arise Offer",
+                            "height": 1600,
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/91ab4f5ea1a8415184dd4dcbeaf50fc2/solo-levelingarise-1fhh9.jpg",
+                            "imageType": "OfferImageTall",
+                            "width": 1200
+                        },
+                        "coverImage": {
+                            "altText": "-",
+                            "height": 1440,
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/91ab4f5ea1a8415184dd4dcbeaf50fc2/solo-levelingarise-1s4w9.jpg",
+                            "imageType": "coverImage",
+                            "width": 2560
+                        }
+                    },
+                    "purchase": [
+                        {
+                            "offerLifecycleState": "Release",
+                            "price": {
+                                "currencyCode": "EUR",
+                                "decimalPrice": 0
+                            },
+                            "purchasePayload": {
+                                "offerId": "87b44e258670465bad29348f151f9c6f",
+                                "sandboxId": "59176cd042b64d029df8a1c92a54d0d2"
+                            },
+                            "purchaseType": "Claim"
+                        }
+                    ],
+                    "systemSpecs": {
+                        "applicationVersion": "1.4.05",
+                        "platform": "android",
+                        "systemRequirements": [
+                            {
+                                "minimum": "148MB",
+                                "requirementType": "InstallSize",
+                                "title": "Installation size"
+                            },
+                            {
+                                "minimum": "154.64 MB",
+                                "requirementType": "DownloadSize",
+                                "title": "Download size"
+                            },
+                            {
+                                "minimum": "9",
+                                "requirementType": "OS",
+                                "title": "OS version"
+                            }
+                        ]
+                    },
+                    "title": "Solo Leveling:Arise"
+                },
+                "offerId": "87b44e258670465bad29348f151f9c6f",
+                "sandboxId": "59176cd042b64d029df8a1c92a54d0d2"
+            },
+            {
+                "content": {
+                    "ageRating": {
+                        "ageGate": {
+                            "gate": "age-gate"
+                        },
+                        "ageRating": {
                             "ageControl": 18,
                             "contentDescriptors": [
                                 "Extreme Violence",
@@ -15373,19 +15381,6 @@
                     },
                     "purchase": [
                         {
-                            "offerLifecycleState": "Release",
-                            "price": {
-                                "currencyCode": "EUR",
-                                "decimalPrice": 1.79
-                            },
-                            "priceDisplay": "€1.79",
-                            "purchasePayload": {
-                                "offerId": "c910e34fc454401c90e0e9b88a67c110",
-                                "sandboxId": "f1e83e5944954920827fe315a151174d"
-                            },
-                            "purchaseType": "Purchase"
-                        },
-                        {
                             "discount": {
                                 "discountAmountDisplay": "-70%",
                                 "discountEndDate": "2026-05-26T15:00:00.000Z",
@@ -15505,24 +15500,6 @@
                         }
                     },
                     "purchase": [
-                        {
-                            "discount": {
-                                "discountAmountDisplay": "-60%",
-                                "discountEndDate": "2026-05-19T15:00:00.000Z",
-                                "originalPriceDisplay": "€1.79"
-                            },
-                            "offerLifecycleState": "Release",
-                            "price": {
-                                "currencyCode": "EUR",
-                                "decimalPrice": 0.71
-                            },
-                            "priceDisplay": "€0.71",
-                            "purchasePayload": {
-                                "offerId": "aba7f125fa5648a09ef7efc70d693adb",
-                                "sandboxId": "6df8eed41dff4a8bb168dfe9eb8d3101"
-                            },
-                            "purchaseType": "Purchase"
-                        },
                         {
                             "offerLifecycleState": "Release",
                             "price": {
