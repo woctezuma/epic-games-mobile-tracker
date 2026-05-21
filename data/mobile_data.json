@@ -1731,6 +1731,58 @@
         "store_url": "<https://store.epicgames.com/product/forest-quartet-ios-eea63c>",
         "title": "The Forest Quartet"
     },
+    "1-a5a82a0ca371468cb35a9a47e4747082-013f16fdbbf84493900eaf15c9f17d0b": {
+        "age_control": 3,
+        "catalog_item_id": "feb3b4ac51b942d4a2387d8d775bdc25",
+        "checkout_url": "<https://store.epicgames.com/purchase?offers=1-a5a82a0ca371468cb35a9a47e4747082-013f16fdbbf84493900eaf15c9f17d0b>",
+        "content_descriptors": [],
+        "current_price": "0",
+        "discount": "-100%",
+        "download_size": "529.23 MB",
+        "end_date": "2026-05-28T15:00:00.000Z",
+        "in_app_purchases": false,
+        "install_size": "704 MB",
+        "interactive_elements": [],
+        "media": {
+            "OfferImageTall": "https://cdn1.epicgames.com/spt-assets/4b555b48044646f78cb7a98425cc083e/monument-valley-3-plh3u.png",
+            "OfferImageWide": "https://cdn1.epicgames.com/spt-assets/4b555b48044646f78cb7a98425cc083e/monument-valley-3-1ygcw.png",
+            "ProductIcon": "https://cdn1.epicgames.com/spt-assets/4b555b48044646f78cb7a98425cc083e/monument-valley-3-icon-1r12p.png",
+            "coverImage": "https://cdn1.epicgames.com/spt-assets/4b555b48044646f78cb7a98425cc083e/monument-valley-3-1na0w.png"
+        },
+        "offer_id": "013f16fdbbf84493900eaf15c9f17d0b",
+        "original_price": "4.49",
+        "platform": "android",
+        "sandbox_id": "a5a82a0ca371468cb35a9a47e4747082",
+        "slug": "monument-valley-3-android-c7433e",
+        "store_url": "<https://store.epicgames.com/product/monument-valley-3-android-c7433e>",
+        "title": "Monument Valley 3"
+    },
+    "1-a5a82a0ca371468cb35a9a47e4747082-6b71faac57f54f85a62ab39d307b5eb4": {
+        "age_control": 3,
+        "catalog_item_id": "1eb0ed88471f4c43a12623a9395d47d5",
+        "checkout_url": "<https://store.epicgames.com/purchase?offers=1-a5a82a0ca371468cb35a9a47e4747082-6b71faac57f54f85a62ab39d307b5eb4>",
+        "content_descriptors": [],
+        "current_price": "0",
+        "discount": "-100%",
+        "download_size": "542 MB",
+        "end_date": "2026-05-28T15:00:00.000Z",
+        "in_app_purchases": false,
+        "install_size": "599 MB",
+        "interactive_elements": [],
+        "media": {
+            "OfferImageTall": "https://cdn1.epicgames.com/spt-assets/4b555b48044646f78cb7a98425cc083e/monument-valley-3-rdy1x.png",
+            "OfferImageWide": "https://cdn1.epicgames.com/spt-assets/4b555b48044646f78cb7a98425cc083e/monument-valley-3-3wcol.png",
+            "ProductIcon": "https://cdn1.epicgames.com/spt-assets/4b555b48044646f78cb7a98425cc083e/monument-valley-3-icon-1r12p.png",
+            "coverImage": "https://cdn1.epicgames.com/spt-assets/4b555b48044646f78cb7a98425cc083e/monument-valley-3-1na0w.png"
+        },
+        "offer_id": "6b71faac57f54f85a62ab39d307b5eb4",
+        "original_price": "5.39",
+        "platform": "ios",
+        "sandbox_id": "a5a82a0ca371468cb35a9a47e4747082",
+        "slug": "monument-valley-3-ios-e569e7",
+        "store_url": "<https://store.epicgames.com/product/monument-valley-3-ios-e569e7>",
+        "title": "Monument Valley 3"
+    },
     "1-abc34708e5a0420287f52302582e3fec-8819df2d88a440cbba724c8bc1a81536": {
         "age_control": 7,
         "catalog_item_id": "158ddf0eaeb6416da62ecb609a4b2290",
