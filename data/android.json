@@ -81,7 +81,7 @@
                         }
                     ],
                     "systemSpecs": {
-                        "applicationVersion": "1.9.28",
+                        "applicationVersion": "1.9.30",
                         "platform": "android",
                         "systemRequirements": [
                             {
@@ -90,7 +90,7 @@
                                 "title": "Installation size"
                             },
                             {
-                                "minimum": "141.85 MB",
+                                "minimum": "141.10 MB",
                                 "requirementType": "DownloadSize",
                                 "title": "Download size"
                             },
