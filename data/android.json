@@ -13659,23 +13659,23 @@
                             "width": 512
                         },
                         "card16x9": {
-                            "altText": "Klondike Adventures Offer",
+                            "altText": "Klondike Adventures: Farm Game Offer",
                             "height": 1440,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/b02db2b47ee441c892196ea51b70ea97/klondike-adventures-10edp.jpg",
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/b02db2b47ee441c892196ea51b70ea97/klondike-adventures-farm-game-4ehak.jpg",
                             "imageType": "OfferImageWide",
                             "width": 2560
                         },
                         "card3x4": {
-                            "altText": "Download Klondike Adventures Offer",
+                            "altText": "Download Klondike Adventures: Farm Game Offer",
                             "height": 1600,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/b02db2b47ee441c892196ea51b70ea97/klondike-adventures-soeg8.jpg",
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/b02db2b47ee441c892196ea51b70ea97/klondike-adventures-farm-game-z98ci.jpg",
                             "imageType": "OfferImageTall",
                             "width": 1200
                         },
                         "coverImage": {
                             "altText": "-",
                             "height": 1440,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/b02db2b47ee441c892196ea51b70ea97/klondike-adventures-ci6lg.jpg",
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/b02db2b47ee441c892196ea51b70ea97/klondike-adventures-farm-game-1d5p6.jpg",
                             "imageType": "coverImage",
                             "width": 2560
                         }
@@ -13695,7 +13695,7 @@
                         }
                     ],
                     "systemSpecs": {
-                        "applicationVersion": "2.147.2",
+                        "applicationVersion": "2.147.3",
                         "platform": "android",
                         "systemRequirements": [
                             {
@@ -13704,7 +13704,7 @@
                                 "title": "Installation size"
                             },
                             {
-                                "minimum": "330.56 MB",
+                                "minimum": "330.60 MB",
                                 "requirementType": "DownloadSize",
                                 "title": "Download size"
                             },
