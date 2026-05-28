@@ -14,6 +14,107 @@
                         "ageRating": {
                             "ageControl": 3,
                             "contentDescriptors": [],
+                            "interactiveElements": [],
+                            "ratingImage": "https://cdn1.epicgames.com/gameRating/gameRating/PEGI_3_192_192x192-490b93ddf59fb4ac1148d1eb9083626a",
+                            "ratingSystem": "PEGI",
+                            "rectangularRatingImage": "https://cdn1.epicgames.com/salesEvent/salesEvent/PEGI-3_435x530-c931ab5bb4eb190f6e8e542081c49dc4",
+                            "title": "PEGI 3"
+                        },
+                        "ratingType": "AgeRating"
+                    },
+                    "attention": {
+                        "inAppPurchases": "None"
+                    },
+                    "catalogItemId": "feb3b4ac51b942d4a2387d8d775bdc25",
+                    "categories": [
+                        "freegames",
+                        "games",
+                        "games/edition",
+                        "games/edition/base"
+                    ],
+                    "mapping": {
+                        "slug": "monument-valley-3-android-c7433e"
+                    },
+                    "media": {
+                        "appIcon": {
+                            "altText": "-",
+                            "height": 512,
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/4b555b48044646f78cb7a98425cc083e/monument-valley-3-icon-1r12p.png",
+                            "imageType": "ProductIcon",
+                            "width": 512
+                        },
+                        "card16x9": {
+                            "altText": "Monument Valley 3 Offer",
+                            "height": 1440,
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/4b555b48044646f78cb7a98425cc083e/monument-valley-3-1ygcw.png",
+                            "imageType": "OfferImageWide",
+                            "width": 2560
+                        },
+                        "card3x4": {
+                            "altText": "Download Monument Valley 3 Offer",
+                            "height": 1600,
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/4b555b48044646f78cb7a98425cc083e/monument-valley-3-plh3u.png",
+                            "imageType": "OfferImageTall",
+                            "width": 1200
+                        },
+                        "coverImage": {
+                            "altText": "-",
+                            "height": 1440,
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/4b555b48044646f78cb7a98425cc083e/monument-valley-3-1na0w.png",
+                            "imageType": "coverImage",
+                            "width": 2560
+                        }
+                    },
+                    "purchase": [
+                        {
+                            "offerLifecycleState": "Release",
+                            "price": {
+                                "currencyCode": "EUR",
+                                "decimalPrice": 4.49
+                            },
+                            "priceDisplay": "€4.49",
+                            "purchasePayload": {
+                                "offerId": "013f16fdbbf84493900eaf15c9f17d0b",
+                                "sandboxId": "a5a82a0ca371468cb35a9a47e4747082"
+                            },
+                            "purchaseType": "Purchase"
+                        }
+                    ],
+                    "systemSpecs": {
+                        "applicationVersion": "1.6.20482",
+                        "platform": "android",
+                        "systemRequirements": [
+                            {
+                                "minimum": "704 MB",
+                                "requirementType": "InstallSize",
+                                "title": "Installation size"
+                            },
+                            {
+                                "minimum": "529.23 MB",
+                                "requirementType": "DownloadSize",
+                                "title": "Download size"
+                            },
+                            {
+                                "minimum": "9",
+                                "requirementType": "OS",
+                                "title": "OS version"
+                            }
+                        ]
+                    },
+                    "title": "Monument Valley 3"
+                },
+                "offerId": "013f16fdbbf84493900eaf15c9f17d0b",
+                "sandboxId": "a5a82a0ca371468cb35a9a47e4747082"
+            },
+            {
+                "content": {
+                    "ageRating": {
+                        "ageGate": {
+                            "gate": "no-gate"
+                        },
+                        "ageRating": {
+                            "ageControl": 3,
+                            "contentDescriptors": [],
                             "interactiveElements": [
                                 "In-Game Purchases (Includes Random Items)"
                             ],
@@ -821,108 +922,6 @@
                 "content": {
                     "ageRating": {
                         "ageGate": {
-                            "gate": "no-gate"
-                        },
-                        "ageRating": {
-                            "ageControl": 3,
-                            "contentDescriptors": [],
-                            "interactiveElements": [
-                                "Users Interact",
-                                "In-Game Purchases"
-                            ],
-                            "ratingImage": "https://cdn1.epicgames.com/gameRating/gameRating/PEGI_3_192_192x192-490b93ddf59fb4ac1148d1eb9083626a",
-                            "ratingSystem": "PEGI",
-                            "rectangularRatingImage": "https://cdn1.epicgames.com/salesEvent/salesEvent/PEGI-3_435x530-c931ab5bb4eb190f6e8e542081c49dc4",
-                            "title": "PEGI 3"
-                        },
-                        "ratingType": "AgeRating"
-                    },
-                    "attention": {
-                        "inAppPurchases": "MaybeIncludesInAppPurchases"
-                    },
-                    "catalogItemId": "3e40e5a057594dbfa15836ded88dacf0",
-                    "categories": [
-                        "games/edition/base",
-                        "games/edition",
-                        "games"
-                    ],
-                    "mapping": {
-                        "slug": "bandits-vs-lords-epic-clash-mobile-android-a13689"
-                    },
-                    "media": {
-                        "appIcon": {
-                            "altText": "-",
-                            "height": 512,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/6b54b0353e1a48069d9609b30aa01c68/bandits-vs-lords-epic-clash-mobile-icon-pwu6m.png",
-                            "imageType": "ProductIcon",
-                            "width": 512
-                        },
-                        "card16x9": {
-                            "altText": "Bandits vs Lords: Epic Clash Mobile Offer",
-                            "height": 1440,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/6b54b0353e1a48069d9609b30aa01c68/bandits-vs-lords-epic-clash-mobile-eguoh.jpg",
-                            "imageType": "OfferImageWide",
-                            "width": 2560
-                        },
-                        "card3x4": {
-                            "altText": "Download Bandits vs Lords: Epic Clash Mobile Offer",
-                            "height": 1600,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/6b54b0353e1a48069d9609b30aa01c68/bandits-vs-lords-epic-clash-mobile-4i5q9.png",
-                            "imageType": "OfferImageTall",
-                            "width": 1200
-                        },
-                        "coverImage": {
-                            "altText": "-",
-                            "height": 1440,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/6b54b0353e1a48069d9609b30aa01c68/bandits-vs-lords-epic-clash-d4ub9.jpg",
-                            "imageType": "coverImage",
-                            "width": 2560
-                        }
-                    },
-                    "purchase": [
-                        {
-                            "offerLifecycleState": "Release",
-                            "price": {
-                                "currencyCode": "EUR",
-                                "decimalPrice": 0
-                            },
-                            "purchasePayload": {
-                                "offerId": "22bc392011dc4000a7aac297f758effb",
-                                "sandboxId": "d0447689edb34e76991c245b7d97f72a"
-                            },
-                            "purchaseType": "Claim"
-                        }
-                    ],
-                    "systemSpecs": {
-                        "applicationVersion": "0.4.993",
-                        "platform": "android",
-                        "systemRequirements": [
-                            {
-                                "minimum": "191",
-                                "requirementType": "InstallSize",
-                                "title": "Installation size"
-                            },
-                            {
-                                "minimum": "218.97 MB",
-                                "requirementType": "DownloadSize",
-                                "title": "Download size"
-                            },
-                            {
-                                "minimum": "7.1",
-                                "requirementType": "OS",
-                                "title": "OS version"
-                            }
-                        ]
-                    },
-                    "title": "Bandits vs Lords: Epic Clash"
-                },
-                "offerId": "22bc392011dc4000a7aac297f758effb",
-                "sandboxId": "d0447689edb34e76991c245b7d97f72a"
-            },
-            {
-                "content": {
-                    "ageRating": {
-                        "ageGate": {
                             "gate": "age-gate"
                         },
                         "ageRating": {
@@ -1033,6 +1032,108 @@
             "src": "/"
         },
         "offers": [
+            {
+                "content": {
+                    "ageRating": {
+                        "ageGate": {
+                            "gate": "no-gate"
+                        },
+                        "ageRating": {
+                            "ageControl": 3,
+                            "contentDescriptors": [],
+                            "interactiveElements": [
+                                "Users Interact",
+                                "In-Game Purchases"
+                            ],
+                            "ratingImage": "https://cdn1.epicgames.com/gameRating/gameRating/PEGI_3_192_192x192-490b93ddf59fb4ac1148d1eb9083626a",
+                            "ratingSystem": "PEGI",
+                            "rectangularRatingImage": "https://cdn1.epicgames.com/salesEvent/salesEvent/PEGI-3_435x530-c931ab5bb4eb190f6e8e542081c49dc4",
+                            "title": "PEGI 3"
+                        },
+                        "ratingType": "AgeRating"
+                    },
+                    "attention": {
+                        "inAppPurchases": "MaybeIncludesInAppPurchases"
+                    },
+                    "catalogItemId": "3e40e5a057594dbfa15836ded88dacf0",
+                    "categories": [
+                        "games/edition/base",
+                        "games/edition",
+                        "games"
+                    ],
+                    "mapping": {
+                        "slug": "bandits-vs-lords-epic-clash-mobile-android-a13689"
+                    },
+                    "media": {
+                        "appIcon": {
+                            "altText": "-",
+                            "height": 512,
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/6b54b0353e1a48069d9609b30aa01c68/bandits-vs-lords-epic-clash-mobile-icon-pwu6m.png",
+                            "imageType": "ProductIcon",
+                            "width": 512
+                        },
+                        "card16x9": {
+                            "altText": "Bandits vs Lords: Epic Clash Mobile Offer",
+                            "height": 1440,
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/6b54b0353e1a48069d9609b30aa01c68/bandits-vs-lords-epic-clash-mobile-eguoh.jpg",
+                            "imageType": "OfferImageWide",
+                            "width": 2560
+                        },
+                        "card3x4": {
+                            "altText": "Download Bandits vs Lords: Epic Clash Mobile Offer",
+                            "height": 1600,
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/6b54b0353e1a48069d9609b30aa01c68/bandits-vs-lords-epic-clash-mobile-4i5q9.png",
+                            "imageType": "OfferImageTall",
+                            "width": 1200
+                        },
+                        "coverImage": {
+                            "altText": "-",
+                            "height": 1440,
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/6b54b0353e1a48069d9609b30aa01c68/bandits-vs-lords-epic-clash-d4ub9.jpg",
+                            "imageType": "coverImage",
+                            "width": 2560
+                        }
+                    },
+                    "purchase": [
+                        {
+                            "offerLifecycleState": "Release",
+                            "price": {
+                                "currencyCode": "EUR",
+                                "decimalPrice": 0
+                            },
+                            "purchasePayload": {
+                                "offerId": "22bc392011dc4000a7aac297f758effb",
+                                "sandboxId": "d0447689edb34e76991c245b7d97f72a"
+                            },
+                            "purchaseType": "Claim"
+                        }
+                    ],
+                    "systemSpecs": {
+                        "applicationVersion": "0.4.993",
+                        "platform": "android",
+                        "systemRequirements": [
+                            {
+                                "minimum": "191",
+                                "requirementType": "InstallSize",
+                                "title": "Installation size"
+                            },
+                            {
+                                "minimum": "218.97 MB",
+                                "requirementType": "DownloadSize",
+                                "title": "Download size"
+                            },
+                            {
+                                "minimum": "7.1",
+                                "requirementType": "OS",
+                                "title": "OS version"
+                            }
+                        ]
+                    },
+                    "title": "Bandits vs Lords: Epic Clash"
+                },
+                "offerId": "22bc392011dc4000a7aac297f758effb",
+                "sandboxId": "d0447689edb34e76991c245b7d97f72a"
+            },
             {
                 "content": {
                     "ageRating": {
@@ -2150,108 +2251,6 @@
                 },
                 "offerId": "8696234f96fb4add993f4d2a74468ec6",
                 "sandboxId": "9fb5e9c7aff143a4ac76ebea3306683c"
-            },
-            {
-                "content": {
-                    "ageRating": {
-                        "ageGate": {
-                            "gate": "no-gate"
-                        },
-                        "ageRating": {
-                            "ageControl": 7,
-                            "contentDescriptors": [
-                                "Fear"
-                            ],
-                            "interactiveElements": [],
-                            "ratingImage": "https://cdn1.epicgames.com/gameRating/gameRating/PEGI_7_192_192x192-30e2e712d0682dad01add90a6ccbed5b",
-                            "ratingSystem": "PEGI",
-                            "rectangularRatingImage": "https://cdn1.epicgames.com/salesEvent/salesEvent/PEGI-7_435x530-9439a136999d3dd762c7a61c3b8c7683",
-                            "title": "PEGI 7"
-                        },
-                        "ratingType": "AgeRating"
-                    },
-                    "attention": {
-                        "inAppPurchases": "None"
-                    },
-                    "catalogItemId": "2ffd82d2bcfb4a93bb824b3ed4e25d76",
-                    "categories": [
-                        "games",
-                        "games/edition",
-                        "games/edition/base"
-                    ],
-                    "mapping": {
-                        "slug": "boxes-lost-fragments-android-356638"
-                    },
-                    "media": {
-                        "appIcon": {
-                            "altText": "-",
-                            "height": 512,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/7f8e5cd71ae04eaeb7d782a5946db16f/boxes-lost-fragments-icon-1ph0x.png",
-                            "imageType": "ProductIcon",
-                            "width": 512
-                        },
-                        "card16x9": {
-                            "altText": "Boxes: Lost Fragments Offer",
-                            "height": 1440,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/7f8e5cd71ae04eaeb7d782a5946db16f/boxes-lost-fragments-1jpva.png",
-                            "imageType": "OfferImageWide",
-                            "width": 2560
-                        },
-                        "card3x4": {
-                            "altText": "Download Boxes: Lost Fragments Offer",
-                            "height": 1600,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/7f8e5cd71ae04eaeb7d782a5946db16f/boxes-lost-fragments-4szq3.png",
-                            "imageType": "OfferImageTall",
-                            "width": 1200
-                        },
-                        "coverImage": {
-                            "altText": "-",
-                            "height": 1440,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/7f8e5cd71ae04eaeb7d782a5946db16f/boxes-lost-fragments-1ngy4.png",
-                            "imageType": "coverImage",
-                            "width": 2560
-                        }
-                    },
-                    "purchase": [
-                        {
-                            "offerLifecycleState": "Release",
-                            "price": {
-                                "currencyCode": "EUR",
-                                "decimalPrice": 8.09
-                            },
-                            "priceDisplay": "€8.09",
-                            "purchasePayload": {
-                                "offerId": "d492301ad87e41aa8d9301301841d019",
-                                "sandboxId": "abc34708e5a0420287f52302582e3fec"
-                            },
-                            "purchaseType": "Purchase"
-                        }
-                    ],
-                    "systemSpecs": {
-                        "applicationVersion": "1.50",
-                        "platform": "android",
-                        "systemRequirements": [
-                            {
-                                "minimum": "960 MB",
-                                "requirementType": "InstallSize",
-                                "title": "Installation size"
-                            },
-                            {
-                                "minimum": "715.29 MB",
-                                "requirementType": "DownloadSize",
-                                "title": "Download size"
-                            },
-                            {
-                                "minimum": "9",
-                                "requirementType": "OS",
-                                "title": "OS version"
-                            }
-                        ]
-                    },
-                    "title": "Boxes: Lost Fragments"
-                },
-                "offerId": "d492301ad87e41aa8d9301301841d019",
-                "sandboxId": "abc34708e5a0420287f52302582e3fec"
             }
         ],
         "size": "large",
@@ -5124,20 +5123,22 @@
                             "gate": "no-gate"
                         },
                         "ageRating": {
-                            "ageControl": 3,
-                            "contentDescriptors": [],
+                            "ageControl": 12,
+                            "contentDescriptors": [
+                                "Mild Swearing"
+                            ],
                             "interactiveElements": [],
-                            "ratingImage": "https://cdn1.epicgames.com/gameRating/gameRating/PEGI_3_192_192x192-490b93ddf59fb4ac1148d1eb9083626a",
+                            "ratingImage": "https://cdn1.epicgames.com/gameRating/gameRating/PEGI_12_192_192x192-afa4df43f131bc83eb380ccf22f8d904",
                             "ratingSystem": "PEGI",
-                            "rectangularRatingImage": "https://cdn1.epicgames.com/salesEvent/salesEvent/PEGI-3_435x530-c931ab5bb4eb190f6e8e542081c49dc4",
-                            "title": "PEGI 3"
+                            "rectangularRatingImage": "https://cdn1.epicgames.com/salesEvent/salesEvent/PEGI-12_436x530-0cd1f06607086f3cc1bc2b8643f21b0a",
+                            "title": "PEGI 12"
                         },
                         "ratingType": "AgeRating"
                     },
                     "attention": {
                         "inAppPurchases": "None"
                     },
-                    "catalogItemId": "feb3b4ac51b942d4a2387d8d775bdc25",
+                    "catalogItemId": "72c2f0ceaa2f48f4b2dc636b0c652596",
                     "categories": [
                         "freegames",
                         "games",
@@ -5145,34 +5146,34 @@
                         "games/edition/base"
                     ],
                     "mapping": {
-                        "slug": "monument-valley-3-android-c7433e"
+                        "slug": "northgard-android-193af0"
                     },
                     "media": {
                         "appIcon": {
                             "altText": "-",
                             "height": 512,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/4b555b48044646f78cb7a98425cc083e/monument-valley-3-icon-1r12p.png",
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/92d5cfe1c2e74b4096a2d6619fdfb0f6/northgard-icon-jvfu0.png",
                             "imageType": "ProductIcon",
                             "width": 512
                         },
                         "card16x9": {
-                            "altText": "Monument Valley 3 Offer",
+                            "altText": "Northgard Offer",
                             "height": 1440,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/4b555b48044646f78cb7a98425cc083e/monument-valley-3-1ygcw.png",
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/92d5cfe1c2e74b4096a2d6619fdfb0f6/northgard-pi8mi.jpg",
                             "imageType": "OfferImageWide",
                             "width": 2560
                         },
                         "card3x4": {
-                            "altText": "Download Monument Valley 3 Offer",
+                            "altText": "Download Northgard Offer",
                             "height": 1600,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/4b555b48044646f78cb7a98425cc083e/monument-valley-3-plh3u.png",
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/92d5cfe1c2e74b4096a2d6619fdfb0f6/northgard-1xq6o.jpg",
                             "imageType": "OfferImageTall",
                             "width": 1200
                         },
                         "coverImage": {
                             "altText": "-",
                             "height": 1440,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/4b555b48044646f78cb7a98425cc083e/monument-valley-3-1na0w.png",
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/92d5cfe1c2e74b4096a2d6619fdfb0f6/northgard-wg6va.jpg",
                             "imageType": "coverImage",
                             "width": 2560
                         }
@@ -5181,8 +5182,8 @@
                         {
                             "discount": {
                                 "discountAmountDisplay": "-100%",
-                                "discountEndDate": "2026-05-28T15:00:00.000Z",
-                                "originalPriceDisplay": "€4.49"
+                                "discountEndDate": "2026-06-04T15:00:00.000Z",
+                                "originalPriceDisplay": "€8.09"
                             },
                             "offerLifecycleState": "Release",
                             "price": {
@@ -5190,8 +5191,8 @@
                                 "decimalPrice": 0
                             },
                             "purchasePayload": {
-                                "offerId": "013f16fdbbf84493900eaf15c9f17d0b",
-                                "sandboxId": "a5a82a0ca371468cb35a9a47e4747082"
+                                "offerId": "d7a3f947597a4cd5b3fd47462e73c967",
+                                "sandboxId": "228e0d2c9edd4c1189fc00ba49d8fb1a"
                             },
                             "purchaseType": "Claim"
                         },
@@ -5199,41 +5200,41 @@
                             "offerLifecycleState": "Release",
                             "price": {
                                 "currencyCode": "EUR",
-                                "decimalPrice": 4.49
+                                "decimalPrice": 8.09
                             },
-                            "priceDisplay": "€4.49",
+                            "priceDisplay": "€8.09",
                             "purchasePayload": {
-                                "offerId": "013f16fdbbf84493900eaf15c9f17d0b",
-                                "sandboxId": "a5a82a0ca371468cb35a9a47e4747082"
+                                "offerId": "d7a3f947597a4cd5b3fd47462e73c967",
+                                "sandboxId": "228e0d2c9edd4c1189fc00ba49d8fb1a"
                             },
                             "purchaseType": "Purchase"
                         }
                     ],
                     "systemSpecs": {
-                        "applicationVersion": "1.6.20482",
+                        "applicationVersion": "2.2.8",
                         "platform": "android",
                         "systemRequirements": [
                             {
-                                "minimum": "704 MB",
+                                "minimum": "1 GB",
                                 "requirementType": "InstallSize",
                                 "title": "Installation size"
                             },
                             {
-                                "minimum": "529.23 MB",
+                                "minimum": "892.22 MB",
                                 "requirementType": "DownloadSize",
                                 "title": "Download size"
                             },
                             {
-                                "minimum": "9",
+                                "minimum": "8.0.0",
                                 "requirementType": "OS",
                                 "title": "OS version"
                             }
                         ]
                     },
-                    "title": "Monument Valley 3"
+                    "title": "Northgard"
                 },
-                "offerId": "013f16fdbbf84493900eaf15c9f17d0b",
-                "sandboxId": "a5a82a0ca371468cb35a9a47e4747082"
+                "offerId": "d7a3f947597a4cd5b3fd47462e73c967",
+                "sandboxId": "228e0d2c9edd4c1189fc00ba49d8fb1a"
             }
         ],
         "size": "large",
@@ -7116,6 +7117,108 @@
             "src": ""
         },
         "offers": [
+            {
+                "content": {
+                    "ageRating": {
+                        "ageGate": {
+                            "gate": "no-gate"
+                        },
+                        "ageRating": {
+                            "ageControl": 7,
+                            "contentDescriptors": [
+                                "Fear"
+                            ],
+                            "interactiveElements": [],
+                            "ratingImage": "https://cdn1.epicgames.com/gameRating/gameRating/PEGI_7_192_192x192-30e2e712d0682dad01add90a6ccbed5b",
+                            "ratingSystem": "PEGI",
+                            "rectangularRatingImage": "https://cdn1.epicgames.com/salesEvent/salesEvent/PEGI-7_435x530-9439a136999d3dd762c7a61c3b8c7683",
+                            "title": "PEGI 7"
+                        },
+                        "ratingType": "AgeRating"
+                    },
+                    "attention": {
+                        "inAppPurchases": "None"
+                    },
+                    "catalogItemId": "2ffd82d2bcfb4a93bb824b3ed4e25d76",
+                    "categories": [
+                        "games",
+                        "games/edition",
+                        "games/edition/base"
+                    ],
+                    "mapping": {
+                        "slug": "boxes-lost-fragments-android-356638"
+                    },
+                    "media": {
+                        "appIcon": {
+                            "altText": "-",
+                            "height": 512,
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/7f8e5cd71ae04eaeb7d782a5946db16f/boxes-lost-fragments-icon-1ph0x.png",
+                            "imageType": "ProductIcon",
+                            "width": 512
+                        },
+                        "card16x9": {
+                            "altText": "Boxes: Lost Fragments Offer",
+                            "height": 1440,
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/7f8e5cd71ae04eaeb7d782a5946db16f/boxes-lost-fragments-1jpva.png",
+                            "imageType": "OfferImageWide",
+                            "width": 2560
+                        },
+                        "card3x4": {
+                            "altText": "Download Boxes: Lost Fragments Offer",
+                            "height": 1600,
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/7f8e5cd71ae04eaeb7d782a5946db16f/boxes-lost-fragments-4szq3.png",
+                            "imageType": "OfferImageTall",
+                            "width": 1200
+                        },
+                        "coverImage": {
+                            "altText": "-",
+                            "height": 1440,
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/7f8e5cd71ae04eaeb7d782a5946db16f/boxes-lost-fragments-1ngy4.png",
+                            "imageType": "coverImage",
+                            "width": 2560
+                        }
+                    },
+                    "purchase": [
+                        {
+                            "offerLifecycleState": "Release",
+                            "price": {
+                                "currencyCode": "EUR",
+                                "decimalPrice": 8.09
+                            },
+                            "priceDisplay": "€8.09",
+                            "purchasePayload": {
+                                "offerId": "d492301ad87e41aa8d9301301841d019",
+                                "sandboxId": "abc34708e5a0420287f52302582e3fec"
+                            },
+                            "purchaseType": "Purchase"
+                        }
+                    ],
+                    "systemSpecs": {
+                        "applicationVersion": "1.50",
+                        "platform": "android",
+                        "systemRequirements": [
+                            {
+                                "minimum": "960 MB",
+                                "requirementType": "InstallSize",
+                                "title": "Installation size"
+                            },
+                            {
+                                "minimum": "715.29 MB",
+                                "requirementType": "DownloadSize",
+                                "title": "Download size"
+                            },
+                            {
+                                "minimum": "9",
+                                "requirementType": "OS",
+                                "title": "OS version"
+                            }
+                        ]
+                    },
+                    "title": "Boxes: Lost Fragments"
+                },
+                "offerId": "d492301ad87e41aa8d9301301841d019",
+                "sandboxId": "abc34708e5a0420287f52302582e3fec"
+            },
             {
                 "content": {
                     "ageRating": {
@@ -11050,6 +11153,37 @@
                                 "sandboxId": "195babba4ee143cab291ed109668d10d"
                             },
                             "purchaseType": "Purchase"
+                        },
+                        {
+                            "discount": {
+                                "discountAmountDisplay": "-60%",
+                                "discountEndDate": "2026-06-09T14:59:00.000Z",
+                                "originalPriceDisplay": "€4.99"
+                            },
+                            "offerLifecycleState": "Release",
+                            "price": {
+                                "currencyCode": "EUR",
+                                "decimalPrice": 1.99
+                            },
+                            "priceDisplay": "€1.99",
+                            "purchasePayload": {
+                                "offerId": "108fd31a4cec4d44bc3b69f666d2af82",
+                                "sandboxId": "195babba4ee143cab291ed109668d10d"
+                            },
+                            "purchaseType": "Purchase"
+                        },
+                        {
+                            "offerLifecycleState": "Release",
+                            "price": {
+                                "currencyCode": "EUR",
+                                "decimalPrice": 4.99
+                            },
+                            "priceDisplay": "€4.99",
+                            "purchasePayload": {
+                                "offerId": "108fd31a4cec4d44bc3b69f666d2af82",
+                                "sandboxId": "195babba4ee143cab291ed109668d10d"
+                            },
+                            "purchaseType": "Purchase"
                         }
                     ],
                     "systemSpecs": {
@@ -11142,19 +11276,6 @@
                         }
                     },
                     "purchase": [
-                        {
-                            "offerLifecycleState": "Release",
-                            "price": {
-                                "currencyCode": "EUR",
-                                "decimalPrice": 2.99
-                            },
-                            "priceDisplay": "€2.99",
-                            "purchasePayload": {
-                                "offerId": "b173757d7b4a429a9fcf97a15c38fc8c",
-                                "sandboxId": "36a6893d17254a028b35ba5414f1cd1c"
-                            },
-                            "purchaseType": "Purchase"
-                        },
                         {
                             "discount": {
                                 "discountAmountDisplay": "-67%",
@@ -13242,19 +13363,6 @@
                         }
                     },
                     "purchase": [
-                        {
-                            "offerLifecycleState": "Release",
-                            "price": {
-                                "currencyCode": "EUR",
-                                "decimalPrice": 4.99
-                            },
-                            "priceDisplay": "€4.99",
-                            "purchasePayload": {
-                                "offerId": "7b0b95230dbb48908344b0e7ec90f0f3",
-                                "sandboxId": "788106ed2233439bbe0df94c27fcef9b"
-                            },
-                            "purchaseType": "Purchase"
-                        },
                         {
                             "discount": {
                                 "discountAmountDisplay": "-60%",
@@ -16886,19 +16994,6 @@
                         }
                     },
                     "purchase": [
-                        {
-                            "offerLifecycleState": "Release",
-                            "price": {
-                                "currencyCode": "EUR",
-                                "decimalPrice": 7.99
-                            },
-                            "priceDisplay": "€7.99",
-                            "purchasePayload": {
-                                "offerId": "6f7428ec61224e17bc23866e08817e67",
-                                "sandboxId": "f5e1592d41da4d7aaf31cc5379a1b5dd"
-                            },
-                            "purchaseType": "Purchase"
-                        },
                         {
                             "discount": {
                                 "discountAmountDisplay": "-75%",
