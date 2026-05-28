@@ -333,6 +333,62 @@
         "store_url": "<https://store.epicgames.com/product/dumb-ways-to-draw-android-3bce1a>",
         "title": "Dumb Ways to Draw"
     },
+    "1-228e0d2c9edd4c1189fc00ba49d8fb1a-d7a3f947597a4cd5b3fd47462e73c967": {
+        "age_control": 12,
+        "catalog_item_id": "72c2f0ceaa2f48f4b2dc636b0c652596",
+        "checkout_url": "<https://store.epicgames.com/purchase?offers=1-228e0d2c9edd4c1189fc00ba49d8fb1a-d7a3f947597a4cd5b3fd47462e73c967>",
+        "content_descriptors": [
+            "Mild Swearing"
+        ],
+        "current_price": "0",
+        "discount": "-100%",
+        "download_size": "892.22 MB",
+        "end_date": "2026-06-04T15:00:00.000Z",
+        "in_app_purchases": false,
+        "install_size": "1 GB",
+        "interactive_elements": [],
+        "media": {
+            "OfferImageTall": "https://cdn1.epicgames.com/spt-assets/92d5cfe1c2e74b4096a2d6619fdfb0f6/northgard-1xq6o.jpg",
+            "OfferImageWide": "https://cdn1.epicgames.com/spt-assets/92d5cfe1c2e74b4096a2d6619fdfb0f6/northgard-pi8mi.jpg",
+            "ProductIcon": "https://cdn1.epicgames.com/spt-assets/92d5cfe1c2e74b4096a2d6619fdfb0f6/northgard-icon-jvfu0.png",
+            "coverImage": "https://cdn1.epicgames.com/spt-assets/92d5cfe1c2e74b4096a2d6619fdfb0f6/northgard-wg6va.jpg"
+        },
+        "offer_id": "d7a3f947597a4cd5b3fd47462e73c967",
+        "original_price": "8.09",
+        "platform": "android",
+        "sandbox_id": "228e0d2c9edd4c1189fc00ba49d8fb1a",
+        "slug": "northgard-android-193af0",
+        "store_url": "<https://store.epicgames.com/product/northgard-android-193af0>",
+        "title": "Northgard"
+    },
+    "1-228e0d2c9edd4c1189fc00ba49d8fb1a-e7658ce0423c47619506588174223a04": {
+        "age_control": 12,
+        "catalog_item_id": "037efe77c07940868d6474fee95e62a8",
+        "checkout_url": "<https://store.epicgames.com/purchase?offers=1-228e0d2c9edd4c1189fc00ba49d8fb1a-e7658ce0423c47619506588174223a04>",
+        "content_descriptors": [
+            "Mild Swearing"
+        ],
+        "current_price": "0",
+        "discount": "-100%",
+        "download_size": "932 MB",
+        "end_date": "2026-06-04T15:00:00.000Z",
+        "in_app_purchases": false,
+        "install_size": "1GB",
+        "interactive_elements": [],
+        "media": {
+            "OfferImageTall": "https://cdn1.epicgames.com/spt-assets/92d5cfe1c2e74b4096a2d6619fdfb0f6/northgard-87cre.jpg",
+            "OfferImageWide": "https://cdn1.epicgames.com/spt-assets/92d5cfe1c2e74b4096a2d6619fdfb0f6/northgard-1e2ij.jpg",
+            "ProductIcon": "https://cdn1.epicgames.com/spt-assets/92d5cfe1c2e74b4096a2d6619fdfb0f6/northgard-icon-jvfu0.png",
+            "coverImage": "https://cdn1.epicgames.com/spt-assets/92d5cfe1c2e74b4096a2d6619fdfb0f6/northgard-wg6va.jpg"
+        },
+        "offer_id": "e7658ce0423c47619506588174223a04",
+        "original_price": "8.09",
+        "platform": "ios",
+        "sandbox_id": "228e0d2c9edd4c1189fc00ba49d8fb1a",
+        "slug": "northgard-ios-1bcff2",
+        "store_url": "<https://store.epicgames.com/product/northgard-ios-1bcff2>",
+        "title": "Northgard"
+    },
     "1-270e1d648a5e4060b7b441615c4da4d9-1692b4f15c1045a5968b8db5806d2867": {
         "age_control": 12,
         "catalog_item_id": "d8044498b96b4788ab6910da7a34118e",
