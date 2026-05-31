@@ -2307,20 +2307,20 @@
                         },
                         "card16x9": {
                             "height": 1440,
-                            "imageSrc": "https://cdn1.epicgames.com/offer/fn/FNBR_40-40_C7S2_Venison_EGS_Launcher_Blade_2560x1440_2560x1440-e635a986e9d04de587a8929cac674998",
+                            "imageSrc": "https://cdn1.epicgames.com/offer/fn/FNBR_40-41_C7S2_EndEvent_PowerHour-DualHelmets_EGS_Launcher_Blade_2560x1440_2560x1440-a512c6ea5a2047b5984a38633cb70d3e",
                             "imageType": "OfferImageWide",
                             "width": 2560
                         },
                         "card3x4": {
                             "height": 1600,
-                            "imageSrc": "https://cdn1.epicgames.com/offer/fn/FNBR_40-40_C7S2_Venison_EGS_Launcher_Blade_1200x1600_1200x1600-3d88fb9878fe49c4968578c714e9989f",
+                            "imageSrc": "https://cdn1.epicgames.com/offer/fn/FNBR_40-41_C7S2_EndEvent_PowerHour-DualHelmets_EGS_Launcher_Blade_1200x1600_1200x1600-7978c97e15e144249a15bb069bff1b9c",
                             "imageType": "OfferImageTall",
                             "width": 1200
                         },
                         "coverImage": {
                             "altText": "-",
                             "height": 1440,
-                            "imageSrc": "https://cdn1.epicgames.com/offer/fn/FNBR_40-40_C7S2_Venison_EGS_Launcher_Blade_2560x1440_2560x1440-d0f730e1dde8472e8e7f80d204c54a24",
+                            "imageSrc": "https://cdn1.epicgames.com/offer/fn/FNBR_40-41_C7S2_EndEvent_PowerHour-DualHelmets_EGS_Launcher_Blade_2560x1440_2560x1440-885412efe2fb451e9f224d1546812687",
                             "imageType": "coverImage",
                             "width": 2560
                         }
