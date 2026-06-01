@@ -2560,8 +2560,8 @@
                             "ageControl": 12,
                             "contentDescriptors": [],
                             "interactiveElements": [
-                                "In-App Purchases",
-                                "Users Interact"
+                                "Users Interact",
+                                "In-Game Purchases (Includes Random Items)"
                             ],
                             "ratingImage": "https://cdn1.epicgames.com/gameRating/gameRating/PEGI_EXC_192_192x192-4b60638de38c759ed1cdb5c19a573256",
                             "ratingSystem": "PEGI",
@@ -6740,8 +6740,8 @@
                             "ageControl": 12,
                             "contentDescriptors": [],
                             "interactiveElements": [
-                                "In-App Purchases",
-                                "Users Interact"
+                                "Users Interact",
+                                "In-Game Purchases (Includes Random Items)"
                             ],
                             "ratingImage": "https://cdn1.epicgames.com/gameRating/gameRating/PEGI_EXC_192_192x192-4b60638de38c759ed1cdb5c19a573256",
                             "ratingSystem": "PEGI",
