@@ -5214,14 +5214,14 @@
                         "card16x9": {
                             "altText": "Idle Champions of the Forgotten Realms Offer",
                             "height": 1440,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/a53f91e55c6840018cb5de0b204f1ad9/idle-champions-of-the-forgotten-realms-1fcon.png",
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/a53f91e55c6840018cb5de0b204f1ad9/idle-champions-of-the-forgotten-realms-3k6vv.png",
                             "imageType": "OfferImageWide",
                             "width": 2560
                         },
                         "card3x4": {
                             "altText": "Download Idle Champions of the Forgotten Realms Offer",
                             "height": 1600,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/a53f91e55c6840018cb5de0b204f1ad9/idle-champions-of-the-forgotten-realms-ocbh0.png",
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/a53f91e55c6840018cb5de0b204f1ad9/idle-champions-of-the-forgotten-realms-16loz.png",
                             "imageType": "OfferImageTall",
                             "width": 1200
                         },
@@ -8216,19 +8216,6 @@
                         }
                     },
                     "purchase": [
-                        {
-                            "offerLifecycleState": "Release",
-                            "price": {
-                                "currencyCode": "EUR",
-                                "decimalPrice": 6.29
-                            },
-                            "priceDisplay": "€6.29",
-                            "purchasePayload": {
-                                "offerId": "383fd6e2b6ed42e08973301540ba188b",
-                                "sandboxId": "d55b1ce868af425e9631c2d46c074ab9"
-                            },
-                            "purchaseType": "Purchase"
-                        },
                         {
                             "discount": {
                                 "discountAmountDisplay": "-90%",
