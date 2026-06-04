@@ -12,6 +12,108 @@
                             "gate": "no-gate"
                         },
                         "ageRating": {
+                            "ageControl": 12,
+                            "contentDescriptors": [
+                                "Moderate Violence"
+                            ],
+                            "interactiveElements": [],
+                            "ratingImage": "https://cdn1.epicgames.com/gameRating/gameRating/PEGI_12_192_192x192-afa4df43f131bc83eb380ccf22f8d904",
+                            "ratingSystem": "PEGI",
+                            "rectangularRatingImage": "https://cdn1.epicgames.com/salesEvent/salesEvent/PEGI-12_436x530-0cd1f06607086f3cc1bc2b8643f21b0a",
+                            "title": "PEGI 12"
+                        },
+                        "ratingType": "AgeRating"
+                    },
+                    "attention": {
+                        "inAppPurchases": "None"
+                    },
+                    "catalogItemId": "037efe77c07940868d6474fee95e62a8",
+                    "categories": [
+                        "games",
+                        "games/edition",
+                        "games/edition/base"
+                    ],
+                    "mapping": {
+                        "slug": "northgard-ios-1bcff2"
+                    },
+                    "media": {
+                        "appIcon": {
+                            "altText": "-",
+                            "height": 512,
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/92d5cfe1c2e74b4096a2d6619fdfb0f6/northgard-icon-jvfu0.png",
+                            "imageType": "ProductIcon",
+                            "width": 512
+                        },
+                        "card16x9": {
+                            "altText": "Northgard Offer",
+                            "height": 1440,
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/92d5cfe1c2e74b4096a2d6619fdfb0f6/northgard-1e2ij.jpg",
+                            "imageType": "OfferImageWide",
+                            "width": 2560
+                        },
+                        "card3x4": {
+                            "altText": "Download Northgard Offer",
+                            "height": 1600,
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/92d5cfe1c2e74b4096a2d6619fdfb0f6/northgard-87cre.jpg",
+                            "imageType": "OfferImageTall",
+                            "width": 1200
+                        },
+                        "coverImage": {
+                            "altText": "-",
+                            "height": 1440,
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/92d5cfe1c2e74b4096a2d6619fdfb0f6/northgard-wg6va.jpg",
+                            "imageType": "coverImage",
+                            "width": 2560
+                        }
+                    },
+                    "purchase": [
+                        {
+                            "offerLifecycleState": "Release",
+                            "price": {
+                                "currencyCode": "EUR",
+                                "decimalPrice": 8.09
+                            },
+                            "priceDisplay": "€8.09",
+                            "purchasePayload": {
+                                "offerId": "e7658ce0423c47619506588174223a04",
+                                "sandboxId": "228e0d2c9edd4c1189fc00ba49d8fb1a"
+                            },
+                            "purchaseType": "Purchase"
+                        }
+                    ],
+                    "systemSpecs": {
+                        "applicationVersion": "2.2.5",
+                        "platform": "ios",
+                        "systemRequirements": [
+                            {
+                                "minimum": "1GB",
+                                "requirementType": "InstallSize",
+                                "title": "Installation size"
+                            },
+                            {
+                                "minimum": "932 MB",
+                                "requirementType": "DownloadSize",
+                                "title": "Download size"
+                            },
+                            {
+                                "minimum": "13.6",
+                                "requirementType": "OS",
+                                "title": "OS version"
+                            }
+                        ]
+                    },
+                    "title": "Northgard"
+                },
+                "offerId": "e7658ce0423c47619506588174223a04",
+                "sandboxId": "228e0d2c9edd4c1189fc00ba49d8fb1a"
+            },
+            {
+                "content": {
+                    "ageRating": {
+                        "ageGate": {
+                            "gate": "no-gate"
+                        },
+                        "ageRating": {
                             "ageControl": 3,
                             "contentDescriptors": [],
                             "interactiveElements": [],
@@ -918,7 +1020,19 @@
                 },
                 "offerId": "a83669d3961f4616b4b18921b05e2242",
                 "sandboxId": "d923c737f0d243ccab407605ea40d39e"
-            },
+            }
+        ],
+        "size": "xLarge",
+        "title": "",
+        "topicId": "mobile-ios-carousel",
+        "type": "featured"
+    },
+    {
+        "link": {
+            "linkText": "home page",
+            "src": "/"
+        },
+        "offers": [
             {
                 "content": {
                     "ageRating": {
@@ -1020,19 +1134,7 @@
                 },
                 "offerId": "47feda1e68cf4fc996baa59c252aeadc",
                 "sandboxId": "b6f2c874cc5640e28239ec3554963f87"
-            }
-        ],
-        "size": "xLarge",
-        "title": "",
-        "topicId": "mobile-ios-carousel",
-        "type": "featured"
-    },
-    {
-        "link": {
-            "linkText": "home page",
-            "src": "/"
-        },
-        "offers": [
+            },
             {
                 "content": {
                     "ageRating": {
@@ -2148,106 +2250,6 @@
                 },
                 "offerId": "370d5776a80f4ede9e07540e4706f5bb",
                 "sandboxId": "f29b6616ea164bad893bce5dc1c089be"
-            },
-            {
-                "content": {
-                    "ageRating": {
-                        "ageGate": {
-                            "gate": "no-gate"
-                        },
-                        "ageRating": {
-                            "ageControl": 3,
-                            "contentDescriptors": [],
-                            "interactiveElements": [],
-                            "ratingImage": "https://cdn1.epicgames.com/gameRating/gameRating/PEGI_3_192_192x192-490b93ddf59fb4ac1148d1eb9083626a",
-                            "ratingSystem": "PEGI",
-                            "rectangularRatingImage": "https://cdn1.epicgames.com/salesEvent/salesEvent/PEGI-3_435x530-c931ab5bb4eb190f6e8e542081c49dc4",
-                            "title": "PEGI 3"
-                        },
-                        "ratingType": "AgeRating"
-                    },
-                    "attention": {
-                        "inAppPurchases": "None"
-                    },
-                    "catalogItemId": "05431c5a8cf1425fa57d1f4a6b9dbc83",
-                    "categories": [
-                        "games",
-                        "games/edition",
-                        "games/edition/base"
-                    ],
-                    "mapping": {
-                        "slug": "botany-manor-ios-971c19"
-                    },
-                    "media": {
-                        "appIcon": {
-                            "altText": "-",
-                            "height": 512,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/42d56a88c22d4eaa8977bf5528a2396b/botany-manor-icon-10rse.png",
-                            "imageType": "ProductIcon",
-                            "width": 512
-                        },
-                        "card16x9": {
-                            "altText": "Botany Manor Offer",
-                            "height": 1440,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/42d56a88c22d4eaa8977bf5528a2396b/botany-manor-muo9u.jpg",
-                            "imageType": "OfferImageWide",
-                            "width": 2560
-                        },
-                        "card3x4": {
-                            "altText": "Download Botany Manor Offer",
-                            "height": 1600,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/42d56a88c22d4eaa8977bf5528a2396b/botany-manor-1sjko.jpg",
-                            "imageType": "OfferImageTall",
-                            "width": 1200
-                        },
-                        "coverImage": {
-                            "altText": "-",
-                            "height": 1440,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/42d56a88c22d4eaa8977bf5528a2396b/botany-manor-11lkx.png",
-                            "imageType": "coverImage",
-                            "width": 2560
-                        }
-                    },
-                    "purchase": [
-                        {
-                            "offerLifecycleState": "Release",
-                            "price": {
-                                "currencyCode": "EUR",
-                                "decimalPrice": 4.49
-                            },
-                            "priceDisplay": "€4.49",
-                            "purchasePayload": {
-                                "offerId": "c82823ab18da4d2cb4a710f82ddf750f",
-                                "sandboxId": "969bbfac9e7840a986c1d594ccd55c01"
-                            },
-                            "purchaseType": "Purchase"
-                        }
-                    ],
-                    "systemSpecs": {
-                        "applicationVersion": " 1.0.1",
-                        "platform": "ios",
-                        "systemRequirements": [
-                            {
-                                "minimum": "529",
-                                "requirementType": "InstallSize",
-                                "title": "Installation size"
-                            },
-                            {
-                                "minimum": "511",
-                                "requirementType": "DownloadSize",
-                                "title": "Download size"
-                            },
-                            {
-                                "minimum": "12.0",
-                                "requirementType": "OS",
-                                "title": "OS version"
-                            }
-                        ]
-                    },
-                    "title": "Botany Manor"
-                },
-                "offerId": "c82823ab18da4d2cb4a710f82ddf750f",
-                "sandboxId": "969bbfac9e7840a986c1d594ccd55c01"
             }
         ],
         "size": "large",
@@ -4311,25 +4313,17 @@
                 "content": {
                     "ageRating": {
                         "ageGate": {
-                            "gate": "no-gate"
+                            "gate": "unrated-gate"
                         },
                         "ageRating": {
-                            "ageControl": 12,
-                            "contentDescriptors": [
-                                "Moderate Violence"
-                            ],
-                            "interactiveElements": [],
-                            "ratingImage": "https://cdn1.epicgames.com/gameRating/gameRating/PEGI_12_192_192x192-afa4df43f131bc83eb380ccf22f8d904",
-                            "ratingSystem": "PEGI",
-                            "rectangularRatingImage": "https://cdn1.epicgames.com/salesEvent/salesEvent/PEGI-12_436x530-0cd1f06607086f3cc1bc2b8643f21b0a",
-                            "title": "PEGI 12"
+                            "ratingSystem": "PEGI"
                         },
-                        "ratingType": "AgeRating"
+                        "ratingType": "UnratedRating"
                     },
                     "attention": {
                         "inAppPurchases": "None"
                     },
-                    "catalogItemId": "037efe77c07940868d6474fee95e62a8",
+                    "catalogItemId": "5436ffbc3cd046bb8ef1afcb41e0ae94",
                     "categories": [
                         "freegames",
                         "games",
@@ -4337,34 +4331,34 @@
                         "games/edition/base"
                     ],
                     "mapping": {
-                        "slug": "northgard-ios-1bcff2"
+                        "slug": "wytchwood-ios-ccf5ed"
                     },
                     "media": {
                         "appIcon": {
                             "altText": "-",
                             "height": 512,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/92d5cfe1c2e74b4096a2d6619fdfb0f6/northgard-icon-jvfu0.png",
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/fe0a31132d6e4404bd145ce2e2ed5ed7/wytchwood-icon-16fpx.png",
                             "imageType": "ProductIcon",
                             "width": 512
                         },
                         "card16x9": {
-                            "altText": "Northgard Offer",
+                            "altText": "Wytchwood Offer",
                             "height": 1440,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/92d5cfe1c2e74b4096a2d6619fdfb0f6/northgard-1e2ij.jpg",
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/fe0a31132d6e4404bd145ce2e2ed5ed7/wytchwood-1wa4t.jpg",
                             "imageType": "OfferImageWide",
                             "width": 2560
                         },
                         "card3x4": {
-                            "altText": "Download Northgard Offer",
+                            "altText": "Download Wytchwood Offer",
                             "height": 1600,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/92d5cfe1c2e74b4096a2d6619fdfb0f6/northgard-87cre.jpg",
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/fe0a31132d6e4404bd145ce2e2ed5ed7/wytchwood-1g0ax.jpg",
                             "imageType": "OfferImageTall",
                             "width": 1200
                         },
                         "coverImage": {
                             "altText": "-",
                             "height": 1440,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/92d5cfe1c2e74b4096a2d6619fdfb0f6/northgard-wg6va.jpg",
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/fe0a31132d6e4404bd145ce2e2ed5ed7/wytchwood-ku9q9.png",
                             "imageType": "coverImage",
                             "width": 2560
                         }
@@ -4373,8 +4367,8 @@
                         {
                             "discount": {
                                 "discountAmountDisplay": "-100%",
-                                "discountEndDate": "2026-06-04T15:00:00.000Z",
-                                "originalPriceDisplay": "€8.09"
+                                "discountEndDate": "2026-06-11T15:00:00.000Z",
+                                "originalPriceDisplay": "€4.49"
                             },
                             "offerLifecycleState": "Release",
                             "price": {
@@ -4382,8 +4376,8 @@
                                 "decimalPrice": 0
                             },
                             "purchasePayload": {
-                                "offerId": "e7658ce0423c47619506588174223a04",
-                                "sandboxId": "228e0d2c9edd4c1189fc00ba49d8fb1a"
+                                "offerId": "e503745d0b2e4391b4454a3d1b75f22e",
+                                "sandboxId": "8bd7d123bc59474ebb2552793dc0fdbb"
                             },
                             "purchaseType": "Claim"
                         },
@@ -4391,41 +4385,41 @@
                             "offerLifecycleState": "Release",
                             "price": {
                                 "currencyCode": "EUR",
-                                "decimalPrice": 8.09
+                                "decimalPrice": 4.49
                             },
-                            "priceDisplay": "€8.09",
+                            "priceDisplay": "€4.49",
                             "purchasePayload": {
-                                "offerId": "e7658ce0423c47619506588174223a04",
-                                "sandboxId": "228e0d2c9edd4c1189fc00ba49d8fb1a"
+                                "offerId": "e503745d0b2e4391b4454a3d1b75f22e",
+                                "sandboxId": "8bd7d123bc59474ebb2552793dc0fdbb"
                             },
                             "purchaseType": "Purchase"
                         }
                     ],
                     "systemSpecs": {
-                        "applicationVersion": "2.2.5",
+                        "applicationVersion": "1.0.0",
                         "platform": "ios",
                         "systemRequirements": [
                             {
-                                "minimum": "1GB",
+                                "minimum": "3.85 GB",
                                 "requirementType": "InstallSize",
                                 "title": "Installation size"
                             },
                             {
-                                "minimum": "932 MB",
+                                "minimum": "1.18 GB",
                                 "requirementType": "DownloadSize",
                                 "title": "Download size"
                             },
                             {
-                                "minimum": "13.6",
+                                "minimum": "14.0",
                                 "requirementType": "OS",
                                 "title": "OS version"
                             }
                         ]
                     },
-                    "title": "Northgard"
+                    "title": "Wytchwood"
                 },
-                "offerId": "e7658ce0423c47619506588174223a04",
-                "sandboxId": "228e0d2c9edd4c1189fc00ba49d8fb1a"
+                "offerId": "e503745d0b2e4391b4454a3d1b75f22e",
+                "sandboxId": "8bd7d123bc59474ebb2552793dc0fdbb"
             }
         ],
         "size": "large",
@@ -6119,6 +6113,106 @@
             "src": "/"
         },
         "offers": [
+            {
+                "content": {
+                    "ageRating": {
+                        "ageGate": {
+                            "gate": "no-gate"
+                        },
+                        "ageRating": {
+                            "ageControl": 3,
+                            "contentDescriptors": [],
+                            "interactiveElements": [],
+                            "ratingImage": "https://cdn1.epicgames.com/gameRating/gameRating/PEGI_3_192_192x192-490b93ddf59fb4ac1148d1eb9083626a",
+                            "ratingSystem": "PEGI",
+                            "rectangularRatingImage": "https://cdn1.epicgames.com/salesEvent/salesEvent/PEGI-3_435x530-c931ab5bb4eb190f6e8e542081c49dc4",
+                            "title": "PEGI 3"
+                        },
+                        "ratingType": "AgeRating"
+                    },
+                    "attention": {
+                        "inAppPurchases": "None"
+                    },
+                    "catalogItemId": "05431c5a8cf1425fa57d1f4a6b9dbc83",
+                    "categories": [
+                        "games",
+                        "games/edition",
+                        "games/edition/base"
+                    ],
+                    "mapping": {
+                        "slug": "botany-manor-ios-971c19"
+                    },
+                    "media": {
+                        "appIcon": {
+                            "altText": "-",
+                            "height": 512,
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/42d56a88c22d4eaa8977bf5528a2396b/botany-manor-icon-10rse.png",
+                            "imageType": "ProductIcon",
+                            "width": 512
+                        },
+                        "card16x9": {
+                            "altText": "Botany Manor Offer",
+                            "height": 1440,
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/42d56a88c22d4eaa8977bf5528a2396b/botany-manor-muo9u.jpg",
+                            "imageType": "OfferImageWide",
+                            "width": 2560
+                        },
+                        "card3x4": {
+                            "altText": "Download Botany Manor Offer",
+                            "height": 1600,
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/42d56a88c22d4eaa8977bf5528a2396b/botany-manor-1sjko.jpg",
+                            "imageType": "OfferImageTall",
+                            "width": 1200
+                        },
+                        "coverImage": {
+                            "altText": "-",
+                            "height": 1440,
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/42d56a88c22d4eaa8977bf5528a2396b/botany-manor-11lkx.png",
+                            "imageType": "coverImage",
+                            "width": 2560
+                        }
+                    },
+                    "purchase": [
+                        {
+                            "offerLifecycleState": "Release",
+                            "price": {
+                                "currencyCode": "EUR",
+                                "decimalPrice": 4.49
+                            },
+                            "priceDisplay": "€4.49",
+                            "purchasePayload": {
+                                "offerId": "c82823ab18da4d2cb4a710f82ddf750f",
+                                "sandboxId": "969bbfac9e7840a986c1d594ccd55c01"
+                            },
+                            "purchaseType": "Purchase"
+                        }
+                    ],
+                    "systemSpecs": {
+                        "applicationVersion": " 1.0.1",
+                        "platform": "ios",
+                        "systemRequirements": [
+                            {
+                                "minimum": "529",
+                                "requirementType": "InstallSize",
+                                "title": "Installation size"
+                            },
+                            {
+                                "minimum": "511",
+                                "requirementType": "DownloadSize",
+                                "title": "Download size"
+                            },
+                            {
+                                "minimum": "12.0",
+                                "requirementType": "OS",
+                                "title": "OS version"
+                            }
+                        ]
+                    },
+                    "title": "Botany Manor"
+                },
+                "offerId": "c82823ab18da4d2cb4a710f82ddf750f",
+                "sandboxId": "969bbfac9e7840a986c1d594ccd55c01"
+            },
             {
                 "content": {
                     "ageRating": {
