@@ -12,6 +12,108 @@
                             "gate": "no-gate"
                         },
                         "ageRating": {
+                            "ageControl": 12,
+                            "contentDescriptors": [
+                                "Moderate Violence"
+                            ],
+                            "interactiveElements": [],
+                            "ratingImage": "https://cdn1.epicgames.com/gameRating/gameRating/PEGI_12_192_192x192-afa4df43f131bc83eb380ccf22f8d904",
+                            "ratingSystem": "PEGI",
+                            "rectangularRatingImage": "https://cdn1.epicgames.com/salesEvent/salesEvent/PEGI-12_436x530-0cd1f06607086f3cc1bc2b8643f21b0a",
+                            "title": "PEGI 12"
+                        },
+                        "ratingType": "AgeRating"
+                    },
+                    "attention": {
+                        "inAppPurchases": "None"
+                    },
+                    "catalogItemId": "72c2f0ceaa2f48f4b2dc636b0c652596",
+                    "categories": [
+                        "games",
+                        "games/edition",
+                        "games/edition/base"
+                    ],
+                    "mapping": {
+                        "slug": "northgard-android-193af0"
+                    },
+                    "media": {
+                        "appIcon": {
+                            "altText": "-",
+                            "height": 512,
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/92d5cfe1c2e74b4096a2d6619fdfb0f6/northgard-icon-jvfu0.png",
+                            "imageType": "ProductIcon",
+                            "width": 512
+                        },
+                        "card16x9": {
+                            "altText": "Northgard Offer",
+                            "height": 1440,
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/92d5cfe1c2e74b4096a2d6619fdfb0f6/northgard-pi8mi.jpg",
+                            "imageType": "OfferImageWide",
+                            "width": 2560
+                        },
+                        "card3x4": {
+                            "altText": "Download Northgard Offer",
+                            "height": 1600,
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/92d5cfe1c2e74b4096a2d6619fdfb0f6/northgard-1xq6o.jpg",
+                            "imageType": "OfferImageTall",
+                            "width": 1200
+                        },
+                        "coverImage": {
+                            "altText": "-",
+                            "height": 1440,
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/92d5cfe1c2e74b4096a2d6619fdfb0f6/northgard-wg6va.jpg",
+                            "imageType": "coverImage",
+                            "width": 2560
+                        }
+                    },
+                    "purchase": [
+                        {
+                            "offerLifecycleState": "Release",
+                            "price": {
+                                "currencyCode": "EUR",
+                                "decimalPrice": 8.09
+                            },
+                            "priceDisplay": "€8.09",
+                            "purchasePayload": {
+                                "offerId": "d7a3f947597a4cd5b3fd47462e73c967",
+                                "sandboxId": "228e0d2c9edd4c1189fc00ba49d8fb1a"
+                            },
+                            "purchaseType": "Purchase"
+                        }
+                    ],
+                    "systemSpecs": {
+                        "applicationVersion": "2.2.8",
+                        "platform": "android",
+                        "systemRequirements": [
+                            {
+                                "minimum": "1 GB",
+                                "requirementType": "InstallSize",
+                                "title": "Installation size"
+                            },
+                            {
+                                "minimum": "892.22 MB",
+                                "requirementType": "DownloadSize",
+                                "title": "Download size"
+                            },
+                            {
+                                "minimum": "8.0.0",
+                                "requirementType": "OS",
+                                "title": "OS version"
+                            }
+                        ]
+                    },
+                    "title": "Northgard"
+                },
+                "offerId": "d7a3f947597a4cd5b3fd47462e73c967",
+                "sandboxId": "228e0d2c9edd4c1189fc00ba49d8fb1a"
+            },
+            {
+                "content": {
+                    "ageRating": {
+                        "ageGate": {
+                            "gate": "no-gate"
+                        },
+                        "ageRating": {
                             "ageControl": 3,
                             "contentDescriptors": [],
                             "interactiveElements": [],
@@ -912,7 +1014,19 @@
                 },
                 "offerId": "e427b24483d2461e8ea2af4deebea32d",
                 "sandboxId": "0558e58003aa447a8ace48c3a0d53b54"
-            },
+            }
+        ],
+        "size": "xLarge",
+        "title": "",
+        "topicId": "mobile-android-carousel",
+        "type": "featured"
+    },
+    {
+        "link": {
+            "linkText": "home page",
+            "src": "/"
+        },
+        "offers": [
             {
                 "content": {
                     "ageRating": {
@@ -1016,19 +1130,7 @@
                 },
                 "offerId": "c5450a64934e414e899becec36081db1",
                 "sandboxId": "d923c737f0d243ccab407605ea40d39e"
-            }
-        ],
-        "size": "xLarge",
-        "title": "",
-        "topicId": "mobile-android-carousel",
-        "type": "featured"
-    },
-    {
-        "link": {
-            "linkText": "home page",
-            "src": "/"
-        },
-        "offers": [
+            },
             {
                 "content": {
                     "ageRating": {
@@ -2145,107 +2247,6 @@
                 },
                 "offerId": "cc6a45ee63ab457283341104ecc57ff1",
                 "sandboxId": "234c754eae5e42d1b5379daee1c313f1"
-            },
-            {
-                "content": {
-                    "ageRating": {
-                        "ageGate": {
-                            "gate": "no-gate"
-                        },
-                        "ageRating": {
-                            "ageControl": 7,
-                            "contentDescriptors": [
-                                "Mild Violence"
-                            ],
-                            "interactiveElements": [],
-                            "ratingImage": "https://cdn1.epicgames.com/gameRating/gameRating/PEGI_7_192_192x192-30e2e712d0682dad01add90a6ccbed5b",
-                            "ratingSystem": "PEGI",
-                            "rectangularRatingImage": "https://cdn1.epicgames.com/salesEvent/salesEvent/PEGI-7_435x530-9439a136999d3dd762c7a61c3b8c7683",
-                            "title": "PEGI 7"
-                        },
-                        "ratingType": "AgeRating"
-                    },
-                    "attention": {
-                        "inAppPurchases": "MaybeIncludesInAppPurchases"
-                    },
-                    "catalogItemId": "72ec21165e4b4a8fb174fed9436411ba",
-                    "categories": [
-                        "games/edition/base",
-                        "games/edition",
-                        "games"
-                    ],
-                    "mapping": {
-                        "slug": "zombie-hill-racing-android-56ae62"
-                    },
-                    "media": {
-                        "appIcon": {
-                            "altText": "-",
-                            "height": 512,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/f49b3b7ad2e645ef960959a1ca21b0a2/zombie-hill-racing-icon-kdf5j.png",
-                            "imageType": "ProductIcon",
-                            "width": 512
-                        },
-                        "card16x9": {
-                            "altText": "Zombie Hill Racing Offer",
-                            "height": 1440,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/f49b3b7ad2e645ef960959a1ca21b0a2/zombie-hill-racing-1lb1m.png",
-                            "imageType": "OfferImageWide",
-                            "width": 2560
-                        },
-                        "card3x4": {
-                            "altText": "Download Zombie Hill Racing Offer",
-                            "height": 1600,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/f49b3b7ad2e645ef960959a1ca21b0a2/zombie-hill-racing-aevqn.png",
-                            "imageType": "OfferImageTall",
-                            "width": 1200
-                        },
-                        "coverImage": {
-                            "altText": "-",
-                            "height": 1440,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/f49b3b7ad2e645ef960959a1ca21b0a2/zombie-hill-racing-u9pyy.png",
-                            "imageType": "coverImage",
-                            "width": 2560
-                        }
-                    },
-                    "purchase": [
-                        {
-                            "offerLifecycleState": "Release",
-                            "price": {
-                                "currencyCode": "EUR",
-                                "decimalPrice": 0
-                            },
-                            "purchasePayload": {
-                                "offerId": "dda321a569bf4aa7adaf4c19d1a8242d",
-                                "sandboxId": "150f04ea97c94e57a71421c710862ce5"
-                            },
-                            "purchaseType": "Claim"
-                        }
-                    ],
-                    "systemSpecs": {
-                        "applicationVersion": "2.4.4",
-                        "platform": "android",
-                        "systemRequirements": [
-                            {
-                                "minimum": "393",
-                                "requirementType": "InstallSize",
-                                "title": "Installation size"
-                            },
-                            {
-                                "minimum": "220.27 MB",
-                                "requirementType": "DownloadSize",
-                                "title": "Download size"
-                            },
-                            {
-                                "minimum": "6.0",
-                                "requirementType": "OS",
-                                "title": "OS version"
-                            }
-                        ]
-                    },
-                    "title": "Zombie Hill Racing"
-                },
-                "offerId": "dda321a569bf4aa7adaf4c19d1a8242d",
-                "sandboxId": "150f04ea97c94e57a71421c710862ce5"
             }
         ],
         "size": "large",
@@ -5115,25 +5116,17 @@
                 "content": {
                     "ageRating": {
                         "ageGate": {
-                            "gate": "no-gate"
+                            "gate": "unrated-gate"
                         },
                         "ageRating": {
-                            "ageControl": 12,
-                            "contentDescriptors": [
-                                "Moderate Violence"
-                            ],
-                            "interactiveElements": [],
-                            "ratingImage": "https://cdn1.epicgames.com/gameRating/gameRating/PEGI_12_192_192x192-afa4df43f131bc83eb380ccf22f8d904",
-                            "ratingSystem": "PEGI",
-                            "rectangularRatingImage": "https://cdn1.epicgames.com/salesEvent/salesEvent/PEGI-12_436x530-0cd1f06607086f3cc1bc2b8643f21b0a",
-                            "title": "PEGI 12"
+                            "ratingSystem": "PEGI"
                         },
-                        "ratingType": "AgeRating"
+                        "ratingType": "UnratedRating"
                     },
                     "attention": {
                         "inAppPurchases": "None"
                     },
-                    "catalogItemId": "72c2f0ceaa2f48f4b2dc636b0c652596",
+                    "catalogItemId": "9d3691f4cdd74c789566751afd7932ac",
                     "categories": [
                         "freegames",
                         "games",
@@ -5141,34 +5134,34 @@
                         "games/edition/base"
                     ],
                     "mapping": {
-                        "slug": "northgard-android-193af0"
+                        "slug": "wytchwood-android-cad0ea"
                     },
                     "media": {
                         "appIcon": {
                             "altText": "-",
                             "height": 512,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/92d5cfe1c2e74b4096a2d6619fdfb0f6/northgard-icon-jvfu0.png",
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/fe0a31132d6e4404bd145ce2e2ed5ed7/wytchwood-icon-16fpx.png",
                             "imageType": "ProductIcon",
                             "width": 512
                         },
                         "card16x9": {
-                            "altText": "Northgard Offer",
+                            "altText": "Wytchwood Offer",
                             "height": 1440,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/92d5cfe1c2e74b4096a2d6619fdfb0f6/northgard-pi8mi.jpg",
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/fe0a31132d6e4404bd145ce2e2ed5ed7/wytchwood-1rppy.jpg",
                             "imageType": "OfferImageWide",
                             "width": 2560
                         },
                         "card3x4": {
-                            "altText": "Download Northgard Offer",
+                            "altText": "Download Wytchwood Offer",
                             "height": 1600,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/92d5cfe1c2e74b4096a2d6619fdfb0f6/northgard-1xq6o.jpg",
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/fe0a31132d6e4404bd145ce2e2ed5ed7/wytchwood-1fg83.jpg",
                             "imageType": "OfferImageTall",
                             "width": 1200
                         },
                         "coverImage": {
                             "altText": "-",
                             "height": 1440,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/92d5cfe1c2e74b4096a2d6619fdfb0f6/northgard-wg6va.jpg",
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/fe0a31132d6e4404bd145ce2e2ed5ed7/wytchwood-ku9q9.png",
                             "imageType": "coverImage",
                             "width": 2560
                         }
@@ -5177,8 +5170,8 @@
                         {
                             "discount": {
                                 "discountAmountDisplay": "-100%",
-                                "discountEndDate": "2026-06-04T15:00:00.000Z",
-                                "originalPriceDisplay": "€8.09"
+                                "discountEndDate": "2026-06-11T15:00:00.000Z",
+                                "originalPriceDisplay": "€4.49"
                             },
                             "offerLifecycleState": "Release",
                             "price": {
@@ -5186,8 +5179,8 @@
                                 "decimalPrice": 0
                             },
                             "purchasePayload": {
-                                "offerId": "d7a3f947597a4cd5b3fd47462e73c967",
-                                "sandboxId": "228e0d2c9edd4c1189fc00ba49d8fb1a"
+                                "offerId": "69657a7a252741bdbc72fbaebe5bb07b",
+                                "sandboxId": "8bd7d123bc59474ebb2552793dc0fdbb"
                             },
                             "purchaseType": "Claim"
                         },
@@ -5195,41 +5188,41 @@
                             "offerLifecycleState": "Release",
                             "price": {
                                 "currencyCode": "EUR",
-                                "decimalPrice": 8.09
+                                "decimalPrice": 4.49
                             },
-                            "priceDisplay": "€8.09",
+                            "priceDisplay": "€4.49",
                             "purchasePayload": {
-                                "offerId": "d7a3f947597a4cd5b3fd47462e73c967",
-                                "sandboxId": "228e0d2c9edd4c1189fc00ba49d8fb1a"
+                                "offerId": "69657a7a252741bdbc72fbaebe5bb07b",
+                                "sandboxId": "8bd7d123bc59474ebb2552793dc0fdbb"
                             },
                             "purchaseType": "Purchase"
                         }
                     ],
                     "systemSpecs": {
-                        "applicationVersion": "2.2.8",
+                        "applicationVersion": "1.0.0",
                         "platform": "android",
                         "systemRequirements": [
                             {
-                                "minimum": "1 GB",
+                                "minimum": "1.44 GB",
                                 "requirementType": "InstallSize",
                                 "title": "Installation size"
                             },
                             {
-                                "minimum": "892.22 MB",
+                                "minimum": "1.29 GB",
                                 "requirementType": "DownloadSize",
                                 "title": "Download size"
                             },
                             {
-                                "minimum": "8.0.0",
+                                "minimum": "11",
                                 "requirementType": "OS",
                                 "title": "OS version"
                             }
                         ]
                     },
-                    "title": "Northgard"
+                    "title": "Wytchwood"
                 },
-                "offerId": "d7a3f947597a4cd5b3fd47462e73c967",
-                "sandboxId": "228e0d2c9edd4c1189fc00ba49d8fb1a"
+                "offerId": "69657a7a252741bdbc72fbaebe5bb07b",
+                "sandboxId": "8bd7d123bc59474ebb2552793dc0fdbb"
             }
         ],
         "size": "large",
@@ -7112,6 +7105,107 @@
             "src": ""
         },
         "offers": [
+            {
+                "content": {
+                    "ageRating": {
+                        "ageGate": {
+                            "gate": "no-gate"
+                        },
+                        "ageRating": {
+                            "ageControl": 7,
+                            "contentDescriptors": [
+                                "Mild Violence"
+                            ],
+                            "interactiveElements": [],
+                            "ratingImage": "https://cdn1.epicgames.com/gameRating/gameRating/PEGI_7_192_192x192-30e2e712d0682dad01add90a6ccbed5b",
+                            "ratingSystem": "PEGI",
+                            "rectangularRatingImage": "https://cdn1.epicgames.com/salesEvent/salesEvent/PEGI-7_435x530-9439a136999d3dd762c7a61c3b8c7683",
+                            "title": "PEGI 7"
+                        },
+                        "ratingType": "AgeRating"
+                    },
+                    "attention": {
+                        "inAppPurchases": "MaybeIncludesInAppPurchases"
+                    },
+                    "catalogItemId": "72ec21165e4b4a8fb174fed9436411ba",
+                    "categories": [
+                        "games/edition/base",
+                        "games/edition",
+                        "games"
+                    ],
+                    "mapping": {
+                        "slug": "zombie-hill-racing-android-56ae62"
+                    },
+                    "media": {
+                        "appIcon": {
+                            "altText": "-",
+                            "height": 512,
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/f49b3b7ad2e645ef960959a1ca21b0a2/zombie-hill-racing-icon-kdf5j.png",
+                            "imageType": "ProductIcon",
+                            "width": 512
+                        },
+                        "card16x9": {
+                            "altText": "Zombie Hill Racing Offer",
+                            "height": 1440,
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/f49b3b7ad2e645ef960959a1ca21b0a2/zombie-hill-racing-1lb1m.png",
+                            "imageType": "OfferImageWide",
+                            "width": 2560
+                        },
+                        "card3x4": {
+                            "altText": "Download Zombie Hill Racing Offer",
+                            "height": 1600,
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/f49b3b7ad2e645ef960959a1ca21b0a2/zombie-hill-racing-aevqn.png",
+                            "imageType": "OfferImageTall",
+                            "width": 1200
+                        },
+                        "coverImage": {
+                            "altText": "-",
+                            "height": 1440,
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/f49b3b7ad2e645ef960959a1ca21b0a2/zombie-hill-racing-u9pyy.png",
+                            "imageType": "coverImage",
+                            "width": 2560
+                        }
+                    },
+                    "purchase": [
+                        {
+                            "offerLifecycleState": "Release",
+                            "price": {
+                                "currencyCode": "EUR",
+                                "decimalPrice": 0
+                            },
+                            "purchasePayload": {
+                                "offerId": "dda321a569bf4aa7adaf4c19d1a8242d",
+                                "sandboxId": "150f04ea97c94e57a71421c710862ce5"
+                            },
+                            "purchaseType": "Claim"
+                        }
+                    ],
+                    "systemSpecs": {
+                        "applicationVersion": "2.4.4",
+                        "platform": "android",
+                        "systemRequirements": [
+                            {
+                                "minimum": "393",
+                                "requirementType": "InstallSize",
+                                "title": "Installation size"
+                            },
+                            {
+                                "minimum": "220.27 MB",
+                                "requirementType": "DownloadSize",
+                                "title": "Download size"
+                            },
+                            {
+                                "minimum": "6.0",
+                                "requirementType": "OS",
+                                "title": "OS version"
+                            }
+                        ]
+                    },
+                    "title": "Zombie Hill Racing"
+                },
+                "offerId": "dda321a569bf4aa7adaf4c19d1a8242d",
+                "sandboxId": "150f04ea97c94e57a71421c710862ce5"
+            },
             {
                 "content": {
                     "ageRating": {
@@ -11685,19 +11779,6 @@
                     },
                     "purchase": [
                         {
-                            "offerLifecycleState": "Release",
-                            "price": {
-                                "currencyCode": "EUR",
-                                "decimalPrice": 4.99
-                            },
-                            "priceDisplay": "€4.99",
-                            "purchasePayload": {
-                                "offerId": "9a2c3acce04d43bfbcd38de94b412d37",
-                                "sandboxId": "1567fd089fd84f07a0237513d26add12"
-                            },
-                            "purchaseType": "Purchase"
-                        },
-                        {
                             "discount": {
                                 "discountAmountDisplay": "-60%",
                                 "discountEndDate": "2026-06-17T15:00:00.000Z",
@@ -12229,19 +12310,6 @@
                         }
                     },
                     "purchase": [
-                        {
-                            "offerLifecycleState": "Release",
-                            "price": {
-                                "currencyCode": "EUR",
-                                "decimalPrice": 2.99
-                            },
-                            "priceDisplay": "€2.99",
-                            "purchasePayload": {
-                                "offerId": "c0c571041fd94e158a5b4f9d96753f6d",
-                                "sandboxId": "de6432ac525d47c8a2e649e4a75a3078"
-                            },
-                            "purchaseType": "Purchase"
-                        },
                         {
                             "discount": {
                                 "discountAmountDisplay": "-67%",
@@ -14423,19 +14491,6 @@
                     },
                     "purchase": [
                         {
-                            "offerLifecycleState": "Release",
-                            "price": {
-                                "currencyCode": "EUR",
-                                "decimalPrice": 4.99
-                            },
-                            "priceDisplay": "€4.99",
-                            "purchasePayload": {
-                                "offerId": "4556ecf13e07411194e200aa7dff703e",
-                                "sandboxId": "cfc873292b2f4df1a94949ed72109f2b"
-                            },
-                            "purchaseType": "Purchase"
-                        },
-                        {
                             "discount": {
                                 "discountAmountDisplay": "-60%",
                                 "discountEndDate": "2026-06-17T15:00:00.000Z",
@@ -14963,6 +15018,37 @@
                         }
                     },
                     "purchase": [
+                        {
+                            "offerLifecycleState": "Release",
+                            "price": {
+                                "currencyCode": "EUR",
+                                "decimalPrice": 3.99
+                            },
+                            "priceDisplay": "€3.99",
+                            "purchasePayload": {
+                                "offerId": "d1c9d4af7b564b1eaf0e18543c3538d4",
+                                "sandboxId": "1b08b1c0ee0947908e85dc9808a16779"
+                            },
+                            "purchaseType": "Purchase"
+                        },
+                        {
+                            "discount": {
+                                "discountAmountDisplay": "-75%",
+                                "discountEndDate": "2026-06-17T15:00:00.000Z",
+                                "originalPriceDisplay": "€3.99"
+                            },
+                            "offerLifecycleState": "Release",
+                            "price": {
+                                "currencyCode": "EUR",
+                                "decimalPrice": 0.99
+                            },
+                            "priceDisplay": "€0.99",
+                            "purchasePayload": {
+                                "offerId": "d1c9d4af7b564b1eaf0e18543c3538d4",
+                                "sandboxId": "1b08b1c0ee0947908e85dc9808a16779"
+                            },
+                            "purchaseType": "Purchase"
+                        },
                         {
                             "offerLifecycleState": "Release",
                             "price": {
@@ -17558,19 +17644,6 @@
                     },
                     "purchase": [
                         {
-                            "offerLifecycleState": "Release",
-                            "price": {
-                                "currencyCode": "EUR",
-                                "decimalPrice": 9.99
-                            },
-                            "priceDisplay": "€9.99",
-                            "purchasePayload": {
-                                "offerId": "ddf289539e1d4298ac42e01cf48da088",
-                                "sandboxId": "402982723c79438bab7bfe346c34b5b6"
-                            },
-                            "purchaseType": "Purchase"
-                        },
-                        {
                             "discount": {
                                 "discountAmountDisplay": "-80%",
                                 "discountEndDate": "2026-06-17T15:00:00.000Z",
@@ -18098,19 +18171,6 @@
                         }
                     },
                     "purchase": [
-                        {
-                            "offerLifecycleState": "Release",
-                            "price": {
-                                "currencyCode": "EUR",
-                                "decimalPrice": 7.99
-                            },
-                            "priceDisplay": "€7.99",
-                            "purchasePayload": {
-                                "offerId": "ed5b79630abd4a3ba1ec55cbe1a7fa27",
-                                "sandboxId": "6e7faac262f04035aeb848e660b2d18c"
-                            },
-                            "purchaseType": "Purchase"
-                        },
                         {
                             "discount": {
                                 "discountAmountDisplay": "-88%",
