@@ -12,6 +12,99 @@
                             "gate": "no-gate"
                         },
                         "ageRating": {
+                            "ageControl": 0,
+                            "contentDescriptors": [],
+                            "interactiveElements": [
+                                "Users Interact",
+                                "In-App Purchases"
+                            ],
+                            "ratingImage": "https://cdn1.epicgames.com/gameRating/gameRating/PEGI_EXC_192_192x192-4b60638de38c759ed1cdb5c19a573256",
+                            "ratingSystem": "PEGI",
+                            "rectangularRatingImage": "https://cdn1.epicgames.com/salesEvent/salesEvent/PEGI-info_435x530-d763ff1e493324dfef7ffd688b61476a",
+                            "title": "PARENTAL GUIDANCE RECOMMENDED"
+                        },
+                        "ratingType": "AgeRating"
+                    },
+                    "attention": {
+                        "inAppPurchases": "IncludesInAppPurchases"
+                    },
+                    "catalogItemId": "4fe75bbc5a674f4f9b356b5c90567da5",
+                    "categories": [
+                        "games",
+                        "games/edition",
+                        "games/edition/base",
+                        "attention/in-app-purchases/supported",
+                        "applications"
+                    ],
+                    "mapping": {
+                        "slug": "fortnite-android"
+                    },
+                    "media": {
+                        "appIcon": {
+                            "altText": "-",
+                            "height": 512,
+                            "imageSrc": "https://cdn1.epicgames.com/offer/fn/FN_S41_Dylan_AppIcon_512x512_512x512-3dbf14cc5ec84bc59099c17aab3c6798",
+                            "imageType": "ProductIcon",
+                            "width": 512
+                        },
+                        "card16x9": {
+                            "height": 1440,
+                            "imageSrc": "https://cdn1.epicgames.com/offer/fn/FNBR_41-00_C7S3_EGS_Launcher_Blade_2560x1440_2560x1440-fb1b8452125e4b218bb05b74fa88c22c",
+                            "imageType": "OfferImageWide",
+                            "width": 2560
+                        },
+                        "card3x4": {
+                            "height": 1600,
+                            "imageSrc": "https://cdn1.epicgames.com/offer/fn/FNBR_41-00_C7S3_EGS_Launcher_Blade_1200x1600_1200x1600-69a92aeca42b466f8299cb181b37b600",
+                            "imageType": "OfferImageTall",
+                            "width": 1200
+                        },
+                        "coverImage": {
+                            "altText": "-",
+                            "height": 1440,
+                            "imageSrc": "https://cdn1.epicgames.com/offer/fn/FNBR_41-00_C7S3_EGS_Launcher_Blade_2560x1440_2560x1440-e50ce7684d504dfcbbd4ed24db3f2e21",
+                            "imageType": "coverImage",
+                            "width": 2560
+                        }
+                    },
+                    "purchase": [
+                        {
+                            "offerLifecycleState": "Release",
+                            "price": {
+                                "currencyCode": "EUR",
+                                "decimalPrice": 0
+                            },
+                            "purchasePayload": {
+                                "offerId": "027c646e4b0445e28f9d9abd0326ba36",
+                                "sandboxId": "fn"
+                            },
+                            "purchaseType": "Claim"
+                        }
+                    ],
+                    "systemSpecs": {
+                        "platform": "android",
+                        "systemRequirements": [
+                            {
+                                "minimum": "Android 10.0 or higher",
+                                "recommended": "",
+                                "requirementType": "OS",
+                                "title": "OS version"
+                            }
+                        ],
+                        "technicalDetails": "Fortnite requires an internet connection, Android 10.0 or higher, 64 bit, 4GB of RAM and GPU: Adreno 530 or higher, Mali-G71 MP20, Mali-G72 MP12 or higher."
+                    },
+                    "title": "Fortnite"
+                },
+                "offerId": "027c646e4b0445e28f9d9abd0326ba36",
+                "sandboxId": "fn"
+            },
+            {
+                "content": {
+                    "ageRating": {
+                        "ageGate": {
+                            "gate": "no-gate"
+                        },
+                        "ageRating": {
                             "ageControl": 12,
                             "contentDescriptors": [
                                 "Moderate Violence"
@@ -2267,99 +2360,6 @@
                             "gate": "no-gate"
                         },
                         "ageRating": {
-                            "ageControl": 0,
-                            "contentDescriptors": [],
-                            "interactiveElements": [
-                                "Users Interact",
-                                "In-App Purchases"
-                            ],
-                            "ratingImage": "https://cdn1.epicgames.com/gameRating/gameRating/PEGI_EXC_192_192x192-4b60638de38c759ed1cdb5c19a573256",
-                            "ratingSystem": "PEGI",
-                            "rectangularRatingImage": "https://cdn1.epicgames.com/salesEvent/salesEvent/PEGI-info_435x530-d763ff1e493324dfef7ffd688b61476a",
-                            "title": "PARENTAL GUIDANCE RECOMMENDED"
-                        },
-                        "ratingType": "AgeRating"
-                    },
-                    "attention": {
-                        "inAppPurchases": "IncludesInAppPurchases"
-                    },
-                    "catalogItemId": "4fe75bbc5a674f4f9b356b5c90567da5",
-                    "categories": [
-                        "games",
-                        "games/edition",
-                        "games/edition/base",
-                        "attention/in-app-purchases/supported",
-                        "applications"
-                    ],
-                    "mapping": {
-                        "slug": "fortnite-android"
-                    },
-                    "media": {
-                        "appIcon": {
-                            "altText": "-",
-                            "height": 512,
-                            "imageSrc": "https://cdn1.epicgames.com/offer/fn/S40_40-40_AppIcon_512x512_512x512-f60172753e3e47e7b6e2ebfbcbcaeeb0",
-                            "imageType": "ProductIcon",
-                            "width": 512
-                        },
-                        "card16x9": {
-                            "height": 1440,
-                            "imageSrc": "https://cdn1.epicgames.com/offer/fn/FNBR_40-41_C7S2_EndEvent_PowerHour-DualHelmets_EGS_Launcher_Blade_2560x1440_2560x1440-a512c6ea5a2047b5984a38633cb70d3e",
-                            "imageType": "OfferImageWide",
-                            "width": 2560
-                        },
-                        "card3x4": {
-                            "height": 1600,
-                            "imageSrc": "https://cdn1.epicgames.com/offer/fn/FNBR_40-41_C7S2_EndEvent_PowerHour-DualHelmets_EGS_Launcher_Blade_1200x1600_1200x1600-7978c97e15e144249a15bb069bff1b9c",
-                            "imageType": "OfferImageTall",
-                            "width": 1200
-                        },
-                        "coverImage": {
-                            "altText": "-",
-                            "height": 1440,
-                            "imageSrc": "https://cdn1.epicgames.com/offer/fn/FNBR_40-41_C7S2_EndEvent_PowerHour-DualHelmets_EGS_Launcher_Blade_2560x1440_2560x1440-885412efe2fb451e9f224d1546812687",
-                            "imageType": "coverImage",
-                            "width": 2560
-                        }
-                    },
-                    "purchase": [
-                        {
-                            "offerLifecycleState": "Release",
-                            "price": {
-                                "currencyCode": "EUR",
-                                "decimalPrice": 0
-                            },
-                            "purchasePayload": {
-                                "offerId": "027c646e4b0445e28f9d9abd0326ba36",
-                                "sandboxId": "fn"
-                            },
-                            "purchaseType": "Claim"
-                        }
-                    ],
-                    "systemSpecs": {
-                        "platform": "android",
-                        "systemRequirements": [
-                            {
-                                "minimum": "Android 10.0 or higher",
-                                "recommended": "",
-                                "requirementType": "OS",
-                                "title": "OS version"
-                            }
-                        ],
-                        "technicalDetails": "Fortnite requires an internet connection, Android 10.0 or higher, 64 bit, 4GB of RAM and GPU: Adreno 530 or higher, Mali-G71 MP20, Mali-G72 MP12 or higher."
-                    },
-                    "title": "Fortnite"
-                },
-                "offerId": "027c646e4b0445e28f9d9abd0326ba36",
-                "sandboxId": "fn"
-            },
-            {
-                "content": {
-                    "ageRating": {
-                        "ageGate": {
-                            "gate": "no-gate"
-                        },
-                        "ageRating": {
                             "ageControl": 3,
                             "contentDescriptors": [],
                             "interactiveElements": [
@@ -2536,6 +2536,99 @@
                 },
                 "offerId": "8313f4090aa5460b9b71eba09bfe310e",
                 "sandboxId": "50118b7f954e450f8823df1614b24e80"
+            },
+            {
+                "content": {
+                    "ageRating": {
+                        "ageGate": {
+                            "gate": "no-gate"
+                        },
+                        "ageRating": {
+                            "ageControl": 0,
+                            "contentDescriptors": [],
+                            "interactiveElements": [
+                                "Users Interact",
+                                "In-App Purchases"
+                            ],
+                            "ratingImage": "https://cdn1.epicgames.com/gameRating/gameRating/PEGI_EXC_192_192x192-4b60638de38c759ed1cdb5c19a573256",
+                            "ratingSystem": "PEGI",
+                            "rectangularRatingImage": "https://cdn1.epicgames.com/salesEvent/salesEvent/PEGI-info_435x530-d763ff1e493324dfef7ffd688b61476a",
+                            "title": "PARENTAL GUIDANCE RECOMMENDED"
+                        },
+                        "ratingType": "AgeRating"
+                    },
+                    "attention": {
+                        "inAppPurchases": "IncludesInAppPurchases"
+                    },
+                    "catalogItemId": "4fe75bbc5a674f4f9b356b5c90567da5",
+                    "categories": [
+                        "games",
+                        "games/edition",
+                        "games/edition/base",
+                        "attention/in-app-purchases/supported",
+                        "applications"
+                    ],
+                    "mapping": {
+                        "slug": "fortnite-android"
+                    },
+                    "media": {
+                        "appIcon": {
+                            "altText": "-",
+                            "height": 512,
+                            "imageSrc": "https://cdn1.epicgames.com/offer/fn/FN_S41_Dylan_AppIcon_512x512_512x512-3dbf14cc5ec84bc59099c17aab3c6798",
+                            "imageType": "ProductIcon",
+                            "width": 512
+                        },
+                        "card16x9": {
+                            "height": 1440,
+                            "imageSrc": "https://cdn1.epicgames.com/offer/fn/FNBR_41-00_C7S3_EGS_Launcher_Blade_2560x1440_2560x1440-fb1b8452125e4b218bb05b74fa88c22c",
+                            "imageType": "OfferImageWide",
+                            "width": 2560
+                        },
+                        "card3x4": {
+                            "height": 1600,
+                            "imageSrc": "https://cdn1.epicgames.com/offer/fn/FNBR_41-00_C7S3_EGS_Launcher_Blade_1200x1600_1200x1600-69a92aeca42b466f8299cb181b37b600",
+                            "imageType": "OfferImageTall",
+                            "width": 1200
+                        },
+                        "coverImage": {
+                            "altText": "-",
+                            "height": 1440,
+                            "imageSrc": "https://cdn1.epicgames.com/offer/fn/FNBR_41-00_C7S3_EGS_Launcher_Blade_2560x1440_2560x1440-e50ce7684d504dfcbbd4ed24db3f2e21",
+                            "imageType": "coverImage",
+                            "width": 2560
+                        }
+                    },
+                    "purchase": [
+                        {
+                            "offerLifecycleState": "Release",
+                            "price": {
+                                "currencyCode": "EUR",
+                                "decimalPrice": 0
+                            },
+                            "purchasePayload": {
+                                "offerId": "027c646e4b0445e28f9d9abd0326ba36",
+                                "sandboxId": "fn"
+                            },
+                            "purchaseType": "Claim"
+                        }
+                    ],
+                    "systemSpecs": {
+                        "platform": "android",
+                        "systemRequirements": [
+                            {
+                                "minimum": "Android 10.0 or higher",
+                                "recommended": "",
+                                "requirementType": "OS",
+                                "title": "OS version"
+                            }
+                        ],
+                        "technicalDetails": "Fortnite requires an internet connection, Android 10.0 or higher, 64 bit, 4GB of RAM and GPU: Adreno 530 or higher, Mali-G71 MP20, Mali-G72 MP12 or higher."
+                    },
+                    "title": "Fortnite"
+                },
+                "offerId": "027c646e4b0445e28f9d9abd0326ba36",
+                "sandboxId": "fn"
             }
         ],
         "size": "medium",
@@ -2585,7 +2678,7 @@
                         "appIcon": {
                             "altText": "-",
                             "height": 512,
-                            "imageSrc": "https://cdn1.epicgames.com/offer/fn/S40_40-40_AppIcon_512x512_512x512-f60172753e3e47e7b6e2ebfbcbcaeeb0",
+                            "imageSrc": "https://cdn1.epicgames.com/offer/fn/FN_S41_Dylan_AppIcon_512x512_512x512-3dbf14cc5ec84bc59099c17aab3c6798",
                             "imageType": "ProductIcon",
                             "width": 512
                         },
@@ -2675,7 +2768,7 @@
                         "appIcon": {
                             "altText": "-",
                             "height": 512,
-                            "imageSrc": "https://cdn1.epicgames.com/offer/fn/S40_40-40_AppIcon_512x512_512x512-f60172753e3e47e7b6e2ebfbcbcaeeb0",
+                            "imageSrc": "https://cdn1.epicgames.com/offer/fn/FN_S41_Dylan_AppIcon_512x512_512x512-3dbf14cc5ec84bc59099c17aab3c6798",
                             "imageType": "ProductIcon",
                             "width": 512
                         },
@@ -2765,7 +2858,7 @@
                         "appIcon": {
                             "altText": "-",
                             "height": 512,
-                            "imageSrc": "https://cdn1.epicgames.com/offer/fn/S40_40-40_AppIcon_512x512_512x512-f60172753e3e47e7b6e2ebfbcbcaeeb0",
+                            "imageSrc": "https://cdn1.epicgames.com/offer/fn/FN_S41_Dylan_AppIcon_512x512_512x512-3dbf14cc5ec84bc59099c17aab3c6798",
                             "imageType": "ProductIcon",
                             "width": 512
                         },
@@ -2854,7 +2947,7 @@
                         "appIcon": {
                             "altText": "-",
                             "height": 512,
-                            "imageSrc": "https://cdn1.epicgames.com/offer/fn/S40_40-40_AppIcon_512x512_512x512-f60172753e3e47e7b6e2ebfbcbcaeeb0",
+                            "imageSrc": "https://cdn1.epicgames.com/offer/fn/FN_S41_Dylan_AppIcon_512x512_512x512-3dbf14cc5ec84bc59099c17aab3c6798",
                             "imageType": "ProductIcon",
                             "width": 512
                         },
@@ -2943,7 +3036,7 @@
                         "appIcon": {
                             "altText": "-",
                             "height": 512,
-                            "imageSrc": "https://cdn1.epicgames.com/offer/fn/S40_40-40_AppIcon_512x512_512x512-f60172753e3e47e7b6e2ebfbcbcaeeb0",
+                            "imageSrc": "https://cdn1.epicgames.com/offer/fn/FN_S41_Dylan_AppIcon_512x512_512x512-3dbf14cc5ec84bc59099c17aab3c6798",
                             "imageType": "ProductIcon",
                             "width": 512
                         },
@@ -3031,7 +3124,7 @@
                         "appIcon": {
                             "altText": "-",
                             "height": 512,
-                            "imageSrc": "https://cdn1.epicgames.com/offer/fn/S40_40-40_AppIcon_512x512_512x512-f60172753e3e47e7b6e2ebfbcbcaeeb0",
+                            "imageSrc": "https://cdn1.epicgames.com/offer/fn/FN_S41_Dylan_AppIcon_512x512_512x512-3dbf14cc5ec84bc59099c17aab3c6798",
                             "imageType": "ProductIcon",
                             "width": 512
                         },
