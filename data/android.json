@@ -2316,7 +2316,7 @@
                         }
                     ],
                     "systemSpecs": {
-                        "applicationVersion": "1.5.83EPG",
+                        "applicationVersion": "1.5.85EPG",
                         "platform": "android",
                         "systemRequirements": [
                             {
@@ -15556,6 +15556,37 @@
                                 "sandboxId": "0b8d22f6921241e5887b132935d571e4"
                             },
                             "purchaseType": "Purchase"
+                        },
+                        {
+                            "discount": {
+                                "discountAmountDisplay": "-60%",
+                                "discountEndDate": "2026-06-16T15:00:00.000Z",
+                                "originalPriceDisplay": "€4.49"
+                            },
+                            "offerLifecycleState": "Release",
+                            "price": {
+                                "currencyCode": "EUR",
+                                "decimalPrice": 1.79
+                            },
+                            "priceDisplay": "€1.79",
+                            "purchasePayload": {
+                                "offerId": "2017232f36944987848e04aea396ce26",
+                                "sandboxId": "0b8d22f6921241e5887b132935d571e4"
+                            },
+                            "purchaseType": "Purchase"
+                        },
+                        {
+                            "offerLifecycleState": "Release",
+                            "price": {
+                                "currencyCode": "EUR",
+                                "decimalPrice": 4.49
+                            },
+                            "priceDisplay": "€4.49",
+                            "purchasePayload": {
+                                "offerId": "2017232f36944987848e04aea396ce26",
+                                "sandboxId": "0b8d22f6921241e5887b132935d571e4"
+                            },
+                            "purchaseType": "Purchase"
                         }
                     ],
                     "systemSpecs": {
@@ -17537,7 +17568,7 @@
                         }
                     ],
                     "systemSpecs": {
-                        "applicationVersion": "2.35.0",
+                        "applicationVersion": "2.35.1",
                         "platform": "android",
                         "systemRequirements": [
                             {
@@ -17546,7 +17577,7 @@
                                 "title": "Installation size"
                             },
                             {
-                                "minimum": "229.38 MB",
+                                "minimum": "229.11 MB",
                                 "requirementType": "DownloadSize",
                                 "title": "Download size"
                             },
