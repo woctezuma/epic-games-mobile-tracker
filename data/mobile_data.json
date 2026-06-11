@@ -2713,6 +2713,62 @@
         "store_url": "<https://store.epicgames.com/product/the-wreck-ios-3c0525>",
         "title": "The Wreck"
     },
+    "1-e04dd85a41d740ac972df346afd913a6-4cfa595c665d4d1aadadc5ff35a5c11a": {
+        "age_control": 7,
+        "catalog_item_id": "a876e13dc6de40e0a146350b2b99e160",
+        "checkout_url": "<https://store.epicgames.com/purchase?offers=1-e04dd85a41d740ac972df346afd913a6-4cfa595c665d4d1aadadc5ff35a5c11a>",
+        "content_descriptors": [
+            "Mild Violence"
+        ],
+        "current_price": "0",
+        "discount": "-100%",
+        "download_size": "487",
+        "end_date": "2026-06-18T15:00:00.000Z",
+        "in_app_purchases": false,
+        "install_size": "528",
+        "interactive_elements": [],
+        "media": {
+            "OfferImageTall": "https://cdn1.epicgames.com/spt-assets/d048815ffed0480c8ac257b8b7807e2b/guild-of-dungeoneering-ultimate-3ufo1.jpg",
+            "OfferImageWide": "https://cdn1.epicgames.com/spt-assets/d048815ffed0480c8ac257b8b7807e2b/guild-of-dungeoneering-ultimate-1mzc3.jpg",
+            "ProductIcon": "https://cdn1.epicgames.com/spt-assets/d048815ffed0480c8ac257b8b7807e2b/guild-of-dungeoneering-ultimate-icon-1dxku.png",
+            "coverImage": "https://cdn1.epicgames.com/spt-assets/d048815ffed0480c8ac257b8b7807e2b/guild-of-dungeoneering-ultimate-ummdj.png"
+        },
+        "offer_id": "4cfa595c665d4d1aadadc5ff35a5c11a",
+        "original_price": "7.19",
+        "platform": "ios",
+        "sandbox_id": "e04dd85a41d740ac972df346afd913a6",
+        "slug": "guild-of-dungeoneering-ultimate-edition-ios-8ce610",
+        "store_url": "<https://store.epicgames.com/product/guild-of-dungeoneering-ultimate-edition-ios-8ce610>",
+        "title": "Guild of Dungeoneering Ultimate Edition"
+    },
+    "1-e04dd85a41d740ac972df346afd913a6-7db8b0275a974889923a85ce9e911936": {
+        "age_control": 7,
+        "catalog_item_id": "26642a412b3b487c9e4e80b231efd9d1",
+        "checkout_url": "<https://store.epicgames.com/purchase?offers=1-e04dd85a41d740ac972df346afd913a6-7db8b0275a974889923a85ce9e911936>",
+        "content_descriptors": [
+            "Mild Violence"
+        ],
+        "current_price": "0",
+        "discount": "-100%",
+        "download_size": "499.73 MB",
+        "end_date": "2026-06-18T15:00:00.000Z",
+        "in_app_purchases": false,
+        "install_size": "606",
+        "interactive_elements": [],
+        "media": {
+            "OfferImageTall": "https://cdn1.epicgames.com/spt-assets/d048815ffed0480c8ac257b8b7807e2b/guild-of-dungeoneering-ultimate-96bxs.jpg",
+            "OfferImageWide": "https://cdn1.epicgames.com/spt-assets/d048815ffed0480c8ac257b8b7807e2b/guild-of-dungeoneering-ultimate-j4gs6.jpg",
+            "ProductIcon": "https://cdn1.epicgames.com/spt-assets/d048815ffed0480c8ac257b8b7807e2b/guild-of-dungeoneering-ultimate-icon-1dxku.png",
+            "coverImage": "https://cdn1.epicgames.com/spt-assets/d048815ffed0480c8ac257b8b7807e2b/guild-of-dungeoneering-ultimate-ummdj.png"
+        },
+        "offer_id": "7db8b0275a974889923a85ce9e911936",
+        "original_price": "7.19",
+        "platform": "android",
+        "sandbox_id": "e04dd85a41d740ac972df346afd913a6",
+        "slug": "guild-of-dungeoneering-ultimate-edition-android-842836",
+        "store_url": "<https://store.epicgames.com/product/guild-of-dungeoneering-ultimate-edition-android-842836>",
+        "title": "Guild of Dungeoneering Ultimate Edition"
+    },
     "1-e236e73a294b462d85715f5ba23a6346-7a1ee1815a8e40e89e893e824dc5668a": {
         "age_control": 3,
         "catalog_item_id": "2c3983846d6742a99c984610781eba9d",
