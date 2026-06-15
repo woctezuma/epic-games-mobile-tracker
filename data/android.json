@@ -3610,6 +3610,37 @@
                                 "sandboxId": "c9c21bdfd1684335a36174d859adee28"
                             },
                             "purchaseType": "Purchase"
+                        },
+                        {
+                            "discount": {
+                                "discountAmountDisplay": "-50%",
+                                "discountEndDate": "2026-06-23T15:00:00.000Z",
+                                "originalPriceDisplay": "€2.69"
+                            },
+                            "offerLifecycleState": "Release",
+                            "price": {
+                                "currencyCode": "EUR",
+                                "decimalPrice": 1.34
+                            },
+                            "priceDisplay": "€1.34",
+                            "purchasePayload": {
+                                "offerId": "e8c608fb68ac4ccb810882f4bae67c9e",
+                                "sandboxId": "c9c21bdfd1684335a36174d859adee28"
+                            },
+                            "purchaseType": "Purchase"
+                        },
+                        {
+                            "offerLifecycleState": "Release",
+                            "price": {
+                                "currencyCode": "EUR",
+                                "decimalPrice": 2.69
+                            },
+                            "priceDisplay": "€2.69",
+                            "purchasePayload": {
+                                "offerId": "e8c608fb68ac4ccb810882f4bae67c9e",
+                                "sandboxId": "c9c21bdfd1684335a36174d859adee28"
+                            },
+                            "purchaseType": "Purchase"
                         }
                     ],
                     "systemSpecs": {
@@ -6620,7 +6651,7 @@
                         }
                     ],
                     "systemSpecs": {
-                        "applicationVersion": "1.18",
+                        "applicationVersion": "1.19",
                         "platform": "android",
                         "systemRequirements": [
                             {
@@ -6629,7 +6660,7 @@
                                 "title": "Installation size"
                             },
                             {
-                                "minimum": "64.19 MB",
+                                "minimum": "64.17 MB",
                                 "requirementType": "DownloadSize",
                                 "title": "Download size"
                             },
@@ -12334,7 +12365,7 @@
                         }
                     ],
                     "systemSpecs": {
-                        "applicationVersion": "2.148",
+                        "applicationVersion": "2.148.1",
                         "platform": "android",
                         "systemRequirements": [
                             {
@@ -12343,7 +12374,7 @@
                                 "title": "Installation size"
                             },
                             {
-                                "minimum": "347.36 MB",
+                                "minimum": "345.04 MB",
                                 "requirementType": "DownloadSize",
                                 "title": "Download size"
                             },
