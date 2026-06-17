@@ -3404,7 +3404,7 @@
                         }
                     ],
                     "systemSpecs": {
-                        "applicationVersion": "1.0",
+                        "applicationVersion": "1.0.1",
                         "platform": "android",
                         "systemRequirements": [
                             {
@@ -3413,7 +3413,7 @@
                                 "title": "Installation size"
                             },
                             {
-                                "minimum": "499.73 MB",
+                                "minimum": "499.75 MB",
                                 "requirementType": "DownloadSize",
                                 "title": "Download size"
                             },
@@ -4270,7 +4270,7 @@
                         }
                     ],
                     "systemSpecs": {
-                        "applicationVersion": "11.3.1.13",
+                        "applicationVersion": "11.4.1.1",
                         "platform": "android",
                         "systemRequirements": [
                             {
@@ -4279,7 +4279,7 @@
                                 "title": "Installation size"
                             },
                             {
-                                "minimum": "573.17 MB",
+                                "minimum": "579.81 MB",
                                 "requirementType": "DownloadSize",
                                 "title": "Download size"
                             },
@@ -9321,6 +9321,37 @@
                                 "sandboxId": "d62ece62bdc54609bdf99af431044588"
                             },
                             "purchaseType": "Purchase"
+                        },
+                        {
+                            "discount": {
+                                "discountAmountDisplay": "-67%",
+                                "discountEndDate": "2026-07-01T14:59:00.000Z",
+                                "originalPriceDisplay": "€2.99"
+                            },
+                            "offerLifecycleState": "Release",
+                            "price": {
+                                "currencyCode": "EUR",
+                                "decimalPrice": 0.98
+                            },
+                            "priceDisplay": "€0.98",
+                            "purchasePayload": {
+                                "offerId": "a58fa1be6d98402898549af5e705918c",
+                                "sandboxId": "d62ece62bdc54609bdf99af431044588"
+                            },
+                            "purchaseType": "Purchase"
+                        },
+                        {
+                            "offerLifecycleState": "Release",
+                            "price": {
+                                "currencyCode": "EUR",
+                                "decimalPrice": 2.99
+                            },
+                            "priceDisplay": "€2.99",
+                            "purchasePayload": {
+                                "offerId": "a58fa1be6d98402898549af5e705918c",
+                                "sandboxId": "d62ece62bdc54609bdf99af431044588"
+                            },
+                            "purchaseType": "Purchase"
                         }
                     ],
                     "systemSpecs": {
@@ -10038,24 +10069,6 @@
                     },
                     "purchase": [
                         {
-                            "discount": {
-                                "discountAmountDisplay": "-60%",
-                                "discountEndDate": "2026-06-17T15:00:00.000Z",
-                                "originalPriceDisplay": "€4.99"
-                            },
-                            "offerLifecycleState": "Release",
-                            "price": {
-                                "currencyCode": "EUR",
-                                "decimalPrice": 1.99
-                            },
-                            "priceDisplay": "€1.99",
-                            "purchasePayload": {
-                                "offerId": "9a2c3acce04d43bfbcd38de94b412d37",
-                                "sandboxId": "1567fd089fd84f07a0237513d26add12"
-                            },
-                            "purchaseType": "Purchase"
-                        },
-                        {
                             "offerLifecycleState": "Release",
                             "price": {
                                 "currencyCode": "EUR",
@@ -10477,6 +10490,37 @@
                                 "sandboxId": "dcf4c011daf247bcbc380e28f8ef4fdf"
                             },
                             "purchaseType": "Purchase"
+                        },
+                        {
+                            "discount": {
+                                "discountAmountDisplay": "-50%",
+                                "discountEndDate": "2026-07-01T14:59:00.000Z",
+                                "originalPriceDisplay": "€3.99"
+                            },
+                            "offerLifecycleState": "Release",
+                            "price": {
+                                "currencyCode": "EUR",
+                                "decimalPrice": 1.99
+                            },
+                            "priceDisplay": "€1.99",
+                            "purchasePayload": {
+                                "offerId": "e1f9169649d44be99109e47200f80945",
+                                "sandboxId": "dcf4c011daf247bcbc380e28f8ef4fdf"
+                            },
+                            "purchaseType": "Purchase"
+                        },
+                        {
+                            "offerLifecycleState": "Release",
+                            "price": {
+                                "currencyCode": "EUR",
+                                "decimalPrice": 3.99
+                            },
+                            "priceDisplay": "€3.99",
+                            "purchasePayload": {
+                                "offerId": "e1f9169649d44be99109e47200f80945",
+                                "sandboxId": "dcf4c011daf247bcbc380e28f8ef4fdf"
+                            },
+                            "purchaseType": "Purchase"
                         }
                     ],
                     "systemSpecs": {
@@ -10569,24 +10613,6 @@
                         }
                     },
                     "purchase": [
-                        {
-                            "discount": {
-                                "discountAmountDisplay": "-67%",
-                                "discountEndDate": "2026-06-17T15:00:00.000Z",
-                                "originalPriceDisplay": "€2.99"
-                            },
-                            "offerLifecycleState": "Release",
-                            "price": {
-                                "currencyCode": "EUR",
-                                "decimalPrice": 0.98
-                            },
-                            "priceDisplay": "€0.98",
-                            "purchasePayload": {
-                                "offerId": "c0c571041fd94e158a5b4f9d96753f6d",
-                                "sandboxId": "de6432ac525d47c8a2e649e4a75a3078"
-                            },
-                            "purchaseType": "Purchase"
-                        },
                         {
                             "offerLifecycleState": "Release",
                             "price": {
@@ -11318,6 +11344,37 @@
                         }
                     },
                     "purchase": [
+                        {
+                            "offerLifecycleState": "Release",
+                            "price": {
+                                "currencyCode": "EUR",
+                                "decimalPrice": 3.99
+                            },
+                            "priceDisplay": "€3.99",
+                            "purchasePayload": {
+                                "offerId": "88e067bae4ee48afb42e4d0351db48ab",
+                                "sandboxId": "bf0ff87e1f254dfcba5268f33036130d"
+                            },
+                            "purchaseType": "Purchase"
+                        },
+                        {
+                            "discount": {
+                                "discountAmountDisplay": "-50%",
+                                "discountEndDate": "2026-07-01T14:59:00.000Z",
+                                "originalPriceDisplay": "€3.99"
+                            },
+                            "offerLifecycleState": "Release",
+                            "price": {
+                                "currencyCode": "EUR",
+                                "decimalPrice": 1.99
+                            },
+                            "priceDisplay": "€1.99",
+                            "purchasePayload": {
+                                "offerId": "88e067bae4ee48afb42e4d0351db48ab",
+                                "sandboxId": "bf0ff87e1f254dfcba5268f33036130d"
+                            },
+                            "purchaseType": "Purchase"
+                        },
                         {
                             "offerLifecycleState": "Release",
                             "price": {
@@ -12750,24 +12807,6 @@
                     },
                     "purchase": [
                         {
-                            "discount": {
-                                "discountAmountDisplay": "-60%",
-                                "discountEndDate": "2026-06-17T15:00:00.000Z",
-                                "originalPriceDisplay": "€4.99"
-                            },
-                            "offerLifecycleState": "Release",
-                            "price": {
-                                "currencyCode": "EUR",
-                                "decimalPrice": 1.99
-                            },
-                            "priceDisplay": "€1.99",
-                            "purchasePayload": {
-                                "offerId": "4556ecf13e07411194e200aa7dff703e",
-                                "sandboxId": "cfc873292b2f4df1a94949ed72109f2b"
-                            },
-                            "purchaseType": "Purchase"
-                        },
-                        {
                             "offerLifecycleState": "Release",
                             "price": {
                                 "currencyCode": "EUR",
@@ -13295,24 +13334,6 @@
                         }
                     },
                     "purchase": [
-                        {
-                            "discount": {
-                                "discountAmountDisplay": "-75%",
-                                "discountEndDate": "2026-06-17T15:00:00.000Z",
-                                "originalPriceDisplay": "€3.99"
-                            },
-                            "offerLifecycleState": "Release",
-                            "price": {
-                                "currencyCode": "EUR",
-                                "decimalPrice": 0.99
-                            },
-                            "priceDisplay": "€0.99",
-                            "purchasePayload": {
-                                "offerId": "d1c9d4af7b564b1eaf0e18543c3538d4",
-                                "sandboxId": "1b08b1c0ee0947908e85dc9808a16779"
-                            },
-                            "purchaseType": "Purchase"
-                        },
                         {
                             "offerLifecycleState": "Release",
                             "price": {
@@ -15890,24 +15911,6 @@
                     },
                     "purchase": [
                         {
-                            "discount": {
-                                "discountAmountDisplay": "-80%",
-                                "discountEndDate": "2026-06-17T15:00:00.000Z",
-                                "originalPriceDisplay": "€9.99"
-                            },
-                            "offerLifecycleState": "Release",
-                            "price": {
-                                "currencyCode": "EUR",
-                                "decimalPrice": 1.99
-                            },
-                            "priceDisplay": "€1.99",
-                            "purchasePayload": {
-                                "offerId": "ddf289539e1d4298ac42e01cf48da088",
-                                "sandboxId": "402982723c79438bab7bfe346c34b5b6"
-                            },
-                            "purchaseType": "Purchase"
-                        },
-                        {
                             "offerLifecycleState": "Release",
                             "price": {
                                 "currencyCode": "EUR",
@@ -16436,24 +16439,6 @@
                     },
                     "purchase": [
                         {
-                            "discount": {
-                                "discountAmountDisplay": "-88%",
-                                "discountEndDate": "2026-06-17T15:00:00.000Z",
-                                "originalPriceDisplay": "€7.99"
-                            },
-                            "offerLifecycleState": "Release",
-                            "price": {
-                                "currencyCode": "EUR",
-                                "decimalPrice": 0.95
-                            },
-                            "priceDisplay": "€0.95",
-                            "purchasePayload": {
-                                "offerId": "ed5b79630abd4a3ba1ec55cbe1a7fa27",
-                                "sandboxId": "6e7faac262f04035aeb848e660b2d18c"
-                            },
-                            "purchaseType": "Purchase"
-                        },
-                        {
                             "offerLifecycleState": "Release",
                             "price": {
                                 "currencyCode": "EUR",
@@ -16556,6 +16541,37 @@
                         }
                     },
                     "purchase": [
+                        {
+                            "offerLifecycleState": "Release",
+                            "price": {
+                                "currencyCode": "EUR",
+                                "decimalPrice": 7.99
+                            },
+                            "priceDisplay": "€7.99",
+                            "purchasePayload": {
+                                "offerId": "d938a57551914db286757ebdf89b95f9",
+                                "sandboxId": "4b36452d205344bcb0f60f6a466ecd58"
+                            },
+                            "purchaseType": "Purchase"
+                        },
+                        {
+                            "discount": {
+                                "discountAmountDisplay": "-75%",
+                                "discountEndDate": "2026-07-01T14:59:00.000Z",
+                                "originalPriceDisplay": "€7.99"
+                            },
+                            "offerLifecycleState": "Release",
+                            "price": {
+                                "currencyCode": "EUR",
+                                "decimalPrice": 1.99
+                            },
+                            "priceDisplay": "€1.99",
+                            "purchasePayload": {
+                                "offerId": "d938a57551914db286757ebdf89b95f9",
+                                "sandboxId": "4b36452d205344bcb0f60f6a466ecd58"
+                            },
+                            "purchaseType": "Purchase"
+                        },
                         {
                             "offerLifecycleState": "Release",
                             "price": {
