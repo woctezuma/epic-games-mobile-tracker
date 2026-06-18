@@ -2821,6 +2821,58 @@
         "store_url": "<https://store.epicgames.com/product/monument-valley-android-1046b9>",
         "title": "Monument Valley"
     },
+    "1-e2d49ab2557448a2a9724c42999066f1-4943ede186ff4b67840e3e59ecdaf76c": {
+        "age_control": 3,
+        "catalog_item_id": "ddd8884d14ca4fec996ae425404b7126",
+        "checkout_url": "<https://store.epicgames.com/purchase?offers=1-e2d49ab2557448a2a9724c42999066f1-4943ede186ff4b67840e3e59ecdaf76c>",
+        "content_descriptors": [],
+        "current_price": "0",
+        "discount": "-100%",
+        "download_size": "881.73 MB",
+        "end_date": "2026-06-25T15:00:00.000Z",
+        "in_app_purchases": false,
+        "install_size": "1.4Go",
+        "interactive_elements": [],
+        "media": {
+            "OfferImageTall": "https://cdn1.epicgames.com/spt-assets/0f2312fd1acc40af8ede297e257b1cd5/construction-simulator-3-8v822.jpg",
+            "OfferImageWide": "https://cdn1.epicgames.com/spt-assets/0f2312fd1acc40af8ede297e257b1cd5/construction-simulator-3-l7gx1.jpg",
+            "ProductIcon": "https://cdn1.epicgames.com/spt-assets/0f2312fd1acc40af8ede297e257b1cd5/construction-simulator-3-icon-9l3o0.png",
+            "coverImage": "https://cdn1.epicgames.com/spt-assets/0f2312fd1acc40af8ede297e257b1cd5/construction-simulator-3-5tctv.jpg"
+        },
+        "offer_id": "4943ede186ff4b67840e3e59ecdaf76c",
+        "original_price": "5.39",
+        "platform": "android",
+        "sandbox_id": "e2d49ab2557448a2a9724c42999066f1",
+        "slug": "construction-simulator-3-android-761575",
+        "store_url": "<https://store.epicgames.com/product/construction-simulator-3-android-761575>",
+        "title": "Construction Simulator 3"
+    },
+    "1-e2d49ab2557448a2a9724c42999066f1-bb800dbdf3614954979eed03f517f670": {
+        "age_control": 3,
+        "catalog_item_id": "3eb5fa09ab6c48d6aba05252f2c13cd2",
+        "checkout_url": "<https://store.epicgames.com/purchase?offers=1-e2d49ab2557448a2a9724c42999066f1-bb800dbdf3614954979eed03f517f670>",
+        "content_descriptors": [],
+        "current_price": "0",
+        "discount": "-100%",
+        "download_size": "812MB |",
+        "end_date": "2026-06-25T15:00:00.000Z",
+        "in_app_purchases": false,
+        "install_size": "959MB",
+        "interactive_elements": [],
+        "media": {
+            "OfferImageTall": "https://cdn1.epicgames.com/spt-assets/0f2312fd1acc40af8ede297e257b1cd5/construction-simulator-3-1goxf.jpg",
+            "OfferImageWide": "https://cdn1.epicgames.com/spt-assets/0f2312fd1acc40af8ede297e257b1cd5/construction-simulator-3-2zi7w.jpg",
+            "ProductIcon": "https://cdn1.epicgames.com/spt-assets/0f2312fd1acc40af8ede297e257b1cd5/construction-simulator-3-icon-9l3o0.png",
+            "coverImage": "https://cdn1.epicgames.com/spt-assets/0f2312fd1acc40af8ede297e257b1cd5/construction-simulator-3-5tctv.jpg"
+        },
+        "offer_id": "bb800dbdf3614954979eed03f517f670",
+        "original_price": "5.39",
+        "platform": "ios",
+        "sandbox_id": "e2d49ab2557448a2a9724c42999066f1",
+        "slug": "construction-simulator-3-ios-79078c",
+        "store_url": "<https://store.epicgames.com/product/construction-simulator-3-ios-79078c>",
+        "title": "Construction Simulator 3"
+    },
     "1-e52b4d8cbcfd45ad95eff800ccc59d93-297bbfffc4c643209b59c3cd6c764e9c": {
         "age_control": 7,
         "catalog_item_id": "1ec27461c7704314ac319e7c74dfdcde",
