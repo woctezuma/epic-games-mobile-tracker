@@ -669,6 +669,66 @@
         "store_url": "<https://store.epicgames.com/product/residual-android-eef593>",
         "title": "Residual"
     },
+    "1-45108224b9eb45c8a86556d4a0d6c8d1-64230acdae9b4f82972b8d979eb2b617": {
+        "age_control": 7,
+        "catalog_item_id": "5225105374ba42ad8f353e5f238ff40d",
+        "checkout_url": "<https://store.epicgames.com/purchase?offers=1-45108224b9eb45c8a86556d4a0d6c8d1-64230acdae9b4f82972b8d979eb2b617>",
+        "content_descriptors": [
+            "Mild Violence"
+        ],
+        "current_price": "0",
+        "discount": "-100%",
+        "download_size": "450 Mo",
+        "end_date": "2026-07-02T15:00:00.000Z",
+        "in_app_purchases": false,
+        "install_size": "1.89 GB",
+        "interactive_elements": [
+            "In-Game Purchases"
+        ],
+        "media": {
+            "OfferImageTall": "https://cdn1.epicgames.com/spt-assets/25153bd44d864f00b4dec4888ac74d76/teenage-mutant-ninja-turtles--shredders-revenge-141tw.jpg",
+            "OfferImageWide": "https://cdn1.epicgames.com/spt-assets/25153bd44d864f00b4dec4888ac74d76/teenage-mutant-ninja-turtles--shredders-revenge-mvblk.jpg",
+            "ProductIcon": "https://cdn1.epicgames.com/spt-assets/25153bd44d864f00b4dec4888ac74d76/teenage-mutant-ninja-turtles--shredders-revenge-icon-ixddi.png",
+            "coverImage": "https://cdn1.epicgames.com/spt-assets/25153bd44d864f00b4dec4888ac74d76/teenage-mutant-ninja-turtles--shredders-revenge-1n1q6.jpg"
+        },
+        "offer_id": "64230acdae9b4f82972b8d979eb2b617",
+        "original_price": "8.09",
+        "platform": "ios",
+        "sandbox_id": "45108224b9eb45c8a86556d4a0d6c8d1",
+        "slug": "teenage-mutant-ninja-turtles-shredders-revenge-ios-8c04a6",
+        "store_url": "<https://store.epicgames.com/product/teenage-mutant-ninja-turtles-shredders-revenge-ios-8c04a6>",
+        "title": "Teenage Mutant Ninja Turtles - Shredder's Revenge"
+    },
+    "1-45108224b9eb45c8a86556d4a0d6c8d1-b430f3e8c16e4a519a99d32a4453f7c7": {
+        "age_control": 7,
+        "catalog_item_id": "6c4e8ea9d01d47aa8207c368a4bb144a",
+        "checkout_url": "<https://store.epicgames.com/purchase?offers=1-45108224b9eb45c8a86556d4a0d6c8d1-b430f3e8c16e4a519a99d32a4453f7c7>",
+        "content_descriptors": [
+            "Mild Violence"
+        ],
+        "current_price": "0",
+        "discount": "-100%",
+        "download_size": "557.02 MB",
+        "end_date": "2026-07-02T15:00:00.000Z",
+        "in_app_purchases": false,
+        "install_size": "1.87 GB",
+        "interactive_elements": [
+            "In-Game Purchases"
+        ],
+        "media": {
+            "OfferImageTall": "https://cdn1.epicgames.com/spt-assets/25153bd44d864f00b4dec4888ac74d76/teenage-mutant-ninja-turtles--shredders-revenge-1gbzt.jpg",
+            "OfferImageWide": "https://cdn1.epicgames.com/spt-assets/25153bd44d864f00b4dec4888ac74d76/teenage-mutant-ninja-turtles--shredders-revenge-1deqi.jpg",
+            "ProductIcon": "https://cdn1.epicgames.com/spt-assets/25153bd44d864f00b4dec4888ac74d76/teenage-mutant-ninja-turtles--shredders-revenge-icon-ixddi.png",
+            "coverImage": "https://cdn1.epicgames.com/spt-assets/25153bd44d864f00b4dec4888ac74d76/teenage-mutant-ninja-turtles--shredders-revenge-1n1q6.jpg"
+        },
+        "offer_id": "b430f3e8c16e4a519a99d32a4453f7c7",
+        "original_price": "8.09",
+        "platform": "android",
+        "sandbox_id": "45108224b9eb45c8a86556d4a0d6c8d1",
+        "slug": "teenage-mutant-ninja-turtles-shredders-revenge-android-8937ca",
+        "store_url": "<https://store.epicgames.com/product/teenage-mutant-ninja-turtles-shredders-revenge-android-8937ca>",
+        "title": "Teenage Mutant Ninja Turtles - Shredder's Revenge"
+    },
     "1-4ebf21b7761e40cdb180d0604127e4a6-8300122ee9244c76b367d1b9187bb259": {
         "age_control": 12,
         "catalog_item_id": "87104a61adb74ecfa196add0fb6bc964",
