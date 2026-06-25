@@ -3071,19 +3071,19 @@
                         },
                         "card16x9": {
                             "height": 1440,
-                            "imageSrc": "https://cdn1.epicgames.com/offer/fn/EN_FN_OG_C1S8_40-10_EGS_Launcher_KeyArt_Carousel_PDP_2560x1440_logo_2560x1440-3867e444c2834642be27f4c4a55b92bc",
+                            "imageSrc": "https://cdn1.epicgames.com/offer/fn/EN_FN_OG_41-10_C1S9_EGS_Launcher_Blade_2560x1440_2560x1440-f9294c2c9268423a8a1623eb2347dbd7",
                             "imageType": "OfferImageWide",
                             "width": 2560
                         },
                         "card3x4": {
                             "height": 1600,
-                            "imageSrc": "https://cdn1.epicgames.com/offer/fn/EN_FN_OG_C1S8_40-10_EGS_Launcher_KeyArt_Blade_1200x1600_1200x1600-b326a8e7a0a44a72894df10fbcb96ccb",
+                            "imageSrc": "https://cdn1.epicgames.com/offer/fn/EN_FN_OG_41-10_C1S9_EGS_Launcher_Blade_1200x1600_1200x1600-643800a4e83947fea9640cf3693ab18b",
                             "imageType": "OfferImageTall",
                             "width": 1200
                         },
                         "coverImage": {
                             "height": 1440,
-                            "imageSrc": "https://cdn1.epicgames.com/offer/fn/EN_FN_OG_C1S8_40-10_EGS_Launcher_KeyArt_Carousel_PDP_2560x1440_logo_2560x1440-3867e444c2834642be27f4c4a55b92bc",
+                            "imageSrc": "https://cdn1.epicgames.com/offer/fn/EN_FN_OG_41-10_C1S9_EGS_Launcher_Blade_2560x1440_2560x1440-f9294c2c9268423a8a1623eb2347dbd7",
                             "imageType": "OfferImageWide",
                             "width": 2560
                         }
