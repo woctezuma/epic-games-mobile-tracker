@@ -7600,7 +7600,7 @@
                         }
                     ],
                     "systemSpecs": {
-                        "applicationVersion": "1.20.1",
+                        "applicationVersion": "1.20.8",
                         "platform": "android",
                         "systemRequirements": [
                             {
@@ -7609,7 +7609,7 @@
                                 "title": "Installation size"
                             },
                             {
-                                "minimum": "211.50 MB",
+                                "minimum": "213.25 MB",
                                 "requirementType": "DownloadSize",
                                 "title": "Download size"
                             },
@@ -15482,7 +15482,7 @@
                         }
                     ],
                     "systemSpecs": {
-                        "applicationVersion": "1.5.82",
+                        "applicationVersion": "1.5.163",
                         "platform": "android",
                         "systemRequirements": [
                             {
@@ -15491,7 +15491,7 @@
                                 "title": "Installation size"
                             },
                             {
-                                "minimum": "206.43 MB",
+                                "minimum": "208.07 MB",
                                 "requirementType": "DownloadSize",
                                 "title": "Download size"
                             },
@@ -17241,24 +17241,6 @@
                     },
                     "purchase": [
                         {
-                            "discount": {
-                                "discountAmountDisplay": "-90%",
-                                "discountEndDate": "2026-06-25T21:59:00.000Z",
-                                "originalPriceDisplay": "€7.19"
-                            },
-                            "offerLifecycleState": "Release",
-                            "price": {
-                                "currencyCode": "EUR",
-                                "decimalPrice": 0.71
-                            },
-                            "priceDisplay": "€0.71",
-                            "purchasePayload": {
-                                "offerId": "0fc96633957149ff8744aa1890145e2e",
-                                "sandboxId": "6a99fb0a8add42c8b21c4ad25c928ba5"
-                            },
-                            "purchaseType": "Purchase"
-                        },
-                        {
                             "offerLifecycleState": "Release",
                             "price": {
                                 "currencyCode": "EUR",
@@ -18492,7 +18474,7 @@
                         }
                     ],
                     "systemSpecs": {
-                        "applicationVersion": "2.6.6.14",
+                        "applicationVersion": "2.7.3.0",
                         "platform": "android",
                         "systemRequirements": [
                             {
@@ -18501,7 +18483,7 @@
                                 "title": "Installation size"
                             },
                             {
-                                "minimum": "160.53 MB",
+                                "minimum": "161.56 MB",
                                 "requirementType": "DownloadSize",
                                 "title": "Download size"
                             },
@@ -18689,16 +18671,16 @@
                         }
                     ],
                     "systemSpecs": {
-                        "applicationVersion": "2.6.6.14",
+                        "applicationVersion": "2.7.3.0",
                         "platform": "android",
                         "systemRequirements": [
                             {
-                                "minimum": "TBD",
+                                "minimum": "3.0 GB",
                                 "requirementType": "InstallSize",
                                 "title": "Installation size"
                             },
                             {
-                                "minimum": "160.55 MB",
+                                "minimum": "161.58 MB",
                                 "requirementType": "DownloadSize",
                                 "title": "Download size"
                             },
