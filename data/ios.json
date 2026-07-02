@@ -12,6 +12,110 @@
                             "gate": "no-gate"
                         },
                         "ageRating": {
+                            "ageControl": 7,
+                            "contentDescriptors": [
+                                "Mild Violence"
+                            ],
+                            "interactiveElements": [
+                                "In-Game Purchases"
+                            ],
+                            "ratingImage": "https://cdn1.epicgames.com/gameRating/gameRating/PEGI_7_192_192x192-30e2e712d0682dad01add90a6ccbed5b",
+                            "ratingSystem": "PEGI",
+                            "rectangularRatingImage": "https://cdn1.epicgames.com/salesEvent/salesEvent/PEGI-7_435x530-9439a136999d3dd762c7a61c3b8c7683",
+                            "title": "PEGI 7"
+                        },
+                        "ratingType": "AgeRating"
+                    },
+                    "attention": {
+                        "inAppPurchases": "None"
+                    },
+                    "catalogItemId": "5225105374ba42ad8f353e5f238ff40d",
+                    "categories": [
+                        "games",
+                        "games/edition",
+                        "games/edition/base"
+                    ],
+                    "mapping": {
+                        "slug": "teenage-mutant-ninja-turtles-shredders-revenge-ios-8c04a6"
+                    },
+                    "media": {
+                        "appIcon": {
+                            "altText": "-",
+                            "height": 512,
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/25153bd44d864f00b4dec4888ac74d76/teenage-mutant-ninja-turtles--shredders-revenge-icon-ixddi.png",
+                            "imageType": "ProductIcon",
+                            "width": 512
+                        },
+                        "card16x9": {
+                            "altText": "Teenage Mutant Ninja Turtles - Shredder's Revenge Offer",
+                            "height": 1440,
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/25153bd44d864f00b4dec4888ac74d76/teenage-mutant-ninja-turtles--shredders-revenge-mvblk.jpg",
+                            "imageType": "OfferImageWide",
+                            "width": 2560
+                        },
+                        "card3x4": {
+                            "altText": "Download Teenage Mutant Ninja Turtles - Shredder's Revenge Offer",
+                            "height": 1600,
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/25153bd44d864f00b4dec4888ac74d76/teenage-mutant-ninja-turtles--shredders-revenge-141tw.jpg",
+                            "imageType": "OfferImageTall",
+                            "width": 1200
+                        },
+                        "coverImage": {
+                            "altText": "-",
+                            "height": 1440,
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/25153bd44d864f00b4dec4888ac74d76/teenage-mutant-ninja-turtles--shredders-revenge-1n1q6.jpg",
+                            "imageType": "coverImage",
+                            "width": 2560
+                        }
+                    },
+                    "purchase": [
+                        {
+                            "offerLifecycleState": "Release",
+                            "price": {
+                                "currencyCode": "EUR",
+                                "decimalPrice": 8.09
+                            },
+                            "priceDisplay": "€8.09",
+                            "purchasePayload": {
+                                "offerId": "64230acdae9b4f82972b8d979eb2b617",
+                                "sandboxId": "45108224b9eb45c8a86556d4a0d6c8d1"
+                            },
+                            "purchaseType": "Purchase"
+                        }
+                    ],
+                    "systemSpecs": {
+                        "applicationVersion": "1.2.18",
+                        "platform": "ios",
+                        "systemRequirements": [
+                            {
+                                "minimum": "1.89 GB",
+                                "requirementType": "InstallSize",
+                                "title": "Installation size"
+                            },
+                            {
+                                "minimum": "450 Mo",
+                                "requirementType": "DownloadSize",
+                                "title": "Download size"
+                            },
+                            {
+                                "minimum": "16",
+                                "requirementType": "OS",
+                                "title": "OS version"
+                            }
+                        ]
+                    },
+                    "title": "Teenage Mutant Ninja Turtles - Shredder's Revenge"
+                },
+                "offerId": "64230acdae9b4f82972b8d979eb2b617",
+                "sandboxId": "45108224b9eb45c8a86556d4a0d6c8d1"
+            },
+            {
+                "content": {
+                    "ageRating": {
+                        "ageGate": {
+                            "gate": "no-gate"
+                        },
+                        "ageRating": {
                             "ageControl": 3,
                             "contentDescriptors": [],
                             "interactiveElements": [],
@@ -3603,24 +3707,20 @@
                             "gate": "no-gate"
                         },
                         "ageRating": {
-                            "ageControl": 7,
-                            "contentDescriptors": [
-                                "Mild Violence"
-                            ],
-                            "interactiveElements": [
-                                "In-Game Purchases"
-                            ],
-                            "ratingImage": "https://cdn1.epicgames.com/gameRating/gameRating/PEGI_7_192_192x192-30e2e712d0682dad01add90a6ccbed5b",
+                            "ageControl": 3,
+                            "contentDescriptors": [],
+                            "interactiveElements": [],
+                            "ratingImage": "https://cdn1.epicgames.com/gameRating/gameRating/PEGI_3_192_192x192-490b93ddf59fb4ac1148d1eb9083626a",
                             "ratingSystem": "PEGI",
-                            "rectangularRatingImage": "https://cdn1.epicgames.com/salesEvent/salesEvent/PEGI-7_435x530-9439a136999d3dd762c7a61c3b8c7683",
-                            "title": "PEGI 7"
+                            "rectangularRatingImage": "https://cdn1.epicgames.com/salesEvent/salesEvent/PEGI-3_435x530-c931ab5bb4eb190f6e8e542081c49dc4",
+                            "title": "PEGI 3"
                         },
                         "ratingType": "AgeRating"
                     },
                     "attention": {
                         "inAppPurchases": "None"
                     },
-                    "catalogItemId": "5225105374ba42ad8f353e5f238ff40d",
+                    "catalogItemId": "53bd8e9061ba4e999b3cd231d2e09bd9",
                     "categories": [
                         "freegames",
                         "games",
@@ -3628,34 +3728,34 @@
                         "games/edition/base"
                     ],
                     "mapping": {
-                        "slug": "teenage-mutant-ninja-turtles-shredders-revenge-ios-8c04a6"
+                        "slug": "sophia-the-traveler-ios-9db302"
                     },
                     "media": {
                         "appIcon": {
                             "altText": "-",
                             "height": 512,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/25153bd44d864f00b4dec4888ac74d76/teenage-mutant-ninja-turtles--shredders-revenge-icon-ixddi.png",
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/9df40f70ffa242dd9b97e666551148f0/sophia-the-traveler-icon-al261.png",
                             "imageType": "ProductIcon",
                             "width": 512
                         },
                         "card16x9": {
-                            "altText": "Teenage Mutant Ninja Turtles - Shredder's Revenge Offer",
+                            "altText": "Sophia the Traveler Offer",
                             "height": 1440,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/25153bd44d864f00b4dec4888ac74d76/teenage-mutant-ninja-turtles--shredders-revenge-mvblk.jpg",
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/9df40f70ffa242dd9b97e666551148f0/sophia-the-traveler-11ajt.jpg",
                             "imageType": "OfferImageWide",
                             "width": 2560
                         },
                         "card3x4": {
-                            "altText": "Download Teenage Mutant Ninja Turtles - Shredder's Revenge Offer",
+                            "altText": "Download Sophia the Traveler Offer",
                             "height": 1600,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/25153bd44d864f00b4dec4888ac74d76/teenage-mutant-ninja-turtles--shredders-revenge-141tw.jpg",
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/9df40f70ffa242dd9b97e666551148f0/sophia-the-traveler-1a392.jpg",
                             "imageType": "OfferImageTall",
                             "width": 1200
                         },
                         "coverImage": {
                             "altText": "-",
                             "height": 1440,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/25153bd44d864f00b4dec4888ac74d76/teenage-mutant-ninja-turtles--shredders-revenge-1n1q6.jpg",
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/9df40f70ffa242dd9b97e666551148f0/sophia-the-traveler-1pxvh.png",
                             "imageType": "coverImage",
                             "width": 2560
                         }
@@ -3664,8 +3764,8 @@
                         {
                             "discount": {
                                 "discountAmountDisplay": "-100%",
-                                "discountEndDate": "2026-07-02T15:00:00.000Z",
-                                "originalPriceDisplay": "€8.09"
+                                "discountEndDate": "2026-07-09T15:00:00.000Z",
+                                "originalPriceDisplay": "€8.79"
                             },
                             "offerLifecycleState": "Release",
                             "price": {
@@ -3673,8 +3773,8 @@
                                 "decimalPrice": 0
                             },
                             "purchasePayload": {
-                                "offerId": "64230acdae9b4f82972b8d979eb2b617",
-                                "sandboxId": "45108224b9eb45c8a86556d4a0d6c8d1"
+                                "offerId": "573e158a9dae40e6a338604e48216682",
+                                "sandboxId": "a038504f2c5a41fa9ae608f72284a96f"
                             },
                             "purchaseType": "Claim"
                         },
@@ -3682,41 +3782,41 @@
                             "offerLifecycleState": "Release",
                             "price": {
                                 "currencyCode": "EUR",
-                                "decimalPrice": 8.09
+                                "decimalPrice": 8.79
                             },
-                            "priceDisplay": "€8.09",
+                            "priceDisplay": "€8.79",
                             "purchasePayload": {
-                                "offerId": "64230acdae9b4f82972b8d979eb2b617",
-                                "sandboxId": "45108224b9eb45c8a86556d4a0d6c8d1"
+                                "offerId": "573e158a9dae40e6a338604e48216682",
+                                "sandboxId": "a038504f2c5a41fa9ae608f72284a96f"
                             },
                             "purchaseType": "Purchase"
                         }
                     ],
                     "systemSpecs": {
-                        "applicationVersion": "1.2.18",
+                        "applicationVersion": "1.0.1",
                         "platform": "ios",
                         "systemRequirements": [
                             {
-                                "minimum": "1.89 GB",
+                                "minimum": "700 MB",
                                 "requirementType": "InstallSize",
                                 "title": "Installation size"
                             },
                             {
-                                "minimum": "450 Mo",
+                                "minimum": "611.45 MB",
                                 "requirementType": "DownloadSize",
                                 "title": "Download size"
                             },
                             {
-                                "minimum": "16",
+                                "minimum": "12.0",
                                 "requirementType": "OS",
                                 "title": "OS version"
                             }
                         ]
                     },
-                    "title": "Teenage Mutant Ninja Turtles - Shredder's Revenge"
+                    "title": "Sophia the Traveler"
                 },
-                "offerId": "64230acdae9b4f82972b8d979eb2b617",
-                "sandboxId": "45108224b9eb45c8a86556d4a0d6c8d1"
+                "offerId": "573e158a9dae40e6a338604e48216682",
+                "sandboxId": "a038504f2c5a41fa9ae608f72284a96f"
             }
         ],
         "size": "large",
