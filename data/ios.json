@@ -4569,11 +4569,11 @@
                         "ageRating": {
                             "ageControl": 12,
                             "contentDescriptors": [
-                                "Mild Swearing",
-                                "Moderate Violence"
+                                "Moderate Violence",
+                                "Mild Swearing"
                             ],
                             "interactiveElements": [
-                                "Digital Purchases"
+                                "In-Game Purchases (Includes Random Items)"
                             ],
                             "ratingImage": "https://cdn1.epicgames.com/gameRating/gameRating/PEGI_12_192_192x192-afa4df43f131bc83eb380ccf22f8d904",
                             "ratingSystem": "PEGI",
@@ -8217,19 +8217,6 @@
                         }
                     },
                     "purchase": [
-                        {
-                            "offerLifecycleState": "Release",
-                            "price": {
-                                "currencyCode": "EUR",
-                                "decimalPrice": 4.49
-                            },
-                            "priceDisplay": "€4.49",
-                            "purchasePayload": {
-                                "offerId": "b30404c07a47443490e1c94d7e0eba6f",
-                                "sandboxId": "9a0c5c4c64404e698fbb56f757572216"
-                            },
-                            "purchaseType": "Purchase"
-                        },
                         {
                             "discount": {
                                 "discountAmountDisplay": "-60%",
