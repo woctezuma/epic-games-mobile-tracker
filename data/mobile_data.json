@@ -445,6 +445,62 @@
         "store_url": "<https://store.epicgames.com/product/figment-ios-982b04>",
         "title": "Figment"
     },
+    "1-286af74903fa418d931df4916c59779d-6a3374e171bb4d60ad280c882d74c3db": {
+        "age_control": 12,
+        "catalog_item_id": "f69bab933872470b86255aa80bade32c",
+        "checkout_url": "<https://store.epicgames.com/purchase?offers=1-286af74903fa418d931df4916c59779d-6a3374e171bb4d60ad280c882d74c3db>",
+        "content_descriptors": [
+            "Sexual Innuendo"
+        ],
+        "current_price": "0",
+        "discount": "-100%",
+        "download_size": "447.89 MB",
+        "end_date": "2026-07-16T15:00:00.000Z",
+        "in_app_purchases": false,
+        "install_size": "452",
+        "interactive_elements": [],
+        "media": {
+            "OfferImageTall": "https://cdn1.epicgames.com/spt-assets/d08c25c96a954b1b8cb0c22c3fec015f/princess-farmer-jc635.jpg",
+            "OfferImageWide": "https://cdn1.epicgames.com/spt-assets/d08c25c96a954b1b8cb0c22c3fec015f/princess-farmer-vxm9f.jpg",
+            "ProductIcon": "https://cdn1.epicgames.com/spt-assets/d08c25c96a954b1b8cb0c22c3fec015f/princess-farmer-icon-ghi73.png",
+            "coverImage": "https://cdn1.epicgames.com/spt-assets/d08c25c96a954b1b8cb0c22c3fec015f/princess-farmer-zjjr1.png"
+        },
+        "offer_id": "6a3374e171bb4d60ad280c882d74c3db",
+        "original_price": "4.49",
+        "platform": "android",
+        "sandbox_id": "286af74903fa418d931df4916c59779d",
+        "slug": "princess-farmer-android-09215e",
+        "store_url": "<https://store.epicgames.com/product/princess-farmer-android-09215e>",
+        "title": "Princess Farmer"
+    },
+    "1-286af74903fa418d931df4916c59779d-87c834904c804a4f875515751dc768a6": {
+        "age_control": 12,
+        "catalog_item_id": "10b5ba3437bc4ac0899c217b30620b6c",
+        "checkout_url": "<https://store.epicgames.com/purchase?offers=1-286af74903fa418d931df4916c59779d-87c834904c804a4f875515751dc768a6>",
+        "content_descriptors": [
+            "Sexual Innuendo"
+        ],
+        "current_price": "0",
+        "discount": "-100%",
+        "download_size": "390 MB",
+        "end_date": "2026-07-16T15:00:00.000Z",
+        "in_app_purchases": false,
+        "install_size": "515 MB",
+        "interactive_elements": [],
+        "media": {
+            "OfferImageTall": "https://cdn1.epicgames.com/spt-assets/d08c25c96a954b1b8cb0c22c3fec015f/princess-farmer-12fs1.jpg",
+            "OfferImageWide": "https://cdn1.epicgames.com/spt-assets/d08c25c96a954b1b8cb0c22c3fec015f/princess-farmer-abxby.jpg",
+            "ProductIcon": "https://cdn1.epicgames.com/spt-assets/d08c25c96a954b1b8cb0c22c3fec015f/princess-farmer-icon-ghi73.png",
+            "coverImage": "https://cdn1.epicgames.com/spt-assets/d08c25c96a954b1b8cb0c22c3fec015f/princess-farmer-zjjr1.png"
+        },
+        "offer_id": "87c834904c804a4f875515751dc768a6",
+        "original_price": "4.49",
+        "platform": "ios",
+        "sandbox_id": "286af74903fa418d931df4916c59779d",
+        "slug": "princess-farmer-ios-0b70cd",
+        "store_url": "<https://store.epicgames.com/product/princess-farmer-ios-0b70cd>",
+        "title": "Princess Farmer"
+    },
     "1-29857990e5434b7db5dd026ef18dbc96-393541e1178848c1be12b9b5744bdff4": {
         "age_control": 7,
         "catalog_item_id": "95b7e911cb8c41959e82a09eb9b0b14e",
