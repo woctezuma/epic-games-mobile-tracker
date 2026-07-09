@@ -12,6 +12,106 @@
                             "gate": "no-gate"
                         },
                         "ageRating": {
+                            "ageControl": 3,
+                            "contentDescriptors": [],
+                            "interactiveElements": [],
+                            "ratingImage": "https://cdn1.epicgames.com/gameRating/gameRating/PEGI_3_192_192x192-490b93ddf59fb4ac1148d1eb9083626a",
+                            "ratingSystem": "PEGI",
+                            "rectangularRatingImage": "https://cdn1.epicgames.com/salesEvent/salesEvent/PEGI-3_435x530-c931ab5bb4eb190f6e8e542081c49dc4",
+                            "title": "PEGI 3"
+                        },
+                        "ratingType": "AgeRating"
+                    },
+                    "attention": {
+                        "inAppPurchases": "None"
+                    },
+                    "catalogItemId": "53bd8e9061ba4e999b3cd231d2e09bd9",
+                    "categories": [
+                        "games",
+                        "games/edition",
+                        "games/edition/base"
+                    ],
+                    "mapping": {
+                        "slug": "sophia-the-traveler-ios-9db302"
+                    },
+                    "media": {
+                        "appIcon": {
+                            "altText": "-",
+                            "height": 512,
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/9df40f70ffa242dd9b97e666551148f0/sophia-the-traveler-icon-al261.png",
+                            "imageType": "ProductIcon",
+                            "width": 512
+                        },
+                        "card16x9": {
+                            "altText": "Sophia the Traveler Offer",
+                            "height": 1440,
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/9df40f70ffa242dd9b97e666551148f0/sophia-the-traveler-11ajt.jpg",
+                            "imageType": "OfferImageWide",
+                            "width": 2560
+                        },
+                        "card3x4": {
+                            "altText": "Download Sophia the Traveler Offer",
+                            "height": 1600,
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/9df40f70ffa242dd9b97e666551148f0/sophia-the-traveler-1a392.jpg",
+                            "imageType": "OfferImageTall",
+                            "width": 1200
+                        },
+                        "coverImage": {
+                            "altText": "-",
+                            "height": 1440,
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/9df40f70ffa242dd9b97e666551148f0/sophia-the-traveler-1pxvh.png",
+                            "imageType": "coverImage",
+                            "width": 2560
+                        }
+                    },
+                    "purchase": [
+                        {
+                            "offerLifecycleState": "Release",
+                            "price": {
+                                "currencyCode": "EUR",
+                                "decimalPrice": 8.79
+                            },
+                            "priceDisplay": "€8.79",
+                            "purchasePayload": {
+                                "offerId": "573e158a9dae40e6a338604e48216682",
+                                "sandboxId": "a038504f2c5a41fa9ae608f72284a96f"
+                            },
+                            "purchaseType": "Purchase"
+                        }
+                    ],
+                    "systemSpecs": {
+                        "applicationVersion": "1.0.1",
+                        "platform": "ios",
+                        "systemRequirements": [
+                            {
+                                "minimum": "700 MB",
+                                "requirementType": "InstallSize",
+                                "title": "Installation size"
+                            },
+                            {
+                                "minimum": "611.45 MB",
+                                "requirementType": "DownloadSize",
+                                "title": "Download size"
+                            },
+                            {
+                                "minimum": "12.0",
+                                "requirementType": "OS",
+                                "title": "OS version"
+                            }
+                        ]
+                    },
+                    "title": "Sophia the Traveler"
+                },
+                "offerId": "573e158a9dae40e6a338604e48216682",
+                "sandboxId": "a038504f2c5a41fa9ae608f72284a96f"
+            },
+            {
+                "content": {
+                    "ageRating": {
+                        "ageGate": {
+                            "gate": "no-gate"
+                        },
+                        "ageRating": {
                             "ageControl": 7,
                             "contentDescriptors": [
                                 "Mild Violence"
@@ -3707,20 +3807,22 @@
                             "gate": "no-gate"
                         },
                         "ageRating": {
-                            "ageControl": 3,
-                            "contentDescriptors": [],
+                            "ageControl": 12,
+                            "contentDescriptors": [
+                                "Sexual Innuendo"
+                            ],
                             "interactiveElements": [],
-                            "ratingImage": "https://cdn1.epicgames.com/gameRating/gameRating/PEGI_3_192_192x192-490b93ddf59fb4ac1148d1eb9083626a",
+                            "ratingImage": "https://cdn1.epicgames.com/gameRating/gameRating/PEGI_12_192_192x192-afa4df43f131bc83eb380ccf22f8d904",
                             "ratingSystem": "PEGI",
-                            "rectangularRatingImage": "https://cdn1.epicgames.com/salesEvent/salesEvent/PEGI-3_435x530-c931ab5bb4eb190f6e8e542081c49dc4",
-                            "title": "PEGI 3"
+                            "rectangularRatingImage": "https://cdn1.epicgames.com/salesEvent/salesEvent/PEGI-12_436x530-0cd1f06607086f3cc1bc2b8643f21b0a",
+                            "title": "PEGI 12"
                         },
                         "ratingType": "AgeRating"
                     },
                     "attention": {
                         "inAppPurchases": "None"
                     },
-                    "catalogItemId": "53bd8e9061ba4e999b3cd231d2e09bd9",
+                    "catalogItemId": "10b5ba3437bc4ac0899c217b30620b6c",
                     "categories": [
                         "freegames",
                         "games",
@@ -3728,34 +3830,34 @@
                         "games/edition/base"
                     ],
                     "mapping": {
-                        "slug": "sophia-the-traveler-ios-9db302"
+                        "slug": "princess-farmer-ios-0b70cd"
                     },
                     "media": {
                         "appIcon": {
                             "altText": "-",
                             "height": 512,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/9df40f70ffa242dd9b97e666551148f0/sophia-the-traveler-icon-al261.png",
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/d08c25c96a954b1b8cb0c22c3fec015f/princess-farmer-icon-ghi73.png",
                             "imageType": "ProductIcon",
                             "width": 512
                         },
                         "card16x9": {
-                            "altText": "Sophia the Traveler Offer",
+                            "altText": "Princess Farmer Offer",
                             "height": 1440,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/9df40f70ffa242dd9b97e666551148f0/sophia-the-traveler-11ajt.jpg",
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/d08c25c96a954b1b8cb0c22c3fec015f/princess-farmer-abxby.jpg",
                             "imageType": "OfferImageWide",
                             "width": 2560
                         },
                         "card3x4": {
-                            "altText": "Download Sophia the Traveler Offer",
+                            "altText": "Download Princess Farmer Offer",
                             "height": 1600,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/9df40f70ffa242dd9b97e666551148f0/sophia-the-traveler-1a392.jpg",
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/d08c25c96a954b1b8cb0c22c3fec015f/princess-farmer-12fs1.jpg",
                             "imageType": "OfferImageTall",
                             "width": 1200
                         },
                         "coverImage": {
                             "altText": "-",
                             "height": 1440,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/9df40f70ffa242dd9b97e666551148f0/sophia-the-traveler-1pxvh.png",
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/d08c25c96a954b1b8cb0c22c3fec015f/princess-farmer-zjjr1.png",
                             "imageType": "coverImage",
                             "width": 2560
                         }
@@ -3764,8 +3866,8 @@
                         {
                             "discount": {
                                 "discountAmountDisplay": "-100%",
-                                "discountEndDate": "2026-07-09T15:00:00.000Z",
-                                "originalPriceDisplay": "€8.79"
+                                "discountEndDate": "2026-07-16T15:00:00.000Z",
+                                "originalPriceDisplay": "€4.49"
                             },
                             "offerLifecycleState": "Release",
                             "price": {
@@ -3773,8 +3875,8 @@
                                 "decimalPrice": 0
                             },
                             "purchasePayload": {
-                                "offerId": "573e158a9dae40e6a338604e48216682",
-                                "sandboxId": "a038504f2c5a41fa9ae608f72284a96f"
+                                "offerId": "87c834904c804a4f875515751dc768a6",
+                                "sandboxId": "286af74903fa418d931df4916c59779d"
                             },
                             "purchaseType": "Claim"
                         },
@@ -3782,41 +3884,41 @@
                             "offerLifecycleState": "Release",
                             "price": {
                                 "currencyCode": "EUR",
-                                "decimalPrice": 8.79
+                                "decimalPrice": 4.49
                             },
-                            "priceDisplay": "€8.79",
+                            "priceDisplay": "€4.49",
                             "purchasePayload": {
-                                "offerId": "573e158a9dae40e6a338604e48216682",
-                                "sandboxId": "a038504f2c5a41fa9ae608f72284a96f"
+                                "offerId": "87c834904c804a4f875515751dc768a6",
+                                "sandboxId": "286af74903fa418d931df4916c59779d"
                             },
                             "purchaseType": "Purchase"
                         }
                     ],
                     "systemSpecs": {
-                        "applicationVersion": "1.0.1",
+                        "applicationVersion": "1.0.0",
                         "platform": "ios",
                         "systemRequirements": [
                             {
-                                "minimum": "700 MB",
+                                "minimum": "515 MB",
                                 "requirementType": "InstallSize",
                                 "title": "Installation size"
                             },
                             {
-                                "minimum": "611.45 MB",
+                                "minimum": "390 MB",
                                 "requirementType": "DownloadSize",
                                 "title": "Download size"
                             },
                             {
-                                "minimum": "12.0",
+                                "minimum": "9.0",
                                 "requirementType": "OS",
                                 "title": "OS version"
                             }
                         ]
                     },
-                    "title": "Sophia the Traveler"
+                    "title": "Princess Farmer"
                 },
-                "offerId": "573e158a9dae40e6a338604e48216682",
-                "sandboxId": "a038504f2c5a41fa9ae608f72284a96f"
+                "offerId": "87c834904c804a4f875515751dc768a6",
+                "sandboxId": "286af74903fa418d931df4916c59779d"
             }
         ],
         "size": "large",
@@ -8440,19 +8542,6 @@
                         }
                     },
                     "purchase": [
-                        {
-                            "offerLifecycleState": "Release",
-                            "price": {
-                                "currencyCode": "EUR",
-                                "decimalPrice": 4.99
-                            },
-                            "priceDisplay": "€4.99",
-                            "purchasePayload": {
-                                "offerId": "333fe8af0d3a45729c8fc4edb2c53c9b",
-                                "sandboxId": "438f0dfdc1a2432b99005457b60e319f"
-                            },
-                            "purchaseType": "Purchase"
-                        },
                         {
                             "discount": {
                                 "discountAmountDisplay": "-50%",
