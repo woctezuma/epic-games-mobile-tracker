@@ -738,9 +738,9 @@
                     },
                     "catalogItemId": "526ce6cc02ed406aad8eaabea084e998",
                     "categories": [
-                        "games",
+                        "games/edition/base",
                         "games/edition",
-                        "games/edition/base"
+                        "games"
                     ],
                     "mapping": {
                         "slug": "dino-with-a-gun-android-android-8cad2d"
@@ -756,14 +756,14 @@
                         "card16x9": {
                             "altText": "Dino with a Gun Offer",
                             "height": 1440,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/9daab0e0f3d34d0c8c02fbea546b9ec6/dino-with-a-gun-1plju.png",
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/9daab0e0f3d34d0c8c02fbea546b9ec6/dino-with-a-gun-xjdvv.png",
                             "imageType": "OfferImageWide",
                             "width": 2560
                         },
                         "card3x4": {
                             "altText": "Download Dino with a Gun Offer",
                             "height": 1600,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/9daab0e0f3d34d0c8c02fbea546b9ec6/dino-with-a-gun-19uzw.png",
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/9daab0e0f3d34d0c8c02fbea546b9ec6/dino-with-a-gun-1idxx.png",
                             "imageType": "OfferImageTall",
                             "width": 1200
                         },
@@ -790,7 +790,7 @@
                         }
                     ],
                     "systemSpecs": {
-                        "applicationVersion": "1.8.2",
+                        "applicationVersion": "1.10.2",
                         "platform": "android",
                         "systemRequirements": [
                             {
@@ -799,7 +799,7 @@
                                 "title": "Installation size"
                             },
                             {
-                                "minimum": "214.01 MB",
+                                "minimum": "214.57 MB",
                                 "requirementType": "DownloadSize",
                                 "title": "Download size"
                             },
