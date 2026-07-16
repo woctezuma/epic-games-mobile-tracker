@@ -11346,28 +11346,28 @@
                         "appIcon": {
                             "altText": "-",
                             "height": 512,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/8917c7fc5edb486b9993837d85e1bc42/arena-breakout-icon-1df07.png",
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/8917c7fc5edb486b9993837d85e1bc42/arena-breakout-icon-1f7ju.png",
                             "imageType": "ProductIcon",
                             "width": 512
                         },
                         "card16x9": {
                             "altText": "Arena Breakout Offer",
                             "height": 1440,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/8917c7fc5edb486b9993837d85e1bc42/arena-breakout-5yeqz.jpg",
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/8917c7fc5edb486b9993837d85e1bc42/arena-breakout-12nrb.jpg",
                             "imageType": "OfferImageWide",
                             "width": 2560
                         },
                         "card3x4": {
                             "altText": "Download Arena Breakout Offer",
                             "height": 1600,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/8917c7fc5edb486b9993837d85e1bc42/arena-breakout-1owsz.jpg",
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/8917c7fc5edb486b9993837d85e1bc42/arena-breakout-g5h3r.jpg",
                             "imageType": "OfferImageTall",
                             "width": 1200
                         },
                         "coverImage": {
                             "altText": "-",
                             "height": 1440,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/8917c7fc5edb486b9993837d85e1bc42/arena-breakout-lr6ft.jpg",
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/8917c7fc5edb486b9993837d85e1bc42/arena-breakout-13ytm.jpg",
                             "imageType": "coverImage",
                             "width": 2560
                         }
@@ -11387,7 +11387,7 @@
                         }
                     ],
                     "systemSpecs": {
-                        "applicationVersion": "1.0.236.236",
+                        "applicationVersion": "1.0.249.249",
                         "platform": "android",
                         "systemRequirements": [
                             {
@@ -11396,7 +11396,7 @@
                                 "title": "Installation size"
                             },
                             {
-                                "minimum": "1.33 GB",
+                                "minimum": "1.46 GB",
                                 "requirementType": "DownloadSize",
                                 "title": "Download size"
                             },
