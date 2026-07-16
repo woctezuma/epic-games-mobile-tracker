@@ -2443,13 +2443,13 @@
                         },
                         "card16x9": {
                             "height": 1440,
-                            "imageSrc": "https://cdn1.epicgames.com/offer/fn/FNBR_41-00_C7S3_EGS_Launcher_Blade_2560x1440_2560x1440-fb1b8452125e4b218bb05b74fa88c22c",
+                            "imageSrc": "https://cdn1.epicgames.com/offer/fn/FNBR_41-20_C7S3_MSEE_Pelican_Logo_EGS_Launcher_Blade_2560x1440_2560x1440-671948102fff43769093669871d52cb0",
                             "imageType": "OfferImageWide",
                             "width": 2560
                         },
                         "card3x4": {
                             "height": 1600,
-                            "imageSrc": "https://cdn1.epicgames.com/offer/fn/FNBR_41-00_C7S3_EGS_Launcher_Blade_1200x1600_1200x1600-69a92aeca42b466f8299cb181b37b600",
+                            "imageSrc": "https://cdn1.epicgames.com/offer/fn/FNBR_41-20_C7S3_MSEE_Pelican_EGS_Launcher_Blade_1200x1600_1200x1600-b0a716bb6c594afbbc56ca9e87e87e61",
                             "imageType": "OfferImageTall",
                             "width": 1200
                         },
