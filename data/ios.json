@@ -12,57 +12,56 @@
                             "gate": "no-gate"
                         },
                         "ageRating": {
-                            "ageControl": 7,
+                            "ageControl": 12,
                             "contentDescriptors": [
-                                "Mild Violence"
+                                "Sexual Innuendo"
                             ],
                             "interactiveElements": [],
-                            "ratingImage": "https://cdn1.epicgames.com/gameRating/gameRating/PEGI_7_192_192x192-30e2e712d0682dad01add90a6ccbed5b",
+                            "ratingImage": "https://cdn1.epicgames.com/gameRating/gameRating/PEGI_12_192_192x192-afa4df43f131bc83eb380ccf22f8d904",
                             "ratingSystem": "PEGI",
-                            "rectangularRatingImage": "https://cdn1.epicgames.com/salesEvent/salesEvent/PEGI-7_435x530-9439a136999d3dd762c7a61c3b8c7683",
-                            "title": "PEGI 7"
+                            "rectangularRatingImage": "https://cdn1.epicgames.com/salesEvent/salesEvent/PEGI-12_436x530-0cd1f06607086f3cc1bc2b8643f21b0a",
+                            "title": "PEGI 12"
                         },
                         "ratingType": "AgeRating"
                     },
                     "attention": {
                         "inAppPurchases": "None"
                     },
-                    "catalogItemId": "250e07301ecb442a85bca40621234ca6",
+                    "catalogItemId": "10b5ba3437bc4ac0899c217b30620b6c",
                     "categories": [
-                        "freegames",
                         "games",
                         "games/edition",
                         "games/edition/base"
                     ],
                     "mapping": {
-                        "slug": "the-ouroboros-king-ios-75e88e"
+                        "slug": "princess-farmer-ios-0b70cd"
                     },
                     "media": {
                         "appIcon": {
                             "altText": "-",
                             "height": 512,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/33630d7105014582a478094e89953f49/the-ouroboros-king-icon-tkzcy.png",
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/d08c25c96a954b1b8cb0c22c3fec015f/princess-farmer-icon-ghi73.png",
                             "imageType": "ProductIcon",
                             "width": 512
                         },
                         "card16x9": {
-                            "altText": "The Ouroboros King Offer",
+                            "altText": "Princess Farmer Offer",
                             "height": 1440,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/33630d7105014582a478094e89953f49/the-ouroboros-king-s10fr.jpg",
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/d08c25c96a954b1b8cb0c22c3fec015f/princess-farmer-abxby.jpg",
                             "imageType": "OfferImageWide",
                             "width": 2560
                         },
                         "card3x4": {
-                            "altText": "Download The Ouroboros King Offer",
+                            "altText": "Download Princess Farmer Offer",
                             "height": 1600,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/33630d7105014582a478094e89953f49/the-ouroboros-king-1e67x.jpg",
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/d08c25c96a954b1b8cb0c22c3fec015f/princess-farmer-12fs1.jpg",
                             "imageType": "OfferImageTall",
                             "width": 1200
                         },
                         "coverImage": {
                             "altText": "-",
                             "height": 1440,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/33630d7105014582a478094e89953f49/the-ouroboros-king-1v77v.jpg",
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/d08c25c96a954b1b8cb0c22c3fec015f/princess-farmer-zjjr1.png",
                             "imageType": "coverImage",
                             "width": 2560
                         }
@@ -72,71 +71,41 @@
                             "offerLifecycleState": "Release",
                             "price": {
                                 "currencyCode": "EUR",
-                                "decimalPrice": 7.19
+                                "decimalPrice": 4.49
                             },
-                            "priceDisplay": "€7.19",
+                            "priceDisplay": "€4.49",
                             "purchasePayload": {
-                                "offerId": "c56d898e34e4470c83442f2ad0ea2932",
-                                "sandboxId": "b002ccbe10f946f082a63bf85fa30558"
-                            },
-                            "purchaseType": "Purchase"
-                        },
-                        {
-                            "discount": {
-                                "discountAmountDisplay": "-100%",
-                                "discountEndDate": "2026-07-23T15:00:00.000Z",
-                                "originalPriceDisplay": "€7.19"
-                            },
-                            "offerLifecycleState": "Release",
-                            "price": {
-                                "currencyCode": "EUR",
-                                "decimalPrice": 0
-                            },
-                            "purchasePayload": {
-                                "offerId": "c56d898e34e4470c83442f2ad0ea2932",
-                                "sandboxId": "b002ccbe10f946f082a63bf85fa30558"
-                            },
-                            "purchaseType": "Claim"
-                        },
-                        {
-                            "offerLifecycleState": "Release",
-                            "price": {
-                                "currencyCode": "EUR",
-                                "decimalPrice": 7.19
-                            },
-                            "priceDisplay": "€7.19",
-                            "purchasePayload": {
-                                "offerId": "c56d898e34e4470c83442f2ad0ea2932",
-                                "sandboxId": "b002ccbe10f946f082a63bf85fa30558"
+                                "offerId": "87c834904c804a4f875515751dc768a6",
+                                "sandboxId": "286af74903fa418d931df4916c59779d"
                             },
                             "purchaseType": "Purchase"
                         }
                     ],
                     "systemSpecs": {
-                        "applicationVersion": "1.04",
+                        "applicationVersion": "1.0.0",
                         "platform": "ios",
                         "systemRequirements": [
                             {
-                                "minimum": "163MB",
+                                "minimum": "515 MB",
                                 "requirementType": "InstallSize",
                                 "title": "Installation size"
                             },
                             {
-                                "minimum": "150MB",
+                                "minimum": "390 MB",
                                 "requirementType": "DownloadSize",
                                 "title": "Download size"
                             },
                             {
-                                "minimum": "12",
+                                "minimum": "9.0",
                                 "requirementType": "OS",
                                 "title": "OS version"
                             }
                         ]
                     },
-                    "title": "The Ouroboros King"
+                    "title": "Princess Farmer"
                 },
-                "offerId": "c56d898e34e4470c83442f2ad0ea2932",
-                "sandboxId": "b002ccbe10f946f082a63bf85fa30558"
+                "offerId": "87c834904c804a4f875515751dc768a6",
+                "sandboxId": "286af74903fa418d931df4916c59779d"
             },
             {
                 "content": {
@@ -2050,19 +2019,6 @@
                     },
                     "purchase": [
                         {
-                            "offerLifecycleState": "Release",
-                            "price": {
-                                "currencyCode": "EUR",
-                                "decimalPrice": 3.59
-                            },
-                            "priceDisplay": "€3.59",
-                            "purchasePayload": {
-                                "offerId": "cb677536e6fa4dedbad3f7b7d2dc9217",
-                                "sandboxId": "fc82ffa501c44f2eb2b64225cfbd59b8"
-                            },
-                            "purchaseType": "Purchase"
-                        },
-                        {
                             "discount": {
                                 "discountAmountDisplay": "-40%",
                                 "discountEndDate": "2026-07-30T15:00:00.000Z",
@@ -3277,22 +3233,22 @@
                             "gate": "no-gate"
                         },
                         "ageRating": {
-                            "ageControl": 12,
+                            "ageControl": 7,
                             "contentDescriptors": [
-                                "Sexual Innuendo"
+                                "Mild Violence"
                             ],
                             "interactiveElements": [],
-                            "ratingImage": "https://cdn1.epicgames.com/gameRating/gameRating/PEGI_12_192_192x192-afa4df43f131bc83eb380ccf22f8d904",
+                            "ratingImage": "https://cdn1.epicgames.com/gameRating/gameRating/PEGI_7_192_192x192-30e2e712d0682dad01add90a6ccbed5b",
                             "ratingSystem": "PEGI",
-                            "rectangularRatingImage": "https://cdn1.epicgames.com/salesEvent/salesEvent/PEGI-12_436x530-0cd1f06607086f3cc1bc2b8643f21b0a",
-                            "title": "PEGI 12"
+                            "rectangularRatingImage": "https://cdn1.epicgames.com/salesEvent/salesEvent/PEGI-7_435x530-9439a136999d3dd762c7a61c3b8c7683",
+                            "title": "PEGI 7"
                         },
                         "ratingType": "AgeRating"
                     },
                     "attention": {
                         "inAppPurchases": "None"
                     },
-                    "catalogItemId": "10b5ba3437bc4ac0899c217b30620b6c",
+                    "catalogItemId": "250e07301ecb442a85bca40621234ca6",
                     "categories": [
                         "freegames",
                         "games",
@@ -3300,34 +3256,34 @@
                         "games/edition/base"
                     ],
                     "mapping": {
-                        "slug": "princess-farmer-ios-0b70cd"
+                        "slug": "the-ouroboros-king-ios-75e88e"
                     },
                     "media": {
                         "appIcon": {
                             "altText": "-",
                             "height": 512,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/d08c25c96a954b1b8cb0c22c3fec015f/princess-farmer-icon-ghi73.png",
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/33630d7105014582a478094e89953f49/the-ouroboros-king-icon-tkzcy.png",
                             "imageType": "ProductIcon",
                             "width": 512
                         },
                         "card16x9": {
-                            "altText": "Princess Farmer Offer",
+                            "altText": "The Ouroboros King Offer",
                             "height": 1440,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/d08c25c96a954b1b8cb0c22c3fec015f/princess-farmer-abxby.jpg",
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/33630d7105014582a478094e89953f49/the-ouroboros-king-s10fr.jpg",
                             "imageType": "OfferImageWide",
                             "width": 2560
                         },
                         "card3x4": {
-                            "altText": "Download Princess Farmer Offer",
+                            "altText": "Download The Ouroboros King Offer",
                             "height": 1600,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/d08c25c96a954b1b8cb0c22c3fec015f/princess-farmer-12fs1.jpg",
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/33630d7105014582a478094e89953f49/the-ouroboros-king-1e67x.jpg",
                             "imageType": "OfferImageTall",
                             "width": 1200
                         },
                         "coverImage": {
                             "altText": "-",
                             "height": 1440,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/d08c25c96a954b1b8cb0c22c3fec015f/princess-farmer-zjjr1.png",
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/33630d7105014582a478094e89953f49/the-ouroboros-king-1v77v.jpg",
                             "imageType": "coverImage",
                             "width": 2560
                         }
@@ -3336,8 +3292,8 @@
                         {
                             "discount": {
                                 "discountAmountDisplay": "-100%",
-                                "discountEndDate": "2026-07-16T15:00:00.000Z",
-                                "originalPriceDisplay": "€4.49"
+                                "discountEndDate": "2026-07-23T15:00:00.000Z",
+                                "originalPriceDisplay": "€7.19"
                             },
                             "offerLifecycleState": "Release",
                             "price": {
@@ -3345,8 +3301,8 @@
                                 "decimalPrice": 0
                             },
                             "purchasePayload": {
-                                "offerId": "87c834904c804a4f875515751dc768a6",
-                                "sandboxId": "286af74903fa418d931df4916c59779d"
+                                "offerId": "c56d898e34e4470c83442f2ad0ea2932",
+                                "sandboxId": "b002ccbe10f946f082a63bf85fa30558"
                             },
                             "purchaseType": "Claim"
                         },
@@ -3354,41 +3310,41 @@
                             "offerLifecycleState": "Release",
                             "price": {
                                 "currencyCode": "EUR",
-                                "decimalPrice": 4.49
+                                "decimalPrice": 7.19
                             },
-                            "priceDisplay": "€4.49",
+                            "priceDisplay": "€7.19",
                             "purchasePayload": {
-                                "offerId": "87c834904c804a4f875515751dc768a6",
-                                "sandboxId": "286af74903fa418d931df4916c59779d"
+                                "offerId": "c56d898e34e4470c83442f2ad0ea2932",
+                                "sandboxId": "b002ccbe10f946f082a63bf85fa30558"
                             },
                             "purchaseType": "Purchase"
                         }
                     ],
                     "systemSpecs": {
-                        "applicationVersion": "1.0.0",
+                        "applicationVersion": "1.04",
                         "platform": "ios",
                         "systemRequirements": [
                             {
-                                "minimum": "515 MB",
+                                "minimum": "163MB",
                                 "requirementType": "InstallSize",
                                 "title": "Installation size"
                             },
                             {
-                                "minimum": "390 MB",
+                                "minimum": "150MB",
                                 "requirementType": "DownloadSize",
                                 "title": "Download size"
                             },
                             {
-                                "minimum": "9.0",
+                                "minimum": "12",
                                 "requirementType": "OS",
                                 "title": "OS version"
                             }
                         ]
                     },
-                    "title": "Princess Farmer"
+                    "title": "The Ouroboros King"
                 },
-                "offerId": "87c834904c804a4f875515751dc768a6",
-                "sandboxId": "286af74903fa418d931df4916c59779d"
+                "offerId": "c56d898e34e4470c83442f2ad0ea2932",
+                "sandboxId": "b002ccbe10f946f082a63bf85fa30558"
             }
         ],
         "size": "large",
@@ -8194,19 +8150,6 @@
                     },
                     "purchase": [
                         {
-                            "offerLifecycleState": "Release",
-                            "price": {
-                                "currencyCode": "EUR",
-                                "decimalPrice": 6.29
-                            },
-                            "priceDisplay": "€6.29",
-                            "purchasePayload": {
-                                "offerId": "550b454e4d61436191912195f9c8b5db",
-                                "sandboxId": "6a8dfa6e441e4f2f9048a98776c6077d"
-                            },
-                            "purchaseType": "Purchase"
-                        },
-                        {
                             "discount": {
                                 "discountAmountDisplay": "-50%",
                                 "discountEndDate": "2026-07-30T15:00:00.000Z",
@@ -10182,19 +10125,6 @@
                     },
                     "purchase": [
                         {
-                            "offerLifecycleState": "Release",
-                            "price": {
-                                "currencyCode": "EUR",
-                                "decimalPrice": 5.99
-                            },
-                            "priceDisplay": "€5.99",
-                            "purchasePayload": {
-                                "offerId": "e3659cda5ccb4d269744aadf311bb65c",
-                                "sandboxId": "db665435888341f69ec556d5408e7798"
-                            },
-                            "purchaseType": "Purchase"
-                        },
-                        {
                             "discount": {
                                 "discountAmountDisplay": "-50%",
                                 "discountEndDate": "2026-07-30T15:00:00.000Z",
@@ -10315,19 +10245,6 @@
                         }
                     },
                     "purchase": [
-                        {
-                            "offerLifecycleState": "Release",
-                            "price": {
-                                "currencyCode": "EUR",
-                                "decimalPrice": 0.99
-                            },
-                            "priceDisplay": "€0.99",
-                            "purchasePayload": {
-                                "offerId": "c7e04db93fe74b86b04ca988a91f9249",
-                                "sandboxId": "d408f663403d4e9f8ecdc3086ed0d7bc"
-                            },
-                            "purchaseType": "Purchase"
-                        },
                         {
                             "discount": {
                                 "discountAmountDisplay": "-25%",
@@ -10551,19 +10468,6 @@
                     },
                     "purchase": [
                         {
-                            "offerLifecycleState": "Release",
-                            "price": {
-                                "currencyCode": "EUR",
-                                "decimalPrice": 1.99
-                            },
-                            "priceDisplay": "€1.99",
-                            "purchasePayload": {
-                                "offerId": "6fd580cec714477397ac48fdd4fdf442",
-                                "sandboxId": "39697c68e46b48d2b75e17bdc417d859"
-                            },
-                            "purchaseType": "Purchase"
-                        },
-                        {
                             "discount": {
                                 "discountAmountDisplay": "-50%",
                                 "discountEndDate": "2026-07-30T15:00:00.000Z",
@@ -10784,19 +10688,6 @@
                     },
                     "purchase": [
                         {
-                            "offerLifecycleState": "Release",
-                            "price": {
-                                "currencyCode": "EUR",
-                                "decimalPrice": 0.99
-                            },
-                            "priceDisplay": "€0.99",
-                            "purchasePayload": {
-                                "offerId": "114957a59a19404090fba131e28168bf",
-                                "sandboxId": "5f31cc1f56e04ea1aa991db29e53a148"
-                            },
-                            "purchaseType": "Purchase"
-                        },
-                        {
                             "discount": {
                                 "discountAmountDisplay": "-51%",
                                 "discountEndDate": "2026-07-30T15:00:00.000Z",
@@ -10917,19 +10808,6 @@
                     },
                     "purchase": [
                         {
-                            "offerLifecycleState": "Release",
-                            "price": {
-                                "currencyCode": "EUR",
-                                "decimalPrice": 5.39
-                            },
-                            "priceDisplay": "€5.39",
-                            "purchasePayload": {
-                                "offerId": "25975acb0cba4e268fc866171bc8c0c9",
-                                "sandboxId": "109a4631336a475ca4e4a8a51cc6fe69"
-                            },
-                            "purchaseType": "Purchase"
-                        },
-                        {
                             "discount": {
                                 "discountAmountDisplay": "-80%",
                                 "discountEndDate": "2026-07-30T15:00:00.000Z",
@@ -11049,19 +10927,6 @@
                         }
                     },
                     "purchase": [
-                        {
-                            "offerLifecycleState": "Release",
-                            "price": {
-                                "currencyCode": "EUR",
-                                "decimalPrice": 5.39
-                            },
-                            "priceDisplay": "€5.39",
-                            "purchasePayload": {
-                                "offerId": "e85fe9f43fc64fc89a78b950ee7f1860",
-                                "sandboxId": "270e1d648a5e4060b7b441615c4da4d9"
-                            },
-                            "purchaseType": "Purchase"
-                        },
                         {
                             "discount": {
                                 "discountAmountDisplay": "-80%",
@@ -11184,19 +11049,6 @@
                     },
                     "purchase": [
                         {
-                            "offerLifecycleState": "Release",
-                            "price": {
-                                "currencyCode": "EUR",
-                                "decimalPrice": 0.99
-                            },
-                            "priceDisplay": "€0.99",
-                            "purchasePayload": {
-                                "offerId": "339352faf7db4a3bbb262362fd0041c3",
-                                "sandboxId": "09f00180b25347bdb65ac0b7378756b7"
-                            },
-                            "purchaseType": "Purchase"
-                        },
-                        {
                             "discount": {
                                 "discountAmountDisplay": "-51%",
                                 "discountEndDate": "2026-07-30T15:00:00.000Z",
@@ -11316,19 +11168,6 @@
                         }
                     },
                     "purchase": [
-                        {
-                            "offerLifecycleState": "Release",
-                            "price": {
-                                "currencyCode": "EUR",
-                                "decimalPrice": 5.39
-                            },
-                            "priceDisplay": "€5.39",
-                            "purchasePayload": {
-                                "offerId": "de6c8b3a03474e82a25a4fa4081cb16f",
-                                "sandboxId": "a3100205e194489088c7625c8c5c1596"
-                            },
-                            "purchaseType": "Purchase"
-                        },
                         {
                             "discount": {
                                 "discountAmountDisplay": "-80%",
