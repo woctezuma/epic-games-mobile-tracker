@@ -2115,6 +2115,62 @@
         "store_url": "<https://store.epicgames.com/product/boxes-lost-fragments-android-356638>",
         "title": "Boxes: Lost Fragments"
     },
+    "1-b002ccbe10f946f082a63bf85fa30558-afbeeb6e2d144831990b9ad42159a15b": {
+        "age_control": 7,
+        "catalog_item_id": "84d8aefa14b2419a95d9e26c7fc889e4",
+        "checkout_url": "<https://store.epicgames.com/purchase?offers=1-b002ccbe10f946f082a63bf85fa30558-afbeeb6e2d144831990b9ad42159a15b>",
+        "content_descriptors": [
+            "Mild Violence"
+        ],
+        "current_price": "0",
+        "discount": "-100%",
+        "download_size": "164.12MB",
+        "end_date": "2026-07-23T15:00:00.000Z",
+        "in_app_purchases": false,
+        "install_size": "165MB",
+        "interactive_elements": [],
+        "media": {
+            "OfferImageTall": "https://cdn1.epicgames.com/spt-assets/33630d7105014582a478094e89953f49/the-ouroboros-king-1gzzw.jpg",
+            "OfferImageWide": "https://cdn1.epicgames.com/spt-assets/33630d7105014582a478094e89953f49/the-ouroboros-king-cllgr.jpg",
+            "ProductIcon": "https://cdn1.epicgames.com/spt-assets/33630d7105014582a478094e89953f49/the-ouroboros-king-icon-tkzcy.png",
+            "coverImage": "https://cdn1.epicgames.com/spt-assets/33630d7105014582a478094e89953f49/the-ouroboros-king-1v77v.jpg"
+        },
+        "offer_id": "afbeeb6e2d144831990b9ad42159a15b",
+        "original_price": "7.19",
+        "platform": "android",
+        "sandbox_id": "b002ccbe10f946f082a63bf85fa30558",
+        "slug": "the-ouroboros-king-android-1740da",
+        "store_url": "<https://store.epicgames.com/product/the-ouroboros-king-android-1740da>",
+        "title": "The Ouroboros King"
+    },
+    "1-b002ccbe10f946f082a63bf85fa30558-c56d898e34e4470c83442f2ad0ea2932": {
+        "age_control": 7,
+        "catalog_item_id": "250e07301ecb442a85bca40621234ca6",
+        "checkout_url": "<https://store.epicgames.com/purchase?offers=1-b002ccbe10f946f082a63bf85fa30558-c56d898e34e4470c83442f2ad0ea2932>",
+        "content_descriptors": [
+            "Mild Violence"
+        ],
+        "current_price": "0",
+        "discount": "-100%",
+        "download_size": "150MB",
+        "end_date": "2026-07-23T15:00:00.000Z",
+        "in_app_purchases": false,
+        "install_size": "163MB",
+        "interactive_elements": [],
+        "media": {
+            "OfferImageTall": "https://cdn1.epicgames.com/spt-assets/33630d7105014582a478094e89953f49/the-ouroboros-king-1e67x.jpg",
+            "OfferImageWide": "https://cdn1.epicgames.com/spt-assets/33630d7105014582a478094e89953f49/the-ouroboros-king-s10fr.jpg",
+            "ProductIcon": "https://cdn1.epicgames.com/spt-assets/33630d7105014582a478094e89953f49/the-ouroboros-king-icon-tkzcy.png",
+            "coverImage": "https://cdn1.epicgames.com/spt-assets/33630d7105014582a478094e89953f49/the-ouroboros-king-1v77v.jpg"
+        },
+        "offer_id": "c56d898e34e4470c83442f2ad0ea2932",
+        "original_price": "7.19",
+        "platform": "ios",
+        "sandbox_id": "b002ccbe10f946f082a63bf85fa30558",
+        "slug": "the-ouroboros-king-ios-75e88e",
+        "store_url": "<https://store.epicgames.com/product/the-ouroboros-king-ios-75e88e>",
+        "title": "The Ouroboros King"
+    },
     "1-b0545d64f90248208a5dd6f213f4dde7-72c821408de74fed9a90f374c4825991": {
         "age_control": 3,
         "catalog_item_id": "08b621a7678e49148f8ccccd372c0c8e",
