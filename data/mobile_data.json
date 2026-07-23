@@ -2539,6 +2539,62 @@
         "store_url": "<https://store.epicgames.com/product/the-battle-of-polytopia-android-2acf81>",
         "title": "The Battle of Polytopia"
     },
+    "1-c5730ad3d7004a65a472a7699b88008a-11c48508c23442f4a32f92590c048925": {
+        "age_control": 12,
+        "catalog_item_id": "2439f3e9b2ff4f5086cce4ff7c30f7ea",
+        "checkout_url": "<https://store.epicgames.com/purchase?offers=1-c5730ad3d7004a65a472a7699b88008a-11c48508c23442f4a32f92590c048925>",
+        "content_descriptors": [
+            "Mild Swearing"
+        ],
+        "current_price": "0",
+        "discount": "-100%",
+        "download_size": "690 MB",
+        "end_date": "2026-07-30T15:00:00.000Z",
+        "in_app_purchases": false,
+        "install_size": "700 MB",
+        "interactive_elements": [],
+        "media": {
+            "OfferImageTall": "https://cdn1.epicgames.com/spt-assets/2b593b82aea84695b1608d74d3850ceb/download-foretales-offer-o19ij.jpg",
+            "OfferImageWide": "https://cdn1.epicgames.com/spt-assets/2b593b82aea84695b1608d74d3850ceb/foretales-offer-urvzn.jpg",
+            "ProductIcon": "https://cdn1.epicgames.com/spt-assets/2b593b82aea84695b1608d74d3850ceb/foretales-icon-y1apa.png",
+            "coverImage": "https://cdn1.epicgames.com/spt-assets/2b593b82aea84695b1608d74d3850ceb/foretales-zwy45.png"
+        },
+        "offer_id": "11c48508c23442f4a32f92590c048925",
+        "original_price": "4.49",
+        "platform": "ios",
+        "sandbox_id": "c5730ad3d7004a65a472a7699b88008a",
+        "slug": "foretales-ios-7f68e5",
+        "store_url": "<https://store.epicgames.com/product/foretales-ios-7f68e5>",
+        "title": "Foretales"
+    },
+    "1-c5730ad3d7004a65a472a7699b88008a-1505df0b8de84944b11ea9ace08ae34f": {
+        "age_control": 12,
+        "catalog_item_id": "300067ac7028475ea64fd6b5ed4edb9d",
+        "checkout_url": "<https://store.epicgames.com/purchase?offers=1-c5730ad3d7004a65a472a7699b88008a-1505df0b8de84944b11ea9ace08ae34f>",
+        "content_descriptors": [
+            "Mild Swearing"
+        ],
+        "current_price": "0",
+        "discount": "-100%",
+        "download_size": "608.09 MB",
+        "end_date": "2026-07-30T15:00:00.000Z",
+        "in_app_purchases": false,
+        "install_size": "650 MB",
+        "interactive_elements": [],
+        "media": {
+            "OfferImageTall": "https://cdn1.epicgames.com/spt-assets/2b593b82aea84695b1608d74d3850ceb/download-foretales-offer-o19ij.jpg",
+            "OfferImageWide": "https://cdn1.epicgames.com/spt-assets/2b593b82aea84695b1608d74d3850ceb/foretales-offer-urvzn.jpg",
+            "ProductIcon": "https://cdn1.epicgames.com/spt-assets/2b593b82aea84695b1608d74d3850ceb/foretales-icon-y1apa.png",
+            "coverImage": "https://cdn1.epicgames.com/spt-assets/2b593b82aea84695b1608d74d3850ceb/foretales-zwy45.png"
+        },
+        "offer_id": "1505df0b8de84944b11ea9ace08ae34f",
+        "original_price": "4.49",
+        "platform": "android",
+        "sandbox_id": "c5730ad3d7004a65a472a7699b88008a",
+        "slug": "foretales-android-7c6e1c",
+        "store_url": "<https://store.epicgames.com/product/foretales-android-7c6e1c>",
+        "title": "Foretales"
+    },
     "1-c62d7481ae1744dab7310c8f4e1e9548-04fd7f76cecc4eaf830b82e27ffe8a2b": {
         "age_control": 7,
         "catalog_item_id": "b78dcc2694ef4157899ab221977a3f01",
