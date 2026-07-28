@@ -14938,24 +14938,6 @@
                     },
                     "purchase": [
                         {
-                            "discount": {
-                                "discountAmountDisplay": "-70%",
-                                "discountEndDate": "2026-07-28T15:00:00.000Z",
-                                "originalPriceDisplay": "€1.79"
-                            },
-                            "offerLifecycleState": "Release",
-                            "price": {
-                                "currencyCode": "EUR",
-                                "decimalPrice": 0.53
-                            },
-                            "priceDisplay": "€0.53",
-                            "purchasePayload": {
-                                "offerId": "c910e34fc454401c90e0e9b88a67c110",
-                                "sandboxId": "f1e83e5944954920827fe315a151174d"
-                            },
-                            "purchaseType": "Purchase"
-                        },
-                        {
                             "offerLifecycleState": "Release",
                             "price": {
                                 "currencyCode": "EUR",
@@ -18179,19 +18161,6 @@
                         }
                     },
                     "purchase": [
-                        {
-                            "offerLifecycleState": "Release",
-                            "price": {
-                                "currencyCode": "EUR",
-                                "decimalPrice": 3.59
-                            },
-                            "priceDisplay": "€3.59",
-                            "purchasePayload": {
-                                "offerId": "2ad0d6d5044943b58f302eaa6c1aa2ba",
-                                "sandboxId": "852b362ef44f4c6883166117e0f9eb63"
-                            },
-                            "purchaseType": "Purchase"
-                        },
                         {
                             "discount": {
                                 "discountAmountDisplay": "-70%",
