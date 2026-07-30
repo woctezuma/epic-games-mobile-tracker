@@ -1015,6 +1015,62 @@
         "store_url": "<https://store.epicgames.com/product/dc-heroes-united-android-de4bc2>",
         "title": "DC Heroes United"
     },
+    "1-5645a537b6a44f6f82d122729f3253ed-6b8b4dfd2c13437dad063ca2e8c8e9cb": {
+        "age_control": 7,
+        "catalog_item_id": "0af51701f2a046f383430dcbf4e1fe55",
+        "checkout_url": "<https://store.epicgames.com/purchase?offers=1-5645a537b6a44f6f82d122729f3253ed-6b8b4dfd2c13437dad063ca2e8c8e9cb>",
+        "content_descriptors": [
+            "Fear"
+        ],
+        "current_price": "0",
+        "discount": "-100%",
+        "download_size": "1.79 GB",
+        "end_date": "2026-08-06T15:00:00.000Z",
+        "in_app_purchases": false,
+        "install_size": "1.79 GB",
+        "interactive_elements": [],
+        "media": {
+            "OfferImageTall": "https://cdn1.epicgames.com/spt-assets/022752a30f53497bb173a432a9229e54/mutazione-h7cfk.png",
+            "OfferImageWide": "https://cdn1.epicgames.com/spt-assets/022752a30f53497bb173a432a9229e54/mutazione-1n4mz.jpg",
+            "ProductIcon": "https://cdn1.epicgames.com/spt-assets/022752a30f53497bb173a432a9229e54/mutazione-icon-1i2mb.png",
+            "coverImage": "https://cdn1.epicgames.com/spt-assets/022752a30f53497bb173a432a9229e54/mutazione-1vnm0.png"
+        },
+        "offer_id": "6b8b4dfd2c13437dad063ca2e8c8e9cb",
+        "original_price": "8.99",
+        "platform": "android",
+        "sandbox_id": "5645a537b6a44f6f82d122729f3253ed",
+        "slug": "mutazione-android-bdb9c1",
+        "store_url": "<https://store.epicgames.com/product/mutazione-android-bdb9c1>",
+        "title": "Mutazione"
+    },
+    "1-5645a537b6a44f6f82d122729f3253ed-8c4e21af77054c7799ca501e24812649": {
+        "age_control": 7,
+        "catalog_item_id": "8bfb239639094ee8a06308ce08c7a34c",
+        "checkout_url": "<https://store.epicgames.com/purchase?offers=1-5645a537b6a44f6f82d122729f3253ed-8c4e21af77054c7799ca501e24812649>",
+        "content_descriptors": [
+            "Fear"
+        ],
+        "current_price": "0",
+        "discount": "-100%",
+        "download_size": "1.01 GB",
+        "end_date": "2026-08-06T15:00:00.000Z",
+        "in_app_purchases": false,
+        "install_size": "1.34 GB",
+        "interactive_elements": [],
+        "media": {
+            "OfferImageTall": "https://cdn1.epicgames.com/spt-assets/022752a30f53497bb173a432a9229e54/mutazione-fomsq.png",
+            "OfferImageWide": "https://cdn1.epicgames.com/spt-assets/022752a30f53497bb173a432a9229e54/mutazione-1yq6v.jpg",
+            "ProductIcon": "https://cdn1.epicgames.com/spt-assets/022752a30f53497bb173a432a9229e54/mutazione-icon-1i2mb.png",
+            "coverImage": "https://cdn1.epicgames.com/spt-assets/022752a30f53497bb173a432a9229e54/mutazione-1vnm0.png"
+        },
+        "offer_id": "8c4e21af77054c7799ca501e24812649",
+        "original_price": "8.99",
+        "platform": "ios",
+        "sandbox_id": "5645a537b6a44f6f82d122729f3253ed",
+        "slug": "mutazione-ios-c09172",
+        "store_url": "<https://store.epicgames.com/product/mutazione-ios-c09172>",
+        "title": "Mutazione"
+    },
     "1-56c52cefc7eb49d59d60cf8ba253c634-0c47d249fb9e4898a3cbf7b62be40a41": {
         "age_control": 16,
         "catalog_item_id": "8c6637ba536a4823a2b3f4b0745c0ed9",
