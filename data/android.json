@@ -2344,6 +2344,37 @@
                                 "sandboxId": "d923c737f0d243ccab407605ea40d39e"
                             },
                             "purchaseType": "Purchase"
+                        },
+                        {
+                            "discount": {
+                                "discountAmountDisplay": "-80%",
+                                "discountEndDate": "2026-08-15T17:00:00.000Z",
+                                "originalPriceDisplay": "€5.39"
+                            },
+                            "offerLifecycleState": "Release",
+                            "price": {
+                                "currencyCode": "EUR",
+                                "decimalPrice": 1.07
+                            },
+                            "priceDisplay": "€1.07",
+                            "purchasePayload": {
+                                "offerId": "c5450a64934e414e899becec36081db1",
+                                "sandboxId": "d923c737f0d243ccab407605ea40d39e"
+                            },
+                            "purchaseType": "Purchase"
+                        },
+                        {
+                            "offerLifecycleState": "Release",
+                            "price": {
+                                "currencyCode": "EUR",
+                                "decimalPrice": 5.39
+                            },
+                            "priceDisplay": "€5.39",
+                            "purchasePayload": {
+                                "offerId": "c5450a64934e414e899becec36081db1",
+                                "sandboxId": "d923c737f0d243ccab407605ea40d39e"
+                            },
+                            "purchaseType": "Purchase"
                         }
                     ],
                     "systemSpecs": {
@@ -4263,7 +4294,7 @@
                         }
                     ],
                     "systemSpecs": {
-                        "applicationVersion": "11.4.1.9",
+                        "applicationVersion": "11.4.1.11",
                         "platform": "android",
                         "systemRequirements": [
                             {
@@ -4272,7 +4303,7 @@
                                 "title": "Installation size"
                             },
                             {
-                                "minimum": "581.21 MB",
+                                "minimum": "583.85 MB",
                                 "requirementType": "DownloadSize",
                                 "title": "Download size"
                             },
@@ -10209,6 +10240,37 @@
                                 "sandboxId": "9f981e2c861e4a8fbd0eab89541ac8e6"
                             },
                             "purchaseType": "Purchase"
+                        },
+                        {
+                            "discount": {
+                                "discountAmountDisplay": "-80%",
+                                "discountEndDate": "2026-08-15T17:00:00.000Z",
+                                "originalPriceDisplay": "€8.99"
+                            },
+                            "offerLifecycleState": "Release",
+                            "price": {
+                                "currencyCode": "EUR",
+                                "decimalPrice": 1.79
+                            },
+                            "priceDisplay": "€1.79",
+                            "purchasePayload": {
+                                "offerId": "cc5047a61fca40c492cf255c07ffc4c6",
+                                "sandboxId": "9f981e2c861e4a8fbd0eab89541ac8e6"
+                            },
+                            "purchaseType": "Purchase"
+                        },
+                        {
+                            "offerLifecycleState": "Release",
+                            "price": {
+                                "currencyCode": "EUR",
+                                "decimalPrice": 8.99
+                            },
+                            "priceDisplay": "€8.99",
+                            "purchasePayload": {
+                                "offerId": "cc5047a61fca40c492cf255c07ffc4c6",
+                                "sandboxId": "9f981e2c861e4a8fbd0eab89541ac8e6"
+                            },
+                            "purchaseType": "Purchase"
                         }
                     ],
                     "systemSpecs": {
@@ -11370,7 +11432,7 @@
                         }
                     ],
                     "systemSpecs": {
-                        "applicationVersion": "1.44.1",
+                        "applicationVersion": "1.44.3",
                         "platform": "android",
                         "systemRequirements": [
                             {
@@ -11379,7 +11441,7 @@
                                 "title": "Installation size"
                             },
                             {
-                                "minimum": "172.12 MB",
+                                "minimum": "172.11 MB",
                                 "requirementType": "DownloadSize",
                                 "title": "Download size"
                             },
@@ -12309,19 +12371,6 @@
                         }
                     },
                     "purchase": [
-                        {
-                            "offerLifecycleState": "Release",
-                            "price": {
-                                "currencyCode": "EUR",
-                                "decimalPrice": 3.99
-                            },
-                            "priceDisplay": "€3.99",
-                            "purchasePayload": {
-                                "offerId": "88e067bae4ee48afb42e4d0351db48ab",
-                                "sandboxId": "bf0ff87e1f254dfcba5268f33036130d"
-                            },
-                            "purchaseType": "Purchase"
-                        },
                         {
                             "discount": {
                                 "discountAmountDisplay": "-50%",
