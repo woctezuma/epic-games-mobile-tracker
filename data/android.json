@@ -111,6 +111,108 @@
                             "gate": "no-gate"
                         },
                         "ageRating": {
+                            "ageControl": 7,
+                            "contentDescriptors": [
+                                "Fear"
+                            ],
+                            "interactiveElements": [],
+                            "ratingImage": "https://cdn1.epicgames.com/gameRating/gameRating/PEGI_7_192_192x192-30e2e712d0682dad01add90a6ccbed5b",
+                            "ratingSystem": "PEGI",
+                            "rectangularRatingImage": "https://cdn1.epicgames.com/salesEvent/salesEvent/PEGI-7_435x530-9439a136999d3dd762c7a61c3b8c7683",
+                            "title": "PEGI 7"
+                        },
+                        "ratingType": "AgeRating"
+                    },
+                    "attention": {
+                        "inAppPurchases": "None"
+                    },
+                    "catalogItemId": "0af51701f2a046f383430dcbf4e1fe55",
+                    "categories": [
+                        "games",
+                        "games/edition",
+                        "games/edition/base"
+                    ],
+                    "mapping": {
+                        "slug": "mutazione-android-bdb9c1"
+                    },
+                    "media": {
+                        "appIcon": {
+                            "altText": "-",
+                            "height": 512,
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/022752a30f53497bb173a432a9229e54/mutazione-icon-1i2mb.png",
+                            "imageType": "ProductIcon",
+                            "width": 512
+                        },
+                        "card16x9": {
+                            "altText": "Mutazione Offer",
+                            "height": 1440,
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/022752a30f53497bb173a432a9229e54/mutazione-1n4mz.jpg",
+                            "imageType": "OfferImageWide",
+                            "width": 2560
+                        },
+                        "card3x4": {
+                            "altText": "Download Mutazione Offer",
+                            "height": 1600,
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/022752a30f53497bb173a432a9229e54/mutazione-h7cfk.png",
+                            "imageType": "OfferImageTall",
+                            "width": 1200
+                        },
+                        "coverImage": {
+                            "altText": "-",
+                            "height": 1440,
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/022752a30f53497bb173a432a9229e54/mutazione-1vnm0.png",
+                            "imageType": "coverImage",
+                            "width": 2560
+                        }
+                    },
+                    "purchase": [
+                        {
+                            "offerLifecycleState": "Release",
+                            "price": {
+                                "currencyCode": "EUR",
+                                "decimalPrice": 8.99
+                            },
+                            "priceDisplay": "€8.99",
+                            "purchasePayload": {
+                                "offerId": "6b8b4dfd2c13437dad063ca2e8c8e9cb",
+                                "sandboxId": "5645a537b6a44f6f82d122729f3253ed"
+                            },
+                            "purchaseType": "Purchase"
+                        }
+                    ],
+                    "systemSpecs": {
+                        "applicationVersion": "1.89.1",
+                        "platform": "android",
+                        "systemRequirements": [
+                            {
+                                "minimum": "1.79 GB",
+                                "requirementType": "InstallSize",
+                                "title": "Installation size"
+                            },
+                            {
+                                "minimum": "1.79 GB",
+                                "requirementType": "DownloadSize",
+                                "title": "Download size"
+                            },
+                            {
+                                "minimum": "12",
+                                "requirementType": "OS",
+                                "title": "OS version"
+                            }
+                        ]
+                    },
+                    "title": "Mutazione"
+                },
+                "offerId": "6b8b4dfd2c13437dad063ca2e8c8e9cb",
+                "sandboxId": "5645a537b6a44f6f82d122729f3253ed"
+            },
+            {
+                "content": {
+                    "ageRating": {
+                        "ageGate": {
+                            "gate": "no-gate"
+                        },
+                        "ageRating": {
                             "ageControl": 12,
                             "contentDescriptors": [
                                 "Mild Swearing"
@@ -776,19 +878,6 @@
                         }
                     },
                     "purchase": [
-                        {
-                            "offerLifecycleState": "Release",
-                            "price": {
-                                "currencyCode": "EUR",
-                                "decimalPrice": 2.69
-                            },
-                            "priceDisplay": "€2.69",
-                            "purchasePayload": {
-                                "offerId": "1a28d6a2692840aa8fdc8cfa957e5fb0",
-                                "sandboxId": "b172c475650a4104842716a69af1b889"
-                            },
-                            "purchaseType": "Purchase"
-                        },
                         {
                             "discount": {
                                 "discountAmountDisplay": "-35%",
@@ -3382,22 +3471,20 @@
                             "gate": "no-gate"
                         },
                         "ageRating": {
-                            "ageControl": 7,
-                            "contentDescriptors": [
-                                "Fear"
-                            ],
+                            "ageControl": 3,
+                            "contentDescriptors": [],
                             "interactiveElements": [],
-                            "ratingImage": "https://cdn1.epicgames.com/gameRating/gameRating/PEGI_7_192_192x192-30e2e712d0682dad01add90a6ccbed5b",
+                            "ratingImage": "https://cdn1.epicgames.com/gameRating/gameRating/PEGI_3_192_192x192-490b93ddf59fb4ac1148d1eb9083626a",
                             "ratingSystem": "PEGI",
-                            "rectangularRatingImage": "https://cdn1.epicgames.com/salesEvent/salesEvent/PEGI-7_435x530-9439a136999d3dd762c7a61c3b8c7683",
-                            "title": "PEGI 7"
+                            "rectangularRatingImage": "https://cdn1.epicgames.com/salesEvent/salesEvent/PEGI-3_435x530-c931ab5bb4eb190f6e8e542081c49dc4",
+                            "title": "PEGI 3"
                         },
                         "ratingType": "AgeRating"
                     },
                     "attention": {
                         "inAppPurchases": "None"
                     },
-                    "catalogItemId": "0af51701f2a046f383430dcbf4e1fe55",
+                    "catalogItemId": "452e0648d3804894ace2af6a36a223fc",
                     "categories": [
                         "freegames",
                         "games",
@@ -3405,34 +3492,34 @@
                         "games/edition/base"
                     ],
                     "mapping": {
-                        "slug": "mutazione-android-bdb9c1"
+                        "slug": "a-guidebook-of-babel-android-381952"
                     },
                     "media": {
                         "appIcon": {
                             "altText": "-",
                             "height": 512,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/022752a30f53497bb173a432a9229e54/mutazione-icon-1i2mb.png",
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/e8fb4e1fce7b4d6083e6550d545d6680/a-guidebook-of-babel-icon-sdgvx.png",
                             "imageType": "ProductIcon",
                             "width": 512
                         },
                         "card16x9": {
-                            "altText": "Mutazione Offer",
+                            "altText": "A Guidebook Of Babel Offer",
                             "height": 1440,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/022752a30f53497bb173a432a9229e54/mutazione-1n4mz.jpg",
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/e8fb4e1fce7b4d6083e6550d545d6680/a-guidebook-of-babel-txl7c.jpg",
                             "imageType": "OfferImageWide",
                             "width": 2560
                         },
                         "card3x4": {
-                            "altText": "Download Mutazione Offer",
+                            "altText": "Download A Guidebook Of Babel Offer",
                             "height": 1600,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/022752a30f53497bb173a432a9229e54/mutazione-h7cfk.png",
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/e8fb4e1fce7b4d6083e6550d545d6680/a-guidebook-of-babel-tnulv.jpg",
                             "imageType": "OfferImageTall",
                             "width": 1200
                         },
                         "coverImage": {
                             "altText": "-",
                             "height": 1440,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/022752a30f53497bb173a432a9229e54/mutazione-1vnm0.png",
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/e8fb4e1fce7b4d6083e6550d545d6680/a-guidebook-of-babel-1eogu.jpg",
                             "imageType": "coverImage",
                             "width": 2560
                         }
@@ -3441,8 +3528,8 @@
                         {
                             "discount": {
                                 "discountAmountDisplay": "-100%",
-                                "discountEndDate": "2026-08-06T15:00:00.000Z",
-                                "originalPriceDisplay": "€8.99"
+                                "discountEndDate": "2026-08-13T15:00:00.000Z",
+                                "originalPriceDisplay": "€4.49"
                             },
                             "offerLifecycleState": "Release",
                             "price": {
@@ -3450,8 +3537,8 @@
                                 "decimalPrice": 0
                             },
                             "purchasePayload": {
-                                "offerId": "6b8b4dfd2c13437dad063ca2e8c8e9cb",
-                                "sandboxId": "5645a537b6a44f6f82d122729f3253ed"
+                                "offerId": "9a8572c74bf94274a5495f1c6f148b2e",
+                                "sandboxId": "aa7a9b99dac643b1acd565509a4ca2be"
                             },
                             "purchaseType": "Claim"
                         },
@@ -3459,41 +3546,41 @@
                             "offerLifecycleState": "Release",
                             "price": {
                                 "currencyCode": "EUR",
-                                "decimalPrice": 8.99
+                                "decimalPrice": 4.49
                             },
-                            "priceDisplay": "€8.99",
+                            "priceDisplay": "€4.49",
                             "purchasePayload": {
-                                "offerId": "6b8b4dfd2c13437dad063ca2e8c8e9cb",
-                                "sandboxId": "5645a537b6a44f6f82d122729f3253ed"
+                                "offerId": "9a8572c74bf94274a5495f1c6f148b2e",
+                                "sandboxId": "aa7a9b99dac643b1acd565509a4ca2be"
                             },
                             "purchaseType": "Purchase"
                         }
                     ],
                     "systemSpecs": {
-                        "applicationVersion": "1.89.1",
+                        "applicationVersion": "1.0.10",
                         "platform": "android",
                         "systemRequirements": [
                             {
-                                "minimum": "1.79 GB",
+                                "minimum": "280 MB",
                                 "requirementType": "InstallSize",
                                 "title": "Installation size"
                             },
                             {
-                                "minimum": "1.79 GB",
+                                "minimum": "257.14 MB",
                                 "requirementType": "DownloadSize",
                                 "title": "Download size"
                             },
                             {
-                                "minimum": "12",
+                                "minimum": "6.0",
                                 "requirementType": "OS",
                                 "title": "OS version"
                             }
                         ]
                     },
-                    "title": "Mutazione"
+                    "title": "A Guidebook Of Babel"
                 },
-                "offerId": "6b8b4dfd2c13437dad063ca2e8c8e9cb",
-                "sandboxId": "5645a537b6a44f6f82d122729f3253ed"
+                "offerId": "9a8572c74bf94274a5495f1c6f148b2e",
+                "sandboxId": "aa7a9b99dac643b1acd565509a4ca2be"
             }
         ],
         "size": "large",
@@ -10357,19 +10444,6 @@
                     },
                     "purchase": [
                         {
-                            "offerLifecycleState": "Release",
-                            "price": {
-                                "currencyCode": "EUR",
-                                "decimalPrice": 2.99
-                            },
-                            "priceDisplay": "€2.99",
-                            "purchasePayload": {
-                                "offerId": "a58fa1be6d98402898549af5e705918c",
-                                "sandboxId": "d62ece62bdc54609bdf99af431044588"
-                            },
-                            "purchaseType": "Purchase"
-                        },
-                        {
                             "discount": {
                                 "discountAmountDisplay": "-67%",
                                 "discountEndDate": "2026-08-19T14:59:00.000Z",
@@ -11508,19 +11582,6 @@
                     },
                     "purchase": [
                         {
-                            "offerLifecycleState": "Release",
-                            "price": {
-                                "currencyCode": "EUR",
-                                "decimalPrice": 3.99
-                            },
-                            "priceDisplay": "€3.99",
-                            "purchasePayload": {
-                                "offerId": "e1f9169649d44be99109e47200f80945",
-                                "sandboxId": "dcf4c011daf247bcbc380e28f8ef4fdf"
-                            },
-                            "purchaseType": "Purchase"
-                        },
-                        {
                             "discount": {
                                 "discountAmountDisplay": "-50%",
                                 "discountEndDate": "2026-08-19T14:59:00.000Z",
@@ -12578,14 +12639,14 @@
                         "card16x9": {
                             "altText": "Idle Champions of the Forgotten Realms Offer",
                             "height": 1440,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/a53f91e55c6840018cb5de0b204f1ad9/idle-champions-of-the-forgotten-realms-1lq8f.png",
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/a53f91e55c6840018cb5de0b204f1ad9/idle-champions-of-the-forgotten-realms-18zhm.png",
                             "imageType": "OfferImageWide",
                             "width": 2560
                         },
                         "card3x4": {
                             "altText": "Download Idle Champions of the Forgotten Realms Offer",
                             "height": 1600,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/a53f91e55c6840018cb5de0b204f1ad9/idle-champions-of-the-forgotten-realms-u3yju.png",
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/a53f91e55c6840018cb5de0b204f1ad9/idle-champions-of-the-forgotten-realms-vireh.png",
                             "imageType": "OfferImageTall",
                             "width": 1200
                         },
@@ -12612,7 +12673,7 @@
                         }
                     ],
                     "systemSpecs": {
-                        "applicationVersion": "1.649",
+                        "applicationVersion": "1.650",
                         "platform": "android",
                         "systemRequirements": [
                             {
@@ -12621,7 +12682,7 @@
                                 "title": "Installation size"
                             },
                             {
-                                "minimum": "182.96 MB",
+                                "minimum": "183.14 MB",
                                 "requirementType": "DownloadSize",
                                 "title": "Download size"
                             },
@@ -12907,6 +12968,24 @@
                         }
                     },
                     "purchase": [
+                        {
+                            "discount": {
+                                "discountAmountDisplay": "-50%",
+                                "discountEndDate": "2026-08-19T14:59:00.000Z",
+                                "originalPriceDisplay": "€4.99"
+                            },
+                            "offerLifecycleState": "Release",
+                            "price": {
+                                "currencyCode": "EUR",
+                                "decimalPrice": 2.49
+                            },
+                            "priceDisplay": "€2.49",
+                            "purchasePayload": {
+                                "offerId": "c4b35f34287f4f1b8b60e12e8139bcac",
+                                "sandboxId": "23d15d74b61d4852a2867704c1805c1e"
+                            },
+                            "purchaseType": "Purchase"
+                        },
                         {
                             "offerLifecycleState": "Release",
                             "price": {
@@ -14247,6 +14326,24 @@
                         }
                     },
                     "purchase": [
+                        {
+                            "discount": {
+                                "discountAmountDisplay": "-80%",
+                                "discountEndDate": "2026-08-19T14:59:00.000Z",
+                                "originalPriceDisplay": "€4.99"
+                            },
+                            "offerLifecycleState": "Release",
+                            "price": {
+                                "currencyCode": "EUR",
+                                "decimalPrice": 0.99
+                            },
+                            "priceDisplay": "€0.99",
+                            "purchasePayload": {
+                                "offerId": "123b0ce76e9e401e8a35643a001bf9b5",
+                                "sandboxId": "886cd782adaa4ad6864ea8f603c3e19e"
+                            },
+                            "purchaseType": "Purchase"
+                        },
                         {
                             "offerLifecycleState": "Release",
                             "price": {
@@ -16207,7 +16304,7 @@
                         }
                     ],
                     "systemSpecs": {
-                        "applicationVersion": "55.2",
+                        "applicationVersion": "56.0",
                         "platform": "android",
                         "systemRequirements": [
                             {
@@ -16216,7 +16313,7 @@
                                 "title": "Installation size"
                             },
                             {
-                                "minimum": "149.92 MB",
+                                "minimum": "151.65 MB",
                                 "requirementType": "DownloadSize",
                                 "title": "Download size"
                             },
@@ -17009,6 +17106,24 @@
                         }
                     },
                     "purchase": [
+                        {
+                            "discount": {
+                                "discountAmountDisplay": "-60%",
+                                "discountEndDate": "2026-08-19T14:59:00.000Z",
+                                "originalPriceDisplay": "€4.99"
+                            },
+                            "offerLifecycleState": "Release",
+                            "price": {
+                                "currencyCode": "EUR",
+                                "decimalPrice": 1.99
+                            },
+                            "priceDisplay": "€1.99",
+                            "purchasePayload": {
+                                "offerId": "26cc69dd4fa54caa93288e25767f8c9c",
+                                "sandboxId": "5d24ed888f9542a09dc406f66705631a"
+                            },
+                            "purchaseType": "Purchase"
+                        },
                         {
                             "offerLifecycleState": "Release",
                             "price": {
@@ -20657,19 +20772,6 @@
                         }
                     },
                     "purchase": [
-                        {
-                            "offerLifecycleState": "Release",
-                            "price": {
-                                "currencyCode": "EUR",
-                                "decimalPrice": 7.19
-                            },
-                            "priceDisplay": "€7.19",
-                            "purchasePayload": {
-                                "offerId": "9ad0eaa3cd7543eb84995ba13f855a4c",
-                                "sandboxId": "d99073ba85b1432198e7e23009efda4d"
-                            },
-                            "purchaseType": "Purchase"
-                        },
                         {
                             "discount": {
                                 "discountAmountDisplay": "-50%",
