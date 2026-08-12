@@ -1787,6 +1787,62 @@
         "store_url": "<https://store.epicgames.com/product/strange-horticulture-android-8143c0>",
         "title": "Strange Horticulture"
     },
+    "1-929fdfbe0bf2408380976ddd9d20b1aa-c4b09b8d4a5c44238a6d67760468d783": {
+        "age_control": 12,
+        "catalog_item_id": "937178c80b5742439d626ff1ee5a2cff",
+        "checkout_url": "<https://store.epicgames.com/purchase?offers=1-929fdfbe0bf2408380976ddd9d20b1aa-c4b09b8d4a5c44238a6d67760468d783>",
+        "content_descriptors": [
+            "Mild Swearing"
+        ],
+        "current_price": "0",
+        "discount": "-100%",
+        "download_size": "279.59 MB",
+        "end_date": "2026-08-20T15:00:00.000Z",
+        "in_app_purchases": false,
+        "install_size": "300",
+        "interactive_elements": [],
+        "media": {
+            "OfferImageTall": "https://cdn1.epicgames.com/spt-assets/59d860fa9039404795bcc15b938d12db/beholder-conductor-12n9b.png",
+            "OfferImageWide": "https://cdn1.epicgames.com/spt-assets/59d860fa9039404795bcc15b938d12db/beholder-conductor-1yr0i.png",
+            "ProductIcon": "https://cdn1.epicgames.com/spt-assets/59d860fa9039404795bcc15b938d12db/beholder-conductor-icon-15h2g.png",
+            "coverImage": "https://cdn1.epicgames.com/spt-assets/59d860fa9039404795bcc15b938d12db/beholder-conductor-u6isk.png"
+        },
+        "offer_id": "c4b09b8d4a5c44238a6d67760468d783",
+        "original_price": "6.29",
+        "platform": "android",
+        "sandbox_id": "929fdfbe0bf2408380976ddd9d20b1aa",
+        "slug": "beholder-conductor-android-fb38c4",
+        "store_url": "<https://store.epicgames.com/product/beholder-conductor-android-fb38c4>",
+        "title": "Beholder: Conductor"
+    },
+    "1-929fdfbe0bf2408380976ddd9d20b1aa-cc2d128d5ad24d6c83f01b58c5cf449c": {
+        "age_control": 12,
+        "catalog_item_id": "8323ef4dfb7c4901b2daf02174052446",
+        "checkout_url": "<https://store.epicgames.com/purchase?offers=1-929fdfbe0bf2408380976ddd9d20b1aa-cc2d128d5ad24d6c83f01b58c5cf449c>",
+        "content_descriptors": [
+            "Mild Swearing"
+        ],
+        "current_price": "0",
+        "discount": "-100%",
+        "download_size": "268",
+        "end_date": "2026-08-20T15:00:00.000Z",
+        "in_app_purchases": false,
+        "install_size": "280",
+        "interactive_elements": [],
+        "media": {
+            "OfferImageTall": "https://cdn1.epicgames.com/spt-assets/59d860fa9039404795bcc15b938d12db/beholder-conductor-igomh.png",
+            "OfferImageWide": "https://cdn1.epicgames.com/spt-assets/59d860fa9039404795bcc15b938d12db/beholder-conductor-dwr5m.png",
+            "ProductIcon": "https://cdn1.epicgames.com/spt-assets/59d860fa9039404795bcc15b938d12db/beholder-conductor-icon-15h2g.png",
+            "coverImage": "https://cdn1.epicgames.com/spt-assets/59d860fa9039404795bcc15b938d12db/beholder-conductor-u6isk.png"
+        },
+        "offer_id": "cc2d128d5ad24d6c83f01b58c5cf449c",
+        "original_price": "6.29",
+        "platform": "ios",
+        "sandbox_id": "929fdfbe0bf2408380976ddd9d20b1aa",
+        "slug": "beholder-conductor-ios-fd106a",
+        "store_url": "<https://store.epicgames.com/product/beholder-conductor-ios-fd106a>",
+        "title": "Beholder: Conductor"
+    },
     "1-969bbfac9e7840a986c1d594ccd55c01-249ee1e9a6154d5eb88f29a6830b6c57": {
         "age_control": 3,
         "catalog_item_id": "5d81e17e9de846a0b6fe4615a19df3a3",
