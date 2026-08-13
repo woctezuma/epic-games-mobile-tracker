@@ -323,6 +323,106 @@
                         "ratingType": "AgeRating"
                     },
                     "attention": {
+                        "inAppPurchases": "None"
+                    },
+                    "catalogItemId": "452e0648d3804894ace2af6a36a223fc",
+                    "categories": [
+                        "games",
+                        "games/edition",
+                        "games/edition/base"
+                    ],
+                    "mapping": {
+                        "slug": "a-guidebook-of-babel-android-381952"
+                    },
+                    "media": {
+                        "appIcon": {
+                            "altText": "-",
+                            "height": 512,
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/e8fb4e1fce7b4d6083e6550d545d6680/a-guidebook-of-babel-icon-sdgvx.png",
+                            "imageType": "ProductIcon",
+                            "width": 512
+                        },
+                        "card16x9": {
+                            "altText": "A Guidebook Of Babel Offer",
+                            "height": 1440,
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/e8fb4e1fce7b4d6083e6550d545d6680/a-guidebook-of-babel-txl7c.jpg",
+                            "imageType": "OfferImageWide",
+                            "width": 2560
+                        },
+                        "card3x4": {
+                            "altText": "Download A Guidebook Of Babel Offer",
+                            "height": 1600,
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/e8fb4e1fce7b4d6083e6550d545d6680/a-guidebook-of-babel-tnulv.jpg",
+                            "imageType": "OfferImageTall",
+                            "width": 1200
+                        },
+                        "coverImage": {
+                            "altText": "-",
+                            "height": 1440,
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/e8fb4e1fce7b4d6083e6550d545d6680/a-guidebook-of-babel-1eogu.jpg",
+                            "imageType": "coverImage",
+                            "width": 2560
+                        }
+                    },
+                    "purchase": [
+                        {
+                            "offerLifecycleState": "Release",
+                            "price": {
+                                "currencyCode": "EUR",
+                                "decimalPrice": 4.49
+                            },
+                            "priceDisplay": "€4.49",
+                            "purchasePayload": {
+                                "offerId": "9a8572c74bf94274a5495f1c6f148b2e",
+                                "sandboxId": "aa7a9b99dac643b1acd565509a4ca2be"
+                            },
+                            "purchaseType": "Purchase"
+                        }
+                    ],
+                    "systemSpecs": {
+                        "applicationVersion": "1.0.10",
+                        "platform": "android",
+                        "systemRequirements": [
+                            {
+                                "minimum": "280 MB",
+                                "requirementType": "InstallSize",
+                                "title": "Installation size"
+                            },
+                            {
+                                "minimum": "257.14 MB",
+                                "requirementType": "DownloadSize",
+                                "title": "Download size"
+                            },
+                            {
+                                "minimum": "6.0",
+                                "requirementType": "OS",
+                                "title": "OS version"
+                            }
+                        ]
+                    },
+                    "title": "A Guidebook Of Babel"
+                },
+                "offerId": "9a8572c74bf94274a5495f1c6f148b2e",
+                "sandboxId": "aa7a9b99dac643b1acd565509a4ca2be"
+            },
+            {
+                "content": {
+                    "ageRating": {
+                        "ageGate": {
+                            "gate": "no-gate"
+                        },
+                        "ageRating": {
+                            "ageControl": 3,
+                            "contentDescriptors": [],
+                            "interactiveElements": [],
+                            "ratingImage": "https://cdn1.epicgames.com/gameRating/gameRating/PEGI_3_192_192x192-490b93ddf59fb4ac1148d1eb9083626a",
+                            "ratingSystem": "PEGI",
+                            "rectangularRatingImage": "https://cdn1.epicgames.com/salesEvent/salesEvent/PEGI-3_435x530-c931ab5bb4eb190f6e8e542081c49dc4",
+                            "title": "PEGI 3"
+                        },
+                        "ratingType": "AgeRating"
+                    },
+                    "attention": {
                         "inAppPurchases": "MaybeIncludesInAppPurchases"
                     },
                     "catalogItemId": "600f7ed0286d421d9e09ad06d007dd3b",
@@ -569,19 +669,6 @@
                         }
                     },
                     "purchase": [
-                        {
-                            "offerLifecycleState": "Release",
-                            "price": {
-                                "currencyCode": "EUR",
-                                "decimalPrice": 6.29
-                            },
-                            "priceDisplay": "€6.29",
-                            "purchasePayload": {
-                                "offerId": "c4b09b8d4a5c44238a6d67760468d783",
-                                "sandboxId": "929fdfbe0bf2408380976ddd9d20b1aa"
-                            },
-                            "purchaseType": "Purchase"
-                        },
                         {
                             "discount": {
                                 "discountAmountDisplay": "-100%",
@@ -3702,20 +3789,22 @@
                             "gate": "no-gate"
                         },
                         "ageRating": {
-                            "ageControl": 3,
-                            "contentDescriptors": [],
+                            "ageControl": 12,
+                            "contentDescriptors": [
+                                "Mild Swearing"
+                            ],
                             "interactiveElements": [],
-                            "ratingImage": "https://cdn1.epicgames.com/gameRating/gameRating/PEGI_3_192_192x192-490b93ddf59fb4ac1148d1eb9083626a",
+                            "ratingImage": "https://cdn1.epicgames.com/gameRating/gameRating/PEGI_12_192_192x192-afa4df43f131bc83eb380ccf22f8d904",
                             "ratingSystem": "PEGI",
-                            "rectangularRatingImage": "https://cdn1.epicgames.com/salesEvent/salesEvent/PEGI-3_435x530-c931ab5bb4eb190f6e8e542081c49dc4",
-                            "title": "PEGI 3"
+                            "rectangularRatingImage": "https://cdn1.epicgames.com/salesEvent/salesEvent/PEGI-12_436x530-0cd1f06607086f3cc1bc2b8643f21b0a",
+                            "title": "PEGI 12"
                         },
                         "ratingType": "AgeRating"
                     },
                     "attention": {
                         "inAppPurchases": "None"
                     },
-                    "catalogItemId": "452e0648d3804894ace2af6a36a223fc",
+                    "catalogItemId": "937178c80b5742439d626ff1ee5a2cff",
                     "categories": [
                         "freegames",
                         "games",
@@ -3723,34 +3812,34 @@
                         "games/edition/base"
                     ],
                     "mapping": {
-                        "slug": "a-guidebook-of-babel-android-381952"
+                        "slug": "beholder-conductor-android-fb38c4"
                     },
                     "media": {
                         "appIcon": {
                             "altText": "-",
                             "height": 512,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/e8fb4e1fce7b4d6083e6550d545d6680/a-guidebook-of-babel-icon-sdgvx.png",
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/59d860fa9039404795bcc15b938d12db/beholder-conductor-icon-15h2g.png",
                             "imageType": "ProductIcon",
                             "width": 512
                         },
                         "card16x9": {
-                            "altText": "A Guidebook Of Babel Offer",
+                            "altText": "Beholder: Conductor Offer",
                             "height": 1440,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/e8fb4e1fce7b4d6083e6550d545d6680/a-guidebook-of-babel-txl7c.jpg",
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/59d860fa9039404795bcc15b938d12db/beholder-conductor-1yr0i.png",
                             "imageType": "OfferImageWide",
                             "width": 2560
                         },
                         "card3x4": {
-                            "altText": "Download A Guidebook Of Babel Offer",
+                            "altText": "Download Beholder: Conductor Offer",
                             "height": 1600,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/e8fb4e1fce7b4d6083e6550d545d6680/a-guidebook-of-babel-tnulv.jpg",
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/59d860fa9039404795bcc15b938d12db/beholder-conductor-12n9b.png",
                             "imageType": "OfferImageTall",
                             "width": 1200
                         },
                         "coverImage": {
                             "altText": "-",
                             "height": 1440,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/e8fb4e1fce7b4d6083e6550d545d6680/a-guidebook-of-babel-1eogu.jpg",
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/59d860fa9039404795bcc15b938d12db/beholder-conductor-u6isk.png",
                             "imageType": "coverImage",
                             "width": 2560
                         }
@@ -3759,8 +3848,8 @@
                         {
                             "discount": {
                                 "discountAmountDisplay": "-100%",
-                                "discountEndDate": "2026-08-13T15:00:00.000Z",
-                                "originalPriceDisplay": "€4.49"
+                                "discountEndDate": "2026-08-20T15:00:00.000Z",
+                                "originalPriceDisplay": "€6.29"
                             },
                             "offerLifecycleState": "Release",
                             "price": {
@@ -3768,8 +3857,8 @@
                                 "decimalPrice": 0
                             },
                             "purchasePayload": {
-                                "offerId": "9a8572c74bf94274a5495f1c6f148b2e",
-                                "sandboxId": "aa7a9b99dac643b1acd565509a4ca2be"
+                                "offerId": "c4b09b8d4a5c44238a6d67760468d783",
+                                "sandboxId": "929fdfbe0bf2408380976ddd9d20b1aa"
                             },
                             "purchaseType": "Claim"
                         },
@@ -3777,41 +3866,41 @@
                             "offerLifecycleState": "Release",
                             "price": {
                                 "currencyCode": "EUR",
-                                "decimalPrice": 4.49
+                                "decimalPrice": 6.29
                             },
-                            "priceDisplay": "€4.49",
+                            "priceDisplay": "€6.29",
                             "purchasePayload": {
-                                "offerId": "9a8572c74bf94274a5495f1c6f148b2e",
-                                "sandboxId": "aa7a9b99dac643b1acd565509a4ca2be"
+                                "offerId": "c4b09b8d4a5c44238a6d67760468d783",
+                                "sandboxId": "929fdfbe0bf2408380976ddd9d20b1aa"
                             },
                             "purchaseType": "Purchase"
                         }
                     ],
                     "systemSpecs": {
-                        "applicationVersion": "1.0.10",
+                        "applicationVersion": "1.0.51",
                         "platform": "android",
                         "systemRequirements": [
                             {
-                                "minimum": "280 MB",
+                                "minimum": "300",
                                 "requirementType": "InstallSize",
                                 "title": "Installation size"
                             },
                             {
-                                "minimum": "257.14 MB",
+                                "minimum": "279.59 MB",
                                 "requirementType": "DownloadSize",
                                 "title": "Download size"
                             },
                             {
-                                "minimum": "6.0",
+                                "minimum": "8.0.0",
                                 "requirementType": "OS",
                                 "title": "OS version"
                             }
                         ]
                     },
-                    "title": "A Guidebook Of Babel"
+                    "title": "Beholder: Conductor"
                 },
-                "offerId": "9a8572c74bf94274a5495f1c6f148b2e",
-                "sandboxId": "aa7a9b99dac643b1acd565509a4ca2be"
+                "offerId": "c4b09b8d4a5c44238a6d67760468d783",
+                "sandboxId": "929fdfbe0bf2408380976ddd9d20b1aa"
             }
         ],
         "size": "large",
@@ -14078,19 +14167,6 @@
                     },
                     "purchase": [
                         {
-                            "offerLifecycleState": "Release",
-                            "price": {
-                                "currencyCode": "EUR",
-                                "decimalPrice": 3.99
-                            },
-                            "priceDisplay": "€3.99",
-                            "purchasePayload": {
-                                "offerId": "bfa7235a577547578527633c82c776a2",
-                                "sandboxId": "1370d5c73fa4438da24c595ea3338456"
-                            },
-                            "purchaseType": "Purchase"
-                        },
-                        {
                             "discount": {
                                 "discountAmountDisplay": "-50%",
                                 "discountEndDate": "2026-08-26T14:59:00.000Z",
@@ -14322,6 +14398,37 @@
                                 "sandboxId": "6b98c6b6298b4282905ea8a66f1e8432"
                             },
                             "purchaseType": "Purchase"
+                        },
+                        {
+                            "discount": {
+                                "discountAmountDisplay": "-60%",
+                                "discountEndDate": "2026-08-26T14:59:00.000Z",
+                                "originalPriceDisplay": "€4.99"
+                            },
+                            "offerLifecycleState": "Release",
+                            "price": {
+                                "currencyCode": "EUR",
+                                "decimalPrice": 1.99
+                            },
+                            "priceDisplay": "€1.99",
+                            "purchasePayload": {
+                                "offerId": "0e5d790f043b464689d9c2128d472fb5",
+                                "sandboxId": "6b98c6b6298b4282905ea8a66f1e8432"
+                            },
+                            "purchaseType": "Purchase"
+                        },
+                        {
+                            "offerLifecycleState": "Release",
+                            "price": {
+                                "currencyCode": "EUR",
+                                "decimalPrice": 4.99
+                            },
+                            "priceDisplay": "€4.99",
+                            "purchasePayload": {
+                                "offerId": "0e5d790f043b464689d9c2128d472fb5",
+                                "sandboxId": "6b98c6b6298b4282905ea8a66f1e8432"
+                            },
+                            "purchaseType": "Purchase"
                         }
                     ],
                     "systemSpecs": {
@@ -14514,6 +14621,37 @@
                         }
                     },
                     "purchase": [
+                        {
+                            "offerLifecycleState": "Release",
+                            "price": {
+                                "currencyCode": "EUR",
+                                "decimalPrice": 3.99
+                            },
+                            "priceDisplay": "€3.99",
+                            "purchasePayload": {
+                                "offerId": "8617449b0ef64fd29f4b8a7401f7ceb8",
+                                "sandboxId": "66ab6672b313434e9ab6ba7c36ec7d3e"
+                            },
+                            "purchaseType": "Purchase"
+                        },
+                        {
+                            "discount": {
+                                "discountAmountDisplay": "-75%",
+                                "discountEndDate": "2026-08-26T14:59:00.000Z",
+                                "originalPriceDisplay": "€3.99"
+                            },
+                            "offerLifecycleState": "Release",
+                            "price": {
+                                "currencyCode": "EUR",
+                                "decimalPrice": 0.99
+                            },
+                            "priceDisplay": "€0.99",
+                            "purchasePayload": {
+                                "offerId": "8617449b0ef64fd29f4b8a7401f7ceb8",
+                                "sandboxId": "66ab6672b313434e9ab6ba7c36ec7d3e"
+                            },
+                            "purchaseType": "Purchase"
+                        },
                         {
                             "offerLifecycleState": "Release",
                             "price": {
@@ -15048,6 +15186,37 @@
                         }
                     },
                     "purchase": [
+                        {
+                            "offerLifecycleState": "Release",
+                            "price": {
+                                "currencyCode": "EUR",
+                                "decimalPrice": 2.99
+                            },
+                            "priceDisplay": "€2.99",
+                            "purchasePayload": {
+                                "offerId": "c993c271286e434c9b5398dd050e22b5",
+                                "sandboxId": "6d089f46d38b4e979746362dac9f356b"
+                            },
+                            "purchaseType": "Purchase"
+                        },
+                        {
+                            "discount": {
+                                "discountAmountDisplay": "-67%",
+                                "discountEndDate": "2026-08-26T14:59:00.000Z",
+                                "originalPriceDisplay": "€2.99"
+                            },
+                            "offerLifecycleState": "Release",
+                            "price": {
+                                "currencyCode": "EUR",
+                                "decimalPrice": 0.98
+                            },
+                            "priceDisplay": "€0.98",
+                            "purchasePayload": {
+                                "offerId": "c993c271286e434c9b5398dd050e22b5",
+                                "sandboxId": "6d089f46d38b4e979746362dac9f356b"
+                            },
+                            "purchaseType": "Purchase"
+                        },
                         {
                             "offerLifecycleState": "Release",
                             "price": {
@@ -17751,6 +17920,37 @@
                                 "sandboxId": "e0e916451a4946508f7071c272d2e1f5"
                             },
                             "purchaseType": "Purchase"
+                        },
+                        {
+                            "discount": {
+                                "discountAmountDisplay": "-80%",
+                                "discountEndDate": "2026-08-26T14:59:00.000Z",
+                                "originalPriceDisplay": "€9.99"
+                            },
+                            "offerLifecycleState": "Release",
+                            "price": {
+                                "currencyCode": "EUR",
+                                "decimalPrice": 1.99
+                            },
+                            "priceDisplay": "€1.99",
+                            "purchasePayload": {
+                                "offerId": "8210fdfc329b443fbc9dcd52b63a56e9",
+                                "sandboxId": "e0e916451a4946508f7071c272d2e1f5"
+                            },
+                            "purchaseType": "Purchase"
+                        },
+                        {
+                            "offerLifecycleState": "Release",
+                            "price": {
+                                "currencyCode": "EUR",
+                                "decimalPrice": 9.99
+                            },
+                            "priceDisplay": "€9.99",
+                            "purchasePayload": {
+                                "offerId": "8210fdfc329b443fbc9dcd52b63a56e9",
+                                "sandboxId": "e0e916451a4946508f7071c272d2e1f5"
+                            },
+                            "purchaseType": "Purchase"
                         }
                     ],
                     "systemSpecs": {
@@ -17943,19 +18143,6 @@
                         }
                     },
                     "purchase": [
-                        {
-                            "offerLifecycleState": "Release",
-                            "price": {
-                                "currencyCode": "EUR",
-                                "decimalPrice": 7.99
-                            },
-                            "priceDisplay": "€7.99",
-                            "purchasePayload": {
-                                "offerId": "d938a57551914db286757ebdf89b95f9",
-                                "sandboxId": "4b36452d205344bcb0f60f6a466ecd58"
-                            },
-                            "purchaseType": "Purchase"
-                        },
                         {
                             "discount": {
                                 "discountAmountDisplay": "-75%",
