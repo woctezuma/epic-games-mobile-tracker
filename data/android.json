@@ -4052,6 +4052,37 @@
                                 "sandboxId": "c9c21bdfd1684335a36174d859adee28"
                             },
                             "purchaseType": "Purchase"
+                        },
+                        {
+                            "discount": {
+                                "discountAmountDisplay": "-60%",
+                                "discountEndDate": "2026-08-25T15:00:00.000Z",
+                                "originalPriceDisplay": "€2.69"
+                            },
+                            "offerLifecycleState": "Release",
+                            "price": {
+                                "currencyCode": "EUR",
+                                "decimalPrice": 1.07
+                            },
+                            "priceDisplay": "€1.07",
+                            "purchasePayload": {
+                                "offerId": "e8c608fb68ac4ccb810882f4bae67c9e",
+                                "sandboxId": "c9c21bdfd1684335a36174d859adee28"
+                            },
+                            "purchaseType": "Purchase"
+                        },
+                        {
+                            "offerLifecycleState": "Release",
+                            "price": {
+                                "currencyCode": "EUR",
+                                "decimalPrice": 2.69
+                            },
+                            "priceDisplay": "€2.69",
+                            "purchasePayload": {
+                                "offerId": "e8c608fb68ac4ccb810882f4bae67c9e",
+                                "sandboxId": "c9c21bdfd1684335a36174d859adee28"
+                            },
+                            "purchaseType": "Purchase"
                         }
                     ],
                     "systemSpecs": {
@@ -7550,7 +7581,7 @@
                         }
                     ],
                     "systemSpecs": {
-                        "applicationVersion": "8.20.1.042101",
+                        "applicationVersion": "9.3.8.081103",
                         "platform": "android",
                         "systemRequirements": [
                             {
@@ -7559,7 +7590,7 @@
                                 "title": "Installation size"
                             },
                             {
-                                "minimum": "1.45 GB",
+                                "minimum": "1.58 GB",
                                 "requirementType": "DownloadSize",
                                 "title": "Download size"
                             },
@@ -13820,7 +13851,7 @@
                         }
                     ],
                     "systemSpecs": {
-                        "applicationVersion": "2.150",
+                        "applicationVersion": "2.150.1",
                         "platform": "android",
                         "systemRequirements": [
                             {
@@ -13829,7 +13860,7 @@
                                 "title": "Installation size"
                             },
                             {
-                                "minimum": "327.04 MB",
+                                "minimum": "327.10 MB",
                                 "requirementType": "DownloadSize",
                                 "title": "Download size"
                             },
@@ -16789,7 +16820,7 @@
                         }
                     ],
                     "systemSpecs": {
-                        "applicationVersion": "1.5.193",
+                        "applicationVersion": "1.5.263",
                         "platform": "android",
                         "systemRequirements": [
                             {
@@ -16798,7 +16829,7 @@
                                 "title": "Installation size"
                             },
                             {
-                                "minimum": "202.85 MB",
+                                "minimum": "206.05 MB",
                                 "requirementType": "DownloadSize",
                                 "title": "Download size"
                             },
