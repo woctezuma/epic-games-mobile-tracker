@@ -3155,6 +3155,13 @@
                         "slug": "fall-guys-ios"
                     },
                     "media": {
+                        "appIcon": {
+                            "altText": "-",
+                            "height": 512,
+                            "imageSrc": "https://cdn1.epicgames.com/item/50118b7f954e450f8823df1614b24e80/1024x1024_1024x1024-bf9c76a9240bef4a267c1975148f1354",
+                            "imageType": "ProductIcon",
+                            "width": 512
+                        },
                         "card16x9": {
                             "height": 1440,
                             "imageSrc": "https://cdn1.epicgames.com/offer/50118b7f954e450f8823df1614b24e80/fg-wide_2560x1440-39f0af2dacbf4345317c3069e5a88382",
@@ -3166,6 +3173,13 @@
                             "imageSrc": "https://cdn1.epicgames.com/offer/50118b7f954e450f8823df1614b24e80/fg-tall_1200x1600-4bd46574e78464352e1f2c55714701f7",
                             "imageType": "OfferImageTall",
                             "width": 1200
+                        },
+                        "coverImage": {
+                            "altText": "-",
+                            "height": 1440,
+                            "imageSrc": "https://cdn1.epicgames.com/offer/50118b7f954e450f8823df1614b24e80/fg-wide_2560x1440-39f0af2dacbf4345317c3069e5a88382",
+                            "imageType": "coverImage",
+                            "width": 2560
                         }
                     },
                     "purchase": [
@@ -4049,19 +4063,6 @@
                     },
                     "purchase": [
                         {
-                            "offerLifecycleState": "Release",
-                            "price": {
-                                "currencyCode": "EUR",
-                                "decimalPrice": 2.69
-                            },
-                            "priceDisplay": "€2.69",
-                            "purchasePayload": {
-                                "offerId": "badc99d45a3946a6979b97cb7846af38",
-                                "sandboxId": "c9c21bdfd1684335a36174d859adee28"
-                            },
-                            "purchaseType": "Purchase"
-                        },
-                        {
                             "discount": {
                                 "discountAmountDisplay": "-60%",
                                 "discountEndDate": "2026-08-25T15:00:00.000Z",
@@ -4823,24 +4824,6 @@
                         }
                     },
                     "purchase": [
-                        {
-                            "discount": {
-                                "discountAmountDisplay": "-80%",
-                                "discountEndDate": "2026-08-18T15:00:00.000Z",
-                                "originalPriceDisplay": "€4.49"
-                            },
-                            "offerLifecycleState": "Release",
-                            "price": {
-                                "currencyCode": "EUR",
-                                "decimalPrice": 0.89
-                            },
-                            "priceDisplay": "€0.89",
-                            "purchasePayload": {
-                                "offerId": "3771e1059f194cfa9964f5eb9789ff4c",
-                                "sandboxId": "0b8d22f6921241e5887b132935d571e4"
-                            },
-                            "purchaseType": "Purchase"
-                        },
                         {
                             "offerLifecycleState": "Release",
                             "price": {
