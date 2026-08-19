@@ -1387,6 +1387,13 @@
                         "slug": "guild-of-dungeoneering-ultimate-edition-ios-8ce610"
                     },
                     "media": {
+                        "appIcon": {
+                            "altText": "-",
+                            "height": 512,
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/d048815ffed0480c8ac257b8b7807e2b/guild-of-dungeoneering-ultimate-icon-1dxku.png",
+                            "imageType": "ProductIcon",
+                            "width": 512
+                        },
                         "card16x9": {
                             "altText": "Guild of Dungeoneering Ultimate Offer",
                             "height": 1440,
@@ -1400,6 +1407,13 @@
                             "imageSrc": "https://cdn1.epicgames.com/spt-assets/d048815ffed0480c8ac257b8b7807e2b/guild-of-dungeoneering-ultimate-3ufo1.jpg",
                             "imageType": "OfferImageTall",
                             "width": 1200
+                        },
+                        "coverImage": {
+                            "altText": "-",
+                            "height": 1440,
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/d048815ffed0480c8ac257b8b7807e2b/guild-of-dungeoneering-ultimate-ummdj.png",
+                            "imageType": "coverImage",
+                            "width": 2560
                         }
                     },
                     "purchase": [
@@ -1418,8 +1432,25 @@
                         }
                     ],
                     "systemSpecs": {
+                        "applicationVersion": "1.0.1",
                         "platform": "ios",
-                        "systemRequirements": []
+                        "systemRequirements": [
+                            {
+                                "minimum": "528",
+                                "requirementType": "InstallSize",
+                                "title": "Installation size"
+                            },
+                            {
+                                "minimum": "487",
+                                "requirementType": "DownloadSize",
+                                "title": "Download size"
+                            },
+                            {
+                                "minimum": "18.0",
+                                "requirementType": "OS",
+                                "title": "OS version"
+                            }
+                        ]
                     },
                     "title": "Guild of Dungeoneering Ultimate Edition"
                 },
@@ -1551,6 +1582,13 @@
                         "slug": "wytchwood-ios-ccf5ed"
                     },
                     "media": {
+                        "appIcon": {
+                            "altText": "-",
+                            "height": 512,
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/fe0a31132d6e4404bd145ce2e2ed5ed7/wytchwood-icon-16fpx.png",
+                            "imageType": "ProductIcon",
+                            "width": 512
+                        },
                         "card16x9": {
                             "altText": "Wytchwood Offer",
                             "height": 1440,
@@ -1564,6 +1602,13 @@
                             "imageSrc": "https://cdn1.epicgames.com/spt-assets/fe0a31132d6e4404bd145ce2e2ed5ed7/wytchwood-1g0ax.jpg",
                             "imageType": "OfferImageTall",
                             "width": 1200
+                        },
+                        "coverImage": {
+                            "altText": "-",
+                            "height": 1440,
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/fe0a31132d6e4404bd145ce2e2ed5ed7/wytchwood-ku9q9.png",
+                            "imageType": "coverImage",
+                            "width": 2560
                         }
                     },
                     "purchase": [
@@ -1582,8 +1627,25 @@
                         }
                     ],
                     "systemSpecs": {
+                        "applicationVersion": "1.0.0",
                         "platform": "ios",
-                        "systemRequirements": []
+                        "systemRequirements": [
+                            {
+                                "minimum": "3.85 GB",
+                                "requirementType": "InstallSize",
+                                "title": "Installation size"
+                            },
+                            {
+                                "minimum": "1.18 GB",
+                                "requirementType": "DownloadSize",
+                                "title": "Download size"
+                            },
+                            {
+                                "minimum": "14.0",
+                                "requirementType": "OS",
+                                "title": "OS version"
+                            }
+                        ]
                     },
                     "title": "Wytchwood"
                 },
@@ -3198,7 +3260,14 @@
                     ],
                     "systemSpecs": {
                         "platform": "ios",
-                        "systemRequirements": [],
+                        "systemRequirements": [
+                            {
+                                "minimum": "12.0",
+                                "recommended": "",
+                                "requirementType": "OS",
+                                "title": "OS version"
+                            }
+                        ],
                         "technicalDetails": "Fall Guys requires an internet connection and supports the following devices: \n- iPhone 11 or later with 4GB RAM\n- iPad Pro 13” (1st gen or later)\n- iPad Pro 11” (3rd gen or later)\n- iPad Air (4th gen or later)\n- iPad Mini (6th gen or later)\n- iPad (10th gen or later)\n\n* iOS 17.6 or higher\n* 4 GB RAM\n* Internet connection\n* Login Accounts Required - Epic Games"
                     },
                     "title": "Fall Guys"
@@ -9112,6 +9181,37 @@
                         }
                     },
                     "purchase": [
+                        {
+                            "offerLifecycleState": "Release",
+                            "price": {
+                                "currencyCode": "EUR",
+                                "decimalPrice": 6.29
+                            },
+                            "priceDisplay": "€6.29",
+                            "purchasePayload": {
+                                "offerId": "fb31edda814a4fe8b00cdd35840e75f8",
+                                "sandboxId": "601b5944b71c478fa38f18f36de45bf0"
+                            },
+                            "purchaseType": "Purchase"
+                        },
+                        {
+                            "discount": {
+                                "discountAmountDisplay": "-90%",
+                                "discountEndDate": "2026-09-03T21:59:00.000Z",
+                                "originalPriceDisplay": "€6.29"
+                            },
+                            "offerLifecycleState": "Release",
+                            "price": {
+                                "currencyCode": "EUR",
+                                "decimalPrice": 0.62
+                            },
+                            "priceDisplay": "€0.62",
+                            "purchasePayload": {
+                                "offerId": "fb31edda814a4fe8b00cdd35840e75f8",
+                                "sandboxId": "601b5944b71c478fa38f18f36de45bf0"
+                            },
+                            "purchaseType": "Purchase"
+                        },
                         {
                             "offerLifecycleState": "Release",
                             "price": {
