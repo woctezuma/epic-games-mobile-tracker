@@ -1587,6 +1587,13 @@
                         "slug": "guild-of-dungeoneering-ultimate-edition-android-842836"
                     },
                     "media": {
+                        "appIcon": {
+                            "altText": "-",
+                            "height": 512,
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/d048815ffed0480c8ac257b8b7807e2b/guild-of-dungeoneering-ultimate-icon-1dxku.png",
+                            "imageType": "ProductIcon",
+                            "width": 512
+                        },
                         "card16x9": {
                             "altText": "Guild of Dungeoneering Ultimate Offer",
                             "height": 1440,
@@ -1600,6 +1607,13 @@
                             "imageSrc": "https://cdn1.epicgames.com/spt-assets/d048815ffed0480c8ac257b8b7807e2b/guild-of-dungeoneering-ultimate-96bxs.jpg",
                             "imageType": "OfferImageTall",
                             "width": 1200
+                        },
+                        "coverImage": {
+                            "altText": "-",
+                            "height": 1440,
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/d048815ffed0480c8ac257b8b7807e2b/guild-of-dungeoneering-ultimate-ummdj.png",
+                            "imageType": "coverImage",
+                            "width": 2560
                         }
                     },
                     "purchase": [
@@ -1618,8 +1632,25 @@
                         }
                     ],
                     "systemSpecs": {
+                        "applicationVersion": "1.0.1",
                         "platform": "android",
-                        "systemRequirements": []
+                        "systemRequirements": [
+                            {
+                                "minimum": "606",
+                                "requirementType": "InstallSize",
+                                "title": "Installation size"
+                            },
+                            {
+                                "minimum": "499.75 MB",
+                                "requirementType": "DownloadSize",
+                                "title": "Download size"
+                            },
+                            {
+                                "minimum": "11",
+                                "requirementType": "OS",
+                                "title": "OS version"
+                            }
+                        ]
                     },
                     "title": "Guild of Dungeoneering Ultimate Edition"
                 },
@@ -1763,6 +1794,13 @@
                         "slug": "wytchwood-android-cad0ea"
                     },
                     "media": {
+                        "appIcon": {
+                            "altText": "-",
+                            "height": 512,
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/fe0a31132d6e4404bd145ce2e2ed5ed7/wytchwood-icon-16fpx.png",
+                            "imageType": "ProductIcon",
+                            "width": 512
+                        },
                         "card16x9": {
                             "altText": "Wytchwood Offer",
                             "height": 1440,
@@ -1776,6 +1814,13 @@
                             "imageSrc": "https://cdn1.epicgames.com/spt-assets/fe0a31132d6e4404bd145ce2e2ed5ed7/wytchwood-1fg83.jpg",
                             "imageType": "OfferImageTall",
                             "width": 1200
+                        },
+                        "coverImage": {
+                            "altText": "-",
+                            "height": 1440,
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/fe0a31132d6e4404bd145ce2e2ed5ed7/wytchwood-ku9q9.png",
+                            "imageType": "coverImage",
+                            "width": 2560
                         }
                     },
                     "purchase": [
@@ -1794,8 +1839,25 @@
                         }
                     ],
                     "systemSpecs": {
+                        "applicationVersion": "1.0.0",
                         "platform": "android",
-                        "systemRequirements": []
+                        "systemRequirements": [
+                            {
+                                "minimum": "1.44 GB",
+                                "requirementType": "InstallSize",
+                                "title": "Installation size"
+                            },
+                            {
+                                "minimum": "1.29 GB",
+                                "requirementType": "DownloadSize",
+                                "title": "Download size"
+                            },
+                            {
+                                "minimum": "11",
+                                "requirementType": "OS",
+                                "title": "OS version"
+                            }
+                        ]
                     },
                     "title": "Wytchwood"
                 },
@@ -3190,7 +3252,14 @@
                     ],
                     "systemSpecs": {
                         "platform": "android",
-                        "systemRequirements": [],
+                        "systemRequirements": [
+                            {
+                                "minimum": "Android 7.0",
+                                "recommended": "",
+                                "requirementType": "OS",
+                                "title": "OS version"
+                            }
+                        ],
                         "technicalDetails": "* Android 7.0\n* 3 GB RAM\n* 2 GB available space\n* Internet connection\n* Login Accounts Required - Epic Games"
                     },
                     "title": "Fall Guys"
@@ -10018,7 +10087,7 @@
                         }
                     ],
                     "systemSpecs": {
-                        "applicationVersion": "1.2",
+                        "applicationVersion": "2.0",
                         "platform": "android",
                         "systemRequirements": [
                             {
@@ -10027,7 +10096,7 @@
                                 "title": "Installation size"
                             },
                             {
-                                "minimum": "139.54 MB",
+                                "minimum": "134.49 MB",
                                 "requirementType": "DownloadSize",
                                 "title": "Download size"
                             },
@@ -10720,24 +10789,6 @@
                         }
                     },
                     "purchase": [
-                        {
-                            "discount": {
-                                "discountAmountDisplay": "-67%",
-                                "discountEndDate": "2026-08-19T14:59:00.000Z",
-                                "originalPriceDisplay": "€2.99"
-                            },
-                            "offerLifecycleState": "Release",
-                            "price": {
-                                "currencyCode": "EUR",
-                                "decimalPrice": 0.98
-                            },
-                            "priceDisplay": "€0.98",
-                            "purchasePayload": {
-                                "offerId": "a58fa1be6d98402898549af5e705918c",
-                                "sandboxId": "d62ece62bdc54609bdf99af431044588"
-                            },
-                            "purchaseType": "Purchase"
-                        },
                         {
                             "offerLifecycleState": "Release",
                             "price": {
@@ -11858,24 +11909,6 @@
                         }
                     },
                     "purchase": [
-                        {
-                            "discount": {
-                                "discountAmountDisplay": "-50%",
-                                "discountEndDate": "2026-08-19T14:59:00.000Z",
-                                "originalPriceDisplay": "€3.99"
-                            },
-                            "offerLifecycleState": "Release",
-                            "price": {
-                                "currencyCode": "EUR",
-                                "decimalPrice": 1.99
-                            },
-                            "priceDisplay": "€1.99",
-                            "purchasePayload": {
-                                "offerId": "e1f9169649d44be99109e47200f80945",
-                                "sandboxId": "dcf4c011daf247bcbc380e28f8ef4fdf"
-                            },
-                            "purchaseType": "Purchase"
-                        },
                         {
                             "offerLifecycleState": "Release",
                             "price": {
@@ -13310,24 +13343,6 @@
                     },
                     "purchase": [
                         {
-                            "discount": {
-                                "discountAmountDisplay": "-50%",
-                                "discountEndDate": "2026-08-19T14:59:00.000Z",
-                                "originalPriceDisplay": "€4.99"
-                            },
-                            "offerLifecycleState": "Release",
-                            "price": {
-                                "currencyCode": "EUR",
-                                "decimalPrice": 2.49
-                            },
-                            "priceDisplay": "€2.49",
-                            "purchasePayload": {
-                                "offerId": "c4b35f34287f4f1b8b60e12e8139bcac",
-                                "sandboxId": "23d15d74b61d4852a2867704c1805c1e"
-                            },
-                            "purchaseType": "Purchase"
-                        },
-                        {
                             "offerLifecycleState": "Release",
                             "price": {
                                 "currencyCode": "EUR",
@@ -14704,24 +14719,6 @@
                     },
                     "purchase": [
                         {
-                            "discount": {
-                                "discountAmountDisplay": "-80%",
-                                "discountEndDate": "2026-08-19T14:59:00.000Z",
-                                "originalPriceDisplay": "€4.99"
-                            },
-                            "offerLifecycleState": "Release",
-                            "price": {
-                                "currencyCode": "EUR",
-                                "decimalPrice": 0.99
-                            },
-                            "priceDisplay": "€0.99",
-                            "purchasePayload": {
-                                "offerId": "123b0ce76e9e401e8a35643a001bf9b5",
-                                "sandboxId": "886cd782adaa4ad6864ea8f603c3e19e"
-                            },
-                            "purchaseType": "Purchase"
-                        },
-                        {
                             "offerLifecycleState": "Release",
                             "price": {
                                 "currencyCode": "EUR",
@@ -15031,6 +15028,37 @@
                         }
                     },
                     "purchase": [
+                        {
+                            "offerLifecycleState": "Release",
+                            "price": {
+                                "currencyCode": "EUR",
+                                "decimalPrice": 2.99
+                            },
+                            "priceDisplay": "€2.99",
+                            "purchasePayload": {
+                                "offerId": "7c710ce5b71240f7b09e1dd7d42fe54c",
+                                "sandboxId": "1da1e8c82f1747b5a9b114408140f2ea"
+                            },
+                            "purchaseType": "Purchase"
+                        },
+                        {
+                            "discount": {
+                                "discountAmountDisplay": "-67%",
+                                "discountEndDate": "2026-09-02T14:59:00.000Z",
+                                "originalPriceDisplay": "€2.99"
+                            },
+                            "offerLifecycleState": "Release",
+                            "price": {
+                                "currencyCode": "EUR",
+                                "decimalPrice": 0.98
+                            },
+                            "priceDisplay": "€0.98",
+                            "purchasePayload": {
+                                "offerId": "7c710ce5b71240f7b09e1dd7d42fe54c",
+                                "sandboxId": "1da1e8c82f1747b5a9b114408140f2ea"
+                            },
+                            "purchaseType": "Purchase"
+                        },
                         {
                             "offerLifecycleState": "Release",
                             "price": {
@@ -16699,7 +16727,7 @@
                         }
                     ],
                     "systemSpecs": {
-                        "applicationVersion": "56.1",
+                        "applicationVersion": "56.2",
                         "platform": "android",
                         "systemRequirements": [
                             {
@@ -16708,7 +16736,7 @@
                                 "title": "Installation size"
                             },
                             {
-                                "minimum": "151.66 MB",
+                                "minimum": "149.92 MB",
                                 "requirementType": "DownloadSize",
                                 "title": "Download size"
                             },
@@ -17311,6 +17339,37 @@
                                 "sandboxId": "f0757a2ab13941d89476cfa09df9a545"
                             },
                             "purchaseType": "Purchase"
+                        },
+                        {
+                            "discount": {
+                                "discountAmountDisplay": "-80%",
+                                "discountEndDate": "2026-09-02T14:59:00.000Z",
+                                "originalPriceDisplay": "€9.99"
+                            },
+                            "offerLifecycleState": "Release",
+                            "price": {
+                                "currencyCode": "EUR",
+                                "decimalPrice": 1.99
+                            },
+                            "priceDisplay": "€1.99",
+                            "purchasePayload": {
+                                "offerId": "4db605b1fd864f098fc6cefaa87de4a1",
+                                "sandboxId": "f0757a2ab13941d89476cfa09df9a545"
+                            },
+                            "purchaseType": "Purchase"
+                        },
+                        {
+                            "offerLifecycleState": "Release",
+                            "price": {
+                                "currencyCode": "EUR",
+                                "decimalPrice": 9.99
+                            },
+                            "priceDisplay": "€9.99",
+                            "purchasePayload": {
+                                "offerId": "4db605b1fd864f098fc6cefaa87de4a1",
+                                "sandboxId": "f0757a2ab13941d89476cfa09df9a545"
+                            },
+                            "purchaseType": "Purchase"
                         }
                     ],
                     "systemSpecs": {
@@ -17501,24 +17560,6 @@
                         }
                     },
                     "purchase": [
-                        {
-                            "discount": {
-                                "discountAmountDisplay": "-60%",
-                                "discountEndDate": "2026-08-19T14:59:00.000Z",
-                                "originalPriceDisplay": "€4.99"
-                            },
-                            "offerLifecycleState": "Release",
-                            "price": {
-                                "currencyCode": "EUR",
-                                "decimalPrice": 1.99
-                            },
-                            "priceDisplay": "€1.99",
-                            "purchasePayload": {
-                                "offerId": "26cc69dd4fa54caa93288e25767f8c9c",
-                                "sandboxId": "5d24ed888f9542a09dc406f66705631a"
-                            },
-                            "purchaseType": "Purchase"
-                        },
                         {
                             "offerLifecycleState": "Release",
                             "price": {
@@ -18683,6 +18724,37 @@
                         }
                     },
                     "purchase": [
+                        {
+                            "offerLifecycleState": "Release",
+                            "price": {
+                                "currencyCode": "EUR",
+                                "decimalPrice": 6.29
+                            },
+                            "priceDisplay": "€6.29",
+                            "purchasePayload": {
+                                "offerId": "0f124601704d4baa9c7e76657507e700",
+                                "sandboxId": "601b5944b71c478fa38f18f36de45bf0"
+                            },
+                            "purchaseType": "Purchase"
+                        },
+                        {
+                            "discount": {
+                                "discountAmountDisplay": "-90%",
+                                "discountEndDate": "2026-09-03T21:59:00.000Z",
+                                "originalPriceDisplay": "€6.29"
+                            },
+                            "offerLifecycleState": "Release",
+                            "price": {
+                                "currencyCode": "EUR",
+                                "decimalPrice": 0.62
+                            },
+                            "priceDisplay": "€0.62",
+                            "purchasePayload": {
+                                "offerId": "0f124601704d4baa9c7e76657507e700",
+                                "sandboxId": "601b5944b71c478fa38f18f36de45bf0"
+                            },
+                            "purchaseType": "Purchase"
+                        },
                         {
                             "offerLifecycleState": "Release",
                             "price": {
@@ -20059,6 +20131,13 @@
                         "slug": "planescape-torment-enhanced-edition-android-0affee"
                     },
                     "media": {
+                        "appIcon": {
+                            "altText": "-",
+                            "height": 512,
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/ebd39c3780d24de2ba9c1052318998c1/planescape-torment-enhanced-edition-icon-fg04e.png",
+                            "imageType": "ProductIcon",
+                            "width": 512
+                        },
                         "card16x9": {
                             "altText": "Planescape Torment Enhanced Edition Offer",
                             "height": 1440,
@@ -20072,6 +20151,13 @@
                             "imageSrc": "https://cdn1.epicgames.com/spt-assets/ebd39c3780d24de2ba9c1052318998c1/planescape-torment-enhanced-edition-1wrqi.jpg",
                             "imageType": "OfferImageTall",
                             "width": 1200
+                        },
+                        "coverImage": {
+                            "altText": "-",
+                            "height": 1440,
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/ebd39c3780d24de2ba9c1052318998c1/planescape-torment-enhanced-edition-1tqn1.jpg",
+                            "imageType": "coverImage",
+                            "width": 2560
                         }
                     },
                     "purchase": [
@@ -20090,8 +20176,25 @@
                         }
                     ],
                     "systemSpecs": {
+                        "applicationVersion": "3.1.3.3",
                         "platform": "android",
-                        "systemRequirements": []
+                        "systemRequirements": [
+                            {
+                                "minimum": "1.7 GB",
+                                "requirementType": "InstallSize",
+                                "title": "Installation size"
+                            },
+                            {
+                                "minimum": "162.00 MB",
+                                "requirementType": "DownloadSize",
+                                "title": "Download size"
+                            },
+                            {
+                                "minimum": "6.0",
+                                "requirementType": "OS",
+                                "title": "OS version"
+                            }
+                        ]
                     },
                     "title": "Planescape: Torment: Enhanced Edition"
                 },
