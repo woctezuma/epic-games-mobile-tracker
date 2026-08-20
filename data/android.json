@@ -630,7 +630,6 @@
                     },
                     "catalogItemId": "937178c80b5742439d626ff1ee5a2cff",
                     "categories": [
-                        "freegames",
                         "games",
                         "games/edition",
                         "games/edition/base"
@@ -669,23 +668,6 @@
                         }
                     },
                     "purchase": [
-                        {
-                            "discount": {
-                                "discountAmountDisplay": "-100%",
-                                "discountEndDate": "2026-08-20T15:00:00.000Z",
-                                "originalPriceDisplay": "€6.29"
-                            },
-                            "offerLifecycleState": "Release",
-                            "price": {
-                                "currencyCode": "EUR",
-                                "decimalPrice": 0
-                            },
-                            "purchasePayload": {
-                                "offerId": "c4b09b8d4a5c44238a6d67760468d783",
-                                "sandboxId": "929fdfbe0bf2408380976ddd9d20b1aa"
-                            },
-                            "purchaseType": "Claim"
-                        },
                         {
                             "offerLifecycleState": "Release",
                             "price": {
@@ -1296,24 +1278,6 @@
                         }
                     },
                     "purchase": [
-                        {
-                            "discount": {
-                                "discountAmountDisplay": "-35%",
-                                "discountEndDate": "2026-08-20T15:00:00.000Z",
-                                "originalPriceDisplay": "€2.69"
-                            },
-                            "offerLifecycleState": "Release",
-                            "price": {
-                                "currencyCode": "EUR",
-                                "decimalPrice": 1.74
-                            },
-                            "priceDisplay": "€1.74",
-                            "purchasePayload": {
-                                "offerId": "1a28d6a2692840aa8fdc8cfa957e5fb0",
-                                "sandboxId": "b172c475650a4104842716a69af1b889"
-                            },
-                            "purchaseType": "Purchase"
-                        },
                         {
                             "offerLifecycleState": "Release",
                             "price": {
@@ -3848,7 +3812,7 @@
                     "attention": {
                         "inAppPurchases": "None"
                     },
-                    "catalogItemId": "937178c80b5742439d626ff1ee5a2cff",
+                    "catalogItemId": "d3f13a13a68d4182a0f6206de447ad75",
                     "categories": [
                         "freegames",
                         "games",
@@ -3856,34 +3820,34 @@
                         "games/edition/base"
                     ],
                     "mapping": {
-                        "slug": "beholder-conductor-android-fb38c4"
+                        "slug": "caravan-sandwitch-android-594db5"
                     },
                     "media": {
                         "appIcon": {
                             "altText": "-",
                             "height": 512,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/59d860fa9039404795bcc15b938d12db/beholder-conductor-icon-15h2g.png",
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/95b9a9a220e8483c8c1a70ad692de4b3/caravan-sandwitch-icon-5qcau.png",
                             "imageType": "ProductIcon",
                             "width": 512
                         },
                         "card16x9": {
-                            "altText": "Beholder: Conductor Offer",
+                            "altText": "Caravan SandWitch Offer",
                             "height": 1440,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/59d860fa9039404795bcc15b938d12db/beholder-conductor-1yr0i.png",
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/95b9a9a220e8483c8c1a70ad692de4b3/caravan-sandwitch-pp0n3.png",
                             "imageType": "OfferImageWide",
                             "width": 2560
                         },
                         "card3x4": {
-                            "altText": "Download Beholder: Conductor Offer",
+                            "altText": "Download Caravan SandWitch Offer",
                             "height": 1600,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/59d860fa9039404795bcc15b938d12db/beholder-conductor-12n9b.png",
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/95b9a9a220e8483c8c1a70ad692de4b3/caravan-sandwitch-1mytj.png",
                             "imageType": "OfferImageTall",
                             "width": 1200
                         },
                         "coverImage": {
                             "altText": "-",
                             "height": 1440,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/59d860fa9039404795bcc15b938d12db/beholder-conductor-u6isk.png",
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/95b9a9a220e8483c8c1a70ad692de4b3/caravan-sandwitch-13vn4.png",
                             "imageType": "coverImage",
                             "width": 2560
                         }
@@ -3892,8 +3856,8 @@
                         {
                             "discount": {
                                 "discountAmountDisplay": "-100%",
-                                "discountEndDate": "2026-08-20T15:00:00.000Z",
-                                "originalPriceDisplay": "€6.29"
+                                "discountEndDate": "2026-08-27T15:00:00.000Z",
+                                "originalPriceDisplay": "€7.19"
                             },
                             "offerLifecycleState": "Release",
                             "price": {
@@ -3901,8 +3865,8 @@
                                 "decimalPrice": 0
                             },
                             "purchasePayload": {
-                                "offerId": "c4b09b8d4a5c44238a6d67760468d783",
-                                "sandboxId": "929fdfbe0bf2408380976ddd9d20b1aa"
+                                "offerId": "fa2e3fea86db44f58ff1214996e9f432",
+                                "sandboxId": "45b137b2ecd14e01a54b52e575f1632d"
                             },
                             "purchaseType": "Claim"
                         },
@@ -3910,41 +3874,41 @@
                             "offerLifecycleState": "Release",
                             "price": {
                                 "currencyCode": "EUR",
-                                "decimalPrice": 6.29
+                                "decimalPrice": 7.19
                             },
-                            "priceDisplay": "€6.29",
+                            "priceDisplay": "€7.19",
                             "purchasePayload": {
-                                "offerId": "c4b09b8d4a5c44238a6d67760468d783",
-                                "sandboxId": "929fdfbe0bf2408380976ddd9d20b1aa"
+                                "offerId": "fa2e3fea86db44f58ff1214996e9f432",
+                                "sandboxId": "45b137b2ecd14e01a54b52e575f1632d"
                             },
                             "purchaseType": "Purchase"
                         }
                     ],
                     "systemSpecs": {
-                        "applicationVersion": "1.0.51",
+                        "applicationVersion": "1.4.176",
                         "platform": "android",
                         "systemRequirements": [
                             {
-                                "minimum": "300",
+                                "minimum": "1.13 GB",
                                 "requirementType": "InstallSize",
                                 "title": "Installation size"
                             },
                             {
-                                "minimum": "279.59 MB",
+                                "minimum": "892.84 MB",
                                 "requirementType": "DownloadSize",
                                 "title": "Download size"
                             },
                             {
-                                "minimum": "8.0.0",
+                                "minimum": "10",
                                 "requirementType": "OS",
                                 "title": "OS version"
                             }
                         ]
                     },
-                    "title": "Beholder: Conductor"
+                    "title": "Caravan SandWitch"
                 },
-                "offerId": "c4b09b8d4a5c44238a6d67760468d783",
-                "sandboxId": "929fdfbe0bf2408380976ddd9d20b1aa"
+                "offerId": "fa2e3fea86db44f58ff1214996e9f432",
+                "sandboxId": "45b137b2ecd14e01a54b52e575f1632d"
             }
         ],
         "size": "large",
@@ -15060,19 +15024,6 @@
                     },
                     "purchase": [
                         {
-                            "offerLifecycleState": "Release",
-                            "price": {
-                                "currencyCode": "EUR",
-                                "decimalPrice": 2.99
-                            },
-                            "priceDisplay": "€2.99",
-                            "purchasePayload": {
-                                "offerId": "7c710ce5b71240f7b09e1dd7d42fe54c",
-                                "sandboxId": "1da1e8c82f1747b5a9b114408140f2ea"
-                            },
-                            "purchaseType": "Purchase"
-                        },
-                        {
                             "discount": {
                                 "discountAmountDisplay": "-67%",
                                 "discountEndDate": "2026-09-02T14:59:00.000Z",
@@ -17358,19 +17309,6 @@
                         }
                     },
                     "purchase": [
-                        {
-                            "offerLifecycleState": "Release",
-                            "price": {
-                                "currencyCode": "EUR",
-                                "decimalPrice": 9.99
-                            },
-                            "priceDisplay": "€9.99",
-                            "purchasePayload": {
-                                "offerId": "4db605b1fd864f098fc6cefaa87de4a1",
-                                "sandboxId": "f0757a2ab13941d89476cfa09df9a545"
-                            },
-                            "purchaseType": "Purchase"
-                        },
                         {
                             "discount": {
                                 "discountAmountDisplay": "-80%",
@@ -21319,24 +21257,6 @@
                         }
                     },
                     "purchase": [
-                        {
-                            "discount": {
-                                "discountAmountDisplay": "-50%",
-                                "discountEndDate": "2026-08-20T15:00:00.000Z",
-                                "originalPriceDisplay": "€7.19"
-                            },
-                            "offerLifecycleState": "Release",
-                            "price": {
-                                "currencyCode": "EUR",
-                                "decimalPrice": 3.59
-                            },
-                            "priceDisplay": "€3.59",
-                            "purchasePayload": {
-                                "offerId": "9ad0eaa3cd7543eb84995ba13f855a4c",
-                                "sandboxId": "d99073ba85b1432198e7e23009efda4d"
-                            },
-                            "purchaseType": "Purchase"
-                        },
                         {
                             "offerLifecycleState": "Release",
                             "price": {
