@@ -80,7 +80,7 @@
                         }
                     ],
                     "systemSpecs": {
-                        "applicationVersion": "2.3",
+                        "applicationVersion": "2.4",
                         "platform": "android",
                         "systemRequirements": [
                             {
@@ -89,7 +89,7 @@
                                 "title": "Installation size"
                             },
                             {
-                                "minimum": "698.17 MB",
+                                "minimum": "698.75 MB",
                                 "requirementType": "DownloadSize",
                                 "title": "Download size"
                             },
@@ -1394,7 +1394,7 @@
                         }
                     ],
                     "systemSpecs": {
-                        "applicationVersion": "0.55",
+                        "applicationVersion": "0.56",
                         "platform": "android",
                         "systemRequirements": [
                             {
@@ -1403,7 +1403,7 @@
                                 "title": "Installation size"
                             },
                             {
-                                "minimum": "520.15 MB",
+                                "minimum": "516.92 MB",
                                 "requirementType": "DownloadSize",
                                 "title": "Download size"
                             },
@@ -16696,7 +16696,7 @@
                         }
                     ],
                     "systemSpecs": {
-                        "applicationVersion": "56.2",
+                        "applicationVersion": "56.3",
                         "platform": "android",
                         "systemRequirements": [
                             {
