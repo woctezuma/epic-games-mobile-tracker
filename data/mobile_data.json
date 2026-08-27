@@ -1,4 +1,56 @@
 {
+    "1-0558e58003aa447a8ace48c3a0d53b54-1ee5dc8596734d2eb02a38b387570814": {
+        "age_control": 3,
+        "catalog_item_id": "6fadf4ea17e249c097b4765ad2499976",
+        "checkout_url": "<https://store.epicgames.com/purchase?offers=1-0558e58003aa447a8ace48c3a0d53b54-1ee5dc8596734d2eb02a38b387570814>",
+        "content_descriptors": [],
+        "current_price": "0",
+        "discount": "-100%",
+        "download_size": "450MB",
+        "end_date": "2026-09-03T15:00:00.000Z",
+        "in_app_purchases": false,
+        "install_size": "750MB",
+        "interactive_elements": [],
+        "media": {
+            "OfferImageTall": "https://cdn1.epicgames.com/spt-assets/77dba99a6e6245d19bb2fb552cb7590c/down-in-bermuda-hweqr.png",
+            "OfferImageWide": "https://cdn1.epicgames.com/spt-assets/77dba99a6e6245d19bb2fb552cb7590c/down-in-bermuda-1rvux.png",
+            "ProductIcon": "https://cdn1.epicgames.com/spt-assets/77dba99a6e6245d19bb2fb552cb7590c/down-in-bermuda-icon-1ttg9.png",
+            "coverImage": "https://cdn1.epicgames.com/spt-assets/77dba99a6e6245d19bb2fb552cb7590c/down-in-bermuda-szwhn.png"
+        },
+        "offer_id": "1ee5dc8596734d2eb02a38b387570814",
+        "original_price": "5.39",
+        "platform": "ios",
+        "sandbox_id": "0558e58003aa447a8ace48c3a0d53b54",
+        "slug": "down-in-bermuda-ios-f0d77a",
+        "store_url": "<https://store.epicgames.com/product/down-in-bermuda-ios-f0d77a>",
+        "title": "Down in Bermuda"
+    },
+    "1-0558e58003aa447a8ace48c3a0d53b54-e427b24483d2461e8ea2af4deebea32d": {
+        "age_control": 3,
+        "catalog_item_id": "aac53163746e4feda53bd34a8bf5596f",
+        "checkout_url": "<https://store.epicgames.com/purchase?offers=1-0558e58003aa447a8ace48c3a0d53b54-e427b24483d2461e8ea2af4deebea32d>",
+        "content_descriptors": [],
+        "current_price": "0",
+        "discount": "-100%",
+        "download_size": "423.89 MB",
+        "end_date": "2026-09-03T15:00:00.000Z",
+        "in_app_purchases": false,
+        "install_size": "750MB",
+        "interactive_elements": [],
+        "media": {
+            "OfferImageTall": "https://cdn1.epicgames.com/spt-assets/77dba99a6e6245d19bb2fb552cb7590c/down-in-bermuda-1epzm.png",
+            "OfferImageWide": "https://cdn1.epicgames.com/spt-assets/77dba99a6e6245d19bb2fb552cb7590c/down-in-bermuda-1xcvp.png",
+            "ProductIcon": "https://cdn1.epicgames.com/spt-assets/77dba99a6e6245d19bb2fb552cb7590c/down-in-bermuda-icon-1ttg9.png",
+            "coverImage": "https://cdn1.epicgames.com/spt-assets/77dba99a6e6245d19bb2fb552cb7590c/down-in-bermuda-szwhn.png"
+        },
+        "offer_id": "e427b24483d2461e8ea2af4deebea32d",
+        "original_price": "5.39",
+        "platform": "android",
+        "sandbox_id": "0558e58003aa447a8ace48c3a0d53b54",
+        "slug": "down-in-bermuda-android-91daeb",
+        "store_url": "<https://store.epicgames.com/product/down-in-bermuda-android-91daeb>",
+        "title": "Down in Bermuda"
+    },
     "1-0693e8391e49492096424712a5595484-639b1fb7fd7a441aafa78df90b526098": {
         "age_control": 7,
         "catalog_item_id": "af64a03a360d41c185591649acff9753",
