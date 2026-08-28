@@ -214,6 +214,108 @@
                             "gate": "no-gate"
                         },
                         "ageRating": {
+                            "ageControl": 12,
+                            "contentDescriptors": [
+                                "Mild Swearing"
+                            ],
+                            "interactiveElements": [],
+                            "ratingImage": "https://cdn1.epicgames.com/gameRating/gameRating/PEGI_12_192_192x192-afa4df43f131bc83eb380ccf22f8d904",
+                            "ratingSystem": "PEGI",
+                            "rectangularRatingImage": "https://cdn1.epicgames.com/salesEvent/salesEvent/PEGI-12_436x530-0cd1f06607086f3cc1bc2b8643f21b0a",
+                            "title": "PEGI 12"
+                        },
+                        "ratingType": "AgeRating"
+                    },
+                    "attention": {
+                        "inAppPurchases": "None"
+                    },
+                    "catalogItemId": "26afe50af5d74ae6bb40948c48cae97c",
+                    "categories": [
+                        "games",
+                        "games/edition",
+                        "games/edition/base"
+                    ],
+                    "mapping": {
+                        "slug": "caravan-sandwitch-ios-5c5529"
+                    },
+                    "media": {
+                        "appIcon": {
+                            "altText": "-",
+                            "height": 512,
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/95b9a9a220e8483c8c1a70ad692de4b3/caravan-sandwitch-icon-5qcau.png",
+                            "imageType": "ProductIcon",
+                            "width": 512
+                        },
+                        "card16x9": {
+                            "altText": "Caravan SandWitch Offer",
+                            "height": 1440,
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/95b9a9a220e8483c8c1a70ad692de4b3/caravan-sandwitch-1600n.png",
+                            "imageType": "OfferImageWide",
+                            "width": 2560
+                        },
+                        "card3x4": {
+                            "altText": "Download Caravan SandWitch Offer",
+                            "height": 1600,
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/95b9a9a220e8483c8c1a70ad692de4b3/caravan-sandwitch-ffqcl.png",
+                            "imageType": "OfferImageTall",
+                            "width": 1200
+                        },
+                        "coverImage": {
+                            "altText": "-",
+                            "height": 1440,
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/95b9a9a220e8483c8c1a70ad692de4b3/caravan-sandwitch-13vn4.png",
+                            "imageType": "coverImage",
+                            "width": 2560
+                        }
+                    },
+                    "purchase": [
+                        {
+                            "offerLifecycleState": "Release",
+                            "price": {
+                                "currencyCode": "EUR",
+                                "decimalPrice": 7.19
+                            },
+                            "priceDisplay": "€7.19",
+                            "purchasePayload": {
+                                "offerId": "811992aec5c3477b9ce33d95f250826d",
+                                "sandboxId": "45b137b2ecd14e01a54b52e575f1632d"
+                            },
+                            "purchaseType": "Purchase"
+                        }
+                    ],
+                    "systemSpecs": {
+                        "applicationVersion": "1.0",
+                        "platform": "ios",
+                        "systemRequirements": [
+                            {
+                                "minimum": "1.13 GB",
+                                "requirementType": "InstallSize",
+                                "title": "Installation size"
+                            },
+                            {
+                                "minimum": "878.70 MB",
+                                "requirementType": "DownloadSize",
+                                "title": "Download size"
+                            },
+                            {
+                                "minimum": "18.0",
+                                "requirementType": "OS",
+                                "title": "OS version"
+                            }
+                        ]
+                    },
+                    "title": "Caravan SandWitch"
+                },
+                "offerId": "811992aec5c3477b9ce33d95f250826d",
+                "sandboxId": "45b137b2ecd14e01a54b52e575f1632d"
+            },
+            {
+                "content": {
+                    "ageRating": {
+                        "ageGate": {
+                            "gate": "no-gate"
+                        },
+                        "ageRating": {
                             "ageControl": 3,
                             "contentDescriptors": [],
                             "interactiveElements": [],
@@ -1817,7 +1919,19 @@
                 },
                 "offerId": "e503745d0b2e4391b4454a3d1b75f22e",
                 "sandboxId": "8bd7d123bc59474ebb2552793dc0fdbb"
-            },
+            }
+        ],
+        "size": "xLarge",
+        "title": "",
+        "topicId": "mobile-ios-carousel",
+        "type": "featured"
+    },
+    {
+        "link": {
+            "linkText": "home page",
+            "src": "/"
+        },
+        "offers": [
             {
                 "content": {
                     "ageRating": {
@@ -1919,19 +2033,7 @@
                 },
                 "offerId": "e7658ce0423c47619506588174223a04",
                 "sandboxId": "228e0d2c9edd4c1189fc00ba49d8fb1a"
-            }
-        ],
-        "size": "xLarge",
-        "title": "",
-        "topicId": "mobile-ios-carousel",
-        "type": "featured"
-    },
-    {
-        "link": {
-            "linkText": "home page",
-            "src": "/"
-        },
-        "offers": [
+            },
             {
                 "content": {
                     "ageRating": {
@@ -2641,137 +2743,6 @@
                 },
                 "offerId": "1b214c76475142efad0cbb34139564e2",
                 "sandboxId": "45f125178d8c4bc18e1827a307bcc5c0"
-            },
-            {
-                "content": {
-                    "ageRating": {
-                        "ageGate": {
-                            "gate": "no-gate"
-                        },
-                        "ageRating": {
-                            "ageControl": 3,
-                            "contentDescriptors": [],
-                            "interactiveElements": [],
-                            "ratingImage": "https://cdn1.epicgames.com/gameRating/gameRating/PEGI_3_192_192x192-490b93ddf59fb4ac1148d1eb9083626a",
-                            "ratingSystem": "PEGI",
-                            "rectangularRatingImage": "https://cdn1.epicgames.com/salesEvent/salesEvent/PEGI-3_435x530-c931ab5bb4eb190f6e8e542081c49dc4",
-                            "title": "PEGI 3"
-                        },
-                        "ratingType": "AgeRating"
-                    },
-                    "attention": {
-                        "inAppPurchases": "None"
-                    },
-                    "catalogItemId": "6fadf4ea17e249c097b4765ad2499976",
-                    "categories": [
-                        "freegames",
-                        "games",
-                        "games/edition",
-                        "games/edition/base"
-                    ],
-                    "mapping": {
-                        "slug": "down-in-bermuda-ios-f0d77a"
-                    },
-                    "media": {
-                        "appIcon": {
-                            "altText": "-",
-                            "height": 512,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/77dba99a6e6245d19bb2fb552cb7590c/down-in-bermuda-icon-1ttg9.png",
-                            "imageType": "ProductIcon",
-                            "width": 512
-                        },
-                        "card16x9": {
-                            "altText": "Down in Bermuda Offer",
-                            "height": 1440,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/77dba99a6e6245d19bb2fb552cb7590c/down-in-bermuda-1rvux.png",
-                            "imageType": "OfferImageWide",
-                            "width": 2560
-                        },
-                        "card3x4": {
-                            "altText": "Download Down in Bermuda Offer",
-                            "height": 1600,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/77dba99a6e6245d19bb2fb552cb7590c/down-in-bermuda-hweqr.png",
-                            "imageType": "OfferImageTall",
-                            "width": 1200
-                        },
-                        "coverImage": {
-                            "altText": "-",
-                            "height": 1440,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/77dba99a6e6245d19bb2fb552cb7590c/down-in-bermuda-szwhn.png",
-                            "imageType": "coverImage",
-                            "width": 2560
-                        }
-                    },
-                    "purchase": [
-                        {
-                            "offerLifecycleState": "Release",
-                            "price": {
-                                "currencyCode": "EUR",
-                                "decimalPrice": 5.39
-                            },
-                            "priceDisplay": "€5.39",
-                            "purchasePayload": {
-                                "offerId": "1ee5dc8596734d2eb02a38b387570814",
-                                "sandboxId": "0558e58003aa447a8ace48c3a0d53b54"
-                            },
-                            "purchaseType": "Purchase"
-                        },
-                        {
-                            "discount": {
-                                "discountAmountDisplay": "-100%",
-                                "discountEndDate": "2026-09-03T15:00:00.000Z",
-                                "originalPriceDisplay": "€5.39"
-                            },
-                            "offerLifecycleState": "Release",
-                            "price": {
-                                "currencyCode": "EUR",
-                                "decimalPrice": 0
-                            },
-                            "purchasePayload": {
-                                "offerId": "1ee5dc8596734d2eb02a38b387570814",
-                                "sandboxId": "0558e58003aa447a8ace48c3a0d53b54"
-                            },
-                            "purchaseType": "Claim"
-                        },
-                        {
-                            "offerLifecycleState": "Release",
-                            "price": {
-                                "currencyCode": "EUR",
-                                "decimalPrice": 5.39
-                            },
-                            "priceDisplay": "€5.39",
-                            "purchasePayload": {
-                                "offerId": "1ee5dc8596734d2eb02a38b387570814",
-                                "sandboxId": "0558e58003aa447a8ace48c3a0d53b54"
-                            },
-                            "purchaseType": "Purchase"
-                        }
-                    ],
-                    "systemSpecs": {
-                        "applicationVersion": "1.8.0",
-                        "platform": "ios",
-                        "systemRequirements": [
-                            {
-                                "minimum": "750MB",
-                                "requirementType": "InstallSize",
-                                "title": "Installation size"
-                            },
-                            {
-                                "minimum": "450MB",
-                                "requirementType": "DownloadSize",
-                                "title": "Download size"
-                            },
-                            {
-                                "minimum": "iOS 16.0",
-                                "requirementType": "OS",
-                                "title": "OS version"
-                            }
-                        ]
-                    },
-                    "title": "Down in Bermuda"
-                },
-                "offerId": "1ee5dc8596734d2eb02a38b387570814",
-                "sandboxId": "0558e58003aa447a8ace48c3a0d53b54"
             },
             {
                 "content": {
@@ -4038,22 +4009,20 @@
                             "gate": "no-gate"
                         },
                         "ageRating": {
-                            "ageControl": 12,
-                            "contentDescriptors": [
-                                "Mild Swearing"
-                            ],
+                            "ageControl": 3,
+                            "contentDescriptors": [],
                             "interactiveElements": [],
-                            "ratingImage": "https://cdn1.epicgames.com/gameRating/gameRating/PEGI_12_192_192x192-afa4df43f131bc83eb380ccf22f8d904",
+                            "ratingImage": "https://cdn1.epicgames.com/gameRating/gameRating/PEGI_3_192_192x192-490b93ddf59fb4ac1148d1eb9083626a",
                             "ratingSystem": "PEGI",
-                            "rectangularRatingImage": "https://cdn1.epicgames.com/salesEvent/salesEvent/PEGI-12_436x530-0cd1f06607086f3cc1bc2b8643f21b0a",
-                            "title": "PEGI 12"
+                            "rectangularRatingImage": "https://cdn1.epicgames.com/salesEvent/salesEvent/PEGI-3_435x530-c931ab5bb4eb190f6e8e542081c49dc4",
+                            "title": "PEGI 3"
                         },
                         "ratingType": "AgeRating"
                     },
                     "attention": {
                         "inAppPurchases": "None"
                     },
-                    "catalogItemId": "26afe50af5d74ae6bb40948c48cae97c",
+                    "catalogItemId": "6fadf4ea17e249c097b4765ad2499976",
                     "categories": [
                         "freegames",
                         "games",
@@ -4061,34 +4030,34 @@
                         "games/edition/base"
                     ],
                     "mapping": {
-                        "slug": "caravan-sandwitch-ios-5c5529"
+                        "slug": "down-in-bermuda-ios-f0d77a"
                     },
                     "media": {
                         "appIcon": {
                             "altText": "-",
                             "height": 512,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/95b9a9a220e8483c8c1a70ad692de4b3/caravan-sandwitch-icon-5qcau.png",
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/77dba99a6e6245d19bb2fb552cb7590c/down-in-bermuda-icon-1ttg9.png",
                             "imageType": "ProductIcon",
                             "width": 512
                         },
                         "card16x9": {
-                            "altText": "Caravan SandWitch Offer",
+                            "altText": "Down in Bermuda Offer",
                             "height": 1440,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/95b9a9a220e8483c8c1a70ad692de4b3/caravan-sandwitch-1600n.png",
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/77dba99a6e6245d19bb2fb552cb7590c/down-in-bermuda-1rvux.png",
                             "imageType": "OfferImageWide",
                             "width": 2560
                         },
                         "card3x4": {
-                            "altText": "Download Caravan SandWitch Offer",
+                            "altText": "Download Down in Bermuda Offer",
                             "height": 1600,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/95b9a9a220e8483c8c1a70ad692de4b3/caravan-sandwitch-ffqcl.png",
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/77dba99a6e6245d19bb2fb552cb7590c/down-in-bermuda-hweqr.png",
                             "imageType": "OfferImageTall",
                             "width": 1200
                         },
                         "coverImage": {
                             "altText": "-",
                             "height": 1440,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/95b9a9a220e8483c8c1a70ad692de4b3/caravan-sandwitch-13vn4.png",
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/77dba99a6e6245d19bb2fb552cb7590c/down-in-bermuda-szwhn.png",
                             "imageType": "coverImage",
                             "width": 2560
                         }
@@ -4097,8 +4066,8 @@
                         {
                             "discount": {
                                 "discountAmountDisplay": "-100%",
-                                "discountEndDate": "2026-08-27T15:00:00.000Z",
-                                "originalPriceDisplay": "€7.19"
+                                "discountEndDate": "2026-09-03T15:00:00.000Z",
+                                "originalPriceDisplay": "€5.39"
                             },
                             "offerLifecycleState": "Release",
                             "price": {
@@ -4106,8 +4075,8 @@
                                 "decimalPrice": 0
                             },
                             "purchasePayload": {
-                                "offerId": "811992aec5c3477b9ce33d95f250826d",
-                                "sandboxId": "45b137b2ecd14e01a54b52e575f1632d"
+                                "offerId": "1ee5dc8596734d2eb02a38b387570814",
+                                "sandboxId": "0558e58003aa447a8ace48c3a0d53b54"
                             },
                             "purchaseType": "Claim"
                         },
@@ -4115,41 +4084,41 @@
                             "offerLifecycleState": "Release",
                             "price": {
                                 "currencyCode": "EUR",
-                                "decimalPrice": 7.19
+                                "decimalPrice": 5.39
                             },
-                            "priceDisplay": "€7.19",
+                            "priceDisplay": "€5.39",
                             "purchasePayload": {
-                                "offerId": "811992aec5c3477b9ce33d95f250826d",
-                                "sandboxId": "45b137b2ecd14e01a54b52e575f1632d"
+                                "offerId": "1ee5dc8596734d2eb02a38b387570814",
+                                "sandboxId": "0558e58003aa447a8ace48c3a0d53b54"
                             },
                             "purchaseType": "Purchase"
                         }
                     ],
                     "systemSpecs": {
-                        "applicationVersion": "1.0",
+                        "applicationVersion": "1.8.0",
                         "platform": "ios",
                         "systemRequirements": [
                             {
-                                "minimum": "1.13 GB",
+                                "minimum": "750MB",
                                 "requirementType": "InstallSize",
                                 "title": "Installation size"
                             },
                             {
-                                "minimum": "878.70 MB",
+                                "minimum": "450MB",
                                 "requirementType": "DownloadSize",
                                 "title": "Download size"
                             },
                             {
-                                "minimum": "18.0",
+                                "minimum": "iOS 16.0",
                                 "requirementType": "OS",
                                 "title": "OS version"
                             }
                         ]
                     },
-                    "title": "Caravan SandWitch"
+                    "title": "Down in Bermuda"
                 },
-                "offerId": "811992aec5c3477b9ce33d95f250826d",
-                "sandboxId": "45b137b2ecd14e01a54b52e575f1632d"
+                "offerId": "1ee5dc8596734d2eb02a38b387570814",
+                "sandboxId": "0558e58003aa447a8ace48c3a0d53b54"
             }
         ],
         "size": "large",
