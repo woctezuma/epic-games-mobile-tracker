@@ -29,9 +29,9 @@
                     },
                     "catalogItemId": "bbfd02c6e638472b9951c2199a1ba626",
                     "categories": [
-                        "games",
+                        "games/edition/base",
                         "games/edition",
-                        "games/edition/base"
+                        "games"
                     ],
                     "mapping": {
                         "slug": "the-legend-of-fireball-android-33de6b"
@@ -47,14 +47,14 @@
                         "card16x9": {
                             "altText": "The Legend of Fireball Offer",
                             "height": 1440,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/65ce744856984e4fbbf774cef83dab44/the-legend-of-fireball-1ijzv.png",
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/65ce744856984e4fbbf774cef83dab44/the-legend-of-fireball-1gl90.png",
                             "imageType": "OfferImageWide",
                             "width": 2560
                         },
                         "card3x4": {
                             "altText": "Download The Legend of Fireball Offer",
                             "height": 1600,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/65ce744856984e4fbbf774cef83dab44/the-legend-of-fireball-z41vu.png",
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/65ce744856984e4fbbf774cef83dab44/the-legend-of-fireball-140r3.png",
                             "imageType": "OfferImageTall",
                             "width": 1200
                         },
@@ -81,7 +81,7 @@
                         }
                     ],
                     "systemSpecs": {
-                        "applicationVersion": "1.13.1",
+                        "applicationVersion": "1.18.1",
                         "platform": "android",
                         "systemRequirements": [
                             {
@@ -90,7 +90,7 @@
                                 "title": "Installation size"
                             },
                             {
-                                "minimum": "227.84 MB",
+                                "minimum": "228.24 MB",
                                 "requirementType": "DownloadSize",
                                 "title": "Download size"
                             },
@@ -130,9 +130,9 @@
                     },
                     "catalogItemId": "ea3b3749bdd2438087721975cde4a7af",
                     "categories": [
-                        "games",
+                        "games/edition/base",
                         "games/edition",
-                        "games/edition/base"
+                        "games"
                     ],
                     "mapping": {
                         "slug": "fortress-merge-android-205022"
@@ -148,14 +148,14 @@
                         "card16x9": {
                             "altText": "Fortress Merge Offer",
                             "height": 1440,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/fa344110d12f4d60bf6b2550791dce2d/fortress-merge-tuaex.png",
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/fa344110d12f4d60bf6b2550791dce2d/fortress-merge-4tuso.png",
                             "imageType": "OfferImageWide",
                             "width": 2560
                         },
                         "card3x4": {
                             "altText": "Download Fortress Merge Offer",
                             "height": 1600,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/fa344110d12f4d60bf6b2550791dce2d/fortress-merge-1tcel.png",
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/fa344110d12f4d60bf6b2550791dce2d/fortress-merge-ykwjd.png",
                             "imageType": "OfferImageTall",
                             "width": 1200
                         },
