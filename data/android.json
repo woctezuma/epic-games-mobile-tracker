@@ -8236,7 +8236,7 @@
                         }
                     ],
                     "systemSpecs": {
-                        "applicationVersion": "12.01.0",
+                        "applicationVersion": "12.04.0",
                         "platform": "android",
                         "systemRequirements": [
                             {
@@ -8245,7 +8245,7 @@
                                 "title": "Installation size"
                             },
                             {
-                                "minimum": "362.79 MB",
+                                "minimum": "370.44 MB",
                                 "requirementType": "DownloadSize",
                                 "title": "Download size"
                             },
