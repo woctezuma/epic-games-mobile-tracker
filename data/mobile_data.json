@@ -2003,6 +2003,62 @@
         "store_url": "<https://store.epicgames.com/product/botany-manor-ios-971c19>",
         "title": "Botany Manor"
     },
+    "1-9c7a70d78df948ddaf1b51722b16d6b8-48ab71c1112b47e08df0476564f74b2b": {
+        "age_control": 12,
+        "catalog_item_id": "32962bc2c1724203b978656073a68769",
+        "checkout_url": "<https://store.epicgames.com/purchase?offers=1-9c7a70d78df948ddaf1b51722b16d6b8-48ab71c1112b47e08df0476564f74b2b>",
+        "content_descriptors": [
+            "Mild Swearing"
+        ],
+        "current_price": "0",
+        "discount": "-100%",
+        "download_size": "262.70 MB",
+        "end_date": "2026-09-10T15:00:00.000Z",
+        "in_app_purchases": false,
+        "install_size": "266 MB",
+        "interactive_elements": [],
+        "media": {
+            "OfferImageTall": "https://cdn1.epicgames.com/spt-assets/5e35f2ebdaec4ff5b7548ccc55d6c40b/evans-remains-mhuad.jpg",
+            "OfferImageWide": "https://cdn1.epicgames.com/spt-assets/5e35f2ebdaec4ff5b7548ccc55d6c40b/evans-remains-1j3xl.jpg",
+            "ProductIcon": "https://cdn1.epicgames.com/spt-assets/5e35f2ebdaec4ff5b7548ccc55d6c40b/evans-remains-icon-xooqk.png",
+            "coverImage": "https://cdn1.epicgames.com/spt-assets/5e35f2ebdaec4ff5b7548ccc55d6c40b/evans-remains-1bh54.png"
+        },
+        "offer_id": "48ab71c1112b47e08df0476564f74b2b",
+        "original_price": "4.49",
+        "platform": "android",
+        "sandbox_id": "9c7a70d78df948ddaf1b51722b16d6b8",
+        "slug": "evans-remains-android-ddf101",
+        "store_url": "<https://store.epicgames.com/product/evans-remains-android-ddf101>",
+        "title": "Evan's Remains"
+    },
+    "1-9c7a70d78df948ddaf1b51722b16d6b8-cf3ab45b47cb4d339405541ed9dd3fb7": {
+        "age_control": 12,
+        "catalog_item_id": "a0ae36b538d3449686e2818de5e29757",
+        "checkout_url": "<https://store.epicgames.com/purchase?offers=1-9c7a70d78df948ddaf1b51722b16d6b8-cf3ab45b47cb4d339405541ed9dd3fb7>",
+        "content_descriptors": [
+            "Mild Swearing"
+        ],
+        "current_price": "0",
+        "discount": "-100%",
+        "download_size": "147 MB",
+        "end_date": "2026-09-10T15:00:00.000Z",
+        "in_app_purchases": false,
+        "install_size": "178 MB",
+        "interactive_elements": [],
+        "media": {
+            "OfferImageTall": "https://cdn1.epicgames.com/spt-assets/5e35f2ebdaec4ff5b7548ccc55d6c40b/evans-remains-f4lbt.jpg",
+            "OfferImageWide": "https://cdn1.epicgames.com/spt-assets/5e35f2ebdaec4ff5b7548ccc55d6c40b/evans-remains-f98vn.jpg",
+            "ProductIcon": "https://cdn1.epicgames.com/spt-assets/5e35f2ebdaec4ff5b7548ccc55d6c40b/evans-remains-icon-xooqk.png",
+            "coverImage": "https://cdn1.epicgames.com/spt-assets/5e35f2ebdaec4ff5b7548ccc55d6c40b/evans-remains-1bh54.png"
+        },
+        "offer_id": "cf3ab45b47cb4d339405541ed9dd3fb7",
+        "original_price": "4.49",
+        "platform": "ios",
+        "sandbox_id": "9c7a70d78df948ddaf1b51722b16d6b8",
+        "slug": "evans-remains-ios-e00ae0",
+        "store_url": "<https://store.epicgames.com/product/evans-remains-ios-e00ae0>",
+        "title": "Evan's Remains"
+    },
     "1-9f981e2c861e4a8fbd0eab89541ac8e6-a96d48ca85e44dd1b868531eb6cebeaf": {
         "age_control": 16,
         "catalog_item_id": "230d84fe27094fbcb0b6f71c787339af",
