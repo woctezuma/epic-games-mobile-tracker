@@ -12,6 +12,108 @@
                             "gate": "no-gate"
                         },
                         "ageRating": {
+                            "ageControl": 12,
+                            "contentDescriptors": [
+                                "Mild Swearing"
+                            ],
+                            "interactiveElements": [],
+                            "ratingImage": "https://cdn1.epicgames.com/gameRating/gameRating/PEGI_12_192_192x192-afa4df43f131bc83eb380ccf22f8d904",
+                            "ratingSystem": "PEGI",
+                            "rectangularRatingImage": "https://cdn1.epicgames.com/salesEvent/salesEvent/PEGI-12_436x530-0cd1f06607086f3cc1bc2b8643f21b0a",
+                            "title": "PEGI 12"
+                        },
+                        "ratingType": "AgeRating"
+                    },
+                    "attention": {
+                        "inAppPurchases": "None"
+                    },
+                    "catalogItemId": "32962bc2c1724203b978656073a68769",
+                    "categories": [
+                        "games",
+                        "games/edition",
+                        "games/edition/base"
+                    ],
+                    "mapping": {
+                        "slug": "evans-remains-android-ddf101"
+                    },
+                    "media": {
+                        "appIcon": {
+                            "altText": "-",
+                            "height": 512,
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/5e35f2ebdaec4ff5b7548ccc55d6c40b/evans-remains-icon-xooqk.png",
+                            "imageType": "ProductIcon",
+                            "width": 512
+                        },
+                        "card16x9": {
+                            "altText": "Evan's Remains Offer",
+                            "height": 1440,
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/5e35f2ebdaec4ff5b7548ccc55d6c40b/evans-remains-1j3xl.jpg",
+                            "imageType": "OfferImageWide",
+                            "width": 2560
+                        },
+                        "card3x4": {
+                            "altText": "Download Evan's Remains Offer",
+                            "height": 1600,
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/5e35f2ebdaec4ff5b7548ccc55d6c40b/evans-remains-mhuad.jpg",
+                            "imageType": "OfferImageTall",
+                            "width": 1200
+                        },
+                        "coverImage": {
+                            "altText": "-",
+                            "height": 1440,
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/5e35f2ebdaec4ff5b7548ccc55d6c40b/evans-remains-1bh54.png",
+                            "imageType": "coverImage",
+                            "width": 2560
+                        }
+                    },
+                    "purchase": [
+                        {
+                            "offerLifecycleState": "Release",
+                            "price": {
+                                "currencyCode": "EUR",
+                                "decimalPrice": 4.49
+                            },
+                            "priceDisplay": "€4.49",
+                            "purchasePayload": {
+                                "offerId": "48ab71c1112b47e08df0476564f74b2b",
+                                "sandboxId": "9c7a70d78df948ddaf1b51722b16d6b8"
+                            },
+                            "purchaseType": "Purchase"
+                        }
+                    ],
+                    "systemSpecs": {
+                        "applicationVersion": "1.0.1",
+                        "platform": "android",
+                        "systemRequirements": [
+                            {
+                                "minimum": "266 MB",
+                                "requirementType": "InstallSize",
+                                "title": "Installation size"
+                            },
+                            {
+                                "minimum": "244.09 MB",
+                                "requirementType": "DownloadSize",
+                                "title": "Download size"
+                            },
+                            {
+                                "minimum": "7.0",
+                                "requirementType": "OS",
+                                "title": "OS version"
+                            }
+                        ]
+                    },
+                    "title": "Evan's Remains"
+                },
+                "offerId": "48ab71c1112b47e08df0476564f74b2b",
+                "sandboxId": "9c7a70d78df948ddaf1b51722b16d6b8"
+            },
+            {
+                "content": {
+                    "ageRating": {
+                        "ageGate": {
+                            "gate": "no-gate"
+                        },
+                        "ageRating": {
                             "ageControl": 3,
                             "contentDescriptors": [],
                             "interactiveElements": [
@@ -2574,20 +2676,23 @@
                             "width": 512
                         },
                         "card16x9": {
+                            "altText": "",
                             "height": 1440,
-                            "imageSrc": "https://cdn1.epicgames.com/offer/fn/EN_FNBR_Reload_41-30_Ropesmile_Logo_EGS_Launcher_Blade_2560x1440_2560x1440-5966f69adc3346ef9fd273301c8d499b",
+                            "imageSrc": "https://cdn2.unrealengine.com/en-fnbr-reload-41-30-ropesmile-logo-egs-launcher-pdpcarousel-2560x1440-2560x1440-2747ee615dfa.jpg",
                             "imageType": "OfferImageWide",
                             "width": 2560
                         },
                         "card3x4": {
+                            "altText": "",
                             "height": 1600,
-                            "imageSrc": "https://cdn1.epicgames.com/offer/fn/EN_FNBR_Reload_41-30_Ropesmile_EGS_Launcher_Blade_1200x1600_1200x1600-916a011b238e442293501b5bcec2f4f4",
+                            "imageSrc": "https://cdn2.unrealengine.com/en-fnbr-reload-41-30-ropesmile-egs-launcher-blade-1200x1600-1200x1600-82f6eb411ea8.jpg",
                             "imageType": "OfferImageTall",
                             "width": 1200
                         },
                         "coverImage": {
+                            "altText": "",
                             "height": 1440,
-                            "imageSrc": "https://cdn1.epicgames.com/offer/fn/EN_FNBR_Reload_41-30_Ropesmile_Logo_EGS_Launcher_Blade_2560x1440_2560x1440-5966f69adc3346ef9fd273301c8d499b",
+                            "imageSrc": "https://cdn2.unrealengine.com/en-fnbr-reload-41-30-ropesmile-logo-egs-launcher-pdpcarousel-2560x1440-2560x1440-2747ee615dfa.jpg",
                             "imageType": "OfferImageWide",
                             "width": 2560
                         }
@@ -2664,20 +2769,23 @@
                             "width": 512
                         },
                         "card16x9": {
+                            "altText": "",
                             "height": 1440,
-                            "imageSrc": "https://cdn1.epicgames.com/offer/fn/FNSP_41-30_AnvilAlarm_Logo_EGS_Launcher_Blade_2560x1440_2560x1440-086acb65055c4b4c8329925d7cfe9100",
+                            "imageSrc": "https://cdn2.unrealengine.com/fnsp-41-30-anvilalarm-logo-egs-launcher-blade-2560x1440-2560x1440-573f3c56ba8e.jpg",
                             "imageType": "OfferImageWide",
                             "width": 2560
                         },
                         "card3x4": {
+                            "altText": "",
                             "height": 1600,
-                            "imageSrc": "https://cdn1.epicgames.com/offer/fn/FNSP_41-30_AnvilAlarm_EGS_Launcher_Blade_1200x1600_1200x1600-9a54bf3a1c724c0b8b487b053acd555b",
+                            "imageSrc": "https://cdn2.unrealengine.com/fnsp-41-30-anvilalarm-egs-launcher-blade-1200x1600-1200x1600-5b8fc98b7edc.jpg",
                             "imageType": "OfferImageTall",
                             "width": 1200
                         },
                         "coverImage": {
+                            "altText": "",
                             "height": 1440,
-                            "imageSrc": "https://cdn1.epicgames.com/offer/fn/FNSP_41-30_AnvilAlarm_Logo_EGS_Launcher_Blade_2560x1440_2560x1440-086acb65055c4b4c8329925d7cfe9100",
+                            "imageSrc": "https://cdn2.unrealengine.com/fnsp-41-30-anvilalarm-logo-egs-launcher-blade-2560x1440-2560x1440-573f3c56ba8e.jpg",
                             "imageType": "OfferImageWide",
                             "width": 2560
                         }
@@ -2754,20 +2862,23 @@
                             "width": 512
                         },
                         "card16x9": {
+                            "altText": "",
                             "height": 1440,
-                            "imageSrc": "https://cdn1.epicgames.com/offer/fn/EN_FN_OG_42-10_C1SX_EGS_Launcher_Blade_2560x1440_2560x1440-7a5fcdbf505847709dcf9e012deb39ce",
+                            "imageSrc": "https://cdn2.unrealengine.com/en-fn-og-42-10-c1sx-egs-launcher-blade-2560x1440-2560x1440-319ff81b274e.jpg",
                             "imageType": "OfferImageWide",
                             "width": 2560
                         },
                         "card3x4": {
+                            "altText": "",
                             "height": 1600,
-                            "imageSrc": "https://cdn1.epicgames.com/offer/fn/EN_FN_OG_42-10_C1SX_EGS_Launcher_Blade_1200x1600_1200x1600-3cd2193fc3344bbbb4cf7482fcb6bcdf",
+                            "imageSrc": "https://cdn2.unrealengine.com/en-fn-og-42-10-c1sx-egs-launcher-blade-1200x1600-1200x1600-6e74a083a5cd.jpg",
                             "imageType": "OfferImageTall",
                             "width": 1200
                         },
                         "coverImage": {
+                            "altText": "",
                             "height": 1440,
-                            "imageSrc": "https://cdn1.epicgames.com/offer/fn/EN_FN_OG_42-10_C1SX_EGS_Launcher_Blade_2560x1440_2560x1440-7a5fcdbf505847709dcf9e012deb39ce",
+                            "imageSrc": "https://cdn2.unrealengine.com/en-fn-og-42-10-c1sx-egs-launcher-blade-2560x1440-2560x1440-319ff81b274e.jpg",
                             "imageType": "OfferImageWide",
                             "width": 2560
                         }
@@ -2843,20 +2954,23 @@
                             "width": 512
                         },
                         "card16x9": {
+                            "altText": "",
                             "height": 1440,
-                            "imageSrc": "https://cdn1.epicgames.com/offer/fn/FNBL_33-10_Sprout_EGS_KeyArt_Carousel_PDP_2560x1440_logo_2560x1440-dc43f808fc65d92258190288e57c5603",
+                            "imageSrc": "https://cdn2.unrealengine.com/fnbl-33-10-sprout-egs-keyart-carousel-pdp-2560x1440-logo-2560x1440-8d162f9abebe.jpg",
                             "imageType": "OfferImageWide",
                             "width": 2560
                         },
                         "card3x4": {
+                            "altText": "",
                             "height": 1600,
-                            "imageSrc": "https://cdn1.epicgames.com/offer/fn/FNBL_33-10_Sprout_EGS_Keyart_MobileCarousel_1200x1600_1200x1600-ec56bf5a64f844bfc39b9972a735cf8b",
+                            "imageSrc": "https://cdn2.unrealengine.com/fnbl-33-10-sprout-egs-keyart-mobilecarousel-1200x1600-1200x1600-d68867e15366.jpg",
                             "imageType": "OfferImageTall",
                             "width": 1200
                         },
                         "coverImage": {
+                            "altText": "",
                             "height": 1440,
-                            "imageSrc": "https://cdn1.epicgames.com/offer/fn/FNBL_33-10_Sprout_EGS_KeyArt_Carousel_PDP_2560x1440_logo_2560x1440-dc43f808fc65d92258190288e57c5603",
+                            "imageSrc": "https://cdn2.unrealengine.com/fnbl-33-10-sprout-egs-keyart-carousel-pdp-2560x1440-logo-2560x1440-8d162f9abebe.jpg",
                             "imageType": "OfferImageWide",
                             "width": 2560
                         }
@@ -2932,20 +3046,23 @@
                             "width": 512
                         },
                         "card16x9": {
+                            "altText": "",
                             "height": 1440,
-                            "imageSrc": "https://cdn1.epicgames.com/offer/fn/FNJN_33-10_StormKing_EGS_Launcher_KeyArt_Blade_2560x1440_2560x1440-ec0995865dd144a69b966d8ca3ca4050",
+                            "imageSrc": "https://cdn2.unrealengine.com/fnjn-33-10-stormking-egs-launcher-keyart-blade-2560x1440-2560x1440-c49d4cb08041.jpg",
                             "imageType": "OfferImageWide",
                             "width": 2560
                         },
                         "card3x4": {
+                            "altText": "",
                             "height": 1600,
-                            "imageSrc": "https://cdn1.epicgames.com/offer/fn/FNJN_33-10_StormKing_EGS_Launcher_KeyArt_Blade_1200x1600_1200x1600-91f51f0f2cf847cb99028617690a4d64",
+                            "imageSrc": "https://cdn2.unrealengine.com/fnjn-33-10-stormking-egs-launcher-keyart-blade-1200x1600-1200x1600-c2a65f0f0e2e.jpg",
                             "imageType": "OfferImageTall",
                             "width": 1200
                         },
                         "coverImage": {
+                            "altText": "",
                             "height": 1440,
-                            "imageSrc": "https://cdn1.epicgames.com/offer/fn/FNJN_33-10_StormKing_EGS_Launcher_KeyArt_Blade_2560x1440_2560x1440-ec0995865dd144a69b966d8ca3ca4050",
+                            "imageSrc": "https://cdn2.unrealengine.com/fnjn-33-10-stormking-egs-launcher-keyart-blade-2560x1440-2560x1440-c49d4cb08041.jpg",
                             "imageType": "OfferImageWide",
                             "width": 2560
                         }
@@ -3020,20 +3137,23 @@
                             "width": 512
                         },
                         "card16x9": {
+                            "altText": "",
                             "height": 1440,
-                            "imageSrc": "https://cdn1.epicgames.com/offer/fn/EN_28RR_1P_EGS_2560x1440_2560x1440-a9d3c2f38d6fe1670f08bac6af5d6f32",
+                            "imageSrc": "https://cdn2.unrealengine.com/fnrr-30-2560x1440-71f9f79ce163963cfaa7b5723b40c9b3-2560x1440-05b349db619e.jpg",
                             "imageType": "OfferImageWide",
                             "width": 2560
                         },
                         "card3x4": {
+                            "altText": "",
                             "height": 1600,
-                            "imageSrc": "https://cdn1.epicgames.com/offer/fn/EN_28RR_1P_EGS_1200x1600_thumb_1200x1600-916d6c983e085304b8a7964a9d443092",
+                            "imageSrc": "https://cdn2.unrealengine.com/fnrr-30-1200x1600-58e247f3fc84d4e2d89044b95889e80a-1200x1600-a72d32d9ec79.jpg",
                             "imageType": "OfferImageTall",
                             "width": 1200
                         },
                         "coverImage": {
+                            "altText": "",
                             "height": 1440,
-                            "imageSrc": "https://cdn1.epicgames.com/offer/fn/EN_28RR_1P_EGS_2560x1440_2560x1440-a9d3c2f38d6fe1670f08bac6af5d6f32",
+                            "imageSrc": "https://cdn2.unrealengine.com/fnrr-30-2560x1440-71f9f79ce163963cfaa7b5723b40c9b3-2560x1440-05b349db619e.jpg",
                             "imageType": "OfferImageWide",
                             "width": 2560
                         }
@@ -3102,7 +3222,7 @@
                     "attention": {
                         "inAppPurchases": "None"
                     },
-                    "catalogItemId": "32962bc2c1724203b978656073a68769",
+                    "catalogItemId": "3f816bb845fb48acb365fc467b8a2f4f",
                     "categories": [
                         "freegames",
                         "games",
@@ -3110,34 +3230,34 @@
                         "games/edition/base"
                     ],
                     "mapping": {
-                        "slug": "evans-remains-android-ddf101"
+                        "slug": "alone-with-you-android-52b29b"
                     },
                     "media": {
                         "appIcon": {
                             "altText": "-",
                             "height": 512,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/5e35f2ebdaec4ff5b7548ccc55d6c40b/evans-remains-icon-xooqk.png",
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/04b7a1d78c904065b5c24f9e7816c99a/alone-with-you-icon-1ma1d.png",
                             "imageType": "ProductIcon",
                             "width": 512
                         },
                         "card16x9": {
-                            "altText": "Evan's Remains Offer",
+                            "altText": "Alone With You Offer",
                             "height": 1440,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/5e35f2ebdaec4ff5b7548ccc55d6c40b/evans-remains-1j3xl.jpg",
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/04b7a1d78c904065b5c24f9e7816c99a/alone-with-you-1y74g.png",
                             "imageType": "OfferImageWide",
                             "width": 2560
                         },
                         "card3x4": {
-                            "altText": "Download Evan's Remains Offer",
+                            "altText": "Download Alone With You Offer",
                             "height": 1600,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/5e35f2ebdaec4ff5b7548ccc55d6c40b/evans-remains-mhuad.jpg",
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/04b7a1d78c904065b5c24f9e7816c99a/alone-with-you-awuh7.png",
                             "imageType": "OfferImageTall",
                             "width": 1200
                         },
                         "coverImage": {
                             "altText": "-",
                             "height": 1440,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/5e35f2ebdaec4ff5b7548ccc55d6c40b/evans-remains-1bh54.png",
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/04b7a1d78c904065b5c24f9e7816c99a/alone-with-you-hd079.png",
                             "imageType": "coverImage",
                             "width": 2560
                         }
@@ -3146,7 +3266,7 @@
                         {
                             "discount": {
                                 "discountAmountDisplay": "-100%",
-                                "discountEndDate": "2026-09-10T15:00:00.000Z",
+                                "discountEndDate": "2026-09-17T15:00:00.000Z",
                                 "originalPriceDisplay": "€4.49"
                             },
                             "offerLifecycleState": "Release",
@@ -3155,8 +3275,8 @@
                                 "decimalPrice": 0
                             },
                             "purchasePayload": {
-                                "offerId": "48ab71c1112b47e08df0476564f74b2b",
-                                "sandboxId": "9c7a70d78df948ddaf1b51722b16d6b8"
+                                "offerId": "cccd00ad19d6471682f9736bf0492c9f",
+                                "sandboxId": "cb87ac984c3c4c19b0a4e3e89048f187"
                             },
                             "purchaseType": "Claim"
                         },
@@ -3168,37 +3288,37 @@
                             },
                             "priceDisplay": "€4.49",
                             "purchasePayload": {
-                                "offerId": "48ab71c1112b47e08df0476564f74b2b",
-                                "sandboxId": "9c7a70d78df948ddaf1b51722b16d6b8"
+                                "offerId": "cccd00ad19d6471682f9736bf0492c9f",
+                                "sandboxId": "cb87ac984c3c4c19b0a4e3e89048f187"
                             },
                             "purchaseType": "Purchase"
                         }
                     ],
                     "systemSpecs": {
-                        "applicationVersion": "1.0.1",
+                        "applicationVersion": "1.0.3",
                         "platform": "android",
                         "systemRequirements": [
                             {
-                                "minimum": "266 MB",
+                                "minimum": "302 MB",
                                 "requirementType": "InstallSize",
                                 "title": "Installation size"
                             },
                             {
-                                "minimum": "244.09 MB",
+                                "minimum": "312.92 MB",
                                 "requirementType": "DownloadSize",
                                 "title": "Download size"
                             },
                             {
-                                "minimum": "7.0",
+                                "minimum": "API level 21",
                                 "requirementType": "OS",
                                 "title": "OS version"
                             }
                         ]
                     },
-                    "title": "Evan's Remains"
+                    "title": "Alone With You"
                 },
-                "offerId": "48ab71c1112b47e08df0476564f74b2b",
-                "sandboxId": "9c7a70d78df948ddaf1b51722b16d6b8"
+                "offerId": "cccd00ad19d6471682f9736bf0492c9f",
+                "sandboxId": "cb87ac984c3c4c19b0a4e3e89048f187"
             }
         ],
         "size": "large",
@@ -11873,19 +11993,6 @@
                     },
                     "purchase": [
                         {
-                            "offerLifecycleState": "Release",
-                            "price": {
-                                "currencyCode": "EUR",
-                                "decimalPrice": 4.99
-                            },
-                            "priceDisplay": "€4.99",
-                            "purchasePayload": {
-                                "offerId": "bcfcd88434964329b4ec80ee41ee68d4",
-                                "sandboxId": "628ac244f0cc438dbd3e11821b241a8b"
-                            },
-                            "purchaseType": "Purchase"
-                        },
-                        {
                             "discount": {
                                 "discountAmountDisplay": "-60%",
                                 "discountEndDate": "2026-09-23T14:59:00.000Z",
@@ -12537,19 +12644,6 @@
                         }
                     },
                     "purchase": [
-                        {
-                            "offerLifecycleState": "Release",
-                            "price": {
-                                "currencyCode": "EUR",
-                                "decimalPrice": 2.99
-                            },
-                            "priceDisplay": "€2.99",
-                            "purchasePayload": {
-                                "offerId": "c0c571041fd94e158a5b4f9d96753f6d",
-                                "sandboxId": "de6432ac525d47c8a2e649e4a75a3078"
-                            },
-                            "purchaseType": "Purchase"
-                        },
                         {
                             "discount": {
                                 "discountAmountDisplay": "-67%",
@@ -14749,19 +14843,6 @@
                     },
                     "purchase": [
                         {
-                            "offerLifecycleState": "Release",
-                            "price": {
-                                "currencyCode": "EUR",
-                                "decimalPrice": 4.99
-                            },
-                            "priceDisplay": "€4.99",
-                            "purchasePayload": {
-                                "offerId": "4556ecf13e07411194e200aa7dff703e",
-                                "sandboxId": "cfc873292b2f4df1a94949ed72109f2b"
-                            },
-                            "purchaseType": "Purchase"
-                        },
-                        {
                             "discount": {
                                 "discountAmountDisplay": "-60%",
                                 "discountEndDate": "2026-09-23T14:59:00.000Z",
@@ -15393,19 +15474,6 @@
                         }
                     },
                     "purchase": [
-                        {
-                            "offerLifecycleState": "Release",
-                            "price": {
-                                "currencyCode": "EUR",
-                                "decimalPrice": 2.99
-                            },
-                            "priceDisplay": "€2.99",
-                            "purchasePayload": {
-                                "offerId": "66e8ded38efe434c9a2e28c2aab33d99",
-                                "sandboxId": "75184e746fee49fd9b2928ea79ef1454"
-                            },
-                            "purchaseType": "Purchase"
-                        },
                         {
                             "discount": {
                                 "discountAmountDisplay": "-67%",
@@ -18406,19 +18474,6 @@
                         }
                     },
                     "purchase": [
-                        {
-                            "offerLifecycleState": "Release",
-                            "price": {
-                                "currencyCode": "EUR",
-                                "decimalPrice": 7.99
-                            },
-                            "priceDisplay": "€7.99",
-                            "purchasePayload": {
-                                "offerId": "ed5b79630abd4a3ba1ec55cbe1a7fa27",
-                                "sandboxId": "6e7faac262f04035aeb848e660b2d18c"
-                            },
-                            "purchaseType": "Purchase"
-                        },
                         {
                             "discount": {
                                 "discountAmountDisplay": "-88%",
