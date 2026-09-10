@@ -4081,7 +4081,7 @@
                         "appIcon": {
                             "altText": "-",
                             "height": 512,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/e0c86a9863e240bd94298544c653f464/honor-of-kings-icon-7z2w4.png",
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/e0c86a9863e240bd94298544c653f464/honor-of-kings-icon-11umd.png",
                             "imageType": "ProductIcon",
                             "width": 512
                         },
@@ -4122,7 +4122,7 @@
                         }
                     ],
                     "systemSpecs": {
-                        "applicationVersion": "11.4.1.16",
+                        "applicationVersion": "11.4.1.17",
                         "platform": "android",
                         "systemRequirements": [
                             {
@@ -4131,7 +4131,7 @@
                                 "title": "Installation size"
                             },
                             {
-                                "minimum": "584.16 MB",
+                                "minimum": "584.19 MB",
                                 "requirementType": "DownloadSize",
                                 "title": "Download size"
                             },
