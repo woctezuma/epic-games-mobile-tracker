@@ -3645,6 +3645,62 @@
         "store_url": "<https://store.epicgames.com/product/monument-valley-2-android-b21888>",
         "title": "Monument Valley 2"
     },
+    "1-f20a4eda0f2d486ea73cab8af1224e31-bc7d594727444416b983f3747b2a8bdb": {
+        "age_control": 16,
+        "catalog_item_id": "3eb59f06073447978f5f390304d2a47a",
+        "checkout_url": "<https://store.epicgames.com/purchase?offers=1-f20a4eda0f2d486ea73cab8af1224e31-bc7d594727444416b983f3747b2a8bdb>",
+        "content_descriptors": [
+            "Strong Violence"
+        ],
+        "current_price": "0",
+        "discount": "-100%",
+        "download_size": "609.99 MB",
+        "end_date": "2026-09-24T15:00:00.000Z",
+        "in_app_purchases": false,
+        "install_size": "615 MB",
+        "interactive_elements": [],
+        "media": {
+            "OfferImageTall": "https://cdn1.epicgames.com/spt-assets/984cdc148ea6423e866ca6e04a1b429f/mindcop-1ppb5.jpg",
+            "OfferImageWide": "https://cdn1.epicgames.com/spt-assets/984cdc148ea6423e866ca6e04a1b429f/mindcop-kplp1.jpg",
+            "ProductIcon": "https://cdn1.epicgames.com/spt-assets/984cdc148ea6423e866ca6e04a1b429f/mindcop-icon-wu5s5.png",
+            "coverImage": "https://cdn1.epicgames.com/spt-assets/984cdc148ea6423e866ca6e04a1b429f/mindcop-dan3n.png"
+        },
+        "offer_id": "bc7d594727444416b983f3747b2a8bdb",
+        "original_price": "5.39",
+        "platform": "android",
+        "sandbox_id": "f20a4eda0f2d486ea73cab8af1224e31",
+        "slug": "mindcop-android-0f4bac",
+        "store_url": "<https://store.epicgames.com/product/mindcop-android-0f4bac>",
+        "title": "Mindcop"
+    },
+    "1-f20a4eda0f2d486ea73cab8af1224e31-c151e0c5dedd4f06b3afb21da4f0d6d1": {
+        "age_control": 16,
+        "catalog_item_id": "64c7481bf13f485a8fdcca57f4267d56",
+        "checkout_url": "<https://store.epicgames.com/purchase?offers=1-f20a4eda0f2d486ea73cab8af1224e31-c151e0c5dedd4f06b3afb21da4f0d6d1>",
+        "content_descriptors": [
+            "Strong Violence"
+        ],
+        "current_price": "0",
+        "discount": "-100%",
+        "download_size": "520 MB",
+        "end_date": "2026-09-24T15:00:00.000Z",
+        "in_app_purchases": false,
+        "install_size": "545 MB",
+        "interactive_elements": [],
+        "media": {
+            "OfferImageTall": "https://cdn1.epicgames.com/spt-assets/984cdc148ea6423e866ca6e04a1b429f/mindcop-1ppb5.jpg",
+            "OfferImageWide": "https://cdn1.epicgames.com/spt-assets/984cdc148ea6423e866ca6e04a1b429f/mindcop-kplp1.jpg",
+            "ProductIcon": "https://cdn1.epicgames.com/spt-assets/984cdc148ea6423e866ca6e04a1b429f/mindcop-icon-wu5s5.png",
+            "coverImage": "https://cdn1.epicgames.com/spt-assets/984cdc148ea6423e866ca6e04a1b429f/mindcop-dan3n.png"
+        },
+        "offer_id": "c151e0c5dedd4f06b3afb21da4f0d6d1",
+        "original_price": "5.39",
+        "platform": "ios",
+        "sandbox_id": "f20a4eda0f2d486ea73cab8af1224e31",
+        "slug": "mindcop-ios-11d53d",
+        "store_url": "<https://store.epicgames.com/product/mindcop-ios-11d53d>",
+        "title": "Mindcop"
+    },
     "1-f60a81aa52624100bff909dd5849f613-1249af2452334c2585fdea72e532b02c": {
         "age_control": 7,
         "catalog_item_id": "f264b02adb254358a83b20297dcfa492",
