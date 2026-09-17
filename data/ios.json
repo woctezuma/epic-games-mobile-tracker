@@ -2410,13 +2410,13 @@
                         },
                         "card16x9": {
                             "height": 1440,
-                            "imageSrc": "https://cdn1.epicgames.com/offer/fn/FNBR_42-00_C7S4_Hacking_Logo_EGS_Launcher_Blade_2560x1440_2560x1440-8d765c015ff840ce83744955b78ab78c",
+                            "imageSrc": "https://cdn1.epicgames.com/offer/fn/FNECO_42-10_Tailgate_Logo_EGS_Launcher_Blade_2560x1440_2560x1440-d9a5d01f74c74d63aeb87719c6ba54bf",
                             "imageType": "OfferImageWide",
                             "width": 2560
                         },
                         "card3x4": {
                             "height": 1600,
-                            "imageSrc": "https://cdn1.epicgames.com/offer/fn/FNBR_42-00_C7S4_Hacking_EGS_Launcher_Blade_1200x1600_1200x1600-69c24e8bb9db4c19a791febb313cf24c",
+                            "imageSrc": "https://cdn1.epicgames.com/offer/fn/FNECO_42-10_Tailgate_EGS_Launcher_Blade_1200x1600_1200x1600-4e90b95172a1462f86e0f7b142d3fb9d",
                             "imageType": "OfferImageTall",
                             "width": 1200
                         },
