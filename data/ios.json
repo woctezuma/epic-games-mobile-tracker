@@ -9300,24 +9300,6 @@
                     },
                     "purchase": [
                         {
-                            "discount": {
-                                "discountAmountDisplay": "-90%",
-                                "discountEndDate": "2026-09-22T21:59:00.000Z",
-                                "originalPriceDisplay": "€6.29"
-                            },
-                            "offerLifecycleState": "Release",
-                            "price": {
-                                "currencyCode": "EUR",
-                                "decimalPrice": 0.62
-                            },
-                            "priceDisplay": "€0.62",
-                            "purchasePayload": {
-                                "offerId": "383fd6e2b6ed42e08973301540ba188b",
-                                "sandboxId": "d55b1ce868af425e9631c2d46c074ab9"
-                            },
-                            "purchaseType": "Purchase"
-                        },
-                        {
                             "offerLifecycleState": "Release",
                             "price": {
                                 "currencyCode": "EUR",
@@ -9621,24 +9603,6 @@
                         }
                     },
                     "purchase": [
-                        {
-                            "discount": {
-                                "discountAmountDisplay": "-90%",
-                                "discountEndDate": "2026-09-22T21:59:00.000Z",
-                                "originalPriceDisplay": "€7.19"
-                            },
-                            "offerLifecycleState": "Release",
-                            "price": {
-                                "currencyCode": "EUR",
-                                "decimalPrice": 0.71
-                            },
-                            "priceDisplay": "€0.71",
-                            "purchasePayload": {
-                                "offerId": "9e7a6ea1a8574e26a477ef7605763171",
-                                "sandboxId": "6a99fb0a8add42c8b21c4ad25c928ba5"
-                            },
-                            "purchaseType": "Purchase"
-                        },
                         {
                             "offerLifecycleState": "Release",
                             "price": {
