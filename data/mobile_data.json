@@ -609,6 +609,62 @@
         "store_url": "<https://store.epicgames.com/product/the-darkside-detective-android-f088bb>",
         "title": "The Darkside Detective"
     },
+    "1-2bfd5ca43ef443739ada168e017e1b78-4bcb4d4b0af149dc947ef79ab79540f9": {
+        "age_control": 7,
+        "catalog_item_id": "7712eace396e47cb9e86bec5ea0821aa",
+        "checkout_url": "<https://store.epicgames.com/purchase?offers=1-2bfd5ca43ef443739ada168e017e1b78-4bcb4d4b0af149dc947ef79ab79540f9>",
+        "content_descriptors": [
+            "Fear"
+        ],
+        "current_price": "0",
+        "discount": "-100%",
+        "download_size": "809",
+        "end_date": "2026-10-01T15:00:00.000Z",
+        "in_app_purchases": false,
+        "install_size": "862.9",
+        "interactive_elements": [],
+        "media": {
+            "OfferImageTall": "https://cdn1.epicgames.com/spt-assets/b2209fe4081f490794ae55680b556cfc/cardpocalypse-1jr65.jpg",
+            "OfferImageWide": "https://cdn1.epicgames.com/spt-assets/b2209fe4081f490794ae55680b556cfc/cardpocalypse-16591.jpg",
+            "ProductIcon": "https://cdn1.epicgames.com/spt-assets/b2209fe4081f490794ae55680b556cfc/cardpocalypse-icon-xro5m.png",
+            "coverImage": "https://cdn1.epicgames.com/spt-assets/b2209fe4081f490794ae55680b556cfc/cardpocalypse-z4ux3.jpg"
+        },
+        "offer_id": "4bcb4d4b0af149dc947ef79ab79540f9",
+        "original_price": "5.39",
+        "platform": "ios",
+        "sandbox_id": "2bfd5ca43ef443739ada168e017e1b78",
+        "slug": "cardpocalypse-ios-46af9e",
+        "store_url": "<https://store.epicgames.com/product/cardpocalypse-ios-46af9e>",
+        "title": "Cardpocalypse"
+    },
+    "1-2bfd5ca43ef443739ada168e017e1b78-a1940eb85ff048ada66c02c3a8feabe1": {
+        "age_control": 7,
+        "catalog_item_id": "78ab7c87de07416aae77b4e0b5007b7f",
+        "checkout_url": "<https://store.epicgames.com/purchase?offers=1-2bfd5ca43ef443739ada168e017e1b78-a1940eb85ff048ada66c02c3a8feabe1>",
+        "content_descriptors": [
+            "Fear"
+        ],
+        "current_price": "0",
+        "discount": "-100%",
+        "download_size": "1.45 GB",
+        "end_date": "2026-10-01T15:00:00.000Z",
+        "in_app_purchases": false,
+        "install_size": "2.88 GB",
+        "interactive_elements": [],
+        "media": {
+            "OfferImageTall": "https://cdn1.epicgames.com/spt-assets/b2209fe4081f490794ae55680b556cfc/cardpocalypse-jshwi.jpg",
+            "OfferImageWide": "https://cdn1.epicgames.com/spt-assets/b2209fe4081f490794ae55680b556cfc/cardpocalypse-685s7.jpg",
+            "ProductIcon": "https://cdn1.epicgames.com/spt-assets/b2209fe4081f490794ae55680b556cfc/cardpocalypse-icon-xro5m.png",
+            "coverImage": "https://cdn1.epicgames.com/spt-assets/b2209fe4081f490794ae55680b556cfc/cardpocalypse-z4ux3.jpg"
+        },
+        "offer_id": "a1940eb85ff048ada66c02c3a8feabe1",
+        "original_price": "5.39",
+        "platform": "android",
+        "sandbox_id": "2bfd5ca43ef443739ada168e017e1b78",
+        "slug": "cardpocalypse-android-3f99a7",
+        "store_url": "<https://store.epicgames.com/product/cardpocalypse-android-3f99a7>",
+        "title": "Cardpocalypse"
+    },
     "1-2df8b055a5674c8e9211fc51f8efd210-8c451d7863c44c32b7e9250291e45de2": {
         "age_control": 7,
         "catalog_item_id": "651f1fd4c7714697b2bf5313574f6fac",
