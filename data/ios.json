@@ -9,6 +9,108 @@
                 "content": {
                     "ageRating": {
                         "ageGate": {
+                            "gate": "age-gate"
+                        },
+                        "ageRating": {
+                            "ageControl": 16,
+                            "contentDescriptors": [
+                                "Strong Violence"
+                            ],
+                            "interactiveElements": [],
+                            "ratingImage": "https://cdn1.epicgames.com/gameRating/gameRating/PEGI_16_192_192x192-da60f0bd1fe7cb1ac9d8a8bd5168ea96",
+                            "ratingSystem": "PEGI",
+                            "rectangularRatingImage": "https://cdn1.epicgames.com/salesEvent/salesEvent/PEGI-16_435x530-65760d498ce28374fb7ca3258ee1440c",
+                            "title": "PEGI 16"
+                        },
+                        "ratingType": "AgeRating"
+                    },
+                    "attention": {
+                        "inAppPurchases": "None"
+                    },
+                    "catalogItemId": "64c7481bf13f485a8fdcca57f4267d56",
+                    "categories": [
+                        "games",
+                        "games/edition",
+                        "games/edition/base"
+                    ],
+                    "mapping": {
+                        "slug": "mindcop-ios-11d53d"
+                    },
+                    "media": {
+                        "appIcon": {
+                            "altText": "-",
+                            "height": 512,
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/984cdc148ea6423e866ca6e04a1b429f/mindcop-icon-wu5s5.png",
+                            "imageType": "ProductIcon",
+                            "width": 512
+                        },
+                        "card16x9": {
+                            "altText": "Mindcop Offer",
+                            "height": 1440,
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/984cdc148ea6423e866ca6e04a1b429f/mindcop-kplp1.jpg",
+                            "imageType": "OfferImageWide",
+                            "width": 2560
+                        },
+                        "card3x4": {
+                            "altText": "Download Mindcop Offer",
+                            "height": 1600,
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/984cdc148ea6423e866ca6e04a1b429f/mindcop-1ppb5.jpg",
+                            "imageType": "OfferImageTall",
+                            "width": 1200
+                        },
+                        "coverImage": {
+                            "altText": "-",
+                            "height": 1440,
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/984cdc148ea6423e866ca6e04a1b429f/mindcop-dan3n.png",
+                            "imageType": "coverImage",
+                            "width": 2560
+                        }
+                    },
+                    "purchase": [
+                        {
+                            "offerLifecycleState": "Release",
+                            "price": {
+                                "currencyCode": "EUR",
+                                "decimalPrice": 5.39
+                            },
+                            "priceDisplay": "€5.39",
+                            "purchasePayload": {
+                                "offerId": "c151e0c5dedd4f06b3afb21da4f0d6d1",
+                                "sandboxId": "f20a4eda0f2d486ea73cab8af1224e31"
+                            },
+                            "purchaseType": "Purchase"
+                        }
+                    ],
+                    "systemSpecs": {
+                        "applicationVersion": "1.0",
+                        "platform": "ios",
+                        "systemRequirements": [
+                            {
+                                "minimum": "545 MB",
+                                "requirementType": "InstallSize",
+                                "title": "Installation size"
+                            },
+                            {
+                                "minimum": "520 MB",
+                                "requirementType": "DownloadSize",
+                                "title": "Download size"
+                            },
+                            {
+                                "minimum": "16.0",
+                                "requirementType": "OS",
+                                "title": "OS version"
+                            }
+                        ]
+                    },
+                    "title": "Mindcop"
+                },
+                "offerId": "c151e0c5dedd4f06b3afb21da4f0d6d1",
+                "sandboxId": "f20a4eda0f2d486ea73cab8af1224e31"
+            },
+            {
+                "content": {
+                    "ageRating": {
+                        "ageGate": {
                             "gate": "no-gate"
                         },
                         "ageRating": {
@@ -3326,25 +3428,25 @@
                 "content": {
                     "ageRating": {
                         "ageGate": {
-                            "gate": "age-gate"
+                            "gate": "no-gate"
                         },
                         "ageRating": {
-                            "ageControl": 16,
+                            "ageControl": 7,
                             "contentDescriptors": [
-                                "Strong Violence"
+                                "Fear"
                             ],
                             "interactiveElements": [],
-                            "ratingImage": "https://cdn1.epicgames.com/gameRating/gameRating/PEGI_16_192_192x192-da60f0bd1fe7cb1ac9d8a8bd5168ea96",
+                            "ratingImage": "https://cdn1.epicgames.com/gameRating/gameRating/PEGI_7_192_192x192-30e2e712d0682dad01add90a6ccbed5b",
                             "ratingSystem": "PEGI",
-                            "rectangularRatingImage": "https://cdn1.epicgames.com/salesEvent/salesEvent/PEGI-16_435x530-65760d498ce28374fb7ca3258ee1440c",
-                            "title": "PEGI 16"
+                            "rectangularRatingImage": "https://cdn1.epicgames.com/salesEvent/salesEvent/PEGI-7_435x530-9439a136999d3dd762c7a61c3b8c7683",
+                            "title": "PEGI 7"
                         },
                         "ratingType": "AgeRating"
                     },
                     "attention": {
                         "inAppPurchases": "None"
                     },
-                    "catalogItemId": "64c7481bf13f485a8fdcca57f4267d56",
+                    "catalogItemId": "7712eace396e47cb9e86bec5ea0821aa",
                     "categories": [
                         "freegames",
                         "games",
@@ -3352,34 +3454,34 @@
                         "games/edition/base"
                     ],
                     "mapping": {
-                        "slug": "mindcop-ios-11d53d"
+                        "slug": "cardpocalypse-ios-46af9e"
                     },
                     "media": {
                         "appIcon": {
                             "altText": "-",
                             "height": 512,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/984cdc148ea6423e866ca6e04a1b429f/mindcop-icon-wu5s5.png",
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/b2209fe4081f490794ae55680b556cfc/cardpocalypse-icon-xro5m.png",
                             "imageType": "ProductIcon",
                             "width": 512
                         },
                         "card16x9": {
-                            "altText": "Mindcop Offer",
+                            "altText": "Cardpocalypse Offer",
                             "height": 1440,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/984cdc148ea6423e866ca6e04a1b429f/mindcop-kplp1.jpg",
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/b2209fe4081f490794ae55680b556cfc/cardpocalypse-16591.jpg",
                             "imageType": "OfferImageWide",
                             "width": 2560
                         },
                         "card3x4": {
-                            "altText": "Download Mindcop Offer",
+                            "altText": "Download Cardpocalypse Offer",
                             "height": 1600,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/984cdc148ea6423e866ca6e04a1b429f/mindcop-1ppb5.jpg",
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/b2209fe4081f490794ae55680b556cfc/cardpocalypse-1jr65.jpg",
                             "imageType": "OfferImageTall",
                             "width": 1200
                         },
                         "coverImage": {
                             "altText": "-",
                             "height": 1440,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/984cdc148ea6423e866ca6e04a1b429f/mindcop-dan3n.png",
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/b2209fe4081f490794ae55680b556cfc/cardpocalypse-z4ux3.jpg",
                             "imageType": "coverImage",
                             "width": 2560
                         }
@@ -3388,7 +3490,7 @@
                         {
                             "discount": {
                                 "discountAmountDisplay": "-100%",
-                                "discountEndDate": "2026-09-24T15:00:00.000Z",
+                                "discountEndDate": "2026-10-01T15:00:00.000Z",
                                 "originalPriceDisplay": "€5.39"
                             },
                             "offerLifecycleState": "Release",
@@ -3397,8 +3499,8 @@
                                 "decimalPrice": 0
                             },
                             "purchasePayload": {
-                                "offerId": "c151e0c5dedd4f06b3afb21da4f0d6d1",
-                                "sandboxId": "f20a4eda0f2d486ea73cab8af1224e31"
+                                "offerId": "4bcb4d4b0af149dc947ef79ab79540f9",
+                                "sandboxId": "2bfd5ca43ef443739ada168e017e1b78"
                             },
                             "purchaseType": "Claim"
                         },
@@ -3410,37 +3512,37 @@
                             },
                             "priceDisplay": "€5.39",
                             "purchasePayload": {
-                                "offerId": "c151e0c5dedd4f06b3afb21da4f0d6d1",
-                                "sandboxId": "f20a4eda0f2d486ea73cab8af1224e31"
+                                "offerId": "4bcb4d4b0af149dc947ef79ab79540f9",
+                                "sandboxId": "2bfd5ca43ef443739ada168e017e1b78"
                             },
                             "purchaseType": "Purchase"
                         }
                     ],
                     "systemSpecs": {
-                        "applicationVersion": "1.0",
+                        "applicationVersion": "2.35",
                         "platform": "ios",
                         "systemRequirements": [
                             {
-                                "minimum": "545 MB",
+                                "minimum": "862.9",
                                 "requirementType": "InstallSize",
                                 "title": "Installation size"
                             },
                             {
-                                "minimum": "520 MB",
+                                "minimum": "809",
                                 "requirementType": "DownloadSize",
                                 "title": "Download size"
                             },
                             {
-                                "minimum": "16.0",
+                                "minimum": "18.0",
                                 "requirementType": "OS",
                                 "title": "OS version"
                             }
                         ]
                     },
-                    "title": "Mindcop"
+                    "title": "Cardpocalypse"
                 },
-                "offerId": "c151e0c5dedd4f06b3afb21da4f0d6d1",
-                "sandboxId": "f20a4eda0f2d486ea73cab8af1224e31"
+                "offerId": "4bcb4d4b0af149dc947ef79ab79540f9",
+                "sandboxId": "2bfd5ca43ef443739ada168e017e1b78"
             }
         ],
         "size": "large",
