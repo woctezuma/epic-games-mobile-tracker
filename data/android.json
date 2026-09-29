@@ -978,24 +978,6 @@
                     },
                     "purchase": [
                         {
-                            "discount": {
-                                "discountAmountDisplay": "-20%",
-                                "discountEndDate": "2026-09-29T15:00:00.000Z",
-                                "originalPriceDisplay": "€8.09"
-                            },
-                            "offerLifecycleState": "Release",
-                            "price": {
-                                "currencyCode": "EUR",
-                                "decimalPrice": 6.47
-                            },
-                            "priceDisplay": "€6.47",
-                            "purchasePayload": {
-                                "offerId": "cde3ddf1ff4c42deb1302952f73e461d",
-                                "sandboxId": "f86e175957dc4c4bb9ee7228646838c3"
-                            },
-                            "purchaseType": "Purchase"
-                        },
-                        {
                             "offerLifecycleState": "Release",
                             "price": {
                                 "currencyCode": "EUR",
@@ -4584,7 +4566,7 @@
                         }
                     ],
                     "systemSpecs": {
-                        "applicationVersion": "12.1.1.1",
+                        "applicationVersion": "12.1.1.4",
                         "platform": "android",
                         "systemRequirements": [
                             {
@@ -4593,7 +4575,7 @@
                                 "title": "Installation size"
                             },
                             {
-                                "minimum": "613.31 MB",
+                                "minimum": "613.39 MB",
                                 "requirementType": "DownloadSize",
                                 "title": "Download size"
                             },
@@ -7040,7 +7022,7 @@
                         }
                     ],
                     "systemSpecs": {
-                        "applicationVersion": "8.74.0",
+                        "applicationVersion": "8.74.2",
                         "platform": "android",
                         "systemRequirements": [
                             {
@@ -7049,7 +7031,7 @@
                                 "title": "Installation size"
                             },
                             {
-                                "minimum": "252.43 MB",
+                                "minimum": "251.74 MB",
                                 "requirementType": "DownloadSize",
                                 "title": "Download size"
                             },
