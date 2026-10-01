@@ -3433,6 +3433,58 @@
         "store_url": "<https://store.epicgames.com/product/the-wreck-ios-3c0525>",
         "title": "The Wreck"
     },
+    "1-db665435888341f69ec556d5408e7798-89131e73045d4c5b935dbc9834fc7b4a": {
+        "age_control": 3,
+        "catalog_item_id": "8b494c5f480848f6a12c698cea37be14",
+        "checkout_url": "<https://store.epicgames.com/purchase?offers=1-db665435888341f69ec556d5408e7798-89131e73045d4c5b935dbc9834fc7b4a>",
+        "content_descriptors": [],
+        "current_price": "0",
+        "discount": "-100%",
+        "download_size": "216.71 MB",
+        "end_date": "2026-10-08T15:00:00.000Z",
+        "in_app_purchases": false,
+        "install_size": "405 MB",
+        "interactive_elements": [],
+        "media": {
+            "OfferImageTall": "https://cdn1.epicgames.com/spt-assets/f1d15131f52f4ef7bc917ac348e2fe9d/bridge-constructor-studio-1jh6w.jpg",
+            "OfferImageWide": "https://cdn1.epicgames.com/spt-assets/f1d15131f52f4ef7bc917ac348e2fe9d/bridge-constructor-studio-jcapk.jpg",
+            "ProductIcon": "https://cdn1.epicgames.com/spt-assets/f1d15131f52f4ef7bc917ac348e2fe9d/bridge-constructor-studio-icon-1xwnt.png",
+            "coverImage": "https://cdn1.epicgames.com/spt-assets/f1d15131f52f4ef7bc917ac348e2fe9d/bridge-constructor-studio-17fg0.jpg"
+        },
+        "offer_id": "89131e73045d4c5b935dbc9834fc7b4a",
+        "original_price": "5.99",
+        "platform": "android",
+        "sandbox_id": "db665435888341f69ec556d5408e7798",
+        "slug": "bridge-constructor-studio-android-c42687",
+        "store_url": "<https://store.epicgames.com/product/bridge-constructor-studio-android-c42687>",
+        "title": "Bridge Constructor Studio"
+    },
+    "1-db665435888341f69ec556d5408e7798-e3659cda5ccb4d269744aadf311bb65c": {
+        "age_control": 3,
+        "catalog_item_id": "0e900b2ff3a2442892e0c22870a3a798",
+        "checkout_url": "<https://store.epicgames.com/purchase?offers=1-db665435888341f69ec556d5408e7798-e3659cda5ccb4d269744aadf311bb65c>",
+        "content_descriptors": [],
+        "current_price": "0",
+        "discount": "-100%",
+        "download_size": "260 MB",
+        "end_date": "2026-10-08T15:00:00.000Z",
+        "in_app_purchases": false,
+        "install_size": "450 MB",
+        "interactive_elements": [],
+        "media": {
+            "OfferImageTall": "https://cdn1.epicgames.com/spt-assets/f1d15131f52f4ef7bc917ac348e2fe9d/bridge-constructor-studio-1pzjw.jpg",
+            "OfferImageWide": "https://cdn1.epicgames.com/spt-assets/f1d15131f52f4ef7bc917ac348e2fe9d/bridge-constructor-studio-pfjgc.jpg",
+            "ProductIcon": "https://cdn1.epicgames.com/spt-assets/f1d15131f52f4ef7bc917ac348e2fe9d/bridge-constructor-studio-icon-1xwnt.png",
+            "coverImage": "https://cdn1.epicgames.com/spt-assets/f1d15131f52f4ef7bc917ac348e2fe9d/bridge-constructor-studio-17fg0.jpg"
+        },
+        "offer_id": "e3659cda5ccb4d269744aadf311bb65c",
+        "original_price": "5.99",
+        "platform": "ios",
+        "sandbox_id": "db665435888341f69ec556d5408e7798",
+        "slug": "bridge-constructor-studio-ios-c76845",
+        "store_url": "<https://store.epicgames.com/product/bridge-constructor-studio-ios-c76845>",
+        "title": "Bridge Constructor Studio"
+    },
     "1-e04dd85a41d740ac972df346afd913a6-4cfa595c665d4d1aadadc5ff35a5c11a": {
         "age_control": 7,
         "catalog_item_id": "a876e13dc6de40e0a146350b2b99e160",
