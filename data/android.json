@@ -9,6 +9,108 @@
                 "content": {
                     "ageRating": {
                         "ageGate": {
+                            "gate": "no-gate"
+                        },
+                        "ageRating": {
+                            "ageControl": 7,
+                            "contentDescriptors": [
+                                "Fear"
+                            ],
+                            "interactiveElements": [],
+                            "ratingImage": "https://cdn1.epicgames.com/gameRating/gameRating/PEGI_7_192_192x192-30e2e712d0682dad01add90a6ccbed5b",
+                            "ratingSystem": "PEGI",
+                            "rectangularRatingImage": "https://cdn1.epicgames.com/salesEvent/salesEvent/PEGI-7_435x530-9439a136999d3dd762c7a61c3b8c7683",
+                            "title": "PEGI 7"
+                        },
+                        "ratingType": "AgeRating"
+                    },
+                    "attention": {
+                        "inAppPurchases": "None"
+                    },
+                    "catalogItemId": "78ab7c87de07416aae77b4e0b5007b7f",
+                    "categories": [
+                        "games",
+                        "games/edition",
+                        "games/edition/base"
+                    ],
+                    "mapping": {
+                        "slug": "cardpocalypse-android-3f99a7"
+                    },
+                    "media": {
+                        "appIcon": {
+                            "altText": "-",
+                            "height": 512,
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/b2209fe4081f490794ae55680b556cfc/cardpocalypse-icon-xro5m.png",
+                            "imageType": "ProductIcon",
+                            "width": 512
+                        },
+                        "card16x9": {
+                            "altText": "Cardpocalypse Offer",
+                            "height": 1440,
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/b2209fe4081f490794ae55680b556cfc/cardpocalypse-685s7.jpg",
+                            "imageType": "OfferImageWide",
+                            "width": 2560
+                        },
+                        "card3x4": {
+                            "altText": "Download Cardpocalypse Offer",
+                            "height": 1600,
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/b2209fe4081f490794ae55680b556cfc/cardpocalypse-jshwi.jpg",
+                            "imageType": "OfferImageTall",
+                            "width": 1200
+                        },
+                        "coverImage": {
+                            "altText": "-",
+                            "height": 1440,
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/b2209fe4081f490794ae55680b556cfc/cardpocalypse-z4ux3.jpg",
+                            "imageType": "coverImage",
+                            "width": 2560
+                        }
+                    },
+                    "purchase": [
+                        {
+                            "offerLifecycleState": "Release",
+                            "price": {
+                                "currencyCode": "EUR",
+                                "decimalPrice": 5.39
+                            },
+                            "priceDisplay": "€5.39",
+                            "purchasePayload": {
+                                "offerId": "a1940eb85ff048ada66c02c3a8feabe1",
+                                "sandboxId": "2bfd5ca43ef443739ada168e017e1b78"
+                            },
+                            "purchaseType": "Purchase"
+                        }
+                    ],
+                    "systemSpecs": {
+                        "applicationVersion": "2.39",
+                        "platform": "android",
+                        "systemRequirements": [
+                            {
+                                "minimum": "2.88 GB",
+                                "requirementType": "InstallSize",
+                                "title": "Installation size"
+                            },
+                            {
+                                "minimum": "1.45 GB",
+                                "requirementType": "DownloadSize",
+                                "title": "Download size"
+                            },
+                            {
+                                "minimum": "11",
+                                "requirementType": "OS",
+                                "title": "OS version"
+                            }
+                        ]
+                    },
+                    "title": "Cardpocalypse"
+                },
+                "offerId": "a1940eb85ff048ada66c02c3a8feabe1",
+                "sandboxId": "2bfd5ca43ef443739ada168e017e1b78"
+            },
+            {
+                "content": {
+                    "ageRating": {
+                        "ageGate": {
                             "gate": "age-gate"
                         },
                         "ageRating": {
@@ -2714,13 +2816,13 @@
                         },
                         "card16x9": {
                             "height": 1440,
-                            "imageSrc": "https://cdn1.epicgames.com/offer/fn/FNECO_42-10_Tailgate_Logo_EGS_Launcher_Blade_2560x1440_2560x1440-43d19e07d7f442b28a1805c7c3a99f9a",
+                            "imageSrc": "https://cdn1.epicgames.com/offer/fn/FNBR_42-30_Fortnitemares_KeyArt_Fortnitemares_EGS_Launcher_Blade_2560x1440_2560x1440-75958091d6bd48dc847c3b17abedd28a",
                             "imageType": "OfferImageWide",
                             "width": 2560
                         },
                         "card3x4": {
                             "height": 1600,
-                            "imageSrc": "https://cdn1.epicgames.com/offer/fn/FNECO_42-10_Tailgate_EGS_Launcher_Blade_1200x1600_1200x1600-159f2118747e40a2b84d40643c4c3d29",
+                            "imageSrc": "https://cdn1.epicgames.com/offer/fn/FNBR_42-30_Fortnitemares_KeyArt_Fortnitemares_EGS_Launcher_Blade_1200x1600_1200x1600-2f490855668048bc9ec0d435ff479510",
                             "imageType": "OfferImageTall",
                             "width": 1200
                         },
@@ -3420,97 +3522,6 @@
                 },
                 "offerId": "48291cc600724acc8a11198ba2e95df0",
                 "sandboxId": "fn"
-            },
-            {
-                "content": {
-                    "ageRating": {
-                        "ageGate": {
-                            "gate": "no-gate"
-                        },
-                        "ageRating": {
-                            "ageControl": 3,
-                            "contentDescriptors": [],
-                            "interactiveElements": [
-                                "In-Game Purchases"
-                            ],
-                            "ratingImage": "https://cdn1.epicgames.com/gameRating/gameRating/PEGI_3_192_192x192-490b93ddf59fb4ac1148d1eb9083626a",
-                            "ratingSystem": "PEGI",
-                            "rectangularRatingImage": "https://cdn1.epicgames.com/salesEvent/salesEvent/PEGI-3_435x530-c931ab5bb4eb190f6e8e542081c49dc4",
-                            "title": "PEGI 3"
-                        },
-                        "ratingType": "AgeRating"
-                    },
-                    "attention": {
-                        "inAppPurchases": "None"
-                    },
-                    "catalogItemId": "",
-                    "categories": [
-                        "games",
-                        "games/experience",
-                        "applications"
-                    ],
-                    "mapping": {
-                        "slug": "fortnite--rocket-racing"
-                    },
-                    "media": {
-                        "appIcon": {
-                            "altText": "-",
-                            "height": 512,
-                            "imageSrc": "https://cdn1.epicgames.com/offer/fn/DH_FNBR_4200_AppIcon_Jonesy_512x512_512x512-7073b64c7cd74bb18db762e560213bfa",
-                            "imageType": "ProductIcon",
-                            "width": 512
-                        },
-                        "card16x9": {
-                            "altText": "",
-                            "height": 1440,
-                            "imageSrc": "https://cdn2.unrealengine.com/fnrr-30-2560x1440-71f9f79ce163963cfaa7b5723b40c9b3-2560x1440-05b349db619e.jpg",
-                            "imageType": "OfferImageWide",
-                            "width": 2560
-                        },
-                        "card3x4": {
-                            "altText": "",
-                            "height": 1600,
-                            "imageSrc": "https://cdn2.unrealengine.com/fnrr-30-1200x1600-58e247f3fc84d4e2d89044b95889e80a-1200x1600-a72d32d9ec79.jpg",
-                            "imageType": "OfferImageTall",
-                            "width": 1200
-                        },
-                        "coverImage": {
-                            "altText": "",
-                            "height": 1440,
-                            "imageSrc": "https://cdn2.unrealengine.com/fnrr-30-2560x1440-71f9f79ce163963cfaa7b5723b40c9b3-2560x1440-05b349db619e.jpg",
-                            "imageType": "OfferImageWide",
-                            "width": 2560
-                        }
-                    },
-                    "purchase": [
-                        {
-                            "offerLifecycleState": "Release",
-                            "price": {
-                                "currencyCode": "EUR",
-                                "decimalPrice": 0
-                            },
-                            "purchasePayload": {
-                                "offerId": "9c143d7326ec49adaeb8fd9e891bbeab",
-                                "sandboxId": "fn"
-                            },
-                            "purchaseType": "Claim"
-                        }
-                    ],
-                    "systemSpecs": {
-                        "platform": "android",
-                        "systemRequirements": [
-                            {
-                                "minimum": "Android 10.0 or higher",
-                                "recommended": "",
-                                "requirementType": "OS",
-                                "title": "OS version"
-                            }
-                        ]
-                    },
-                    "title": "Rocket Racing"
-                },
-                "offerId": "9c143d7326ec49adaeb8fd9e891bbeab",
-                "sandboxId": "fn"
             }
         ],
         "size": "medium",
@@ -3531,22 +3542,20 @@
                             "gate": "no-gate"
                         },
                         "ageRating": {
-                            "ageControl": 7,
-                            "contentDescriptors": [
-                                "Fear"
-                            ],
+                            "ageControl": 3,
+                            "contentDescriptors": [],
                             "interactiveElements": [],
-                            "ratingImage": "https://cdn1.epicgames.com/gameRating/gameRating/PEGI_7_192_192x192-30e2e712d0682dad01add90a6ccbed5b",
+                            "ratingImage": "https://cdn1.epicgames.com/gameRating/gameRating/PEGI_3_192_192x192-490b93ddf59fb4ac1148d1eb9083626a",
                             "ratingSystem": "PEGI",
-                            "rectangularRatingImage": "https://cdn1.epicgames.com/salesEvent/salesEvent/PEGI-7_435x530-9439a136999d3dd762c7a61c3b8c7683",
-                            "title": "PEGI 7"
+                            "rectangularRatingImage": "https://cdn1.epicgames.com/salesEvent/salesEvent/PEGI-3_435x530-c931ab5bb4eb190f6e8e542081c49dc4",
+                            "title": "PEGI 3"
                         },
                         "ratingType": "AgeRating"
                     },
                     "attention": {
                         "inAppPurchases": "None"
                     },
-                    "catalogItemId": "78ab7c87de07416aae77b4e0b5007b7f",
+                    "catalogItemId": "8b494c5f480848f6a12c698cea37be14",
                     "categories": [
                         "freegames",
                         "games",
@@ -3554,34 +3563,34 @@
                         "games/edition/base"
                     ],
                     "mapping": {
-                        "slug": "cardpocalypse-android-3f99a7"
+                        "slug": "bridge-constructor-studio-android-c42687"
                     },
                     "media": {
                         "appIcon": {
                             "altText": "-",
                             "height": 512,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/b2209fe4081f490794ae55680b556cfc/cardpocalypse-icon-xro5m.png",
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/f1d15131f52f4ef7bc917ac348e2fe9d/bridge-constructor-studio-icon-1xwnt.png",
                             "imageType": "ProductIcon",
                             "width": 512
                         },
                         "card16x9": {
-                            "altText": "Cardpocalypse Offer",
+                            "altText": "Bridge Constructor Studio Offer",
                             "height": 1440,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/b2209fe4081f490794ae55680b556cfc/cardpocalypse-685s7.jpg",
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/f1d15131f52f4ef7bc917ac348e2fe9d/bridge-constructor-studio-jcapk.jpg",
                             "imageType": "OfferImageWide",
                             "width": 2560
                         },
                         "card3x4": {
-                            "altText": "Download Cardpocalypse Offer",
+                            "altText": "Download Bridge Constructor Studio Offer",
                             "height": 1600,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/b2209fe4081f490794ae55680b556cfc/cardpocalypse-jshwi.jpg",
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/f1d15131f52f4ef7bc917ac348e2fe9d/bridge-constructor-studio-1jh6w.jpg",
                             "imageType": "OfferImageTall",
                             "width": 1200
                         },
                         "coverImage": {
                             "altText": "-",
                             "height": 1440,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/b2209fe4081f490794ae55680b556cfc/cardpocalypse-z4ux3.jpg",
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/f1d15131f52f4ef7bc917ac348e2fe9d/bridge-constructor-studio-17fg0.jpg",
                             "imageType": "coverImage",
                             "width": 2560
                         }
@@ -3590,8 +3599,8 @@
                         {
                             "discount": {
                                 "discountAmountDisplay": "-100%",
-                                "discountEndDate": "2026-10-01T15:00:00.000Z",
-                                "originalPriceDisplay": "€5.39"
+                                "discountEndDate": "2026-10-08T15:00:00.000Z",
+                                "originalPriceDisplay": "€5.99"
                             },
                             "offerLifecycleState": "Release",
                             "price": {
@@ -3599,8 +3608,8 @@
                                 "decimalPrice": 0
                             },
                             "purchasePayload": {
-                                "offerId": "a1940eb85ff048ada66c02c3a8feabe1",
-                                "sandboxId": "2bfd5ca43ef443739ada168e017e1b78"
+                                "offerId": "89131e73045d4c5b935dbc9834fc7b4a",
+                                "sandboxId": "db665435888341f69ec556d5408e7798"
                             },
                             "purchaseType": "Claim"
                         },
@@ -3608,41 +3617,41 @@
                             "offerLifecycleState": "Release",
                             "price": {
                                 "currencyCode": "EUR",
-                                "decimalPrice": 5.39
+                                "decimalPrice": 5.99
                             },
-                            "priceDisplay": "€5.39",
+                            "priceDisplay": "€5.99",
                             "purchasePayload": {
-                                "offerId": "a1940eb85ff048ada66c02c3a8feabe1",
-                                "sandboxId": "2bfd5ca43ef443739ada168e017e1b78"
+                                "offerId": "89131e73045d4c5b935dbc9834fc7b4a",
+                                "sandboxId": "db665435888341f69ec556d5408e7798"
                             },
                             "purchaseType": "Purchase"
                         }
                     ],
                     "systemSpecs": {
-                        "applicationVersion": "2.39",
+                        "applicationVersion": "1.3",
                         "platform": "android",
                         "systemRequirements": [
                             {
-                                "minimum": "2.88 GB",
+                                "minimum": "405 MB",
                                 "requirementType": "InstallSize",
                                 "title": "Installation size"
                             },
                             {
-                                "minimum": "1.45 GB",
+                                "minimum": "216.71 MB",
                                 "requirementType": "DownloadSize",
                                 "title": "Download size"
                             },
                             {
-                                "minimum": "11",
+                                "minimum": "10",
                                 "requirementType": "OS",
                                 "title": "OS version"
                             }
                         ]
                     },
-                    "title": "Cardpocalypse"
+                    "title": "Bridge Constructor Studio"
                 },
-                "offerId": "a1940eb85ff048ada66c02c3a8feabe1",
-                "sandboxId": "2bfd5ca43ef443739ada168e017e1b78"
+                "offerId": "89131e73045d4c5b935dbc9834fc7b4a",
+                "sandboxId": "db665435888341f69ec556d5408e7798"
             }
         ],
         "size": "large",
@@ -12721,19 +12730,6 @@
                     },
                     "purchase": [
                         {
-                            "offerLifecycleState": "Release",
-                            "price": {
-                                "currencyCode": "EUR",
-                                "decimalPrice": 3.99
-                            },
-                            "priceDisplay": "€3.99",
-                            "purchasePayload": {
-                                "offerId": "e1f9169649d44be99109e47200f80945",
-                                "sandboxId": "dcf4c011daf247bcbc380e28f8ef4fdf"
-                            },
-                            "purchaseType": "Purchase"
-                        },
-                        {
                             "discount": {
                                 "discountAmountDisplay": "-50%",
                                 "discountEndDate": "2026-10-14T14:59:00.000Z",
@@ -15138,19 +15134,6 @@
                     },
                     "purchase": [
                         {
-                            "offerLifecycleState": "Release",
-                            "price": {
-                                "currencyCode": "EUR",
-                                "decimalPrice": 4.99
-                            },
-                            "priceDisplay": "€4.99",
-                            "purchasePayload": {
-                                "offerId": "0e5d790f043b464689d9c2128d472fb5",
-                                "sandboxId": "6b98c6b6298b4282905ea8a66f1e8432"
-                            },
-                            "purchaseType": "Purchase"
-                        },
-                        {
                             "discount": {
                                 "discountAmountDisplay": "-60%",
                                 "discountEndDate": "2026-10-14T14:59:00.000Z",
@@ -15802,6 +15785,37 @@
                         }
                     },
                     "purchase": [
+                        {
+                            "offerLifecycleState": "Release",
+                            "price": {
+                                "currencyCode": "EUR",
+                                "decimalPrice": 2.99
+                            },
+                            "priceDisplay": "€2.99",
+                            "purchasePayload": {
+                                "offerId": "7c710ce5b71240f7b09e1dd7d42fe54c",
+                                "sandboxId": "1da1e8c82f1747b5a9b114408140f2ea"
+                            },
+                            "purchaseType": "Purchase"
+                        },
+                        {
+                            "discount": {
+                                "discountAmountDisplay": "-67%",
+                                "discountEndDate": "2026-10-14T14:59:00.000Z",
+                                "originalPriceDisplay": "€2.99"
+                            },
+                            "offerLifecycleState": "Release",
+                            "price": {
+                                "currencyCode": "EUR",
+                                "decimalPrice": 0.98
+                            },
+                            "priceDisplay": "€0.98",
+                            "purchasePayload": {
+                                "offerId": "7c710ce5b71240f7b09e1dd7d42fe54c",
+                                "sandboxId": "1da1e8c82f1747b5a9b114408140f2ea"
+                            },
+                            "purchaseType": "Purchase"
+                        },
                         {
                             "offerLifecycleState": "Release",
                             "price": {
@@ -18598,19 +18612,6 @@
                     },
                     "purchase": [
                         {
-                            "offerLifecycleState": "Release",
-                            "price": {
-                                "currencyCode": "EUR",
-                                "decimalPrice": 9.99
-                            },
-                            "priceDisplay": "€9.99",
-                            "purchasePayload": {
-                                "offerId": "8210fdfc329b443fbc9dcd52b63a56e9",
-                                "sandboxId": "e0e916451a4946508f7071c272d2e1f5"
-                            },
-                            "purchaseType": "Purchase"
-                        },
-                        {
                             "discount": {
                                 "discountAmountDisplay": "-80%",
                                 "discountEndDate": "2026-10-14T14:59:00.000Z",
@@ -20913,106 +20914,6 @@
                 },
                 "offerId": "d45ac5bfdc9e4d419315453462f5981c",
                 "sandboxId": "c2c90c5ed3fb4c3280a337f31f79f498"
-            },
-            {
-                "content": {
-                    "ageRating": {
-                        "ageGate": {
-                            "gate": "no-gate"
-                        },
-                        "ageRating": {
-                            "ageControl": 3,
-                            "contentDescriptors": [],
-                            "interactiveElements": [],
-                            "ratingImage": "https://cdn1.epicgames.com/gameRating/gameRating/PEGI_3_192_192x192-490b93ddf59fb4ac1148d1eb9083626a",
-                            "ratingSystem": "PEGI",
-                            "rectangularRatingImage": "https://cdn1.epicgames.com/salesEvent/salesEvent/PEGI-3_435x530-c931ab5bb4eb190f6e8e542081c49dc4",
-                            "title": "PEGI 3"
-                        },
-                        "ratingType": "AgeRating"
-                    },
-                    "attention": {
-                        "inAppPurchases": "None"
-                    },
-                    "catalogItemId": "8b494c5f480848f6a12c698cea37be14",
-                    "categories": [
-                        "games",
-                        "games/edition",
-                        "games/edition/base"
-                    ],
-                    "mapping": {
-                        "slug": "bridge-constructor-studio-android-c42687"
-                    },
-                    "media": {
-                        "appIcon": {
-                            "altText": "-",
-                            "height": 512,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/f1d15131f52f4ef7bc917ac348e2fe9d/bridge-constructor-studio-icon-1xwnt.png",
-                            "imageType": "ProductIcon",
-                            "width": 512
-                        },
-                        "card16x9": {
-                            "altText": "Bridge Constructor Studio Offer",
-                            "height": 1440,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/f1d15131f52f4ef7bc917ac348e2fe9d/bridge-constructor-studio-jcapk.jpg",
-                            "imageType": "OfferImageWide",
-                            "width": 2560
-                        },
-                        "card3x4": {
-                            "altText": "Download Bridge Constructor Studio Offer",
-                            "height": 1600,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/f1d15131f52f4ef7bc917ac348e2fe9d/bridge-constructor-studio-1jh6w.jpg",
-                            "imageType": "OfferImageTall",
-                            "width": 1200
-                        },
-                        "coverImage": {
-                            "altText": "-",
-                            "height": 1440,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/f1d15131f52f4ef7bc917ac348e2fe9d/bridge-constructor-studio-17fg0.jpg",
-                            "imageType": "coverImage",
-                            "width": 2560
-                        }
-                    },
-                    "purchase": [
-                        {
-                            "offerLifecycleState": "Release",
-                            "price": {
-                                "currencyCode": "EUR",
-                                "decimalPrice": 5.99
-                            },
-                            "priceDisplay": "€5.99",
-                            "purchasePayload": {
-                                "offerId": "89131e73045d4c5b935dbc9834fc7b4a",
-                                "sandboxId": "db665435888341f69ec556d5408e7798"
-                            },
-                            "purchaseType": "Purchase"
-                        }
-                    ],
-                    "systemSpecs": {
-                        "applicationVersion": "1.3",
-                        "platform": "android",
-                        "systemRequirements": [
-                            {
-                                "minimum": "405 MB",
-                                "requirementType": "InstallSize",
-                                "title": "Installation size"
-                            },
-                            {
-                                "minimum": "216.71 MB",
-                                "requirementType": "DownloadSize",
-                                "title": "Download size"
-                            },
-                            {
-                                "minimum": "10",
-                                "requirementType": "OS",
-                                "title": "OS version"
-                            }
-                        ]
-                    },
-                    "title": "Bridge Constructor Studio"
-                },
-                "offerId": "89131e73045d4c5b935dbc9834fc7b4a",
-                "sandboxId": "db665435888341f69ec556d5408e7798"
             },
             {
                 "content": {
