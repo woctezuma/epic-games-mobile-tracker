@@ -1180,24 +1180,6 @@
                     },
                     "purchase": [
                         {
-                            "discount": {
-                                "discountAmountDisplay": "-50%",
-                                "discountEndDate": "2026-10-08T15:00:00.000Z",
-                                "originalPriceDisplay": "€5.39"
-                            },
-                            "offerLifecycleState": "Release",
-                            "price": {
-                                "currencyCode": "EUR",
-                                "decimalPrice": 2.69
-                            },
-                            "priceDisplay": "€2.69",
-                            "purchasePayload": {
-                                "offerId": "1ee5dc8596734d2eb02a38b387570814",
-                                "sandboxId": "0558e58003aa447a8ace48c3a0d53b54"
-                            },
-                            "purchaseType": "Purchase"
-                        },
-                        {
                             "offerLifecycleState": "Release",
                             "price": {
                                 "currencyCode": "EUR",
@@ -1819,24 +1801,6 @@
                         }
                     },
                     "purchase": [
-                        {
-                            "discount": {
-                                "discountAmountDisplay": "-25%",
-                                "discountEndDate": "2026-10-08T15:00:00.000Z",
-                                "originalPriceDisplay": "€2.69"
-                            },
-                            "offerLifecycleState": "Release",
-                            "price": {
-                                "currencyCode": "EUR",
-                                "decimalPrice": 2.01
-                            },
-                            "priceDisplay": "€2.01",
-                            "purchasePayload": {
-                                "offerId": "6b9c1ff7befb4a5cbccac089a066756a",
-                                "sandboxId": "b172c475650a4104842716a69af1b889"
-                            },
-                            "purchaseType": "Purchase"
-                        },
                         {
                             "offerLifecycleState": "Release",
                             "price": {
@@ -3258,20 +3222,22 @@
                             "gate": "no-gate"
                         },
                         "ageRating": {
-                            "ageControl": 3,
-                            "contentDescriptors": [],
+                            "ageControl": 12,
+                            "contentDescriptors": [
+                                "Mild Swearing"
+                            ],
                             "interactiveElements": [],
-                            "ratingImage": "https://cdn1.epicgames.com/gameRating/gameRating/PEGI_3_192_192x192-490b93ddf59fb4ac1148d1eb9083626a",
+                            "ratingImage": "https://cdn1.epicgames.com/gameRating/gameRating/PEGI_12_192_192x192-afa4df43f131bc83eb380ccf22f8d904",
                             "ratingSystem": "PEGI",
-                            "rectangularRatingImage": "https://cdn1.epicgames.com/salesEvent/salesEvent/PEGI-3_435x530-c931ab5bb4eb190f6e8e542081c49dc4",
-                            "title": "PEGI 3"
+                            "rectangularRatingImage": "https://cdn1.epicgames.com/salesEvent/salesEvent/PEGI-12_436x530-0cd1f06607086f3cc1bc2b8643f21b0a",
+                            "title": "PEGI 12"
                         },
                         "ratingType": "AgeRating"
                     },
                     "attention": {
                         "inAppPurchases": "None"
                     },
-                    "catalogItemId": "0e900b2ff3a2442892e0c22870a3a798",
+                    "catalogItemId": "17821914790945c483d9c20fec8de5d9",
                     "categories": [
                         "freegames",
                         "games",
@@ -3279,34 +3245,34 @@
                         "games/edition/base"
                     ],
                     "mapping": {
-                        "slug": "bridge-constructor-studio-ios-c76845"
+                        "slug": "thebigconmobile-ios-dbd177"
                     },
                     "media": {
                         "appIcon": {
                             "altText": "-",
                             "height": 512,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/f1d15131f52f4ef7bc917ac348e2fe9d/bridge-constructor-studio-icon-1xwnt.png",
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/18e7235bae77408c9224ee8e25d23456/thebigconmobile-icon-t2szc.png",
                             "imageType": "ProductIcon",
                             "width": 512
                         },
                         "card16x9": {
-                            "altText": "Bridge Constructor Studio Offer",
+                            "altText": "TheBigConMobile Offer",
                             "height": 1440,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/f1d15131f52f4ef7bc917ac348e2fe9d/bridge-constructor-studio-pfjgc.jpg",
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/18e7235bae77408c9224ee8e25d23456/thebigconmobile-1te1k.jpg",
                             "imageType": "OfferImageWide",
                             "width": 2560
                         },
                         "card3x4": {
-                            "altText": "Download Bridge Constructor Studio Offer",
+                            "altText": "Download TheBigConMobile Offer",
                             "height": 1600,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/f1d15131f52f4ef7bc917ac348e2fe9d/bridge-constructor-studio-1pzjw.jpg",
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/18e7235bae77408c9224ee8e25d23456/thebigconmobile-nf7a4.jpg",
                             "imageType": "OfferImageTall",
                             "width": 1200
                         },
                         "coverImage": {
                             "altText": "-",
                             "height": 1440,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/f1d15131f52f4ef7bc917ac348e2fe9d/bridge-constructor-studio-17fg0.jpg",
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/18e7235bae77408c9224ee8e25d23456/thebigconmobile-1aovg.png",
                             "imageType": "coverImage",
                             "width": 2560
                         }
@@ -3315,8 +3281,8 @@
                         {
                             "discount": {
                                 "discountAmountDisplay": "-100%",
-                                "discountEndDate": "2026-10-08T15:00:00.000Z",
-                                "originalPriceDisplay": "€5.99"
+                                "discountEndDate": "2026-10-15T15:00:00.000Z",
+                                "originalPriceDisplay": "€5.39"
                             },
                             "offerLifecycleState": "Release",
                             "price": {
@@ -3324,8 +3290,8 @@
                                 "decimalPrice": 0
                             },
                             "purchasePayload": {
-                                "offerId": "e3659cda5ccb4d269744aadf311bb65c",
-                                "sandboxId": "db665435888341f69ec556d5408e7798"
+                                "offerId": "1932908ab2624cb4b100cd44d0ee4584",
+                                "sandboxId": "6fe6ca3e7dae48ac80f9b5cd7b8947e5"
                             },
                             "purchaseType": "Claim"
                         },
@@ -3333,41 +3299,41 @@
                             "offerLifecycleState": "Release",
                             "price": {
                                 "currencyCode": "EUR",
-                                "decimalPrice": 5.99
+                                "decimalPrice": 5.39
                             },
-                            "priceDisplay": "€5.99",
+                            "priceDisplay": "€5.39",
                             "purchasePayload": {
-                                "offerId": "e3659cda5ccb4d269744aadf311bb65c",
-                                "sandboxId": "db665435888341f69ec556d5408e7798"
+                                "offerId": "1932908ab2624cb4b100cd44d0ee4584",
+                                "sandboxId": "6fe6ca3e7dae48ac80f9b5cd7b8947e5"
                             },
                             "purchaseType": "Purchase"
                         }
                     ],
                     "systemSpecs": {
-                        "applicationVersion": "1.3",
+                        "applicationVersion": "1.0.3",
                         "platform": "ios",
                         "systemRequirements": [
                             {
-                                "minimum": "450 MB",
+                                "minimum": "750",
                                 "requirementType": "InstallSize",
                                 "title": "Installation size"
                             },
                             {
-                                "minimum": "260 MB",
+                                "minimum": "529.44 MB",
                                 "requirementType": "DownloadSize",
                                 "title": "Download size"
                             },
                             {
-                                "minimum": "16.0",
+                                "minimum": "16",
                                 "requirementType": "OS",
                                 "title": "OS version"
                             }
                         ]
                     },
-                    "title": "Bridge Constructor Studio"
+                    "title": "The Big Con"
                 },
-                "offerId": "e3659cda5ccb4d269744aadf311bb65c",
-                "sandboxId": "db665435888341f69ec556d5408e7798"
+                "offerId": "1932908ab2624cb4b100cd44d0ee4584",
+                "sandboxId": "6fe6ca3e7dae48ac80f9b5cd7b8947e5"
             }
         ],
         "size": "large",
@@ -5390,6 +5356,7 @@
                     },
                     "catalogItemId": "e42e0d4b5be942409bdb1c7c4ec5218a",
                     "categories": [
+                        "freegames",
                         "games",
                         "games/edition",
                         "games/edition/base"
@@ -5428,6 +5395,36 @@
                         }
                     },
                     "purchase": [
+                        {
+                            "offerLifecycleState": "Release",
+                            "price": {
+                                "currencyCode": "EUR",
+                                "decimalPrice": 5.39
+                            },
+                            "priceDisplay": "€5.39",
+                            "purchasePayload": {
+                                "offerId": "1b214c76475142efad0cbb34139564e2",
+                                "sandboxId": "45f125178d8c4bc18e1827a307bcc5c0"
+                            },
+                            "purchaseType": "Purchase"
+                        },
+                        {
+                            "discount": {
+                                "discountAmountDisplay": "-100%",
+                                "discountEndDate": "2026-10-22T15:00:00.000Z",
+                                "originalPriceDisplay": "€5.39"
+                            },
+                            "offerLifecycleState": "Release",
+                            "price": {
+                                "currencyCode": "EUR",
+                                "decimalPrice": 0
+                            },
+                            "purchasePayload": {
+                                "offerId": "1b214c76475142efad0cbb34139564e2",
+                                "sandboxId": "45f125178d8c4bc18e1827a307bcc5c0"
+                            },
+                            "purchaseType": "Claim"
+                        },
                         {
                             "offerLifecycleState": "Release",
                             "price": {
@@ -8115,21 +8112,19 @@
                 "content": {
                     "ageRating": {
                         "ageGate": {
-                            "gate": "no-gate"
+                            "gate": "age-gate"
                         },
                         "ageRating": {
-                            "ageControl": 7,
-                            "contentDescriptors": [
-                                "Mild Violence"
-                            ],
+                            "ageControl": 16,
+                            "contentDescriptors": [],
                             "interactiveElements": [
                                 "Users Interact",
                                 "In-Game Purchases (Includes Random Items)"
                             ],
-                            "ratingImage": "https://cdn1.epicgames.com/gameRating/gameRating/PEGI_7_192_192x192-30e2e712d0682dad01add90a6ccbed5b",
+                            "ratingImage": "https://cdn1.epicgames.com/gameRating/gameRating/PEGI_16_192_192x192-da60f0bd1fe7cb1ac9d8a8bd5168ea96",
                             "ratingSystem": "PEGI",
-                            "rectangularRatingImage": "https://cdn1.epicgames.com/salesEvent/salesEvent/PEGI-7_435x530-9439a136999d3dd762c7a61c3b8c7683",
-                            "title": "PEGI 7"
+                            "rectangularRatingImage": "https://cdn1.epicgames.com/salesEvent/salesEvent/PEGI-16_435x530-65760d498ce28374fb7ca3258ee1440c",
+                            "title": "PEGI 16"
                         },
                         "ratingType": "AgeRating"
                     },
@@ -8149,21 +8144,21 @@
                         "appIcon": {
                             "altText": "-",
                             "height": 512,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/69576a28f7154fe9a0dce97508da5163/firestone-online-idle-rpg-icon-1rop3.png",
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/69576a28f7154fe9a0dce97508da5163/firestone-online-idle-rpg-icon-gbxey.png",
                             "imageType": "ProductIcon",
                             "width": 512
                         },
                         "card16x9": {
                             "altText": "Firestone Online Idle RPG Offer",
                             "height": 1440,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/69576a28f7154fe9a0dce97508da5163/firestone-online-idle-rpg-5j9ke.png",
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/69576a28f7154fe9a0dce97508da5163/firestone-online-idle-rpg-jdgmc.jpg",
                             "imageType": "OfferImageWide",
                             "width": 2560
                         },
                         "card3x4": {
                             "altText": "Download Firestone Online Idle RPG Offer",
                             "height": 1600,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/69576a28f7154fe9a0dce97508da5163/firestone-online-idle-rpg-zswas.png",
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/69576a28f7154fe9a0dce97508da5163/firestone-online-idle-rpg-efyyv.jpg",
                             "imageType": "OfferImageTall",
                             "width": 1200
                         },
@@ -8210,7 +8205,7 @@
                             }
                         ]
                     },
-                    "title": "Firestone Online Idle RPG"
+                    "title": "Firestone – Idle Clicker Online RPG"
                 },
                 "offerId": "b21bae1f16b5471682d9269502c7dafd",
                 "sandboxId": "bda8d2133655435982b9118972792328"
@@ -9638,6 +9633,106 @@
                 },
                 "offerId": "333fe8af0d3a45729c8fc4edb2c53c9b",
                 "sandboxId": "438f0dfdc1a2432b99005457b60e319f"
+            },
+            {
+                "content": {
+                    "ageRating": {
+                        "ageGate": {
+                            "gate": "no-gate"
+                        },
+                        "ageRating": {
+                            "ageControl": 3,
+                            "contentDescriptors": [],
+                            "interactiveElements": [],
+                            "ratingImage": "https://cdn1.epicgames.com/gameRating/gameRating/PEGI_3_192_192x192-490b93ddf59fb4ac1148d1eb9083626a",
+                            "ratingSystem": "PEGI",
+                            "rectangularRatingImage": "https://cdn1.epicgames.com/salesEvent/salesEvent/PEGI-3_435x530-c931ab5bb4eb190f6e8e542081c49dc4",
+                            "title": "PEGI 3"
+                        },
+                        "ratingType": "AgeRating"
+                    },
+                    "attention": {
+                        "inAppPurchases": "None"
+                    },
+                    "catalogItemId": "0e900b2ff3a2442892e0c22870a3a798",
+                    "categories": [
+                        "games",
+                        "games/edition",
+                        "games/edition/base"
+                    ],
+                    "mapping": {
+                        "slug": "bridge-constructor-studio-ios-c76845"
+                    },
+                    "media": {
+                        "appIcon": {
+                            "altText": "-",
+                            "height": 512,
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/f1d15131f52f4ef7bc917ac348e2fe9d/bridge-constructor-studio-icon-1xwnt.png",
+                            "imageType": "ProductIcon",
+                            "width": 512
+                        },
+                        "card16x9": {
+                            "altText": "Bridge Constructor Studio Offer",
+                            "height": 1440,
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/f1d15131f52f4ef7bc917ac348e2fe9d/bridge-constructor-studio-pfjgc.jpg",
+                            "imageType": "OfferImageWide",
+                            "width": 2560
+                        },
+                        "card3x4": {
+                            "altText": "Download Bridge Constructor Studio Offer",
+                            "height": 1600,
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/f1d15131f52f4ef7bc917ac348e2fe9d/bridge-constructor-studio-1pzjw.jpg",
+                            "imageType": "OfferImageTall",
+                            "width": 1200
+                        },
+                        "coverImage": {
+                            "altText": "-",
+                            "height": 1440,
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/f1d15131f52f4ef7bc917ac348e2fe9d/bridge-constructor-studio-17fg0.jpg",
+                            "imageType": "coverImage",
+                            "width": 2560
+                        }
+                    },
+                    "purchase": [
+                        {
+                            "offerLifecycleState": "Release",
+                            "price": {
+                                "currencyCode": "EUR",
+                                "decimalPrice": 5.99
+                            },
+                            "priceDisplay": "€5.99",
+                            "purchasePayload": {
+                                "offerId": "e3659cda5ccb4d269744aadf311bb65c",
+                                "sandboxId": "db665435888341f69ec556d5408e7798"
+                            },
+                            "purchaseType": "Purchase"
+                        }
+                    ],
+                    "systemSpecs": {
+                        "applicationVersion": "1.3",
+                        "platform": "ios",
+                        "systemRequirements": [
+                            {
+                                "minimum": "450 MB",
+                                "requirementType": "InstallSize",
+                                "title": "Installation size"
+                            },
+                            {
+                                "minimum": "260 MB",
+                                "requirementType": "DownloadSize",
+                                "title": "Download size"
+                            },
+                            {
+                                "minimum": "16.0",
+                                "requirementType": "OS",
+                                "title": "OS version"
+                            }
+                        ]
+                    },
+                    "title": "Bridge Constructor Studio"
+                },
+                "offerId": "e3659cda5ccb4d269744aadf311bb65c",
+                "sandboxId": "db665435888341f69ec556d5408e7798"
             },
             {
                 "content": {
