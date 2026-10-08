@@ -13752,14 +13752,14 @@
                         "card16x9": {
                             "altText": "Idle Champions of the Forgotten Realms Offer",
                             "height": 1440,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/a53f91e55c6840018cb5de0b204f1ad9/idle-champions-of-the-forgotten-realms-1oo7g.png",
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/a53f91e55c6840018cb5de0b204f1ad9/idle-champions-of-the-forgotten-realms-wc5f9.png",
                             "imageType": "OfferImageWide",
                             "width": 2560
                         },
                         "card3x4": {
                             "altText": "Download Idle Champions of the Forgotten Realms Offer",
                             "height": 1600,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/a53f91e55c6840018cb5de0b204f1ad9/idle-champions-of-the-forgotten-realms-u4341.png",
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/a53f91e55c6840018cb5de0b204f1ad9/idle-champions-of-the-forgotten-realms-u9ro9.png",
                             "imageType": "OfferImageTall",
                             "width": 1200
                         },
@@ -13786,7 +13786,7 @@
                         }
                     ],
                     "systemSpecs": {
-                        "applicationVersion": "1.652",
+                        "applicationVersion": "1.655",
                         "platform": "android",
                         "systemRequirements": [
                             {
@@ -13795,7 +13795,7 @@
                                 "title": "Installation size"
                             },
                             {
-                                "minimum": "196.93 MB",
+                                "minimum": "197.05 MB",
                                 "requirementType": "DownloadSize",
                                 "title": "Download size"
                             },
