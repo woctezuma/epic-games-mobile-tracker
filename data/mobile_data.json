@@ -949,6 +949,58 @@
         "store_url": "<https://store.epicgames.com/product/caravan-sandwitch-android-594db5>",
         "title": "Caravan SandWitch"
     },
+    "1-45f125178d8c4bc18e1827a307bcc5c0-1b214c76475142efad0cbb34139564e2": {
+        "age_control": 3,
+        "catalog_item_id": "e42e0d4b5be942409bdb1c7c4ec5218a",
+        "checkout_url": "<https://store.epicgames.com/purchase?offers=1-45f125178d8c4bc18e1827a307bcc5c0-1b214c76475142efad0cbb34139564e2>",
+        "content_descriptors": [],
+        "current_price": "0",
+        "discount": "-100%",
+        "download_size": "670MB",
+        "end_date": "2026-10-22T15:00:00.000Z",
+        "in_app_purchases": false,
+        "install_size": "880MB",
+        "interactive_elements": [],
+        "media": {
+            "OfferImageTall": "https://cdn1.epicgames.com/spt-assets/45db4fbe68fe43f4b025dec2014d42e7/agent-a-a-puzzle-in-disguise-ox4yn.png",
+            "OfferImageWide": "https://cdn1.epicgames.com/spt-assets/45db4fbe68fe43f4b025dec2014d42e7/agent-a-a-puzzle-in-disguise-1nq7q.png",
+            "ProductIcon": "https://cdn1.epicgames.com/spt-assets/45db4fbe68fe43f4b025dec2014d42e7/agent-a-a-puzzle-in-disguise-icon-127ru.png",
+            "coverImage": "https://cdn1.epicgames.com/spt-assets/45db4fbe68fe43f4b025dec2014d42e7/agent-a-a-puzzle-in-disguise-1n40c.png"
+        },
+        "offer_id": "1b214c76475142efad0cbb34139564e2",
+        "original_price": "5.39",
+        "platform": "ios",
+        "sandbox_id": "45f125178d8c4bc18e1827a307bcc5c0",
+        "slug": "agent-a-a-puzzle-in-disguise-ios-d7a459",
+        "store_url": "<https://store.epicgames.com/product/agent-a-a-puzzle-in-disguise-ios-d7a459>",
+        "title": "Agent A: A puzzle in disguise"
+    },
+    "1-45f125178d8c4bc18e1827a307bcc5c0-78da9f9f97694aebb79a5c6f1fd73b78": {
+        "age_control": 3,
+        "catalog_item_id": "3a7ea3fd32fe42b4873de62abcba8bb8",
+        "checkout_url": "<https://store.epicgames.com/purchase?offers=1-45f125178d8c4bc18e1827a307bcc5c0-78da9f9f97694aebb79a5c6f1fd73b78>",
+        "content_descriptors": [],
+        "current_price": "0",
+        "discount": "-100%",
+        "download_size": "635.64 MB",
+        "end_date": "2026-10-22T15:00:00.000Z",
+        "in_app_purchases": false,
+        "install_size": "880MB",
+        "interactive_elements": [],
+        "media": {
+            "OfferImageTall": "https://cdn1.epicgames.com/spt-assets/45db4fbe68fe43f4b025dec2014d42e7/agent-a-a-puzzle-in-disguise-aupbv.png",
+            "OfferImageWide": "https://cdn1.epicgames.com/spt-assets/45db4fbe68fe43f4b025dec2014d42e7/agent-a-a-puzzle-in-disguise-1kj9j.png",
+            "ProductIcon": "https://cdn1.epicgames.com/spt-assets/45db4fbe68fe43f4b025dec2014d42e7/agent-a-a-puzzle-in-disguise-icon-127ru.png",
+            "coverImage": "https://cdn1.epicgames.com/spt-assets/45db4fbe68fe43f4b025dec2014d42e7/agent-a-a-puzzle-in-disguise-1n40c.png"
+        },
+        "offer_id": "78da9f9f97694aebb79a5c6f1fd73b78",
+        "original_price": "5.39",
+        "platform": "android",
+        "sandbox_id": "45f125178d8c4bc18e1827a307bcc5c0",
+        "slug": "agent-a-a-puzzle-in-disguise-android-897342",
+        "store_url": "<https://store.epicgames.com/product/agent-a-a-puzzle-in-disguise-android-897342>",
+        "title": "Agent A: A puzzle in disguise"
+    },
     "1-4ebf21b7761e40cdb180d0604127e4a6-8300122ee9244c76b367d1b9187bb259": {
         "age_control": 12,
         "catalog_item_id": "87104a61adb74ecfa196add0fb6bc964",
@@ -1512,6 +1564,62 @@
         "slug": "wonder-boy-the-dragons-trap-android-cca4a4",
         "store_url": "<https://store.epicgames.com/product/wonder-boy-the-dragons-trap-android-cca4a4>",
         "title": "Wonder Boy: The Dragon's Trap"
+    },
+    "1-6fe6ca3e7dae48ac80f9b5cd7b8947e5-1932908ab2624cb4b100cd44d0ee4584": {
+        "age_control": 12,
+        "catalog_item_id": "17821914790945c483d9c20fec8de5d9",
+        "checkout_url": "<https://store.epicgames.com/purchase?offers=1-6fe6ca3e7dae48ac80f9b5cd7b8947e5-1932908ab2624cb4b100cd44d0ee4584>",
+        "content_descriptors": [
+            "Mild Swearing"
+        ],
+        "current_price": "0",
+        "discount": "-100%",
+        "download_size": "529.44 MB",
+        "end_date": "2026-10-15T15:00:00.000Z",
+        "in_app_purchases": false,
+        "install_size": "750",
+        "interactive_elements": [],
+        "media": {
+            "OfferImageTall": "https://cdn1.epicgames.com/spt-assets/18e7235bae77408c9224ee8e25d23456/thebigconmobile-nf7a4.jpg",
+            "OfferImageWide": "https://cdn1.epicgames.com/spt-assets/18e7235bae77408c9224ee8e25d23456/thebigconmobile-1te1k.jpg",
+            "ProductIcon": "https://cdn1.epicgames.com/spt-assets/18e7235bae77408c9224ee8e25d23456/thebigconmobile-icon-t2szc.png",
+            "coverImage": "https://cdn1.epicgames.com/spt-assets/18e7235bae77408c9224ee8e25d23456/thebigconmobile-1aovg.png"
+        },
+        "offer_id": "1932908ab2624cb4b100cd44d0ee4584",
+        "original_price": "5.39",
+        "platform": "ios",
+        "sandbox_id": "6fe6ca3e7dae48ac80f9b5cd7b8947e5",
+        "slug": "thebigconmobile-ios-dbd177",
+        "store_url": "<https://store.epicgames.com/product/thebigconmobile-ios-dbd177>",
+        "title": "The Big Con"
+    },
+    "1-6fe6ca3e7dae48ac80f9b5cd7b8947e5-dec6eafbe23f4ae2896f3ec0d3310816": {
+        "age_control": 12,
+        "catalog_item_id": "962c91e22a284c41b52136fda471b89e",
+        "checkout_url": "<https://store.epicgames.com/purchase?offers=1-6fe6ca3e7dae48ac80f9b5cd7b8947e5-dec6eafbe23f4ae2896f3ec0d3310816>",
+        "content_descriptors": [
+            "Mild Swearing"
+        ],
+        "current_price": "0",
+        "discount": "-100%",
+        "download_size": "529.44 MB",
+        "end_date": "2026-10-15T15:00:00.000Z",
+        "in_app_purchases": false,
+        "install_size": "750",
+        "interactive_elements": [],
+        "media": {
+            "OfferImageTall": "https://cdn1.epicgames.com/spt-assets/18e7235bae77408c9224ee8e25d23456/thebigconmobile-ajbvn.jpg",
+            "OfferImageWide": "https://cdn1.epicgames.com/spt-assets/18e7235bae77408c9224ee8e25d23456/thebigconmobile-q546d.jpg",
+            "ProductIcon": "https://cdn1.epicgames.com/spt-assets/18e7235bae77408c9224ee8e25d23456/thebigconmobile-icon-t2szc.png",
+            "coverImage": "https://cdn1.epicgames.com/spt-assets/18e7235bae77408c9224ee8e25d23456/thebigconmobile-1aovg.png"
+        },
+        "offer_id": "dec6eafbe23f4ae2896f3ec0d3310816",
+        "original_price": "5.39",
+        "platform": "android",
+        "sandbox_id": "6fe6ca3e7dae48ac80f9b5cd7b8947e5",
+        "slug": "thebigconmobile-android-c6c8f1",
+        "store_url": "<https://store.epicgames.com/product/thebigconmobile-android-c6c8f1>",
+        "title": "The Big Con"
     },
     "1-72a060a94aa747e0869e6d2bc27a3aad-a518ffff8f7f4901aade8048882f3baa": {
         "age_control": 12,
