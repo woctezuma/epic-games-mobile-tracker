@@ -4305,8 +4305,8 @@
                         "ageRating": {
                             "ageControl": 12,
                             "contentDescriptors": [
-                                "Mild Swearing",
-                                "Sexual Innuendo"
+                                "Sexual Innuendo",
+                                "Mild Swearing"
                             ],
                             "interactiveElements": [
                                 "In-Game Purchases"
@@ -8165,7 +8165,7 @@
                         "coverImage": {
                             "altText": "-",
                             "height": 1440,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/69576a28f7154fe9a0dce97508da5163/firestone-online-idle-rpg-zxfm7.png",
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/69576a28f7154fe9a0dce97508da5163/firestone-online-idle-rpg-9o6ib.jpg",
                             "imageType": "coverImage",
                             "width": 2560
                         }
@@ -8825,8 +8825,8 @@
                         "ageRating": {
                             "ageControl": 12,
                             "contentDescriptors": [
-                                "Horror",
-                                "Sexual Innuendo"
+                                "Sexual Innuendo",
+                                "Horror"
                             ],
                             "interactiveElements": [],
                             "ratingImage": "https://cdn1.epicgames.com/gameRating/gameRating/PEGI_12_192_192x192-afa4df43f131bc83eb380ccf22f8d904",
@@ -9947,8 +9947,8 @@
                         "ageRating": {
                             "ageControl": 12,
                             "contentDescriptors": [
-                                "Horror",
-                                "Moderate Violence"
+                                "Moderate Violence",
+                                "Horror"
                             ],
                             "interactiveElements": [],
                             "ratingImage": "https://cdn1.epicgames.com/gameRating/gameRating/PEGI_12_192_192x192-afa4df43f131bc83eb380ccf22f8d904",
@@ -10357,8 +10357,8 @@
                         "ageRating": {
                             "ageControl": 7,
                             "contentDescriptors": [
-                                "Implied Violence",
-                                "Mild Violence"
+                                "Mild Violence",
+                                "Implied Violence"
                             ],
                             "interactiveElements": [],
                             "ratingImage": "https://cdn1.epicgames.com/gameRating/gameRating/PEGI_7_192_192x192-30e2e712d0682dad01add90a6ccbed5b",
@@ -10560,8 +10560,8 @@
                         "ageRating": {
                             "ageControl": 7,
                             "contentDescriptors": [
-                                "Fear",
-                                "Mild Violence"
+                                "Mild Violence",
+                                "Fear"
                             ],
                             "interactiveElements": [],
                             "ratingImage": "https://cdn1.epicgames.com/gameRating/gameRating/PEGI_7_192_192x192-30e2e712d0682dad01add90a6ccbed5b",
@@ -10967,8 +10967,8 @@
                         "ageRating": {
                             "ageControl": 12,
                             "contentDescriptors": [
-                                "Mild Swearing",
-                                "Moderate Violence"
+                                "Moderate Violence",
+                                "Mild Swearing"
                             ],
                             "interactiveElements": [],
                             "ratingImage": "https://cdn1.epicgames.com/gameRating/gameRating/PEGI_12_192_192x192-afa4df43f131bc83eb380ccf22f8d904",
@@ -11070,8 +11070,8 @@
                         "ageRating": {
                             "ageControl": 12,
                             "contentDescriptors": [
-                                "Mild Swearing",
-                                "Moderate Violence"
+                                "Moderate Violence",
+                                "Mild Swearing"
                             ],
                             "interactiveElements": [],
                             "ratingImage": "https://cdn1.epicgames.com/gameRating/gameRating/PEGI_12_192_192x192-afa4df43f131bc83eb380ccf22f8d904",
