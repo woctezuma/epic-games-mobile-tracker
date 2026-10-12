@@ -620,18 +620,18 @@
                 "content": {
                     "ageRating": {
                         "ageGate": {
-                            "gate": "no-gate"
+                            "gate": "age-gate"
                         },
                         "ageRating": {
-                            "ageControl": 3,
+                            "ageControl": 16,
                             "contentDescriptors": [],
                             "interactiveElements": [
                                 "In-Game Purchases (Includes Random Items)"
                             ],
-                            "ratingImage": "https://cdn1.epicgames.com/gameRating/gameRating/PEGI_3_192_192x192-490b93ddf59fb4ac1148d1eb9083626a",
+                            "ratingImage": "https://cdn1.epicgames.com/gameRating/gameRating/PEGI_16_192_192x192-da60f0bd1fe7cb1ac9d8a8bd5168ea96",
                             "ratingSystem": "PEGI",
-                            "rectangularRatingImage": "https://cdn1.epicgames.com/salesEvent/salesEvent/PEGI-3_435x530-c931ab5bb4eb190f6e8e542081c49dc4",
-                            "title": "PEGI 3"
+                            "rectangularRatingImage": "https://cdn1.epicgames.com/salesEvent/salesEvent/PEGI-16_435x530-65760d498ce28374fb7ca3258ee1440c",
+                            "title": "PEGI 16"
                         },
                         "ratingType": "AgeRating"
                     },
@@ -14642,6 +14642,7 @@
                             "ageControl": 16,
                             "contentDescriptors": [],
                             "interactiveElements": [
+                                "In-Game Purchases",
                                 "In-Game Purchases (Includes Random Items)"
                             ],
                             "ratingImage": "https://cdn1.epicgames.com/gameRating/gameRating/PEGI_16_192_192x192-da60f0bd1fe7cb1ac9d8a8bd5168ea96",
@@ -17482,18 +17483,18 @@
                 "content": {
                     "ageRating": {
                         "ageGate": {
-                            "gate": "no-gate"
+                            "gate": "age-gate"
                         },
                         "ageRating": {
-                            "ageControl": 3,
+                            "ageControl": 16,
                             "contentDescriptors": [],
                             "interactiveElements": [
                                 "In-Game Purchases (Includes Random Items)"
                             ],
-                            "ratingImage": "https://cdn1.epicgames.com/gameRating/gameRating/PEGI_3_192_192x192-490b93ddf59fb4ac1148d1eb9083626a",
+                            "ratingImage": "https://cdn1.epicgames.com/gameRating/gameRating/PEGI_16_192_192x192-da60f0bd1fe7cb1ac9d8a8bd5168ea96",
                             "ratingSystem": "PEGI",
-                            "rectangularRatingImage": "https://cdn1.epicgames.com/salesEvent/salesEvent/PEGI-3_435x530-c931ab5bb4eb190f6e8e542081c49dc4",
-                            "title": "PEGI 3"
+                            "rectangularRatingImage": "https://cdn1.epicgames.com/salesEvent/salesEvent/PEGI-16_435x530-65760d498ce28374fb7ca3258ee1440c",
+                            "title": "PEGI 16"
                         },
                         "ratingType": "AgeRating"
                     },
@@ -17555,7 +17556,7 @@
                         }
                     ],
                     "systemSpecs": {
-                        "applicationVersion": "57.0",
+                        "applicationVersion": "57.1",
                         "platform": "android",
                         "systemRequirements": [
                             {
@@ -17564,7 +17565,7 @@
                                 "title": "Installation size"
                             },
                             {
-                                "minimum": "156.06 MB",
+                                "minimum": "156.10 MB",
                                 "requirementType": "DownloadSize",
                                 "title": "Download size"
                             },
