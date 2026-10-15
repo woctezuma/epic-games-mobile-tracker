@@ -314,6 +314,108 @@
                             "gate": "no-gate"
                         },
                         "ageRating": {
+                            "ageControl": 12,
+                            "contentDescriptors": [
+                                "Mild Swearing"
+                            ],
+                            "interactiveElements": [],
+                            "ratingImage": "https://cdn1.epicgames.com/gameRating/gameRating/PEGI_12_192_192x192-afa4df43f131bc83eb380ccf22f8d904",
+                            "ratingSystem": "PEGI",
+                            "rectangularRatingImage": "https://cdn1.epicgames.com/salesEvent/salesEvent/PEGI-12_436x530-0cd1f06607086f3cc1bc2b8643f21b0a",
+                            "title": "PEGI 12"
+                        },
+                        "ratingType": "AgeRating"
+                    },
+                    "attention": {
+                        "inAppPurchases": "None"
+                    },
+                    "catalogItemId": "962c91e22a284c41b52136fda471b89e",
+                    "categories": [
+                        "games",
+                        "games/edition",
+                        "games/edition/base"
+                    ],
+                    "mapping": {
+                        "slug": "thebigconmobile-android-c6c8f1"
+                    },
+                    "media": {
+                        "appIcon": {
+                            "altText": "-",
+                            "height": 512,
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/18e7235bae77408c9224ee8e25d23456/thebigconmobile-icon-t2szc.png",
+                            "imageType": "ProductIcon",
+                            "width": 512
+                        },
+                        "card16x9": {
+                            "altText": "TheBigConMobile Offer",
+                            "height": 1440,
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/18e7235bae77408c9224ee8e25d23456/thebigconmobile-q546d.jpg",
+                            "imageType": "OfferImageWide",
+                            "width": 2560
+                        },
+                        "card3x4": {
+                            "altText": "Download TheBigConMobile Offer",
+                            "height": 1600,
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/18e7235bae77408c9224ee8e25d23456/thebigconmobile-ajbvn.jpg",
+                            "imageType": "OfferImageTall",
+                            "width": 1200
+                        },
+                        "coverImage": {
+                            "altText": "-",
+                            "height": 1440,
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/18e7235bae77408c9224ee8e25d23456/thebigconmobile-1aovg.png",
+                            "imageType": "coverImage",
+                            "width": 2560
+                        }
+                    },
+                    "purchase": [
+                        {
+                            "offerLifecycleState": "Release",
+                            "price": {
+                                "currencyCode": "EUR",
+                                "decimalPrice": 5.39
+                            },
+                            "priceDisplay": "€5.39",
+                            "purchasePayload": {
+                                "offerId": "dec6eafbe23f4ae2896f3ec0d3310816",
+                                "sandboxId": "6fe6ca3e7dae48ac80f9b5cd7b8947e5"
+                            },
+                            "purchaseType": "Purchase"
+                        }
+                    ],
+                    "systemSpecs": {
+                        "applicationVersion": "1.0.3",
+                        "platform": "android",
+                        "systemRequirements": [
+                            {
+                                "minimum": "750",
+                                "requirementType": "InstallSize",
+                                "title": "Installation size"
+                            },
+                            {
+                                "minimum": "529.44 MB",
+                                "requirementType": "DownloadSize",
+                                "title": "Download size"
+                            },
+                            {
+                                "minimum": "9",
+                                "requirementType": "OS",
+                                "title": "OS version"
+                            }
+                        ]
+                    },
+                    "title": "The Big Con"
+                },
+                "offerId": "dec6eafbe23f4ae2896f3ec0d3310816",
+                "sandboxId": "6fe6ca3e7dae48ac80f9b5cd7b8947e5"
+            },
+            {
+                "content": {
+                    "ageRating": {
+                        "ageGate": {
+                            "gate": "no-gate"
+                        },
+                        "ageRating": {
                             "ageControl": 7,
                             "contentDescriptors": [
                                 "Fear"
@@ -3529,22 +3631,20 @@
                             "gate": "no-gate"
                         },
                         "ageRating": {
-                            "ageControl": 12,
-                            "contentDescriptors": [
-                                "Mild Swearing"
-                            ],
+                            "ageControl": 3,
+                            "contentDescriptors": [],
                             "interactiveElements": [],
-                            "ratingImage": "https://cdn1.epicgames.com/gameRating/gameRating/PEGI_12_192_192x192-afa4df43f131bc83eb380ccf22f8d904",
+                            "ratingImage": "https://cdn1.epicgames.com/gameRating/gameRating/PEGI_3_192_192x192-490b93ddf59fb4ac1148d1eb9083626a",
                             "ratingSystem": "PEGI",
-                            "rectangularRatingImage": "https://cdn1.epicgames.com/salesEvent/salesEvent/PEGI-12_436x530-0cd1f06607086f3cc1bc2b8643f21b0a",
-                            "title": "PEGI 12"
+                            "rectangularRatingImage": "https://cdn1.epicgames.com/salesEvent/salesEvent/PEGI-3_435x530-c931ab5bb4eb190f6e8e542081c49dc4",
+                            "title": "PEGI 3"
                         },
                         "ratingType": "AgeRating"
                     },
                     "attention": {
                         "inAppPurchases": "None"
                     },
-                    "catalogItemId": "962c91e22a284c41b52136fda471b89e",
+                    "catalogItemId": "3a7ea3fd32fe42b4873de62abcba8bb8",
                     "categories": [
                         "freegames",
                         "games",
@@ -3552,34 +3652,34 @@
                         "games/edition/base"
                     ],
                     "mapping": {
-                        "slug": "thebigconmobile-android-c6c8f1"
+                        "slug": "agent-a-a-puzzle-in-disguise-android-897342"
                     },
                     "media": {
                         "appIcon": {
                             "altText": "-",
                             "height": 512,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/18e7235bae77408c9224ee8e25d23456/thebigconmobile-icon-t2szc.png",
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/45db4fbe68fe43f4b025dec2014d42e7/agent-a-a-puzzle-in-disguise-icon-127ru.png",
                             "imageType": "ProductIcon",
                             "width": 512
                         },
                         "card16x9": {
-                            "altText": "TheBigConMobile Offer",
+                            "altText": "Agent A: A puzzle in disguise Offer",
                             "height": 1440,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/18e7235bae77408c9224ee8e25d23456/thebigconmobile-q546d.jpg",
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/45db4fbe68fe43f4b025dec2014d42e7/agent-a-a-puzzle-in-disguise-1kj9j.png",
                             "imageType": "OfferImageWide",
                             "width": 2560
                         },
                         "card3x4": {
-                            "altText": "Download TheBigConMobile Offer",
+                            "altText": "Download Agent A: A puzzle in disguise Offer",
                             "height": 1600,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/18e7235bae77408c9224ee8e25d23456/thebigconmobile-ajbvn.jpg",
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/45db4fbe68fe43f4b025dec2014d42e7/agent-a-a-puzzle-in-disguise-aupbv.png",
                             "imageType": "OfferImageTall",
                             "width": 1200
                         },
                         "coverImage": {
                             "altText": "-",
                             "height": 1440,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/18e7235bae77408c9224ee8e25d23456/thebigconmobile-1aovg.png",
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/45db4fbe68fe43f4b025dec2014d42e7/agent-a-a-puzzle-in-disguise-1n40c.png",
                             "imageType": "coverImage",
                             "width": 2560
                         }
@@ -3588,7 +3688,7 @@
                         {
                             "discount": {
                                 "discountAmountDisplay": "-100%",
-                                "discountEndDate": "2026-10-15T15:00:00.000Z",
+                                "discountEndDate": "2026-10-22T15:00:00.000Z",
                                 "originalPriceDisplay": "€5.39"
                             },
                             "offerLifecycleState": "Release",
@@ -3597,8 +3697,8 @@
                                 "decimalPrice": 0
                             },
                             "purchasePayload": {
-                                "offerId": "dec6eafbe23f4ae2896f3ec0d3310816",
-                                "sandboxId": "6fe6ca3e7dae48ac80f9b5cd7b8947e5"
+                                "offerId": "78da9f9f97694aebb79a5c6f1fd73b78",
+                                "sandboxId": "45f125178d8c4bc18e1827a307bcc5c0"
                             },
                             "purchaseType": "Claim"
                         },
@@ -3610,37 +3710,37 @@
                             },
                             "priceDisplay": "€5.39",
                             "purchasePayload": {
-                                "offerId": "dec6eafbe23f4ae2896f3ec0d3310816",
-                                "sandboxId": "6fe6ca3e7dae48ac80f9b5cd7b8947e5"
+                                "offerId": "78da9f9f97694aebb79a5c6f1fd73b78",
+                                "sandboxId": "45f125178d8c4bc18e1827a307bcc5c0"
                             },
                             "purchaseType": "Purchase"
                         }
                     ],
                     "systemSpecs": {
-                        "applicationVersion": "1.0.3",
+                        "applicationVersion": "5.6.3",
                         "platform": "android",
                         "systemRequirements": [
                             {
-                                "minimum": "750",
+                                "minimum": "880MB",
                                 "requirementType": "InstallSize",
                                 "title": "Installation size"
                             },
                             {
-                                "minimum": "529.44 MB",
+                                "minimum": "635.64 MB",
                                 "requirementType": "DownloadSize",
                                 "title": "Download size"
                             },
                             {
-                                "minimum": "9",
+                                "minimum": "11",
                                 "requirementType": "OS",
                                 "title": "OS version"
                             }
                         ]
                     },
-                    "title": "The Big Con"
+                    "title": "Agent A: A puzzle in disguise"
                 },
-                "offerId": "dec6eafbe23f4ae2896f3ec0d3310816",
-                "sandboxId": "6fe6ca3e7dae48ac80f9b5cd7b8947e5"
+                "offerId": "78da9f9f97694aebb79a5c6f1fd73b78",
+                "sandboxId": "45f125178d8c4bc18e1827a307bcc5c0"
             }
         ],
         "size": "large",
@@ -6781,19 +6881,6 @@
                         }
                     },
                     "purchase": [
-                        {
-                            "offerLifecycleState": "Release",
-                            "price": {
-                                "currencyCode": "EUR",
-                                "decimalPrice": 5.39
-                            },
-                            "priceDisplay": "€5.39",
-                            "purchasePayload": {
-                                "offerId": "78da9f9f97694aebb79a5c6f1fd73b78",
-                                "sandboxId": "45f125178d8c4bc18e1827a307bcc5c0"
-                            },
-                            "purchaseType": "Purchase"
-                        },
                         {
                             "discount": {
                                 "discountAmountDisplay": "-100%",
@@ -14312,8 +14399,8 @@
                         "ageRating": {
                             "ageControl": 7,
                             "contentDescriptors": [
-                                "Fear",
-                                "Mild Violence"
+                                "Mild Violence",
+                                "Fear"
                             ],
                             "interactiveElements": [],
                             "ratingImage": "https://cdn1.epicgames.com/gameRating/gameRating/PEGI_7_192_192x192-30e2e712d0682dad01add90a6ccbed5b",
@@ -14572,19 +14659,6 @@
                         }
                     },
                     "purchase": [
-                        {
-                            "offerLifecycleState": "Release",
-                            "price": {
-                                "currencyCode": "EUR",
-                                "decimalPrice": 4.99
-                            },
-                            "priceDisplay": "€4.99",
-                            "purchasePayload": {
-                                "offerId": "7b0b95230dbb48908344b0e7ec90f0f3",
-                                "sandboxId": "788106ed2233439bbe0df94c27fcef9b"
-                            },
-                            "purchaseType": "Purchase"
-                        },
                         {
                             "discount": {
                                 "discountAmountDisplay": "-60%",
@@ -15313,19 +15387,6 @@
                         }
                     },
                     "purchase": [
-                        {
-                            "offerLifecycleState": "Release",
-                            "price": {
-                                "currencyCode": "EUR",
-                                "decimalPrice": 3.99
-                            },
-                            "priceDisplay": "€3.99",
-                            "purchasePayload": {
-                                "offerId": "bfa7235a577547578527633c82c776a2",
-                                "sandboxId": "1370d5c73fa4438da24c595ea3338456"
-                            },
-                            "purchaseType": "Purchase"
-                        },
                         {
                             "discount": {
                                 "discountAmountDisplay": "-50%",
@@ -18210,8 +18271,8 @@
                             "ageControl": 16,
                             "contentDescriptors": [
                                 "Sex",
-                                "Strong Language",
-                                "Drugs"
+                                "Drugs",
+                                "Strong Language"
                             ],
                             "interactiveElements": [],
                             "ratingImage": "https://cdn1.epicgames.com/gameRating/gameRating/PEGI_16_192_192x192-da60f0bd1fe7cb1ac9d8a8bd5168ea96",
@@ -18486,19 +18547,6 @@
                     },
                     "purchase": [
                         {
-                            "offerLifecycleState": "Release",
-                            "price": {
-                                "currencyCode": "EUR",
-                                "decimalPrice": 9.99
-                            },
-                            "priceDisplay": "€9.99",
-                            "purchasePayload": {
-                                "offerId": "4db605b1fd864f098fc6cefaa87de4a1",
-                                "sandboxId": "f0757a2ab13941d89476cfa09df9a545"
-                            },
-                            "purchaseType": "Purchase"
-                        },
-                        {
                             "discount": {
                                 "discountAmountDisplay": "-80%",
                                 "discountEndDate": "2026-10-28T15:59:00.000Z",
@@ -18616,6 +18664,37 @@
                         }
                     },
                     "purchase": [
+                        {
+                            "offerLifecycleState": "Release",
+                            "price": {
+                                "currencyCode": "EUR",
+                                "decimalPrice": 9.99
+                            },
+                            "priceDisplay": "€9.99",
+                            "purchasePayload": {
+                                "offerId": "ddf289539e1d4298ac42e01cf48da088",
+                                "sandboxId": "402982723c79438bab7bfe346c34b5b6"
+                            },
+                            "purchaseType": "Purchase"
+                        },
+                        {
+                            "discount": {
+                                "discountAmountDisplay": "-80%",
+                                "discountEndDate": "2026-10-28T15:59:00.000Z",
+                                "originalPriceDisplay": "€9.99"
+                            },
+                            "offerLifecycleState": "Release",
+                            "price": {
+                                "currencyCode": "EUR",
+                                "decimalPrice": 1.99
+                            },
+                            "priceDisplay": "€1.99",
+                            "purchasePayload": {
+                                "offerId": "ddf289539e1d4298ac42e01cf48da088",
+                                "sandboxId": "402982723c79438bab7bfe346c34b5b6"
+                            },
+                            "purchaseType": "Purchase"
+                        },
                         {
                             "offerLifecycleState": "Release",
                             "price": {
@@ -20203,8 +20282,8 @@
                         "ageRating": {
                             "ageControl": 16,
                             "contentDescriptors": [
-                                "Horror",
-                                "Strong Violence"
+                                "Strong Violence",
+                                "Horror"
                             ],
                             "interactiveElements": [],
                             "ratingImage": "https://cdn1.epicgames.com/gameRating/gameRating/PEGI_16_192_192x192-da60f0bd1fe7cb1ac9d8a8bd5168ea96",
