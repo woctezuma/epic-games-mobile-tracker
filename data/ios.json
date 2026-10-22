@@ -2607,23 +2607,20 @@
                             "width": 512
                         },
                         "card16x9": {
-                            "altText": "",
                             "height": 1440,
-                            "imageSrc": "https://cdn2.unrealengine.com/en-fnbr-reload-41-30-ropesmile-logo-egs-launcher-pdpcarousel-2560x1440-2560x1440-2747ee615dfa.jpg",
+                            "imageSrc": "https://cdn1.epicgames.com/offer/fn/EN_FNBR_42-30_Reload_NitemareIsland_Logo_EGS_Launcher_Blade_2560x1440_2560x1440-dc5625017e584ce2b3d37f3bf786e7fa",
                             "imageType": "OfferImageWide",
                             "width": 2560
                         },
                         "card3x4": {
-                            "altText": "",
                             "height": 1600,
-                            "imageSrc": "https://cdn2.unrealengine.com/en-fnbr-reload-41-30-ropesmile-egs-launcher-blade-1200x1600-1200x1600-82f6eb411ea8.jpg",
+                            "imageSrc": "https://cdn1.epicgames.com/offer/fn/EN_FNBR_42-30_Reload_NitemareIsland_EGS_Launcher_Blade_1200x1600_1200x1600-87210607a2de415c86318ce331bbe8dc",
                             "imageType": "OfferImageTall",
                             "width": 1200
                         },
                         "coverImage": {
-                            "altText": "",
                             "height": 1440,
-                            "imageSrc": "https://cdn2.unrealengine.com/en-fnbr-reload-41-30-ropesmile-logo-egs-launcher-pdpcarousel-2560x1440-2560x1440-2747ee615dfa.jpg",
+                            "imageSrc": "https://cdn1.epicgames.com/offer/fn/EN_FNBR_42-30_Reload_NitemareIsland_Logo_EGS_Launcher_Blade_2560x1440_2560x1440-dc5625017e584ce2b3d37f3bf786e7fa",
                             "imageType": "OfferImageWide",
                             "width": 2560
                         }
@@ -3047,55 +3044,59 @@
                             "gate": "no-gate"
                         },
                         "ageRating": {
-                            "ageControl": 3,
-                            "contentDescriptors": [],
+                            "ageControl": 7,
+                            "contentDescriptors": [
+                                "Mild Violence",
+                                "Implied Violence",
+                                "Fear"
+                            ],
                             "interactiveElements": [],
-                            "ratingImage": "https://cdn1.epicgames.com/gameRating/gameRating/PEGI_3_192_192x192-490b93ddf59fb4ac1148d1eb9083626a",
+                            "ratingImage": "https://cdn1.epicgames.com/gameRating/gameRating/PEGI_7_192_192x192-30e2e712d0682dad01add90a6ccbed5b",
                             "ratingSystem": "PEGI",
-                            "rectangularRatingImage": "https://cdn1.epicgames.com/salesEvent/salesEvent/PEGI-3_435x530-c931ab5bb4eb190f6e8e542081c49dc4",
-                            "title": "PEGI 3"
+                            "rectangularRatingImage": "https://cdn1.epicgames.com/salesEvent/salesEvent/PEGI-7_435x530-9439a136999d3dd762c7a61c3b8c7683",
+                            "title": "PEGI 7"
                         },
                         "ratingType": "AgeRating"
                     },
                     "attention": {
                         "inAppPurchases": "None"
                     },
-                    "catalogItemId": "e42e0d4b5be942409bdb1c7c4ec5218a",
+                    "catalogItemId": "74e81822733246f1ad87ed4f3a0a3b7f",
                     "categories": [
                         "freegames",
-                        "games",
+                        "games/edition/base",
                         "games/edition",
-                        "games/edition/base"
+                        "games"
                     ],
                     "mapping": {
-                        "slug": "agent-a-a-puzzle-in-disguise-ios-d7a459"
+                        "slug": "home-ios-69cfcf"
                     },
                     "media": {
                         "appIcon": {
                             "altText": "-",
                             "height": 512,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/45db4fbe68fe43f4b025dec2014d42e7/agent-a-a-puzzle-in-disguise-icon-127ru.png",
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/46fc0cdb9f164a848e916249a8f68fc7/home-icon-1ydv0.png",
                             "imageType": "ProductIcon",
                             "width": 512
                         },
                         "card16x9": {
-                            "altText": "Agent A: A puzzle in disguise Offer",
+                            "altText": "Home Offer",
                             "height": 1440,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/45db4fbe68fe43f4b025dec2014d42e7/agent-a-a-puzzle-in-disguise-1nq7q.png",
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/46fc0cdb9f164a848e916249a8f68fc7/home-1c0gl.png",
                             "imageType": "OfferImageWide",
                             "width": 2560
                         },
                         "card3x4": {
-                            "altText": "Download Agent A: A puzzle in disguise Offer",
+                            "altText": "Download Home Offer",
                             "height": 1600,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/45db4fbe68fe43f4b025dec2014d42e7/agent-a-a-puzzle-in-disguise-ox4yn.png",
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/46fc0cdb9f164a848e916249a8f68fc7/home-ie13b.png",
                             "imageType": "OfferImageTall",
                             "width": 1200
                         },
                         "coverImage": {
                             "altText": "-",
                             "height": 1440,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/45db4fbe68fe43f4b025dec2014d42e7/agent-a-a-puzzle-in-disguise-1n40c.png",
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/46fc0cdb9f164a848e916249a8f68fc7/home-mnoxl.png",
                             "imageType": "coverImage",
                             "width": 2560
                         }
@@ -3104,8 +3105,8 @@
                         {
                             "discount": {
                                 "discountAmountDisplay": "-100%",
-                                "discountEndDate": "2026-10-22T15:00:00.000Z",
-                                "originalPriceDisplay": "€5.39"
+                                "discountEndDate": "2026-10-29T15:00:00.000Z",
+                                "originalPriceDisplay": "€2.69"
                             },
                             "offerLifecycleState": "Release",
                             "price": {
@@ -3113,8 +3114,8 @@
                                 "decimalPrice": 0
                             },
                             "purchasePayload": {
-                                "offerId": "1b214c76475142efad0cbb34139564e2",
-                                "sandboxId": "45f125178d8c4bc18e1827a307bcc5c0"
+                                "offerId": "8011852d705048e18a28a3a820806d19",
+                                "sandboxId": "c7e46cce751b40b6937e878abd0fc531"
                             },
                             "purchaseType": "Claim"
                         },
@@ -3122,41 +3123,41 @@
                             "offerLifecycleState": "Release",
                             "price": {
                                 "currencyCode": "EUR",
-                                "decimalPrice": 5.39
+                                "decimalPrice": 2.69
                             },
-                            "priceDisplay": "€5.39",
+                            "priceDisplay": "€2.69",
                             "purchasePayload": {
-                                "offerId": "1b214c76475142efad0cbb34139564e2",
-                                "sandboxId": "45f125178d8c4bc18e1827a307bcc5c0"
+                                "offerId": "8011852d705048e18a28a3a820806d19",
+                                "sandboxId": "c7e46cce751b40b6937e878abd0fc531"
                             },
                             "purchaseType": "Purchase"
                         }
                     ],
                     "systemSpecs": {
-                        "applicationVersion": "5.6.2",
+                        "applicationVersion": "v1.0.6",
                         "platform": "ios",
                         "systemRequirements": [
                             {
-                                "minimum": "880MB",
+                                "minimum": "300 MB",
                                 "requirementType": "InstallSize",
                                 "title": "Installation size"
                             },
                             {
-                                "minimum": "670MB",
+                                "minimum": "320 MB",
                                 "requirementType": "DownloadSize",
                                 "title": "Download size"
                             },
                             {
-                                "minimum": "iOS 16.0",
+                                "minimum": "iOS 15",
                                 "requirementType": "OS",
                                 "title": "OS version"
                             }
                         ]
                     },
-                    "title": "Agent A: A puzzle in disguise"
+                    "title": "Home - A Unique Horror Adventure"
                 },
-                "offerId": "1b214c76475142efad0cbb34139564e2",
-                "sandboxId": "45f125178d8c4bc18e1827a307bcc5c0"
+                "offerId": "8011852d705048e18a28a3a820806d19",
+                "sandboxId": "c7e46cce751b40b6937e878abd0fc531"
             }
         ],
         "size": "large",
@@ -5164,6 +5165,106 @@
                 },
                 "offerId": "e7658ce0423c47619506588174223a04",
                 "sandboxId": "228e0d2c9edd4c1189fc00ba49d8fb1a"
+            },
+            {
+                "content": {
+                    "ageRating": {
+                        "ageGate": {
+                            "gate": "no-gate"
+                        },
+                        "ageRating": {
+                            "ageControl": 3,
+                            "contentDescriptors": [],
+                            "interactiveElements": [],
+                            "ratingImage": "https://cdn1.epicgames.com/gameRating/gameRating/PEGI_3_192_192x192-490b93ddf59fb4ac1148d1eb9083626a",
+                            "ratingSystem": "PEGI",
+                            "rectangularRatingImage": "https://cdn1.epicgames.com/salesEvent/salesEvent/PEGI-3_435x530-c931ab5bb4eb190f6e8e542081c49dc4",
+                            "title": "PEGI 3"
+                        },
+                        "ratingType": "AgeRating"
+                    },
+                    "attention": {
+                        "inAppPurchases": "None"
+                    },
+                    "catalogItemId": "e42e0d4b5be942409bdb1c7c4ec5218a",
+                    "categories": [
+                        "games",
+                        "games/edition",
+                        "games/edition/base"
+                    ],
+                    "mapping": {
+                        "slug": "agent-a-a-puzzle-in-disguise-ios-d7a459"
+                    },
+                    "media": {
+                        "appIcon": {
+                            "altText": "-",
+                            "height": 512,
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/45db4fbe68fe43f4b025dec2014d42e7/agent-a-a-puzzle-in-disguise-icon-127ru.png",
+                            "imageType": "ProductIcon",
+                            "width": 512
+                        },
+                        "card16x9": {
+                            "altText": "Agent A: A puzzle in disguise Offer",
+                            "height": 1440,
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/45db4fbe68fe43f4b025dec2014d42e7/agent-a-a-puzzle-in-disguise-1nq7q.png",
+                            "imageType": "OfferImageWide",
+                            "width": 2560
+                        },
+                        "card3x4": {
+                            "altText": "Download Agent A: A puzzle in disguise Offer",
+                            "height": 1600,
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/45db4fbe68fe43f4b025dec2014d42e7/agent-a-a-puzzle-in-disguise-ox4yn.png",
+                            "imageType": "OfferImageTall",
+                            "width": 1200
+                        },
+                        "coverImage": {
+                            "altText": "-",
+                            "height": 1440,
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/45db4fbe68fe43f4b025dec2014d42e7/agent-a-a-puzzle-in-disguise-1n40c.png",
+                            "imageType": "coverImage",
+                            "width": 2560
+                        }
+                    },
+                    "purchase": [
+                        {
+                            "offerLifecycleState": "Release",
+                            "price": {
+                                "currencyCode": "EUR",
+                                "decimalPrice": 5.39
+                            },
+                            "priceDisplay": "€5.39",
+                            "purchasePayload": {
+                                "offerId": "1b214c76475142efad0cbb34139564e2",
+                                "sandboxId": "45f125178d8c4bc18e1827a307bcc5c0"
+                            },
+                            "purchaseType": "Purchase"
+                        }
+                    ],
+                    "systemSpecs": {
+                        "applicationVersion": "5.6.2",
+                        "platform": "ios",
+                        "systemRequirements": [
+                            {
+                                "minimum": "880MB",
+                                "requirementType": "InstallSize",
+                                "title": "Installation size"
+                            },
+                            {
+                                "minimum": "670MB",
+                                "requirementType": "DownloadSize",
+                                "title": "Download size"
+                            },
+                            {
+                                "minimum": "iOS 16.0",
+                                "requirementType": "OS",
+                                "title": "OS version"
+                            }
+                        ]
+                    },
+                    "title": "Agent A: A puzzle in disguise"
+                },
+                "offerId": "1b214c76475142efad0cbb34139564e2",
+                "sandboxId": "45f125178d8c4bc18e1827a307bcc5c0"
             },
             {
                 "content": {
@@ -9858,19 +9959,6 @@
                         }
                     },
                     "purchase": [
-                        {
-                            "offerLifecycleState": "Release",
-                            "price": {
-                                "currencyCode": "EUR",
-                                "decimalPrice": 4.99
-                            },
-                            "priceDisplay": "€4.99",
-                            "purchasePayload": {
-                                "offerId": "333fe8af0d3a45729c8fc4edb2c53c9b",
-                                "sandboxId": "438f0dfdc1a2432b99005457b60e319f"
-                            },
-                            "purchaseType": "Purchase"
-                        },
                         {
                             "discount": {
                                 "discountAmountDisplay": "-50%",
