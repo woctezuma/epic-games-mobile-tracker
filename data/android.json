@@ -13242,6 +13242,14 @@
                                 "sandboxId": "59176cd042b64d029df8a1c92a54d0d2"
                             },
                             "purchaseType": "Claim"
+                        },
+                        {
+                            "offerEffectivenessState": "Expired",
+                            "purchasePayload": {
+                                "offerId": "87b44e258670465bad29348f151f9c6f",
+                                "sandboxId": "59176cd042b64d029df8a1c92a54d0d2"
+                            },
+                            "purchaseType": "Unavailable"
                         }
                     ],
                     "systemSpecs": {
