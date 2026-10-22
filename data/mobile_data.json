@@ -3143,6 +3143,66 @@
         "store_url": "<https://store.epicgames.com/product/samorost-3-ios-06e52a>",
         "title": "Samorost 3"
     },
+    "1-c7e46cce751b40b6937e878abd0fc531-8011852d705048e18a28a3a820806d19": {
+        "age_control": 7,
+        "catalog_item_id": "74e81822733246f1ad87ed4f3a0a3b7f",
+        "checkout_url": "<https://store.epicgames.com/purchase?offers=1-c7e46cce751b40b6937e878abd0fc531-8011852d705048e18a28a3a820806d19>",
+        "content_descriptors": [
+            "Mild Violence",
+            "Implied Violence",
+            "Fear"
+        ],
+        "current_price": "0",
+        "discount": "-100%",
+        "download_size": "320 MB",
+        "end_date": "2026-10-29T15:00:00.000Z",
+        "in_app_purchases": false,
+        "install_size": "300 MB",
+        "interactive_elements": [],
+        "media": {
+            "OfferImageTall": "https://cdn1.epicgames.com/spt-assets/46fc0cdb9f164a848e916249a8f68fc7/home-ie13b.png",
+            "OfferImageWide": "https://cdn1.epicgames.com/spt-assets/46fc0cdb9f164a848e916249a8f68fc7/home-1c0gl.png",
+            "ProductIcon": "https://cdn1.epicgames.com/spt-assets/46fc0cdb9f164a848e916249a8f68fc7/home-icon-1ydv0.png",
+            "coverImage": "https://cdn1.epicgames.com/spt-assets/46fc0cdb9f164a848e916249a8f68fc7/home-mnoxl.png"
+        },
+        "offer_id": "8011852d705048e18a28a3a820806d19",
+        "original_price": "2.69",
+        "platform": "ios",
+        "sandbox_id": "c7e46cce751b40b6937e878abd0fc531",
+        "slug": "home-ios-69cfcf",
+        "store_url": "<https://store.epicgames.com/product/home-ios-69cfcf>",
+        "title": "Home - A Unique Horror Adventure"
+    },
+    "1-c7e46cce751b40b6937e878abd0fc531-b4363ca6c155415da6d2686d117b9eca": {
+        "age_control": 7,
+        "catalog_item_id": "e0d8971642d44419b1513686ab5974a4",
+        "checkout_url": "<https://store.epicgames.com/purchase?offers=1-c7e46cce751b40b6937e878abd0fc531-b4363ca6c155415da6d2686d117b9eca>",
+        "content_descriptors": [
+            "Mild Violence",
+            "Implied Violence",
+            "Fear"
+        ],
+        "current_price": "0",
+        "discount": "-100%",
+        "download_size": "88.90 MB",
+        "end_date": "2026-10-29T15:00:00.000Z",
+        "in_app_purchases": false,
+        "install_size": "300 MB",
+        "interactive_elements": [],
+        "media": {
+            "OfferImageTall": "https://cdn1.epicgames.com/spt-assets/46fc0cdb9f164a848e916249a8f68fc7/home-1tmpu.png",
+            "OfferImageWide": "https://cdn1.epicgames.com/spt-assets/46fc0cdb9f164a848e916249a8f68fc7/home-klvkz.png",
+            "ProductIcon": "https://cdn1.epicgames.com/spt-assets/46fc0cdb9f164a848e916249a8f68fc7/home-icon-1ydv0.png",
+            "coverImage": "https://cdn1.epicgames.com/spt-assets/46fc0cdb9f164a848e916249a8f68fc7/home-mnoxl.png"
+        },
+        "offer_id": "b4363ca6c155415da6d2686d117b9eca",
+        "original_price": "2.69",
+        "platform": "android",
+        "sandbox_id": "c7e46cce751b40b6937e878abd0fc531",
+        "slug": "home-android-9ba07f",
+        "store_url": "<https://store.epicgames.com/product/home-android-9ba07f>",
+        "title": "Home - A Unique Horror Adventure"
+    },
     "1-c9c21bdfd1684335a36174d859adee28-badc99d45a3946a6979b97cb7846af38": {
         "age_control": 12,
         "catalog_item_id": "6b2e33fde9f148a5a3010aec6765eac0",
