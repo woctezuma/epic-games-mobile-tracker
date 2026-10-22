@@ -7707,7 +7707,7 @@
                         }
                     ],
                     "systemSpecs": {
-                        "applicationVersion": "8.74.4",
+                        "applicationVersion": "8.74.5",
                         "platform": "android",
                         "systemRequirements": [
                             {
@@ -7716,7 +7716,7 @@
                                 "title": "Installation size"
                             },
                             {
-                                "minimum": "250.97 MB",
+                                "minimum": "251.33 MB",
                                 "requirementType": "DownloadSize",
                                 "title": "Download size"
                             },
@@ -13166,117 +13166,6 @@
                 },
                 "offerId": "9a2c3acce04d43bfbcd38de94b412d37",
                 "sandboxId": "1567fd089fd84f07a0237513d26add12"
-            },
-            {
-                "content": {
-                    "ageRating": {
-                        "ageGate": {
-                            "gate": "age-gate"
-                        },
-                        "ageRating": {
-                            "ageControl": 16,
-                            "contentDescriptors": [
-                                "Strong Violence"
-                            ],
-                            "interactiveElements": [
-                                "In-Game Purchases (Includes Random Items)"
-                            ],
-                            "ratingImage": "https://cdn1.epicgames.com/gameRating/gameRating/PEGI_16_192_192x192-da60f0bd1fe7cb1ac9d8a8bd5168ea96",
-                            "ratingSystem": "PEGI",
-                            "rectangularRatingImage": "https://cdn1.epicgames.com/salesEvent/salesEvent/PEGI-16_435x530-65760d498ce28374fb7ca3258ee1440c",
-                            "title": "PEGI 16"
-                        },
-                        "ratingType": "AgeRating"
-                    },
-                    "attention": {
-                        "inAppPurchases": "MaybeIncludesInAppPurchases"
-                    },
-                    "catalogItemId": "8ed17b847684454c9dbe1712d4e5a87d",
-                    "categories": [
-                        "games",
-                        "games/edition",
-                        "games/edition/base"
-                    ],
-                    "mapping": {
-                        "slug": "solo-levelingarise-android-85219e"
-                    },
-                    "media": {
-                        "appIcon": {
-                            "altText": "-",
-                            "height": 512,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/91ab4f5ea1a8415184dd4dcbeaf50fc2/solo-levelingarise-icon-1mmsl.png",
-                            "imageType": "ProductIcon",
-                            "width": 512
-                        },
-                        "card16x9": {
-                            "altText": "Solo Leveling:Arise Offer",
-                            "height": 1440,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/91ab4f5ea1a8415184dd4dcbeaf50fc2/solo-levelingarise-1jinw.jpg",
-                            "imageType": "OfferImageWide",
-                            "width": 2560
-                        },
-                        "card3x4": {
-                            "altText": "Download Solo Leveling:Arise Offer",
-                            "height": 1600,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/91ab4f5ea1a8415184dd4dcbeaf50fc2/solo-levelingarise-1fhh9.jpg",
-                            "imageType": "OfferImageTall",
-                            "width": 1200
-                        },
-                        "coverImage": {
-                            "altText": "-",
-                            "height": 1440,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/91ab4f5ea1a8415184dd4dcbeaf50fc2/solo-levelingarise-1s4w9.jpg",
-                            "imageType": "coverImage",
-                            "width": 2560
-                        }
-                    },
-                    "purchase": [
-                        {
-                            "offerLifecycleState": "Release",
-                            "price": {
-                                "currencyCode": "EUR",
-                                "decimalPrice": 0
-                            },
-                            "purchasePayload": {
-                                "offerId": "87b44e258670465bad29348f151f9c6f",
-                                "sandboxId": "59176cd042b64d029df8a1c92a54d0d2"
-                            },
-                            "purchaseType": "Claim"
-                        },
-                        {
-                            "offerEffectivenessState": "Expired",
-                            "purchasePayload": {
-                                "offerId": "87b44e258670465bad29348f151f9c6f",
-                                "sandboxId": "59176cd042b64d029df8a1c92a54d0d2"
-                            },
-                            "purchaseType": "Unavailable"
-                        }
-                    ],
-                    "systemSpecs": {
-                        "applicationVersion": "1.4.55",
-                        "platform": "android",
-                        "systemRequirements": [
-                            {
-                                "minimum": "148MB",
-                                "requirementType": "InstallSize",
-                                "title": "Installation size"
-                            },
-                            {
-                                "minimum": "156.73 MB",
-                                "requirementType": "DownloadSize",
-                                "title": "Download size"
-                            },
-                            {
-                                "minimum": "9",
-                                "requirementType": "OS",
-                                "title": "OS version"
-                            }
-                        ]
-                    },
-                    "title": "Solo Leveling:Arise"
-                },
-                "offerId": "87b44e258670465bad29348f151f9c6f",
-                "sandboxId": "59176cd042b64d029df8a1c92a54d0d2"
             },
             {
                 "content": {
