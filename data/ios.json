@@ -2607,18 +2607,21 @@
                             "width": 512
                         },
                         "card16x9": {
+                            "altText": "",
                             "height": 1440,
                             "imageSrc": "https://cdn1.epicgames.com/offer/fn/EN_FNBR_42-30_Reload_NitemareIsland_Logo_EGS_Launcher_Blade_2560x1440_2560x1440-dc5625017e584ce2b3d37f3bf786e7fa",
                             "imageType": "OfferImageWide",
                             "width": 2560
                         },
                         "card3x4": {
+                            "altText": "",
                             "height": 1600,
                             "imageSrc": "https://cdn1.epicgames.com/offer/fn/EN_FNBR_42-30_Reload_NitemareIsland_EGS_Launcher_Blade_1200x1600_1200x1600-87210607a2de415c86318ce331bbe8dc",
                             "imageType": "OfferImageTall",
                             "width": 1200
                         },
                         "coverImage": {
+                            "altText": "",
                             "height": 1440,
                             "imageSrc": "https://cdn1.epicgames.com/offer/fn/EN_FNBR_42-30_Reload_NitemareIsland_Logo_EGS_Launcher_Blade_2560x1440_2560x1440-dc5625017e584ce2b3d37f3bf786e7fa",
                             "imageType": "OfferImageWide",
@@ -3923,10 +3926,10 @@
                 "content": {
                     "ageRating": {
                         "ageGate": {
-                            "gate": "age-gate"
+                            "gate": "no-gate"
                         },
                         "ageRating": {
-                            "ageControl": 16,
+                            "ageControl": 12,
                             "contentDescriptors": [
                                 "Moderate Violence",
                                 "Mild Swearing"
@@ -3934,10 +3937,10 @@
                             "interactiveElements": [
                                 "In-Game Purchases (Includes Random Items)"
                             ],
-                            "ratingImage": "https://cdn1.epicgames.com/gameRating/gameRating/PEGI_16_192_192x192-da60f0bd1fe7cb1ac9d8a8bd5168ea96",
+                            "ratingImage": "https://cdn1.epicgames.com/gameRating/gameRating/PEGI_12_192_192x192-afa4df43f131bc83eb380ccf22f8d904",
                             "ratingSystem": "PEGI",
-                            "rectangularRatingImage": "https://cdn1.epicgames.com/salesEvent/salesEvent/PEGI-16_435x530-65760d498ce28374fb7ca3258ee1440c",
-                            "title": "PEGI 16"
+                            "rectangularRatingImage": "https://cdn1.epicgames.com/salesEvent/salesEvent/PEGI-12_436x530-0cd1f06607086f3cc1bc2b8643f21b0a",
+                            "title": "PEGI 12"
                         },
                         "ratingType": "AgeRating"
                     },
@@ -4925,7 +4928,7 @@
                         "coverImage": {
                             "altText": "-",
                             "height": 1440,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/9daab0e0f3d34d0c8c02fbea546b9ec6/dino-with-a-gun-1r71m.png",
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/9daab0e0f3d34d0c8c02fbea546b9ec6/dino-with-a-gun-fatag.png",
                             "imageType": "coverImage",
                             "width": 2560
                         }
