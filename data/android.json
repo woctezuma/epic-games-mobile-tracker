@@ -9,6 +9,311 @@
                 "content": {
                     "ageRating": {
                         "ageGate": {
+                            "gate": "no-gate"
+                        },
+                        "ageRating": {
+                            "ageControl": 12,
+                            "contentDescriptors": [
+                                "Moderate Violence"
+                            ],
+                            "interactiveElements": [],
+                            "ratingImage": "https://cdn1.epicgames.com/gameRating/gameRating/PEGI_12_192_192x192-afa4df43f131bc83eb380ccf22f8d904",
+                            "ratingSystem": "PEGI",
+                            "rectangularRatingImage": "https://cdn1.epicgames.com/salesEvent/salesEvent/PEGI-12_436x530-0cd1f06607086f3cc1bc2b8643f21b0a",
+                            "title": "PEGI 12"
+                        },
+                        "ratingType": "AgeRating"
+                    },
+                    "attention": {
+                        "inAppPurchases": "None"
+                    },
+                    "catalogItemId": "88dd6724296e4f07b1e05734719557ad",
+                    "categories": [
+                        "games/edition/base",
+                        "games/edition",
+                        "games"
+                    ],
+                    "mapping": {
+                        "slug": "when-ski-lifts-go-wrong-android-ea7063"
+                    },
+                    "media": {
+                        "appIcon": {
+                            "altText": "-",
+                            "height": 512,
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/c6f460fc572b4ffd9c39d0873bf7e8ce/when-ski-lifts-go-wrong-icon-41kay.png",
+                            "imageType": "ProductIcon",
+                            "width": 512
+                        },
+                        "card16x9": {
+                            "altText": "When Ski Lifts Go Wrong Offer",
+                            "height": 1440,
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/c6f460fc572b4ffd9c39d0873bf7e8ce/when-ski-lifts-go-wrong-u9mow.png",
+                            "imageType": "OfferImageWide",
+                            "width": 2560
+                        },
+                        "card3x4": {
+                            "altText": "Download When Ski Lifts Go Wrong Offer",
+                            "height": 1600,
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/c6f460fc572b4ffd9c39d0873bf7e8ce/when-ski-lifts-go-wrong-ogkgo.png",
+                            "imageType": "OfferImageTall",
+                            "width": 1200
+                        },
+                        "coverImage": {
+                            "altText": "-",
+                            "height": 1440,
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/c6f460fc572b4ffd9c39d0873bf7e8ce/when-ski-lifts-go-wrong-1rv5x.png",
+                            "imageType": "coverImage",
+                            "width": 2560
+                        }
+                    },
+                    "purchase": [
+                        {
+                            "offerLifecycleState": "Release",
+                            "price": {
+                                "currencyCode": "EUR",
+                                "decimalPrice": 4.49
+                            },
+                            "priceDisplay": "€4.49",
+                            "purchasePayload": {
+                                "offerId": "9d7948a9e31c4d3f93379f5a72c02584",
+                                "sandboxId": "e9b002d6b8b1437b94c254ded67ad79c"
+                            },
+                            "purchaseType": "Purchase"
+                        }
+                    ],
+                    "systemSpecs": {
+                        "applicationVersion": "2.0.150",
+                        "platform": "android",
+                        "systemRequirements": [
+                            {
+                                "minimum": "500 MB",
+                                "requirementType": "InstallSize",
+                                "title": "Installation size"
+                            },
+                            {
+                                "minimum": "294.93 MB",
+                                "requirementType": "DownloadSize",
+                                "title": "Download size"
+                            },
+                            {
+                                "minimum": "14",
+                                "requirementType": "OS",
+                                "title": "OS version"
+                            }
+                        ]
+                    },
+                    "title": "When Ski Lifts Go Wrong"
+                },
+                "offerId": "9d7948a9e31c4d3f93379f5a72c02584",
+                "sandboxId": "e9b002d6b8b1437b94c254ded67ad79c"
+            },
+            {
+                "content": {
+                    "ageRating": {
+                        "ageGate": {
+                            "gate": "no-gate"
+                        },
+                        "ageRating": {
+                            "ageControl": 12,
+                            "contentDescriptors": [
+                                "Moderate Violence"
+                            ],
+                            "interactiveElements": [],
+                            "ratingImage": "https://cdn1.epicgames.com/gameRating/gameRating/PEGI_12_192_192x192-afa4df43f131bc83eb380ccf22f8d904",
+                            "ratingSystem": "PEGI",
+                            "rectangularRatingImage": "https://cdn1.epicgames.com/salesEvent/salesEvent/PEGI-12_436x530-0cd1f06607086f3cc1bc2b8643f21b0a",
+                            "title": "PEGI 12"
+                        },
+                        "ratingType": "AgeRating"
+                    },
+                    "attention": {
+                        "inAppPurchases": "None"
+                    },
+                    "catalogItemId": "fa829ea583d94b4ab1993b080a2e8fb2",
+                    "categories": [
+                        "games/edition/base",
+                        "games/edition",
+                        "games"
+                    ],
+                    "mapping": {
+                        "slug": "truberbrook-android-052d95"
+                    },
+                    "media": {
+                        "appIcon": {
+                            "altText": "-",
+                            "height": 512,
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/ea278cc4ecf24344ad9800fdf3fcb3f0/truberbrook-icon-1dqqk.png",
+                            "imageType": "ProductIcon",
+                            "width": 512
+                        },
+                        "card16x9": {
+                            "altText": "Truberbrook Offer",
+                            "height": 1440,
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/ea278cc4ecf24344ad9800fdf3fcb3f0/truberbrook-amfmm.jpg",
+                            "imageType": "OfferImageWide",
+                            "width": 2560
+                        },
+                        "card3x4": {
+                            "altText": "Download Truberbrook Offer",
+                            "height": 1600,
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/ea278cc4ecf24344ad9800fdf3fcb3f0/truberbrook-vq251.jpg",
+                            "imageType": "OfferImageTall",
+                            "width": 1200
+                        },
+                        "coverImage": {
+                            "altText": "-",
+                            "height": 1440,
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/ea278cc4ecf24344ad9800fdf3fcb3f0/truberbrook-pbasq.jpg",
+                            "imageType": "coverImage",
+                            "width": 2560
+                        }
+                    },
+                    "purchase": [
+                        {
+                            "offerLifecycleState": "Release",
+                            "price": {
+                                "currencyCode": "EUR",
+                                "decimalPrice": 1.99
+                            },
+                            "priceDisplay": "€1.99",
+                            "purchasePayload": {
+                                "offerId": "f4efda21a1a846a6bfb2f7ade658f035",
+                                "sandboxId": "e6b91350d2734c3b94dc6add87d004f0"
+                            },
+                            "purchaseType": "Purchase"
+                        }
+                    ],
+                    "systemSpecs": {
+                        "applicationVersion": "1.50b",
+                        "platform": "android",
+                        "systemRequirements": [
+                            {
+                                "minimum": "1.05 GB",
+                                "requirementType": "InstallSize",
+                                "title": "Installation size"
+                            },
+                            {
+                                "minimum": "863.12 MB",
+                                "requirementType": "DownloadSize",
+                                "title": "Download size"
+                            },
+                            {
+                                "minimum": "7.1",
+                                "requirementType": "OS",
+                                "title": "OS version"
+                            }
+                        ]
+                    },
+                    "title": "Trüberbrook"
+                },
+                "offerId": "f4efda21a1a846a6bfb2f7ade658f035",
+                "sandboxId": "e6b91350d2734c3b94dc6add87d004f0"
+            },
+            {
+                "content": {
+                    "ageRating": {
+                        "ageGate": {
+                            "gate": "no-gate"
+                        },
+                        "ageRating": {
+                            "ageControl": 3,
+                            "contentDescriptors": [],
+                            "interactiveElements": [
+                                "In-Game Purchases (Includes Random Items)"
+                            ],
+                            "ratingImage": "https://cdn1.epicgames.com/gameRating/gameRating/PEGI_3_192_192x192-490b93ddf59fb4ac1148d1eb9083626a",
+                            "ratingSystem": "PEGI",
+                            "rectangularRatingImage": "https://cdn1.epicgames.com/salesEvent/salesEvent/PEGI-3_435x530-c931ab5bb4eb190f6e8e542081c49dc4",
+                            "title": "PEGI 3"
+                        },
+                        "ratingType": "AgeRating"
+                    },
+                    "attention": {
+                        "inAppPurchases": "MaybeIncludesInAppPurchases"
+                    },
+                    "catalogItemId": "24c2f70b9afe4548b64c4165522bf908",
+                    "categories": [
+                        "games/edition/base",
+                        "games/edition",
+                        "games"
+                    ],
+                    "mapping": {
+                        "slug": "pines-peak-android-d2ac36"
+                    },
+                    "media": {
+                        "appIcon": {
+                            "altText": "-",
+                            "height": 512,
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/27516ba9b7a94caa9260f3f8b78181d1/pines-peak-icon-zmlbb.png",
+                            "imageType": "ProductIcon",
+                            "width": 512
+                        },
+                        "card16x9": {
+                            "altText": "Pines Peak Offer",
+                            "height": 1440,
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/27516ba9b7a94caa9260f3f8b78181d1/pines-peak-1sefj.jpg",
+                            "imageType": "OfferImageWide",
+                            "width": 2560
+                        },
+                        "card3x4": {
+                            "altText": "Download Pines Peak Offer",
+                            "height": 1600,
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/27516ba9b7a94caa9260f3f8b78181d1/pines-peak-aomy5.jpg",
+                            "imageType": "OfferImageTall",
+                            "width": 1200
+                        },
+                        "coverImage": {
+                            "altText": "-",
+                            "height": 1440,
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/27516ba9b7a94caa9260f3f8b78181d1/pines-peak-s0vum.jpg",
+                            "imageType": "coverImage",
+                            "width": 2560
+                        }
+                    },
+                    "purchase": [
+                        {
+                            "offerLifecycleState": "Release",
+                            "price": {
+                                "currencyCode": "EUR",
+                                "decimalPrice": 0
+                            },
+                            "purchasePayload": {
+                                "offerId": "97e268d2d11e4ebc97465514a4517cf2",
+                                "sandboxId": "74c3fd1415ac4516ab472995d1677933"
+                            },
+                            "purchaseType": "Claim"
+                        }
+                    ],
+                    "systemSpecs": {
+                        "applicationVersion": "12609.0.2",
+                        "platform": "android",
+                        "systemRequirements": [
+                            {
+                                "minimum": "409MB",
+                                "requirementType": "InstallSize",
+                                "title": "Installation size"
+                            },
+                            {
+                                "minimum": "406.06 MB",
+                                "requirementType": "DownloadSize",
+                                "title": "Download size"
+                            },
+                            {
+                                "minimum": "7.0",
+                                "requirementType": "OS",
+                                "title": "OS version"
+                            }
+                        ]
+                    },
+                    "title": "Pines Peak: Merge Travel Games"
+                },
+                "offerId": "97e268d2d11e4ebc97465514a4517cf2",
+                "sandboxId": "74c3fd1415ac4516ab472995d1677933"
+            },
+            {
+                "content": {
+                    "ageRating": {
+                        "ageGate": {
                             "gate": "age-gate"
                         },
                         "ageRating": {
@@ -271,24 +576,6 @@
                         }
                     },
                     "purchase": [
-                        {
-                            "discount": {
-                                "discountAmountDisplay": "-15%",
-                                "discountEndDate": "2026-10-27T18:00:00.000Z",
-                                "originalPriceDisplay": "€7.99"
-                            },
-                            "offerLifecycleState": "Release",
-                            "price": {
-                                "currencyCode": "EUR",
-                                "decimalPrice": 6.79
-                            },
-                            "priceDisplay": "€6.79",
-                            "purchasePayload": {
-                                "offerId": "19a33bfd84d34362baf48c501cc008c8",
-                                "sandboxId": "ba60d3f485e04cfb908d45494ab683f7"
-                            },
-                            "purchaseType": "Purchase"
-                        },
                         {
                             "offerLifecycleState": "Release",
                             "price": {
@@ -6161,7 +6448,7 @@
                         }
                     ],
                     "systemSpecs": {
-                        "applicationVersion": "1.16.2",
+                        "applicationVersion": "1.17.2",
                         "platform": "android",
                         "systemRequirements": [
                             {
@@ -6170,7 +6457,7 @@
                                 "title": "Installation size"
                             },
                             {
-                                "minimum": "219.45 MB",
+                                "minimum": "219.77 MB",
                                 "requirementType": "DownloadSize",
                                 "title": "Download size"
                             },
@@ -7798,7 +8085,7 @@
                         }
                     ],
                     "systemSpecs": {
-                        "applicationVersion": "8.74.5",
+                        "applicationVersion": "9.0.0",
                         "platform": "android",
                         "systemRequirements": [
                             {
@@ -7807,7 +8094,7 @@
                                 "title": "Installation size"
                             },
                             {
-                                "minimum": "251.33 MB",
+                                "minimum": "250.85 MB",
                                 "requirementType": "DownloadSize",
                                 "title": "Download size"
                             },
@@ -9525,7 +9812,7 @@
                         }
                     ],
                     "systemSpecs": {
-                        "applicationVersion": "12.06.0",
+                        "applicationVersion": "12.07.0",
                         "platform": "android",
                         "systemRequirements": [
                             {
@@ -9534,7 +9821,7 @@
                                 "title": "Installation size"
                             },
                             {
-                                "minimum": "389.35 MB",
+                                "minimum": "390.62 MB",
                                 "requirementType": "DownloadSize",
                                 "title": "Download size"
                             },
@@ -14671,14 +14958,14 @@
                         "card16x9": {
                             "altText": "Idle Champions of the Forgotten Realms Offer",
                             "height": 1440,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/a53f91e55c6840018cb5de0b204f1ad9/idle-champions-of-the-forgotten-realms-wc5f9.png",
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/a53f91e55c6840018cb5de0b204f1ad9/idle-champions-of-the-forgotten-realms-z6r1h.jpg",
                             "imageType": "OfferImageWide",
                             "width": 2560
                         },
                         "card3x4": {
                             "altText": "Download Idle Champions of the Forgotten Realms Offer",
                             "height": 1600,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/a53f91e55c6840018cb5de0b204f1ad9/idle-champions-of-the-forgotten-realms-u9ro9.png",
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/a53f91e55c6840018cb5de0b204f1ad9/idle-champions-of-the-forgotten-realms-1rgnd.jpg",
                             "imageType": "OfferImageTall",
                             "width": 1200
                         },
