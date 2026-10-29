@@ -497,6 +497,58 @@
         "store_url": "<https://store.epicgames.com/product/figment-ios-982b04>",
         "title": "Figment"
     },
+    "1-27889a9762154a4db7cb5feefbd0f842-1c55aa0acc9443709ba8b3bf265d10a8": {
+        "age_control": 3,
+        "catalog_item_id": "2f4a5015df8b484b8aa1a4cc4bb76d7a",
+        "checkout_url": "<https://store.epicgames.com/purchase?offers=1-27889a9762154a4db7cb5feefbd0f842-1c55aa0acc9443709ba8b3bf265d10a8>",
+        "content_descriptors": [],
+        "current_price": "0",
+        "discount": "-100%",
+        "download_size": "3.33 GB",
+        "end_date": "2026-11-05T16:00:00.000Z",
+        "in_app_purchases": false,
+        "install_size": "3.45 GB",
+        "interactive_elements": [],
+        "media": {
+            "OfferImageTall": "https://cdn1.epicgames.com/spt-assets/fbeed7cfd1524dbf80f272cca866a506/galaxy-kart-1jcna.png",
+            "OfferImageWide": "https://cdn1.epicgames.com/spt-assets/fbeed7cfd1524dbf80f272cca866a506/galaxy-kart-1bzcp.png",
+            "ProductIcon": "https://cdn1.epicgames.com/spt-assets/fbeed7cfd1524dbf80f272cca866a506/galaxy-kart-icon-1mmjn.png",
+            "coverImage": "https://cdn1.epicgames.com/spt-assets/fbeed7cfd1524dbf80f272cca866a506/galaxy-kart-2kfi4.png"
+        },
+        "offer_id": "1c55aa0acc9443709ba8b3bf265d10a8",
+        "original_price": "17.99",
+        "platform": "ios",
+        "sandbox_id": "27889a9762154a4db7cb5feefbd0f842",
+        "slug": "galaxy-kart-ios-0cfcc7",
+        "store_url": "<https://store.epicgames.com/product/galaxy-kart-ios-0cfcc7>",
+        "title": "Galaxy Kart"
+    },
+    "1-27889a9762154a4db7cb5feefbd0f842-ebd1c03e942343659114f960c614b0d2": {
+        "age_control": 3,
+        "catalog_item_id": "d24fd2e528854354a73d76266ef6af12",
+        "checkout_url": "<https://store.epicgames.com/purchase?offers=1-27889a9762154a4db7cb5feefbd0f842-ebd1c03e942343659114f960c614b0d2>",
+        "content_descriptors": [],
+        "current_price": "0",
+        "discount": "-100%",
+        "download_size": "3.06 GB",
+        "end_date": "2026-11-05T16:00:00.000Z",
+        "in_app_purchases": false,
+        "install_size": "3.41 GB",
+        "interactive_elements": [],
+        "media": {
+            "OfferImageTall": "https://cdn1.epicgames.com/spt-assets/fbeed7cfd1524dbf80f272cca866a506/galaxy-kart-qnfhy.png",
+            "OfferImageWide": "https://cdn1.epicgames.com/spt-assets/fbeed7cfd1524dbf80f272cca866a506/galaxy-kart-13nui.png",
+            "ProductIcon": "https://cdn1.epicgames.com/spt-assets/fbeed7cfd1524dbf80f272cca866a506/galaxy-kart-icon-1mmjn.png",
+            "coverImage": "https://cdn1.epicgames.com/spt-assets/fbeed7cfd1524dbf80f272cca866a506/galaxy-kart-2kfi4.png"
+        },
+        "offer_id": "ebd1c03e942343659114f960c614b0d2",
+        "original_price": "17.99",
+        "platform": "android",
+        "sandbox_id": "27889a9762154a4db7cb5feefbd0f842",
+        "slug": "galaxy-kart-android-135821",
+        "store_url": "<https://store.epicgames.com/product/galaxy-kart-android-135821>",
+        "title": "Galaxy Kart"
+    },
     "1-286af74903fa418d931df4916c59779d-6a3374e171bb4d60ad280c882d74c3db": {
         "age_control": 12,
         "catalog_item_id": "f69bab933872470b86255aa80bade32c",
