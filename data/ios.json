@@ -6751,8 +6751,7 @@
                             "ageControl": 3,
                             "contentDescriptors": [],
                             "interactiveElements": [
-                                "Users Interact",
-                                "In-Game Purchases"
+                                "Users Interact"
                             ],
                             "ratingImage": "https://cdn1.epicgames.com/gameRating/gameRating/PEGI_3_192_192x192-490b93ddf59fb4ac1148d1eb9083626a",
                             "ratingSystem": "PEGI",
