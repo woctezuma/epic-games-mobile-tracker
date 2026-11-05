@@ -829,6 +829,70 @@
         "store_url": "<https://store.epicgames.com/product/samorost-2-ios-990d45>",
         "title": "Samorost 2"
     },
+    "1-3766493c9a6d4172b7f283eec441df0a-17c98e8e31324538ada224b5b87fee07": {
+        "age_control": 7,
+        "catalog_item_id": "1731118364fe4db9aea1c25ee85bb707",
+        "checkout_url": "<https://store.epicgames.com/purchase?offers=1-3766493c9a6d4172b7f283eec441df0a-17c98e8e31324538ada224b5b87fee07>",
+        "content_descriptors": [
+            "Mild Violence",
+            "Implied Violence",
+            "Fear"
+        ],
+        "current_price": "0",
+        "discount": "-100%",
+        "download_size": "456.02 MB",
+        "end_date": "2026-11-12T16:00:00.000Z",
+        "in_app_purchases": false,
+        "install_size": "605 MB",
+        "interactive_elements": [
+            "In-Game Purchases"
+        ],
+        "media": {
+            "OfferImageTall": "https://cdn1.epicgames.com/spt-assets/f7657876fce54ba3bc14987fbb705037/chants-of-sennaar-6m6pt.png",
+            "OfferImageWide": "https://cdn1.epicgames.com/spt-assets/f7657876fce54ba3bc14987fbb705037/chants-of-sennaar-8wvtk.png",
+            "ProductIcon": "https://cdn1.epicgames.com/spt-assets/f7657876fce54ba3bc14987fbb705037/chants-of-sennaar-icon-122hy.png",
+            "coverImage": "https://cdn1.epicgames.com/spt-assets/f7657876fce54ba3bc14987fbb705037/chants-of-sennaar-15jjd.png"
+        },
+        "offer_id": "17c98e8e31324538ada224b5b87fee07",
+        "original_price": "7.19",
+        "platform": "android",
+        "sandbox_id": "3766493c9a6d4172b7f283eec441df0a",
+        "slug": "chants-of-sennaar-android-681b80",
+        "store_url": "<https://store.epicgames.com/product/chants-of-sennaar-android-681b80>",
+        "title": "Chants of Sennaar"
+    },
+    "1-3766493c9a6d4172b7f283eec441df0a-af9fc231ceff4301b9acd53d52f6212d": {
+        "age_control": 7,
+        "catalog_item_id": "bc489e5aac5844eab5985671b44079b5",
+        "checkout_url": "<https://store.epicgames.com/purchase?offers=1-3766493c9a6d4172b7f283eec441df0a-af9fc231ceff4301b9acd53d52f6212d>",
+        "content_descriptors": [
+            "Mild Violence",
+            "Implied Violence",
+            "Fear"
+        ],
+        "current_price": "0",
+        "discount": "-100%",
+        "download_size": "450 MB",
+        "end_date": "2026-11-12T16:00:00.000Z",
+        "in_app_purchases": false,
+        "install_size": "605 MB",
+        "interactive_elements": [
+            "In-Game Purchases"
+        ],
+        "media": {
+            "OfferImageTall": "https://cdn1.epicgames.com/spt-assets/f7657876fce54ba3bc14987fbb705037/chants-of-sennaar-18bt4.png",
+            "OfferImageWide": "https://cdn1.epicgames.com/spt-assets/f7657876fce54ba3bc14987fbb705037/chants-of-sennaar-ngu8p.png",
+            "ProductIcon": "https://cdn1.epicgames.com/spt-assets/f7657876fce54ba3bc14987fbb705037/chants-of-sennaar-icon-122hy.png",
+            "coverImage": "https://cdn1.epicgames.com/spt-assets/f7657876fce54ba3bc14987fbb705037/chants-of-sennaar-15jjd.png"
+        },
+        "offer_id": "af9fc231ceff4301b9acd53d52f6212d",
+        "original_price": "7.19",
+        "platform": "ios",
+        "sandbox_id": "3766493c9a6d4172b7f283eec441df0a",
+        "slug": "chants-of-sennaar-ios-6bd071",
+        "store_url": "<https://store.epicgames.com/product/chants-of-sennaar-ios-6bd071>",
+        "title": "Chants of Sennaar"
+    },
     "1-438f0dfdc1a2432b99005457b60e319f-333fe8af0d3a45729c8fc4edb2c53c9b": {
         "age_control": 7,
         "catalog_item_id": "016d4ba327b6449492fc8b592c45c6da",
