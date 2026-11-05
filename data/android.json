@@ -12,6 +12,106 @@
                             "gate": "no-gate"
                         },
                         "ageRating": {
+                            "ageControl": 3,
+                            "contentDescriptors": [],
+                            "interactiveElements": [],
+                            "ratingImage": "https://cdn1.epicgames.com/gameRating/gameRating/PEGI_3_192_192x192-490b93ddf59fb4ac1148d1eb9083626a",
+                            "ratingSystem": "PEGI",
+                            "rectangularRatingImage": "https://cdn1.epicgames.com/salesEvent/salesEvent/PEGI-3_435x530-c931ab5bb4eb190f6e8e542081c49dc4",
+                            "title": "PEGI 3"
+                        },
+                        "ratingType": "AgeRating"
+                    },
+                    "attention": {
+                        "inAppPurchases": "None"
+                    },
+                    "catalogItemId": "d24fd2e528854354a73d76266ef6af12",
+                    "categories": [
+                        "games",
+                        "games/edition",
+                        "games/edition/base"
+                    ],
+                    "mapping": {
+                        "slug": "galaxy-kart-android-135821"
+                    },
+                    "media": {
+                        "appIcon": {
+                            "altText": "-",
+                            "height": 512,
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/fbeed7cfd1524dbf80f272cca866a506/galaxy-kart-icon-1mmjn.png",
+                            "imageType": "ProductIcon",
+                            "width": 512
+                        },
+                        "card16x9": {
+                            "altText": "Galaxy Kart Offer",
+                            "height": 1440,
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/fbeed7cfd1524dbf80f272cca866a506/galaxy-kart-2cz9u.jpg",
+                            "imageType": "OfferImageWide",
+                            "width": 2560
+                        },
+                        "card3x4": {
+                            "altText": "Download Galaxy Kart Offer",
+                            "height": 1600,
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/fbeed7cfd1524dbf80f272cca866a506/galaxy-kart-16oy9.png",
+                            "imageType": "OfferImageTall",
+                            "width": 1200
+                        },
+                        "coverImage": {
+                            "altText": "-",
+                            "height": 1440,
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/fbeed7cfd1524dbf80f272cca866a506/galaxy-kart-2kfi4.png",
+                            "imageType": "coverImage",
+                            "width": 2560
+                        }
+                    },
+                    "purchase": [
+                        {
+                            "offerLifecycleState": "Release",
+                            "price": {
+                                "currencyCode": "EUR",
+                                "decimalPrice": 17.99
+                            },
+                            "priceDisplay": "€17.99",
+                            "purchasePayload": {
+                                "offerId": "ebd1c03e942343659114f960c614b0d2",
+                                "sandboxId": "27889a9762154a4db7cb5feefbd0f842"
+                            },
+                            "purchaseType": "Purchase"
+                        }
+                    ],
+                    "systemSpecs": {
+                        "applicationVersion": "2.10.3",
+                        "platform": "android",
+                        "systemRequirements": [
+                            {
+                                "minimum": "3.41 GB",
+                                "requirementType": "InstallSize",
+                                "title": "Installation size"
+                            },
+                            {
+                                "minimum": "3.06 GB",
+                                "requirementType": "DownloadSize",
+                                "title": "Download size"
+                            },
+                            {
+                                "minimum": "8.0.0",
+                                "requirementType": "OS",
+                                "title": "OS version"
+                            }
+                        ]
+                    },
+                    "title": "Galaxy Kart"
+                },
+                "offerId": "ebd1c03e942343659114f960c614b0d2",
+                "sandboxId": "27889a9762154a4db7cb5feefbd0f842"
+            },
+            {
+                "content": {
+                    "ageRating": {
+                        "ageGate": {
+                            "gate": "no-gate"
+                        },
+                        "ageRating": {
                             "ageControl": 7,
                             "contentDescriptors": [
                                 "Mild Violence"
@@ -3451,20 +3551,26 @@
                             "gate": "no-gate"
                         },
                         "ageRating": {
-                            "ageControl": 3,
-                            "contentDescriptors": [],
-                            "interactiveElements": [],
-                            "ratingImage": "https://cdn1.epicgames.com/gameRating/gameRating/PEGI_3_192_192x192-490b93ddf59fb4ac1148d1eb9083626a",
+                            "ageControl": 7,
+                            "contentDescriptors": [
+                                "Mild Violence",
+                                "Implied Violence",
+                                "Fear"
+                            ],
+                            "interactiveElements": [
+                                "In-Game Purchases"
+                            ],
+                            "ratingImage": "https://cdn1.epicgames.com/gameRating/gameRating/PEGI_7_192_192x192-30e2e712d0682dad01add90a6ccbed5b",
                             "ratingSystem": "PEGI",
-                            "rectangularRatingImage": "https://cdn1.epicgames.com/salesEvent/salesEvent/PEGI-3_435x530-c931ab5bb4eb190f6e8e542081c49dc4",
-                            "title": "PEGI 3"
+                            "rectangularRatingImage": "https://cdn1.epicgames.com/salesEvent/salesEvent/PEGI-7_435x530-9439a136999d3dd762c7a61c3b8c7683",
+                            "title": "PEGI 7"
                         },
                         "ratingType": "AgeRating"
                     },
                     "attention": {
                         "inAppPurchases": "None"
                     },
-                    "catalogItemId": "d24fd2e528854354a73d76266ef6af12",
+                    "catalogItemId": "1731118364fe4db9aea1c25ee85bb707",
                     "categories": [
                         "freegames",
                         "games",
@@ -3472,34 +3578,34 @@
                         "games/edition/base"
                     ],
                     "mapping": {
-                        "slug": "galaxy-kart-android-135821"
+                        "slug": "chants-of-sennaar-android-681b80"
                     },
                     "media": {
                         "appIcon": {
                             "altText": "-",
                             "height": 512,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/fbeed7cfd1524dbf80f272cca866a506/galaxy-kart-icon-1mmjn.png",
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/f7657876fce54ba3bc14987fbb705037/chants-of-sennaar-icon-122hy.png",
                             "imageType": "ProductIcon",
                             "width": 512
                         },
                         "card16x9": {
-                            "altText": "Galaxy Kart Offer",
+                            "altText": "Chants of Sennaar Offer",
                             "height": 1440,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/fbeed7cfd1524dbf80f272cca866a506/galaxy-kart-2cz9u.jpg",
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/f7657876fce54ba3bc14987fbb705037/chants-of-sennaar-8wvtk.png",
                             "imageType": "OfferImageWide",
                             "width": 2560
                         },
                         "card3x4": {
-                            "altText": "Download Galaxy Kart Offer",
+                            "altText": "Download Chants of Sennaar Offer",
                             "height": 1600,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/fbeed7cfd1524dbf80f272cca866a506/galaxy-kart-16oy9.png",
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/f7657876fce54ba3bc14987fbb705037/chants-of-sennaar-6m6pt.png",
                             "imageType": "OfferImageTall",
                             "width": 1200
                         },
                         "coverImage": {
                             "altText": "-",
                             "height": 1440,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/fbeed7cfd1524dbf80f272cca866a506/galaxy-kart-2kfi4.png",
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/f7657876fce54ba3bc14987fbb705037/chants-of-sennaar-15jjd.png",
                             "imageType": "coverImage",
                             "width": 2560
                         }
@@ -3508,8 +3614,8 @@
                         {
                             "discount": {
                                 "discountAmountDisplay": "-100%",
-                                "discountEndDate": "2026-11-05T16:00:00.000Z",
-                                "originalPriceDisplay": "€17.99"
+                                "discountEndDate": "2026-11-12T16:00:00.000Z",
+                                "originalPriceDisplay": "€7.19"
                             },
                             "offerLifecycleState": "Release",
                             "price": {
@@ -3517,8 +3623,8 @@
                                 "decimalPrice": 0
                             },
                             "purchasePayload": {
-                                "offerId": "ebd1c03e942343659114f960c614b0d2",
-                                "sandboxId": "27889a9762154a4db7cb5feefbd0f842"
+                                "offerId": "17c98e8e31324538ada224b5b87fee07",
+                                "sandboxId": "3766493c9a6d4172b7f283eec441df0a"
                             },
                             "purchaseType": "Claim"
                         },
@@ -3526,41 +3632,146 @@
                             "offerLifecycleState": "Release",
                             "price": {
                                 "currencyCode": "EUR",
-                                "decimalPrice": 17.99
+                                "decimalPrice": 7.19
                             },
-                            "priceDisplay": "€17.99",
+                            "priceDisplay": "€7.19",
                             "purchasePayload": {
-                                "offerId": "ebd1c03e942343659114f960c614b0d2",
-                                "sandboxId": "27889a9762154a4db7cb5feefbd0f842"
+                                "offerId": "17c98e8e31324538ada224b5b87fee07",
+                                "sandboxId": "3766493c9a6d4172b7f283eec441df0a"
                             },
                             "purchaseType": "Purchase"
                         }
                     ],
                     "systemSpecs": {
-                        "applicationVersion": "2.10.3",
+                        "applicationVersion": "1.0.13",
                         "platform": "android",
                         "systemRequirements": [
                             {
-                                "minimum": "3.41 GB",
+                                "minimum": "605 MB",
                                 "requirementType": "InstallSize",
                                 "title": "Installation size"
                             },
                             {
-                                "minimum": "3.06 GB",
+                                "minimum": "456.02 MB",
                                 "requirementType": "DownloadSize",
                                 "title": "Download size"
                             },
                             {
-                                "minimum": "8.0.0",
+                                "minimum": "10",
                                 "requirementType": "OS",
                                 "title": "OS version"
                             }
                         ]
                     },
-                    "title": "Galaxy Kart"
+                    "title": "Chants of Sennaar"
                 },
-                "offerId": "ebd1c03e942343659114f960c614b0d2",
-                "sandboxId": "27889a9762154a4db7cb5feefbd0f842"
+                "offerId": "17c98e8e31324538ada224b5b87fee07",
+                "sandboxId": "3766493c9a6d4172b7f283eec441df0a"
+            },
+            {
+                "content": {
+                    "ageRating": {
+                        "ageGate": {
+                            "gate": "no-gate"
+                        },
+                        "ageRating": {
+                            "ageControl": 12,
+                            "contentDescriptors": [
+                                "Moderate Violence",
+                                "Mild Swearing"
+                            ],
+                            "interactiveElements": [
+                                "In-Game Purchases (Includes Random Items)"
+                            ],
+                            "ratingImage": "https://cdn1.epicgames.com/gameRating/gameRating/PEGI_12_192_192x192-afa4df43f131bc83eb380ccf22f8d904",
+                            "ratingSystem": "PEGI",
+                            "rectangularRatingImage": "https://cdn1.epicgames.com/salesEvent/salesEvent/PEGI-12_436x530-0cd1f06607086f3cc1bc2b8643f21b0a",
+                            "title": "PEGI 12"
+                        },
+                        "ratingType": "AgeRating"
+                    },
+                    "attention": {
+                        "inAppPurchases": "MaybeIncludesInAppPurchases"
+                    },
+                    "catalogItemId": "554e4c764f5f432cac68cee5f04c7750",
+                    "categories": [
+                        "freegames",
+                        "games",
+                        "games/edition",
+                        "games/edition/base"
+                    ],
+                    "mapping": {
+                        "slug": "idle-champions-of-the-forgotten-realms-android-6df748"
+                    },
+                    "media": {
+                        "appIcon": {
+                            "altText": "-",
+                            "height": 512,
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/a53f91e55c6840018cb5de0b204f1ad9/idle-champions-of-the-forgotten-realms-icon-7q1rg.png",
+                            "imageType": "ProductIcon",
+                            "width": 512
+                        },
+                        "card16x9": {
+                            "altText": "Idle Champions of the Forgotten Realms Offer",
+                            "height": 1440,
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/a53f91e55c6840018cb5de0b204f1ad9/idle-champions-of-the-forgotten-realms-1w7lb.jpg",
+                            "imageType": "OfferImageWide",
+                            "width": 2560
+                        },
+                        "card3x4": {
+                            "altText": "Download Idle Champions of the Forgotten Realms Offer",
+                            "height": 1600,
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/a53f91e55c6840018cb5de0b204f1ad9/idle-champions-of-the-forgotten-realms-wepng.jpg",
+                            "imageType": "OfferImageTall",
+                            "width": 1200
+                        },
+                        "coverImage": {
+                            "altText": "-",
+                            "height": 1440,
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/a53f91e55c6840018cb5de0b204f1ad9/idle-champions-of-the-forgotten-realms-apf7m.png",
+                            "imageType": "coverImage",
+                            "width": 2560
+                        }
+                    },
+                    "purchase": [
+                        {
+                            "offerLifecycleState": "Release",
+                            "price": {
+                                "currencyCode": "EUR",
+                                "decimalPrice": 0
+                            },
+                            "purchasePayload": {
+                                "offerId": "c9f2ce27f1c44ba9ad0cf4260f9e709e",
+                                "sandboxId": "7e508f543b05465abe3a935960eb70ac"
+                            },
+                            "purchaseType": "Claim"
+                        }
+                    ],
+                    "systemSpecs": {
+                        "applicationVersion": "1.658",
+                        "platform": "android",
+                        "systemRequirements": [
+                            {
+                                "minimum": "430MB",
+                                "requirementType": "InstallSize",
+                                "title": "Installation size"
+                            },
+                            {
+                                "minimum": "197.02 MB",
+                                "requirementType": "DownloadSize",
+                                "title": "Download size"
+                            },
+                            {
+                                "minimum": "6.0",
+                                "requirementType": "OS",
+                                "title": "OS version"
+                            }
+                        ]
+                    },
+                    "title": "Idle Champions of the Forgotten Realms"
+                },
+                "offerId": "c9f2ce27f1c44ba9ad0cf4260f9e709e",
+                "sandboxId": "7e508f543b05465abe3a935960eb70ac"
             }
         ],
         "size": "large",
@@ -12839,6 +13050,37 @@
                                 "sandboxId": "d62ece62bdc54609bdf99af431044588"
                             },
                             "purchaseType": "Purchase"
+                        },
+                        {
+                            "discount": {
+                                "discountAmountDisplay": "-67%",
+                                "discountEndDate": "2026-11-18T15:59:00.000Z",
+                                "originalPriceDisplay": "€2.99"
+                            },
+                            "offerLifecycleState": "Release",
+                            "price": {
+                                "currencyCode": "EUR",
+                                "decimalPrice": 0.98
+                            },
+                            "priceDisplay": "€0.98",
+                            "purchasePayload": {
+                                "offerId": "a58fa1be6d98402898549af5e705918c",
+                                "sandboxId": "d62ece62bdc54609bdf99af431044588"
+                            },
+                            "purchaseType": "Purchase"
+                        },
+                        {
+                            "offerLifecycleState": "Release",
+                            "price": {
+                                "currencyCode": "EUR",
+                                "decimalPrice": 2.99
+                            },
+                            "priceDisplay": "€2.99",
+                            "purchasePayload": {
+                                "offerId": "a58fa1be6d98402898549af5e705918c",
+                                "sandboxId": "d62ece62bdc54609bdf99af431044588"
+                            },
+                            "purchaseType": "Purchase"
                         }
                     ],
                     "systemSpecs": {
@@ -14191,19 +14433,6 @@
                     },
                     "purchase": [
                         {
-                            "offerLifecycleState": "Release",
-                            "price": {
-                                "currencyCode": "EUR",
-                                "decimalPrice": 4.99
-                            },
-                            "priceDisplay": "€4.99",
-                            "purchasePayload": {
-                                "offerId": "609b35c3aeb94ba193c2d2e3b4d3a056",
-                                "sandboxId": "f9c8275639794b62a3ef63e0d7903a02"
-                            },
-                            "purchaseType": "Purchase"
-                        },
-                        {
                             "discount": {
                                 "discountAmountDisplay": "-50%",
                                 "discountEndDate": "2026-11-18T15:59:00.000Z",
@@ -14978,110 +15207,6 @@
                             "gate": "no-gate"
                         },
                         "ageRating": {
-                            "ageControl": 12,
-                            "contentDescriptors": [
-                                "Moderate Violence",
-                                "Mild Swearing"
-                            ],
-                            "interactiveElements": [
-                                "In-Game Purchases (Includes Random Items)"
-                            ],
-                            "ratingImage": "https://cdn1.epicgames.com/gameRating/gameRating/PEGI_12_192_192x192-afa4df43f131bc83eb380ccf22f8d904",
-                            "ratingSystem": "PEGI",
-                            "rectangularRatingImage": "https://cdn1.epicgames.com/salesEvent/salesEvent/PEGI-12_436x530-0cd1f06607086f3cc1bc2b8643f21b0a",
-                            "title": "PEGI 12"
-                        },
-                        "ratingType": "AgeRating"
-                    },
-                    "attention": {
-                        "inAppPurchases": "MaybeIncludesInAppPurchases"
-                    },
-                    "catalogItemId": "554e4c764f5f432cac68cee5f04c7750",
-                    "categories": [
-                        "games",
-                        "games/edition",
-                        "games/edition/base"
-                    ],
-                    "mapping": {
-                        "slug": "idle-champions-of-the-forgotten-realms-android-6df748"
-                    },
-                    "media": {
-                        "appIcon": {
-                            "altText": "-",
-                            "height": 512,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/a53f91e55c6840018cb5de0b204f1ad9/idle-champions-of-the-forgotten-realms-icon-7q1rg.png",
-                            "imageType": "ProductIcon",
-                            "width": 512
-                        },
-                        "card16x9": {
-                            "altText": "Idle Champions of the Forgotten Realms Offer",
-                            "height": 1440,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/a53f91e55c6840018cb5de0b204f1ad9/idle-champions-of-the-forgotten-realms-1w7lb.jpg",
-                            "imageType": "OfferImageWide",
-                            "width": 2560
-                        },
-                        "card3x4": {
-                            "altText": "Download Idle Champions of the Forgotten Realms Offer",
-                            "height": 1600,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/a53f91e55c6840018cb5de0b204f1ad9/idle-champions-of-the-forgotten-realms-wepng.jpg",
-                            "imageType": "OfferImageTall",
-                            "width": 1200
-                        },
-                        "coverImage": {
-                            "altText": "-",
-                            "height": 1440,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/a53f91e55c6840018cb5de0b204f1ad9/idle-champions-of-the-forgotten-realms-apf7m.png",
-                            "imageType": "coverImage",
-                            "width": 2560
-                        }
-                    },
-                    "purchase": [
-                        {
-                            "offerLifecycleState": "Release",
-                            "price": {
-                                "currencyCode": "EUR",
-                                "decimalPrice": 0
-                            },
-                            "purchasePayload": {
-                                "offerId": "c9f2ce27f1c44ba9ad0cf4260f9e709e",
-                                "sandboxId": "7e508f543b05465abe3a935960eb70ac"
-                            },
-                            "purchaseType": "Claim"
-                        }
-                    ],
-                    "systemSpecs": {
-                        "applicationVersion": "1.658",
-                        "platform": "android",
-                        "systemRequirements": [
-                            {
-                                "minimum": "430MB",
-                                "requirementType": "InstallSize",
-                                "title": "Installation size"
-                            },
-                            {
-                                "minimum": "197.02 MB",
-                                "requirementType": "DownloadSize",
-                                "title": "Download size"
-                            },
-                            {
-                                "minimum": "6.0",
-                                "requirementType": "OS",
-                                "title": "OS version"
-                            }
-                        ]
-                    },
-                    "title": "Idle Champions of the Forgotten Realms"
-                },
-                "offerId": "c9f2ce27f1c44ba9ad0cf4260f9e709e",
-                "sandboxId": "7e508f543b05465abe3a935960eb70ac"
-            },
-            {
-                "content": {
-                    "ageRating": {
-                        "ageGate": {
-                            "gate": "no-gate"
-                        },
-                        "ageRating": {
                             "ageControl": 7,
                             "contentDescriptors": [
                                 "Mild Violence"
@@ -15345,6 +15470,37 @@
                         }
                     },
                     "purchase": [
+                        {
+                            "offerLifecycleState": "Release",
+                            "price": {
+                                "currencyCode": "EUR",
+                                "decimalPrice": 4.99
+                            },
+                            "priceDisplay": "€4.99",
+                            "purchasePayload": {
+                                "offerId": "c4b35f34287f4f1b8b60e12e8139bcac",
+                                "sandboxId": "23d15d74b61d4852a2867704c1805c1e"
+                            },
+                            "purchaseType": "Purchase"
+                        },
+                        {
+                            "discount": {
+                                "discountAmountDisplay": "-50%",
+                                "discountEndDate": "2026-11-18T15:59:00.000Z",
+                                "originalPriceDisplay": "€4.99"
+                            },
+                            "offerLifecycleState": "Release",
+                            "price": {
+                                "currencyCode": "EUR",
+                                "decimalPrice": 2.49
+                            },
+                            "priceDisplay": "€2.49",
+                            "purchasePayload": {
+                                "offerId": "c4b35f34287f4f1b8b60e12e8139bcac",
+                                "sandboxId": "23d15d74b61d4852a2867704c1805c1e"
+                            },
+                            "purchaseType": "Purchase"
+                        },
                         {
                             "offerLifecycleState": "Release",
                             "price": {
@@ -16498,19 +16654,6 @@
                     },
                     "purchase": [
                         {
-                            "offerLifecycleState": "Release",
-                            "price": {
-                                "currencyCode": "EUR",
-                                "decimalPrice": 3.99
-                            },
-                            "priceDisplay": "€3.99",
-                            "purchasePayload": {
-                                "offerId": "0b32b9b9238b4ee19d371f051d671420",
-                                "sandboxId": "24f77395564745068e4759e77bc847cb"
-                            },
-                            "purchaseType": "Purchase"
-                        },
-                        {
                             "discount": {
                                 "discountAmountDisplay": "-75%",
                                 "discountEndDate": "2026-11-18T15:59:00.000Z",
@@ -17146,6 +17289,37 @@
                         }
                     },
                     "purchase": [
+                        {
+                            "offerLifecycleState": "Release",
+                            "price": {
+                                "currencyCode": "EUR",
+                                "decimalPrice": 2.99
+                            },
+                            "priceDisplay": "€2.99",
+                            "purchasePayload": {
+                                "offerId": "c993c271286e434c9b5398dd050e22b5",
+                                "sandboxId": "6d089f46d38b4e979746362dac9f356b"
+                            },
+                            "purchaseType": "Purchase"
+                        },
+                        {
+                            "discount": {
+                                "discountAmountDisplay": "-67%",
+                                "discountEndDate": "2026-11-18T15:59:00.000Z",
+                                "originalPriceDisplay": "€2.99"
+                            },
+                            "offerLifecycleState": "Release",
+                            "price": {
+                                "currencyCode": "EUR",
+                                "decimalPrice": 0.98
+                            },
+                            "priceDisplay": "€0.98",
+                            "purchasePayload": {
+                                "offerId": "c993c271286e434c9b5398dd050e22b5",
+                                "sandboxId": "6d089f46d38b4e979746362dac9f356b"
+                            },
+                            "purchaseType": "Purchase"
+                        },
                         {
                             "offerLifecycleState": "Release",
                             "price": {
@@ -20025,6 +20199,37 @@
                         }
                     },
                     "purchase": [
+                        {
+                            "offerLifecycleState": "Release",
+                            "price": {
+                                "currencyCode": "EUR",
+                                "decimalPrice": 7.99
+                            },
+                            "priceDisplay": "€7.99",
+                            "purchasePayload": {
+                                "offerId": "d938a57551914db286757ebdf89b95f9",
+                                "sandboxId": "4b36452d205344bcb0f60f6a466ecd58"
+                            },
+                            "purchaseType": "Purchase"
+                        },
+                        {
+                            "discount": {
+                                "discountAmountDisplay": "-75%",
+                                "discountEndDate": "2026-11-18T15:59:00.000Z",
+                                "originalPriceDisplay": "€7.99"
+                            },
+                            "offerLifecycleState": "Release",
+                            "price": {
+                                "currencyCode": "EUR",
+                                "decimalPrice": 1.99
+                            },
+                            "priceDisplay": "€1.99",
+                            "purchasePayload": {
+                                "offerId": "d938a57551914db286757ebdf89b95f9",
+                                "sandboxId": "4b36452d205344bcb0f60f6a466ecd58"
+                            },
+                            "purchaseType": "Purchase"
+                        },
                         {
                             "offerLifecycleState": "Release",
                             "price": {
