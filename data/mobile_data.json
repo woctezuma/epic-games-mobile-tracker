@@ -1,4 +1,56 @@
 {
+    "1-02d659f31e1c43a78c43fd9fd9edc089-728cf05d10c14ce688b437165862c6b2": {
+        "age_control": 3,
+        "catalog_item_id": "3e44190ce659472a94dfc7a8700d0a50",
+        "checkout_url": "<https://store.epicgames.com/purchase?offers=1-02d659f31e1c43a78c43fd9fd9edc089-728cf05d10c14ce688b437165862c6b2>",
+        "content_descriptors": [],
+        "current_price": "0",
+        "discount": "-100%",
+        "download_size": "508.51 MB",
+        "end_date": "2026-11-19T16:00:00.000Z",
+        "in_app_purchases": false,
+        "install_size": "1000 MB",
+        "interactive_elements": [],
+        "media": {
+            "OfferImageTall": "https://cdn1.epicgames.com/spt-assets/357100ca5613420e98208c5f14585e9d/knightica-1m6b7.png",
+            "OfferImageWide": "https://cdn1.epicgames.com/spt-assets/357100ca5613420e98208c5f14585e9d/knightica-tmb5y.png",
+            "ProductIcon": "https://cdn1.epicgames.com/spt-assets/357100ca5613420e98208c5f14585e9d/knightica-icon-1a18y.png",
+            "coverImage": "https://cdn1.epicgames.com/spt-assets/357100ca5613420e98208c5f14585e9d/knightica-11z9a.png"
+        },
+        "offer_id": "728cf05d10c14ce688b437165862c6b2",
+        "original_price": "4.49",
+        "platform": "android",
+        "sandbox_id": "02d659f31e1c43a78c43fd9fd9edc089",
+        "slug": "knightica-android-ad8285",
+        "store_url": "<https://store.epicgames.com/product/knightica-android-ad8285>",
+        "title": "Knightica"
+    },
+    "1-02d659f31e1c43a78c43fd9fd9edc089-e3ed1dfc5ae34fb8bbf8f9fb8d5ac376": {
+        "age_control": 3,
+        "catalog_item_id": "36fb223a78eb4c7a9038a620a906d5f9",
+        "checkout_url": "<https://store.epicgames.com/purchase?offers=1-02d659f31e1c43a78c43fd9fd9edc089-e3ed1dfc5ae34fb8bbf8f9fb8d5ac376>",
+        "content_descriptors": [],
+        "current_price": "0",
+        "discount": "-100%",
+        "download_size": "700 MB",
+        "end_date": "2026-11-19T16:00:00.000Z",
+        "in_app_purchases": false,
+        "install_size": "1000 MB",
+        "interactive_elements": [],
+        "media": {
+            "OfferImageTall": "https://cdn1.epicgames.com/spt-assets/357100ca5613420e98208c5f14585e9d/knightica-1l0ed.png",
+            "OfferImageWide": "https://cdn1.epicgames.com/spt-assets/357100ca5613420e98208c5f14585e9d/knightica-p9uzf.png",
+            "ProductIcon": "https://cdn1.epicgames.com/spt-assets/357100ca5613420e98208c5f14585e9d/knightica-icon-1a18y.png",
+            "coverImage": "https://cdn1.epicgames.com/spt-assets/357100ca5613420e98208c5f14585e9d/knightica-11z9a.png"
+        },
+        "offer_id": "e3ed1dfc5ae34fb8bbf8f9fb8d5ac376",
+        "original_price": "4.49",
+        "platform": "ios",
+        "sandbox_id": "02d659f31e1c43a78c43fd9fd9edc089",
+        "slug": "knightica-ios-b4550a",
+        "store_url": "<https://store.epicgames.com/product/knightica-ios-b4550a>",
+        "title": "Knightica"
+    },
     "1-0558e58003aa447a8ace48c3a0d53b54-1ee5dc8596734d2eb02a38b387570814": {
         "age_control": 3,
         "catalog_item_id": "6fadf4ea17e249c097b4765ad2499976",
