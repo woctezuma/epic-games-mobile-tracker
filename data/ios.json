@@ -111,6 +111,112 @@
                             "gate": "no-gate"
                         },
                         "ageRating": {
+                            "ageControl": 7,
+                            "contentDescriptors": [
+                                "Mild Violence",
+                                "Implied Violence",
+                                "Fear"
+                            ],
+                            "interactiveElements": [
+                                "In-Game Purchases"
+                            ],
+                            "ratingImage": "https://cdn1.epicgames.com/gameRating/gameRating/PEGI_7_192_192x192-30e2e712d0682dad01add90a6ccbed5b",
+                            "ratingSystem": "PEGI",
+                            "rectangularRatingImage": "https://cdn1.epicgames.com/salesEvent/salesEvent/PEGI-7_435x530-9439a136999d3dd762c7a61c3b8c7683",
+                            "title": "PEGI 7"
+                        },
+                        "ratingType": "AgeRating"
+                    },
+                    "attention": {
+                        "inAppPurchases": "None"
+                    },
+                    "catalogItemId": "bc489e5aac5844eab5985671b44079b5",
+                    "categories": [
+                        "games",
+                        "games/edition",
+                        "games/edition/base"
+                    ],
+                    "mapping": {
+                        "slug": "chants-of-sennaar-ios-6bd071"
+                    },
+                    "media": {
+                        "appIcon": {
+                            "altText": "-",
+                            "height": 512,
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/f7657876fce54ba3bc14987fbb705037/chants-of-sennaar-icon-122hy.png",
+                            "imageType": "ProductIcon",
+                            "width": 512
+                        },
+                        "card16x9": {
+                            "altText": "Chants of Sennaar Offer",
+                            "height": 1440,
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/f7657876fce54ba3bc14987fbb705037/chants-of-sennaar-ngu8p.png",
+                            "imageType": "OfferImageWide",
+                            "width": 2560
+                        },
+                        "card3x4": {
+                            "altText": "Download Chants of Sennaar Offer",
+                            "height": 1600,
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/f7657876fce54ba3bc14987fbb705037/chants-of-sennaar-18bt4.png",
+                            "imageType": "OfferImageTall",
+                            "width": 1200
+                        },
+                        "coverImage": {
+                            "altText": "-",
+                            "height": 1440,
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/f7657876fce54ba3bc14987fbb705037/chants-of-sennaar-15jjd.png",
+                            "imageType": "coverImage",
+                            "width": 2560
+                        }
+                    },
+                    "purchase": [
+                        {
+                            "offerLifecycleState": "Release",
+                            "price": {
+                                "currencyCode": "EUR",
+                                "decimalPrice": 7.19
+                            },
+                            "priceDisplay": "€7.19",
+                            "purchasePayload": {
+                                "offerId": "af9fc231ceff4301b9acd53d52f6212d",
+                                "sandboxId": "3766493c9a6d4172b7f283eec441df0a"
+                            },
+                            "purchaseType": "Purchase"
+                        }
+                    ],
+                    "systemSpecs": {
+                        "applicationVersion": "1.0.11",
+                        "platform": "ios",
+                        "systemRequirements": [
+                            {
+                                "minimum": "605 MB",
+                                "requirementType": "InstallSize",
+                                "title": "Installation size"
+                            },
+                            {
+                                "minimum": "450 MB",
+                                "requirementType": "DownloadSize",
+                                "title": "Download size"
+                            },
+                            {
+                                "minimum": "15",
+                                "requirementType": "OS",
+                                "title": "OS version"
+                            }
+                        ]
+                    },
+                    "title": "Chants of Sennaar"
+                },
+                "offerId": "af9fc231ceff4301b9acd53d52f6212d",
+                "sandboxId": "3766493c9a6d4172b7f283eec441df0a"
+            },
+            {
+                "content": {
+                    "ageRating": {
+                        "ageGate": {
+                            "gate": "no-gate"
+                        },
+                        "ageRating": {
                             "ageControl": 3,
                             "contentDescriptors": [],
                             "interactiveElements": [],
@@ -2513,19 +2619,6 @@
                     },
                     "purchase": [
                         {
-                            "offerLifecycleState": "Release",
-                            "price": {
-                                "currencyCode": "EUR",
-                                "decimalPrice": 2.69
-                            },
-                            "priceDisplay": "€2.69",
-                            "purchasePayload": {
-                                "offerId": "6b9c1ff7befb4a5cbccac089a066756a",
-                                "sandboxId": "b172c475650a4104842716a69af1b889"
-                            },
-                            "purchaseType": "Purchase"
-                        },
-                        {
                             "discount": {
                                 "discountAmountDisplay": "-30%",
                                 "discountEndDate": "2026-11-26T16:00:00.000Z",
@@ -3564,61 +3657,55 @@
                             "gate": "no-gate"
                         },
                         "ageRating": {
-                            "ageControl": 7,
-                            "contentDescriptors": [
-                                "Mild Violence",
-                                "Implied Violence",
-                                "Fear"
-                            ],
-                            "interactiveElements": [
-                                "In-Game Purchases"
-                            ],
-                            "ratingImage": "https://cdn1.epicgames.com/gameRating/gameRating/PEGI_7_192_192x192-30e2e712d0682dad01add90a6ccbed5b",
+                            "ageControl": 3,
+                            "contentDescriptors": [],
+                            "interactiveElements": [],
+                            "ratingImage": "https://cdn1.epicgames.com/gameRating/gameRating/PEGI_3_192_192x192-490b93ddf59fb4ac1148d1eb9083626a",
                             "ratingSystem": "PEGI",
-                            "rectangularRatingImage": "https://cdn1.epicgames.com/salesEvent/salesEvent/PEGI-7_435x530-9439a136999d3dd762c7a61c3b8c7683",
-                            "title": "PEGI 7"
+                            "rectangularRatingImage": "https://cdn1.epicgames.com/salesEvent/salesEvent/PEGI-3_435x530-c931ab5bb4eb190f6e8e542081c49dc4",
+                            "title": "PEGI 3"
                         },
                         "ratingType": "AgeRating"
                     },
                     "attention": {
                         "inAppPurchases": "None"
                     },
-                    "catalogItemId": "bc489e5aac5844eab5985671b44079b5",
+                    "catalogItemId": "36fb223a78eb4c7a9038a620a906d5f9",
                     "categories": [
                         "freegames",
-                        "games",
+                        "games/edition/base",
                         "games/edition",
-                        "games/edition/base"
+                        "games"
                     ],
                     "mapping": {
-                        "slug": "chants-of-sennaar-ios-6bd071"
+                        "slug": "knightica-ios-b4550a"
                     },
                     "media": {
                         "appIcon": {
                             "altText": "-",
                             "height": 512,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/f7657876fce54ba3bc14987fbb705037/chants-of-sennaar-icon-122hy.png",
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/357100ca5613420e98208c5f14585e9d/knightica-icon-1a18y.png",
                             "imageType": "ProductIcon",
                             "width": 512
                         },
                         "card16x9": {
-                            "altText": "Chants of Sennaar Offer",
+                            "altText": "Knightica Offer",
                             "height": 1440,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/f7657876fce54ba3bc14987fbb705037/chants-of-sennaar-ngu8p.png",
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/357100ca5613420e98208c5f14585e9d/knightica-p9uzf.png",
                             "imageType": "OfferImageWide",
                             "width": 2560
                         },
                         "card3x4": {
-                            "altText": "Download Chants of Sennaar Offer",
+                            "altText": "Download Knightica Offer",
                             "height": 1600,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/f7657876fce54ba3bc14987fbb705037/chants-of-sennaar-18bt4.png",
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/357100ca5613420e98208c5f14585e9d/knightica-1l0ed.png",
                             "imageType": "OfferImageTall",
                             "width": 1200
                         },
                         "coverImage": {
                             "altText": "-",
                             "height": 1440,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/f7657876fce54ba3bc14987fbb705037/chants-of-sennaar-15jjd.png",
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/357100ca5613420e98208c5f14585e9d/knightica-11z9a.png",
                             "imageType": "coverImage",
                             "width": 2560
                         }
@@ -3627,8 +3714,8 @@
                         {
                             "discount": {
                                 "discountAmountDisplay": "-100%",
-                                "discountEndDate": "2026-11-12T16:00:00.000Z",
-                                "originalPriceDisplay": "€7.19"
+                                "discountEndDate": "2026-11-19T16:00:00.000Z",
+                                "originalPriceDisplay": "€4.49"
                             },
                             "offerLifecycleState": "Release",
                             "price": {
@@ -3636,8 +3723,8 @@
                                 "decimalPrice": 0
                             },
                             "purchasePayload": {
-                                "offerId": "af9fc231ceff4301b9acd53d52f6212d",
-                                "sandboxId": "3766493c9a6d4172b7f283eec441df0a"
+                                "offerId": "e3ed1dfc5ae34fb8bbf8f9fb8d5ac376",
+                                "sandboxId": "02d659f31e1c43a78c43fd9fd9edc089"
                             },
                             "purchaseType": "Claim"
                         },
@@ -3645,146 +3732,41 @@
                             "offerLifecycleState": "Release",
                             "price": {
                                 "currencyCode": "EUR",
-                                "decimalPrice": 7.19
+                                "decimalPrice": 4.49
                             },
-                            "priceDisplay": "€7.19",
+                            "priceDisplay": "€4.49",
                             "purchasePayload": {
-                                "offerId": "af9fc231ceff4301b9acd53d52f6212d",
-                                "sandboxId": "3766493c9a6d4172b7f283eec441df0a"
+                                "offerId": "e3ed1dfc5ae34fb8bbf8f9fb8d5ac376",
+                                "sandboxId": "02d659f31e1c43a78c43fd9fd9edc089"
                             },
                             "purchaseType": "Purchase"
                         }
                     ],
                     "systemSpecs": {
-                        "applicationVersion": "1.0.11",
+                        "applicationVersion": "0.9.0",
                         "platform": "ios",
                         "systemRequirements": [
                             {
-                                "minimum": "605 MB",
+                                "minimum": "1000 MB",
                                 "requirementType": "InstallSize",
                                 "title": "Installation size"
                             },
                             {
-                                "minimum": "450 MB",
+                                "minimum": "700 MB",
                                 "requirementType": "DownloadSize",
                                 "title": "Download size"
                             },
                             {
-                                "minimum": "15",
+                                "minimum": "17.0",
                                 "requirementType": "OS",
                                 "title": "OS version"
                             }
                         ]
                     },
-                    "title": "Chants of Sennaar"
+                    "title": "Knightica"
                 },
-                "offerId": "af9fc231ceff4301b9acd53d52f6212d",
-                "sandboxId": "3766493c9a6d4172b7f283eec441df0a"
-            },
-            {
-                "content": {
-                    "ageRating": {
-                        "ageGate": {
-                            "gate": "no-gate"
-                        },
-                        "ageRating": {
-                            "ageControl": 12,
-                            "contentDescriptors": [
-                                "Moderate Violence",
-                                "Mild Swearing"
-                            ],
-                            "interactiveElements": [
-                                "In-Game Purchases (Includes Random Items)"
-                            ],
-                            "ratingImage": "https://cdn1.epicgames.com/gameRating/gameRating/PEGI_12_192_192x192-afa4df43f131bc83eb380ccf22f8d904",
-                            "ratingSystem": "PEGI",
-                            "rectangularRatingImage": "https://cdn1.epicgames.com/salesEvent/salesEvent/PEGI-12_436x530-0cd1f06607086f3cc1bc2b8643f21b0a",
-                            "title": "PEGI 12"
-                        },
-                        "ratingType": "AgeRating"
-                    },
-                    "attention": {
-                        "inAppPurchases": "MaybeIncludesInAppPurchases"
-                    },
-                    "catalogItemId": "268753f532bc426fbdce80fc13a5d6e1",
-                    "categories": [
-                        "freegames",
-                        "games",
-                        "games/edition",
-                        "games/edition/base"
-                    ],
-                    "mapping": {
-                        "slug": "idle-champions-of-the-forgotten-realms-ios-77e761"
-                    },
-                    "media": {
-                        "appIcon": {
-                            "altText": "-",
-                            "height": 512,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/a53f91e55c6840018cb5de0b204f1ad9/idle-champions-of-the-forgotten-realms-icon-7q1rg.png",
-                            "imageType": "ProductIcon",
-                            "width": 512
-                        },
-                        "card16x9": {
-                            "altText": "Idle Champions of the Forgotten Realms Offer",
-                            "height": 1440,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/a53f91e55c6840018cb5de0b204f1ad9/idle-champions-of-the-forgotten-realms-qsdd5.jpg",
-                            "imageType": "OfferImageWide",
-                            "width": 2560
-                        },
-                        "card3x4": {
-                            "altText": "Download Idle Champions of the Forgotten Realms Offer",
-                            "height": 1600,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/a53f91e55c6840018cb5de0b204f1ad9/idle-champions-of-the-forgotten-realms-efer1.jpg",
-                            "imageType": "OfferImageTall",
-                            "width": 1200
-                        },
-                        "coverImage": {
-                            "altText": "-",
-                            "height": 1440,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/a53f91e55c6840018cb5de0b204f1ad9/idle-champions-of-the-forgotten-realms-apf7m.png",
-                            "imageType": "coverImage",
-                            "width": 2560
-                        }
-                    },
-                    "purchase": [
-                        {
-                            "offerLifecycleState": "Release",
-                            "price": {
-                                "currencyCode": "EUR",
-                                "decimalPrice": 0
-                            },
-                            "purchasePayload": {
-                                "offerId": "dd07843b88f64ee898a4ea415c6dcb17",
-                                "sandboxId": "7e508f543b05465abe3a935960eb70ac"
-                            },
-                            "purchaseType": "Claim"
-                        }
-                    ],
-                    "systemSpecs": {
-                        "applicationVersion": "1.598",
-                        "platform": "ios",
-                        "systemRequirements": [
-                            {
-                                "minimum": "430MB",
-                                "requirementType": "InstallSize",
-                                "title": "Installation size"
-                            },
-                            {
-                                "minimum": "160MB",
-                                "requirementType": "DownloadSize",
-                                "title": "Download size"
-                            },
-                            {
-                                "minimum": "iOS 12.0",
-                                "requirementType": "OS",
-                                "title": "OS version"
-                            }
-                        ]
-                    },
-                    "title": "Idle Champions of the Forgotten Realms"
-                },
-                "offerId": "dd07843b88f64ee898a4ea415c6dcb17",
-                "sandboxId": "7e508f543b05465abe3a935960eb70ac"
+                "offerId": "e3ed1dfc5ae34fb8bbf8f9fb8d5ac376",
+                "sandboxId": "02d659f31e1c43a78c43fd9fd9edc089"
             }
         ],
         "size": "large",
@@ -4535,56 +4517,59 @@
                             "gate": "no-gate"
                         },
                         "ageRating": {
-                            "ageControl": 3,
-                            "contentDescriptors": [],
-                            "interactiveElements": [
-                                "In-Game Purchases"
+                            "ageControl": 12,
+                            "contentDescriptors": [
+                                "Moderate Violence",
+                                "Mild Swearing"
                             ],
-                            "ratingImage": "https://cdn1.epicgames.com/gameRating/gameRating/PEGI_3_192_192x192-490b93ddf59fb4ac1148d1eb9083626a",
+                            "interactiveElements": [
+                                "In-Game Purchases (Includes Random Items)"
+                            ],
+                            "ratingImage": "https://cdn1.epicgames.com/gameRating/gameRating/PEGI_12_192_192x192-afa4df43f131bc83eb380ccf22f8d904",
                             "ratingSystem": "PEGI",
-                            "rectangularRatingImage": "https://cdn1.epicgames.com/salesEvent/salesEvent/PEGI-3_435x530-c931ab5bb4eb190f6e8e542081c49dc4",
-                            "title": "PEGI 3"
+                            "rectangularRatingImage": "https://cdn1.epicgames.com/salesEvent/salesEvent/PEGI-12_436x530-0cd1f06607086f3cc1bc2b8643f21b0a",
+                            "title": "PEGI 12"
                         },
                         "ratingType": "AgeRating"
                     },
                     "attention": {
                         "inAppPurchases": "MaybeIncludesInAppPurchases"
                     },
-                    "catalogItemId": "c80cfaee3aca48b699b3321d488ef1b9",
+                    "catalogItemId": "268753f532bc426fbdce80fc13a5d6e1",
                     "categories": [
-                        "games/edition/base",
+                        "games",
                         "games/edition",
-                        "games"
+                        "games/edition/base"
                     ],
                     "mapping": {
-                        "slug": "dino-with-a-gun-android-ios-583bdb"
+                        "slug": "idle-champions-of-the-forgotten-realms-ios-77e761"
                     },
                     "media": {
                         "appIcon": {
                             "altText": "-",
                             "height": 512,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/9daab0e0f3d34d0c8c02fbea546b9ec6/dino-with-a-gun-icon-1logj.png",
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/a53f91e55c6840018cb5de0b204f1ad9/idle-champions-of-the-forgotten-realms-icon-7q1rg.png",
                             "imageType": "ProductIcon",
                             "width": 512
                         },
                         "card16x9": {
-                            "altText": "Dino with a Gun Offer",
+                            "altText": "Idle Champions of the Forgotten Realms Offer",
                             "height": 1440,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/9daab0e0f3d34d0c8c02fbea546b9ec6/dino-with-a-gun-197hh.png",
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/a53f91e55c6840018cb5de0b204f1ad9/idle-champions-of-the-forgotten-realms-1hiyb.png",
                             "imageType": "OfferImageWide",
                             "width": 2560
                         },
                         "card3x4": {
-                            "altText": "Download Dino with a Gun Offer",
+                            "altText": "Download Idle Champions of the Forgotten Realms Offer",
                             "height": 1600,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/9daab0e0f3d34d0c8c02fbea546b9ec6/dino-with-a-gun-22a21.png",
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/a53f91e55c6840018cb5de0b204f1ad9/idle-champions-of-the-forgotten-realms-mxf29.png",
                             "imageType": "OfferImageTall",
                             "width": 1200
                         },
                         "coverImage": {
                             "altText": "-",
                             "height": 1440,
-                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/9daab0e0f3d34d0c8c02fbea546b9ec6/dino-with-a-gun-fatag.png",
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/a53f91e55c6840018cb5de0b204f1ad9/idle-champions-of-the-forgotten-realms-apf7m.png",
                             "imageType": "coverImage",
                             "width": 2560
                         }
@@ -4597,37 +4582,37 @@
                                 "decimalPrice": 0
                             },
                             "purchasePayload": {
-                                "offerId": "c1659169674e4559bd3c7271d55e29dd",
-                                "sandboxId": "7ed4f328577f43c0b6f7154cff6974c9"
+                                "offerId": "dd07843b88f64ee898a4ea415c6dcb17",
+                                "sandboxId": "7e508f543b05465abe3a935960eb70ac"
                             },
                             "purchaseType": "Claim"
                         }
                     ],
                     "systemSpecs": {
-                        "applicationVersion": "1.3.0",
+                        "applicationVersion": "1.598",
                         "platform": "ios",
                         "systemRequirements": [
                             {
-                                "minimum": "~650mb",
+                                "minimum": "430MB",
                                 "requirementType": "InstallSize",
                                 "title": "Installation size"
                             },
                             {
-                                "minimum": "~650mb",
+                                "minimum": "160MB",
                                 "requirementType": "DownloadSize",
                                 "title": "Download size"
                             },
                             {
-                                "minimum": "iOS 13",
+                                "minimum": "iOS 12.0",
                                 "requirementType": "OS",
                                 "title": "OS version"
                             }
                         ]
                     },
-                    "title": "Dino with a Gun"
+                    "title": "Idle Champions of the Forgotten Realms"
                 },
-                "offerId": "c1659169674e4559bd3c7271d55e29dd",
-                "sandboxId": "7ed4f328577f43c0b6f7154cff6974c9"
+                "offerId": "dd07843b88f64ee898a4ea415c6dcb17",
+                "sandboxId": "7e508f543b05465abe3a935960eb70ac"
             }
         ],
         "size": "small",
@@ -5492,6 +5477,107 @@
             "src": "/"
         },
         "offers": [
+            {
+                "content": {
+                    "ageRating": {
+                        "ageGate": {
+                            "gate": "no-gate"
+                        },
+                        "ageRating": {
+                            "ageControl": 3,
+                            "contentDescriptors": [],
+                            "interactiveElements": [
+                                "In-Game Purchases"
+                            ],
+                            "ratingImage": "https://cdn1.epicgames.com/gameRating/gameRating/PEGI_3_192_192x192-490b93ddf59fb4ac1148d1eb9083626a",
+                            "ratingSystem": "PEGI",
+                            "rectangularRatingImage": "https://cdn1.epicgames.com/salesEvent/salesEvent/PEGI-3_435x530-c931ab5bb4eb190f6e8e542081c49dc4",
+                            "title": "PEGI 3"
+                        },
+                        "ratingType": "AgeRating"
+                    },
+                    "attention": {
+                        "inAppPurchases": "MaybeIncludesInAppPurchases"
+                    },
+                    "catalogItemId": "c80cfaee3aca48b699b3321d488ef1b9",
+                    "categories": [
+                        "games/edition/base",
+                        "games/edition",
+                        "games"
+                    ],
+                    "mapping": {
+                        "slug": "dino-with-a-gun-android-ios-583bdb"
+                    },
+                    "media": {
+                        "appIcon": {
+                            "altText": "-",
+                            "height": 512,
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/9daab0e0f3d34d0c8c02fbea546b9ec6/dino-with-a-gun-icon-1logj.png",
+                            "imageType": "ProductIcon",
+                            "width": 512
+                        },
+                        "card16x9": {
+                            "altText": "Dino with a Gun Offer",
+                            "height": 1440,
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/9daab0e0f3d34d0c8c02fbea546b9ec6/dino-with-a-gun-197hh.png",
+                            "imageType": "OfferImageWide",
+                            "width": 2560
+                        },
+                        "card3x4": {
+                            "altText": "Download Dino with a Gun Offer",
+                            "height": 1600,
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/9daab0e0f3d34d0c8c02fbea546b9ec6/dino-with-a-gun-22a21.png",
+                            "imageType": "OfferImageTall",
+                            "width": 1200
+                        },
+                        "coverImage": {
+                            "altText": "-",
+                            "height": 1440,
+                            "imageSrc": "https://cdn1.epicgames.com/spt-assets/9daab0e0f3d34d0c8c02fbea546b9ec6/dino-with-a-gun-fatag.png",
+                            "imageType": "coverImage",
+                            "width": 2560
+                        }
+                    },
+                    "purchase": [
+                        {
+                            "offerLifecycleState": "Release",
+                            "price": {
+                                "currencyCode": "EUR",
+                                "decimalPrice": 0
+                            },
+                            "purchasePayload": {
+                                "offerId": "c1659169674e4559bd3c7271d55e29dd",
+                                "sandboxId": "7ed4f328577f43c0b6f7154cff6974c9"
+                            },
+                            "purchaseType": "Claim"
+                        }
+                    ],
+                    "systemSpecs": {
+                        "applicationVersion": "1.3.0",
+                        "platform": "ios",
+                        "systemRequirements": [
+                            {
+                                "minimum": "~650mb",
+                                "requirementType": "InstallSize",
+                                "title": "Installation size"
+                            },
+                            {
+                                "minimum": "~650mb",
+                                "requirementType": "DownloadSize",
+                                "title": "Download size"
+                            },
+                            {
+                                "minimum": "iOS 13",
+                                "requirementType": "OS",
+                                "title": "OS version"
+                            }
+                        ]
+                    },
+                    "title": "Dino with a Gun"
+                },
+                "offerId": "c1659169674e4559bd3c7271d55e29dd",
+                "sandboxId": "7ed4f328577f43c0b6f7154cff6974c9"
+            },
             {
                 "content": {
                     "ageRating": {
@@ -6397,19 +6483,6 @@
                         }
                     },
                     "purchase": [
-                        {
-                            "offerLifecycleState": "Release",
-                            "price": {
-                                "currencyCode": "EUR",
-                                "decimalPrice": 3.59
-                            },
-                            "priceDisplay": "€3.59",
-                            "purchasePayload": {
-                                "offerId": "cb677536e6fa4dedbad3f7b7d2dc9217",
-                                "sandboxId": "fc82ffa501c44f2eb2b64225cfbd59b8"
-                            },
-                            "purchaseType": "Purchase"
-                        },
                         {
                             "discount": {
                                 "discountAmountDisplay": "-50%",
