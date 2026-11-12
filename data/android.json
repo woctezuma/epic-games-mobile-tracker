@@ -3288,23 +3288,20 @@
                             "width": 512
                         },
                         "card16x9": {
-                            "altText": "",
                             "height": 1440,
-                            "imageSrc": "https://cdn2.unrealengine.com/fnsp-41-30-anvilalarm-logo-egs-launcher-blade-2560x1440-2560x1440-573f3c56ba8e.jpg",
+                            "imageSrc": "https://cdn1.epicgames.com/offer/fn/FNSP_43-10_CactusBait_Logo_EGS_Launcher_Blade_2560x1440_2560x1440-345314e95e0b4c8aaab095646f81676b",
                             "imageType": "OfferImageWide",
                             "width": 2560
                         },
                         "card3x4": {
-                            "altText": "",
                             "height": 1600,
-                            "imageSrc": "https://cdn2.unrealengine.com/fnsp-41-30-anvilalarm-egs-launcher-blade-1200x1600-1200x1600-5b8fc98b7edc.jpg",
+                            "imageSrc": "https://cdn1.epicgames.com/offer/fn/FNSP_43-10_CactusBait_EGS_Launcher_Blade_1200x1600_1200x1600-0ecd8de397cc4788961f9abad5a51c85",
                             "imageType": "OfferImageTall",
                             "width": 1200
                         },
                         "coverImage": {
-                            "altText": "",
                             "height": 1440,
-                            "imageSrc": "https://cdn2.unrealengine.com/fnsp-41-30-anvilalarm-logo-egs-launcher-blade-2560x1440-2560x1440-573f3c56ba8e.jpg",
+                            "imageSrc": "https://cdn1.epicgames.com/offer/fn/FNSP_43-10_CactusBait_Logo_EGS_Launcher_Blade_2560x1440_2560x1440-345314e95e0b4c8aaab095646f81676b",
                             "imageType": "OfferImageWide",
                             "width": 2560
                         }
