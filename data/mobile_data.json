@@ -4145,6 +4145,58 @@
         "store_url": "<https://store.epicgames.com/product/monument-valley-2-android-b21888>",
         "title": "Monument Valley 2"
     },
+    "1-f0f423b22ddd4b7eb6478868e96a7c4e-06efd0ae3b86484d81df987811639e07": {
+        "age_control": 3,
+        "catalog_item_id": "c78673905ca84621b8cccab273659ac7",
+        "checkout_url": "<https://store.epicgames.com/purchase?offers=1-f0f423b22ddd4b7eb6478868e96a7c4e-06efd0ae3b86484d81df987811639e07>",
+        "content_descriptors": [],
+        "current_price": "0",
+        "discount": "-100%",
+        "download_size": "209.72 MB",
+        "end_date": "2026-12-03T16:00:00.000Z",
+        "in_app_purchases": false,
+        "install_size": "700 MB",
+        "interactive_elements": [],
+        "media": {
+            "OfferImageTall": "https://cdn1.epicgames.com/spt-assets/c6c836321fcc42629df46f057b796cc7/a-tiny-sticker-tale-snyhu.png",
+            "OfferImageWide": "https://cdn1.epicgames.com/spt-assets/c6c836321fcc42629df46f057b796cc7/a-tiny-sticker-tale-zljer.png",
+            "ProductIcon": "https://cdn1.epicgames.com/spt-assets/c6c836321fcc42629df46f057b796cc7/a-tiny-sticker-tale-icon-1g4nu.png",
+            "coverImage": "https://cdn1.epicgames.com/spt-assets/c6c836321fcc42629df46f057b796cc7/a-tiny-sticker-tale-c99uy.png"
+        },
+        "offer_id": "06efd0ae3b86484d81df987811639e07",
+        "original_price": "3.59",
+        "platform": "android",
+        "sandbox_id": "f0f423b22ddd4b7eb6478868e96a7c4e",
+        "slug": "a-tiny-sticker-tale-android-7c58b7",
+        "store_url": "<https://store.epicgames.com/product/a-tiny-sticker-tale-android-7c58b7>",
+        "title": "A Tiny Sticker Tale"
+    },
+    "1-f0f423b22ddd4b7eb6478868e96a7c4e-b40540ecc9994f9296abe4850f6340b3": {
+        "age_control": 3,
+        "catalog_item_id": "a0a2f618915d4e58b0681383cdc0937a",
+        "checkout_url": "<https://store.epicgames.com/purchase?offers=1-f0f423b22ddd4b7eb6478868e96a7c4e-b40540ecc9994f9296abe4850f6340b3>",
+        "content_descriptors": [],
+        "current_price": "0",
+        "discount": "-100%",
+        "download_size": "209.73 MB",
+        "end_date": "2026-12-03T16:00:00.000Z",
+        "in_app_purchases": false,
+        "install_size": "700 MB",
+        "interactive_elements": [],
+        "media": {
+            "OfferImageTall": "https://cdn1.epicgames.com/spt-assets/c6c836321fcc42629df46f057b796cc7/a-tiny-sticker-tale-15iep.png",
+            "OfferImageWide": "https://cdn1.epicgames.com/spt-assets/c6c836321fcc42629df46f057b796cc7/a-tiny-sticker-tale-3sj3x.png",
+            "ProductIcon": "https://cdn1.epicgames.com/spt-assets/c6c836321fcc42629df46f057b796cc7/a-tiny-sticker-tale-icon-1g4nu.png",
+            "coverImage": "https://cdn1.epicgames.com/spt-assets/c6c836321fcc42629df46f057b796cc7/a-tiny-sticker-tale-c99uy.png"
+        },
+        "offer_id": "b40540ecc9994f9296abe4850f6340b3",
+        "original_price": "3.59",
+        "platform": "ios",
+        "sandbox_id": "f0f423b22ddd4b7eb6478868e96a7c4e",
+        "slug": "a-tiny-sticker-tale-ios-3aad92",
+        "store_url": "<https://store.epicgames.com/product/a-tiny-sticker-tale-ios-3aad92>",
+        "title": "A Tiny Sticker Tale"
+    },
     "1-f20a4eda0f2d486ea73cab8af1224e31-bc7d594727444416b983f3747b2a8bdb": {
         "age_control": 16,
         "catalog_item_id": "3eb59f06073447978f5f390304d2a47a",
