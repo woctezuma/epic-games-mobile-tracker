@@ -1,0 +1,64 @@
+{
+    "title": "Example Game",
+    "catalogItemId": "catalog-item-123",
+    "mapping": {
+        "slug": "example-game"
+    },
+    "categories": [
+        "freegames"
+    ],
+    "purchase": [
+        {
+            "purchaseType": "Claim",
+            "discount": {
+                "originalPriceDisplay": "€19.99",
+                "discountAmountDisplay": "€19.99",
+                "discountEndDate": "2025-06-12T17:00:00.000Z"
+            },
+            "price": {
+                "decimalPrice": "0.00"
+            },
+            "purchasePayload": {
+                "sandboxId": "sandbox-123",
+                "offerId": "offer-123"
+            }
+        }
+    ],
+    "systemSpecs": {
+        "platform": "Android",
+        "systemRequirements": [
+            {
+                "requirementType": "DownloadSize",
+                "minimum": "1.5 GB"
+            },
+            {
+                "requirementType": "InstallSize",
+                "minimum": "3 GB"
+            }
+        ]
+    },
+    "ageRating": {
+        "ageRating": {
+            "ageControl": "AGE_CONTROL_NONE",
+            "contentDescriptors": [
+                "Violence"
+            ],
+            "interactiveElements": [
+                "In-Game Purchases"
+            ]
+        }
+    },
+    "attention": {
+        "inAppPurchases": "None"
+    },
+    "media": {
+        "offerImage": {
+            "imageType": "OfferImageWide",
+            "imageSrc": "https://example.com/wide.jpg"
+        },
+        "logo": {
+            "imageType": "DieselGameBoxLogo",
+            "imageSrc": "https://example.com/logo.png"
+        }
+    }
+}

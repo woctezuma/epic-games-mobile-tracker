@@ -19,16 +19,16 @@ def is_key_relevant(key: str) -> bool:
     return not FIELDS_OF_INTEREST or key in FIELDS_OF_INTEREST
 
 
-def is_value_relevant(value: str) -> bool:
+def is_value_relevant(value: str | None) -> bool:
     return value is not None
 
 
 def get_message_for_discord(
     element: dict,
-    urls: set | None = None,
+    urls: set[str] | None = None,
     *,
     verbose: bool = True,
-) -> str:
+) -> tuple[str, set[str]]:
     if urls is None:
         urls = set()
 
@@ -64,7 +64,7 @@ def get_message_for_discord(
 
 
 def run_workflow(formatted_data: dict) -> None:
-    urls = set()
+    urls: set[str] = set()
 
     for e in formatted_data.values():
         message, urls = get_message_for_discord(e, urls)
