@@ -6,7 +6,7 @@ DISCORD_API_URL = "https://discord.com/api/webhooks/"
 TIMEOUT_IN_SECONDS = 5
 
 
-def get_webhook_id(webhook_keyword: str = "id") -> str:
+def get_webhook_id(webhook_keyword: str = "id") -> str | None:
     webhook = load_discord_webhook()
     return webhook.get(webhook_keyword)
 

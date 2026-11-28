@@ -13,12 +13,12 @@ def get_save_name(platform: str) -> str:
     return f"{DATA_FOLDER}/{platform}.json"
 
 
-def save_data_to_disk(data: list | dict, fname: str) -> None:
+def save_data_to_disk(data: list | dict, fname: str | Path) -> None:
     with Path(fname).open("w", encoding="utf-8") as file:
         json.dump(data, file, indent=4, sort_keys=True, ensure_ascii=False)
 
 
-def load_data_from_disk(fname: str) -> list:
+def load_data_from_disk(fname: str | Path) -> list:
     with Path(fname).open("r", encoding="utf-8") as file:
         return json.load(file)
 

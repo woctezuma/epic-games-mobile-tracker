@@ -1,0 +1,10 @@
+[tool.mypy]
+python_version = "3.13"
+explicit_package_bases = true
+
+[[tool.mypy.overrides]]
+module = "cloudscraper"
+ignore_missing_imports = true
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]

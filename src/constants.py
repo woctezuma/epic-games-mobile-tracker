@@ -1,3 +1,5 @@
+import os
+
 HOST = "https://egs-platform-service.store.epicgames.com"
 ENDPOINT = "/api/v2/public/discover/home"
 BASE_URL = f"{HOST}{ENDPOINT}"
@@ -9,7 +11,9 @@ START_INDEX = 0
 QUANTITY = 1
 TARGET_CATEGORY = "freegames"
 SEPARATOR = ", "
-CURRENCY_SYMBOL = "€"
+DEFAULT_COUNTRY = "FR"
+DEFAULT_CURRENCY_SYMBOL = "€"
+CURRENCY_SYMBOL = os.getenv("CURRENCY_SYMBOL", DEFAULT_CURRENCY_SYMBOL)
 
 LINEBREAK = "\n-"
 DISCORD_ANDROID_HEADER = "🤖👀"

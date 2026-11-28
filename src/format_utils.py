@@ -41,10 +41,11 @@ def format_content(content: dict) -> dict:
     purchase = purchases[0]
 
     if len(purchases) > 1:
-        msg = f"Expected exactly one purchase of type 'Claim', found {len(purchases)}"
-        raise ValueError(
-            msg,
+        print(
+            f"- Skipping {slug}: expected exactly one purchase of type 'Claim', "
+            f"found {len(purchases)}",
         )
+        return {}
 
     system_specs = content.get("systemSpecs", {})
     system_requirements = system_specs.get("systemRequirements", [])
